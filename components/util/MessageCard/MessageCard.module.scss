@@ -1,0 +1,121 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  &__details {
+    margin: 15px;
+    &_text {
+      margin-bottom: 30px;
+      color: $font-color;
+      font-family: Inter;
+      font-size: 16px;
+      font-style: normal;
+      line-height: normal;
+      word-break: break-all;
+    }
+  }
+  &__message {
+    display: flex;
+    justify-content: flex-start;
+    gap: 50px;
+    cursor: pointer;
+    padding: 20px 50px 20px 25px;
+    border-radius: 5px;
+    border-left: 2px solid #309c54;
+    background: #fff;
+    box-shadow: 0px 4px 6px 0px rgba(85, 85, 85, 0.08);
+    & > div {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+    }
+    &_title {
+      color: $font-color;
+      font-family: Inter;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+      max-width: 366px;
+      width: 100%;
+      word-break: break-all;
+    }
+    &_lastCreated {
+      color: $font-color;
+      font-family: Inter;
+      font-size: 15px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+    }
+    &_showMore {
+      display: flex;
+      align-items: center;
+      gap: 3px;
+      & > span {
+        color: $font-color;
+        font-family: Inter;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 115.023%; /* 18.404px */
+      }
+    }
+    & > svg {
+      margin-left: auto;
+      transition: all 0.3s ease;
+    }
+  }
+}
+
+@media screen and (max-width: 780px) {
+  .card {
+    &__details {
+      &_text {
+        color: $font-color;
+        font-family: Inter;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        & b {
+          color: $font-color;
+          font-family: Inter;
+          font-size: 15px;
+          font-style: normal;
+          font-weight: 600;
+          line-height: normal;
+        }
+        & div {
+          color: $font-color;
+          font-family: Inter;
+          font-size: 15px;
+          font-style: normal;
+          font-weight: 400;
+          line-height: normal;
+          margin-bottom: 10px;
+        }
+      }
+    }
+    &__message {
+      padding: 10px 17px;
+      & > div {
+        width: fit-content;
+        margin-left: auto;
+      }
+      &_title {
+        color: $font-color;
+        font-family: Inter;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        max-width: 231px;
+        width: 100%;
+        word-break: break-all;
+      }
+      &_lastCreated {
+        display: none;
+      }
+    }
+  }
+}

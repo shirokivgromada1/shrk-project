@@ -1,0 +1,151 @@
+.table {
+  &__userID {
+    text-decoration: underline;
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}
+
+.status {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  border-radius: 45px;
+  height: 27px;
+  position: relative;
+  width: fit-content;
+  & span {
+    padding-left: 34px;
+  }
+  & svg {
+    &:first-child {
+      position: absolute;
+      top: 50%;
+      left: 25.5px;
+      content: "";
+      transform: translate(0, -50%);
+    }
+    flex-shrink: 0;
+    &:last-child {
+      position: absolute;
+      top: 50%;
+      right: 15px;
+      content: "";
+      transform: translate(0, -50%);
+    }
+  }
+  &__completed {
+    background: rgba(16, 163, 92, 0.2);
+    color: #309c54;
+    & > svg {
+      & > circle {
+        fill: #309c54;
+      }
+    }
+  }
+  &__progress {
+    background: rgba(255, 122, 0, 0.2);
+    color: #ff7a00;
+    & > svg {
+      & > circle {
+        fill: #ff7a00;
+      }
+    }
+  }
+  &__rejected {
+    background: rgba(163, 16, 16, 0.2);
+    color: #f33a3a;
+    & > svg {
+      & > circle {
+        fill: #f33a3a;
+      }
+    }
+  }
+}
+
+.chat {
+  &__read {
+    & td {
+      &:not(:nth-child(3)) {
+        opacity: 0.5;
+      }
+    }
+  }
+}
+
+.tooltip {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+
+  & > div {
+    display: flex;
+    flex-direction: column;
+    gap: 11px;
+  }
+  & span {
+    color: rgba(0, 0, 0, 0.26);
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  & h5 {
+    width: max-content;
+    color: $font-color;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+}
+
+.select {
+  & > div {
+    border: none;
+  }
+  & > select {
+    background-color: transparent;
+    border: none;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    & > option {
+      color: $font-color;
+      font-family: Inter;
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      padding-bottom: 11px;
+      &:first-child {
+        border-bottom: 1px solid rgba(48, 156, 84, 0.25);
+      }
+    }
+  }
+  &__completed {
+    & > select {
+      color: #309c54;
+    }
+  }
+  &__progress {
+    & > select {
+      color: #ff7a00;
+    }
+  }
+  &__rejected {
+    & > select {
+      color: #f33a3a;
+    }
+  }
+}

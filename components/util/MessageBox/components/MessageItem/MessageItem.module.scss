@@ -1,0 +1,132 @@
+.messageBox {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  height: 378px;
+  &__message {
+    display: flex;
+    align-items: flex-end;
+    gap: 15px;
+    &:first-child {
+      padding-top: 20px;
+    }
+    &:last-child {
+      padding-bottom: 20px;
+    }
+    &_text {
+      box-shadow: 0px 4px 6px 0px rgba(155, 155, 155, 0.08);
+      border-radius: 15px;
+      background: #fff;
+      padding: 15px 15px 23px 15px;
+      position: relative;
+      min-width: 150px;
+      word-wrap: anywhere;
+      &_time {
+        position: absolute;
+        right: 15px;
+        bottom: 7px;
+        color: #6b7b60;
+        font-family: Inter;
+        font-size: 13px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        user-select: none;
+      }
+    }
+    &_user {
+      max-width: 630px;
+      margin-left: auto;
+      & > div {
+        &:first-child {
+          order: 2;
+        }
+        &:nth-child(2) {
+          order: 1;
+        }
+      }
+    }
+    &_admin {
+      max-width: 540px;
+      & > div {
+        &:nth-child(2) {
+          background-color: #dcf8c7;
+        }
+      }
+    }
+    & > div {
+      color: $font-color;
+      font-family: Inter;
+      font-size: 15px;
+      font-style: normal;
+      line-height: normal;
+      &:first-child {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 50px;
+        height: 50px;
+        background-color: #d9d6dd;
+        border-radius: 50%;
+        color: #7e758a;
+        flex-shrink: 0;
+      }
+    }
+  }
+}
+
+.files {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-block: 16px;
+  &__item {
+    display: flex;
+    max-width: max-content;
+    gap: 10px;
+    padding: 12px 10px;
+    border-radius: 5px;
+    background-color: rgba(48, 156, 84, 0.5);
+    justify-content: space-between;
+
+    &_info {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      & > span {
+        color: $font-color;
+        font-family: Inter;
+        font-size: 13px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        width: max-content;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 940px) {
+  .messageBox {
+    &__message {
+      & > div {
+        &:first-child {
+          display: none;
+        }
+      }
+      &_user {
+        max-width: 630px;
+        margin: 0;
+        margin-right: auto;
+        & > div {
+          &:first-child {
+            order: 1;
+          }
+          :last-child {
+            order: 2;
+          }
+        }
+      }
+    }
+  }
+}

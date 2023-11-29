@@ -1,0 +1,229 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  &__details {
+    margin: 15px;
+    &_groups {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      &_items {
+        display: flex;
+        gap: 20px;
+        flex-wrap: wrap;
+        &_item {
+          padding: 9px 20px;
+          border-radius: 7px;
+          border: 1px solid $primary-color;
+          min-width: 210px;
+          max-width: fit-content;
+          text-align: center;
+        }
+      }
+      & h1 {
+        color: $font-color;
+        font-family: Inter;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+      }
+    }
+    &_files {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      &_items {
+        display: flex;
+        gap: 20px;
+        flex-wrap: wrap;
+        &_item {
+          display: flex;
+          align-items: center;
+          border-radius: 5px;
+          background: rgba(48, 156, 84, 0.5);
+          padding: 0px 10px;
+          height: 40px;
+          & > a {
+            display: flex;
+            gap: 8px;
+          }
+          & span {
+            color: $font-color;
+            font-family: Inter;
+            font-size: 13px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+          }
+        }
+      }
+      & > h1 {
+        color: $font-color;
+        font-family: Inter;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+      }
+    }
+    &_wrapper {
+      display: flex;
+      flex-direction: column;
+      gap: 30px;
+    }
+    &_text {
+      margin-bottom: 30px;
+      color: $font-color;
+      font-family: Inter;
+      font-size: 16px;
+      font-style: normal;
+      line-height: normal;
+      word-break: break-all;
+    }
+  }
+  &__message {
+    display: flex;
+    justify-content: flex-start;
+    gap: 50px;
+    cursor: pointer;
+    padding: 20px 50px 20px 25px;
+    border-radius: 5px;
+    border-left: 2px solid #309c54;
+    background: #fff;
+    box-shadow: 0px 4px 6px 0px rgba(85, 85, 85, 0.08);
+    & > div {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+    }
+    &_controllers {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      & button {
+        width: 27px;
+        min-width: 27px;
+        height: 27px;
+      }
+      & svg {
+        flex-shrink: 0;
+      }
+    }
+    &_title {
+      color: $font-color;
+      font-family: Inter;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+      max-width: 366px;
+      width: 100%;
+      word-break: break-all;
+    }
+    &_lastCreated {
+      display: flex;
+      align-items: center;
+      color: $font-color;
+      font-family: Inter;
+      font-size: 15px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+    }
+    &_showMore {
+      display: flex;
+      align-items: center;
+      gap: 3px;
+      & > span {
+        color: $font-color;
+        font-family: Inter;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 115.023%; /* 18.404px */
+      }
+    }
+    & > svg {
+      margin-left: auto;
+      transition: all 0.3s ease;
+    }
+  }
+}
+
+@media screen and (max-width: 780px) {
+  .card {
+    &__details {
+      &_groups {
+        gap: 10px;
+        &_items {
+          &_item {
+            color: $font-color;
+            font-family: Inter;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+          }
+        }
+        & h1 {
+          color: $font-color;
+          font-family: Inter;
+          font-size: 14px;
+          font-style: normal;
+          font-weight: 600;
+          line-height: normal;
+        }
+      }
+      &_wrapper {
+        gap: 20px;
+      }
+      &_text {
+        color: $font-color;
+        font-family: Inter;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        & b {
+          color: $font-color;
+          font-family: Inter;
+          font-size: 15px;
+          font-style: normal;
+          font-weight: 600;
+          line-height: normal;
+        }
+        &:first-child {
+          & > div {
+            color: $font-color;
+            font-family: Inter;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            margin-bottom: 10px;
+          }
+        }
+      }
+    }
+    &__message {
+      padding: 10px 17px;
+      & > div {
+        width: fit-content;
+        margin-left: auto;
+      }
+      &_title {
+        color: $font-color;
+        font-family: Inter;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        max-width: 231px;
+      }
+      &_lastCreated {
+        display: none;
+      }
+    }
+  }
+}

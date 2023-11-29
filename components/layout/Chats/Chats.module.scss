@@ -1,0 +1,42 @@
+.navigation {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  &_backButton {
+    width: 30px;
+    height: 30px;
+    min-width: 30px !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    & > svg {
+      width: 12px;
+      height: 12px;
+    }
+  }
+  & > span {
+    color: $font-color;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+  }
+}
+
+.wrapper {
+  height: 100%;
+}
+
+@media screen and (max-width: 780px) {
+  .navigation {
+    & > span {
+      color: $font-color;
+      font-family: Inter;
+      font-size: 22px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+    }
+  }
+}

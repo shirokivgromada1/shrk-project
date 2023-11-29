@@ -1,0 +1,199 @@
+.chat {
+  margin-top: 30.5px;
+  & > div {
+    padding: 10px;
+    &:nth-child(2) {
+      & > div {
+        --scrollbar-width: 8px;
+
+        /* mask fade distance, for use in mask calculations */
+        --mask-height: 32px;
+
+        /* Need to make sure container has bottom space,
+    otherwise content at the bottom is always faded out */
+        padding-bottom: var(--mask-height);
+
+        /* Keep some space between content and scrollbar */
+        padding-right: 20px;
+
+        /* The CSS mask */
+
+        /* The content mask is a linear gradient from top to bottom */
+        --mask-image-content: linear-gradient(
+          to bottom,
+          transparent,
+          black var(--mask-height),
+          black calc(100% - var(--mask-height)),
+          transparent
+        );
+
+        /* Here we scale the content gradient to the width of the container 
+    minus the scrollbar width. The height is the full container height */
+        --mask-size-content: calc(100% - var(--scrollbar-width)) 100%;
+
+        /* The scrollbar mask is a black pixel */
+        --mask-image-scrollbar: linear-gradient(black, black);
+
+        /* The width of our black pixel is the width of the scrollbar.
+    The height is the full container height */
+        --mask-size-scrollbar: var(--scrollbar-width) 100%;
+
+        /* Apply the mask image and mask size variables */
+        mask-image: var(--mask-image-content), var(--mask-image-scrollbar);
+        mask-size: var(--mask-size-content), var(--mask-size-scrollbar);
+
+        /* Position the content gradient in the top left, and the 
+    scroll gradient in the top right */
+        mask-position: 0 0, 100% 0;
+
+        /* We don't repeat our mask images */
+        mask-repeat: no-repeat, no-repeat;
+        scrollbar-width: thin; /* can also be normal, or none, to not render scrollbar */
+        scrollbar-color: transparent;
+        &::-webkit-scrollbar {
+          width: var(--scrollbar-width);
+        }
+        &::-webkit-scrollbar-thumb {
+          background-color: currentColor;
+          border-radius: 9999px; /* always round */
+        }
+        &::-webkit-scrollbar-track {
+          background-color: transparent;
+        }
+      }
+    }
+  }
+  &__title {
+    width: 100%;
+    margin-bottom: 40px;
+    border-radius: 5px;
+    border-left: 2px solid #309c54;
+    padding-block: 15px;
+    background: #fff;
+    box-shadow: 0px 4px 6px 0px rgba(85, 85, 85, 0.08);
+    & > h1 {
+      color: $font-color;
+      font-family: Inter;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+      text-align: center;
+    }
+  }
+  &__input {
+    margin-top: 70px;
+    max-width: 765px;
+    width: 100%;
+    margin-inline: auto;
+    position: relative;
+    & > form {
+      border-radius: 10px;
+      border: 1px solid #b6b6b6;
+      padding: 18.5px 145px 18.5px 20px;
+      position: relative;
+      & > span {
+        & button {
+          position: absolute;
+          width: 32px;
+          height: 32px;
+          min-width: 32px;
+        }
+      }
+    }
+
+    & textarea {
+      max-width: 765px;
+      width: 100%;
+      resize: none;
+      border: none;
+      display: flex;
+      font-family: Inter;
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+      scrollbar-width: none;
+      &::-webkit-scrollbar {
+        display: none;
+      }
+      &:focus {
+        outline: none;
+      }
+      &::placeholder {
+        color: #b6b6b6;
+        font-family: Inter;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 18.5px;
+      }
+    }
+  }
+}
+
+.submit {
+  right: 20px;
+  top: 11px;
+}
+
+.file {
+  right: 57px;
+  top: 11px;
+}
+
+.gallery {
+  margin-block: 10px;
+}
+
+.files {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+  &__item {
+    display: flex;
+    max-width: max-content;
+    gap: 10px;
+    padding: 12px 10px;
+    border-radius: 5px;
+    background-color: rgba(48, 156, 84, 0.5);
+    justify-content: space-between;
+
+    &_info {
+      display: flex;
+      align-items: center;
+      & > span {
+        color: $font-color;
+        font-family: Inter;
+        font-size: 13px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        width: max-content;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 940px) {
+  .chat {
+    &__input {
+      margin-top: 60px;
+    }
+    &__title {
+      & > h1 {
+        color: $font-color;
+        text-align: center;
+        font-family: Inter;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        max-width: 300px;
+        width: 100%;
+        margin: auto;
+      }
+    }
+  }
+}
