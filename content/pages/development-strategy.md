@@ -15,15 +15,15 @@ components:
       працівники комунальних установ, закладів і підприємств, представники
       місцевого бізнесу та громадськості.
     textEng: >
-      The strategy of sustainable development of Shirokivska TG for** the period
-      2021-2028** was adopted on December 3, 2021 at the plenary meeting of the
-      seventeenth extraordinary session of the Shirokiv village council of the
-      VIII convocation.                   The strategy was developed by a
-      working group, which included international experts, the village head,
-      deputies, members of the executive committee and representatives of
-      structural subdivisions of the Shirokiv village council, employees of
-      communal institutions, institutions and enterprises, representatives of
-      local businesses and the public.
+      The strategy of sustainable development of Shirokivska TG for\*\* the
+      period 2021-2028\*\* was adopted on December 3, 2021 at the plenary
+      meeting of the seventeenth extraordinary session of the Shirokiv village
+      council of the VIII convocation.                   The strategy was
+      developed by a working group, which included international experts, the
+      village head, deputies, members of the executive committee and
+      representatives of structural subdivisions of the Shirokiv village
+      council, employees of communal institutions, institutions and enterprises,
+      representatives of local businesses and the public.
     goals:
       - title: 'Стратегічна ціль 1 '
         titleEng: Strategic goal 1
@@ -35,7 +35,7 @@ components:
           High quality of public services, adapted to the growing needs of
           various, particularly vulnerable, groups of community residents. An
           active community that uses high-quality public services.
-        image: /uploads/strategy-desc/goal-1.png
+        image: /uploads/about-community/development-strategy/goal1.png
       - title: 'Стратегічна ціль 2 '
         titleEng: Strategic goal 2
         desc: >-
@@ -46,7 +46,7 @@ components:
           Competitive and innovative local economy based on local resources,
           traditions and specializations and entrepreneurial initiatives of
           residents. Here the economy spreads its wings.
-        image: /uploads/strategy-desc/goal-2.png
+        image: /uploads/about-community/development-strategy/goal2.png
       - title: Стратегічна ціль 3
         titleEng: Strategic goal 3
         desc: >-
@@ -57,7 +57,7 @@ components:
           High-quality specialized tourism of regional importance, which is
           developed on the basis of local resources and traditions, with a
           careful attitude to nature. Free time - only in Shirokivska hromada.
-        image: /uploads/strategy-desc/goal-3.png
+        image: /uploads/about-community/development-strategy/goal3.png
       - title: 'Стратегічна ціль 4 '
         titleEng: Strategic goal 4
         desc: >-
@@ -69,13 +69,14 @@ components:
           ensures increased living comfort and increased protection of life and
           health of residents. Shirokiv community is a place where you want to
           live.
+        image: /uploads/about-community/development-strategy/goal4.png
     _template: StrategyDesc
   - title: >-
       Ознайомитися зі Стратегією сталого розвитку Широківської громади на період
       2021-2028 років можна за 
     titleEng: >-
       You can familiarize yourself with the Sustainable Development Strategy of
-      the Shirokiv community for the period 2021-2028 via
+      the Shirokiv community for the period 2021-2028 via 
     url: 'http://shyroke.org.ua/wp-content/uploads/2017/11/Strategiya.pdf'
     urlText: 'посиланням '
     urlTextEng: link
@@ -109,9 +110,4 @@ components:
       the strategic plan for the development of Shirokivska OTG."
     _template: StrategyLink
 ---
-
-
-
-
-
 
