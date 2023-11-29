@@ -47,25 +47,25 @@ components:
         pageImage: /uploads/home/vac.png
         pageText: Як допомогти територіальній обороні. Відеоінструкція.
     _template: infoPages
-  - title: Офіційні джерела
-    titleEng: Official sources
+  - title: Офіційні джерела інформації
+    titleEng: Official information sources
     source:
-      - sourceTitle: Запорізька  обласна рада
-        sourceTitleEng: Zaporizhzhia Regional Council
-        sourceIcon: /uploads/Coat_of_arms_of_Zaporizhia_Oblast.svg
-        sourceLink: 'https://zor.gov.ua/'
-      - sourceTitle: Кабінет міністрів України
-        sourceTitleEng: Cabinet of Ministers of Ukraine
-        sourceIcon: /uploads/e6d83d483c84840881fd1a52ba7f9f83.png
-        sourceLink: 'https://www.kmu.gov.ua/'
-      - sourceTitle: Верховна рада України
-        sourceTitleEng: Verkhovna Rada of Ukraine
-        sourceIcon: /uploads/d8210517c562a91418a7edfb10494896.png
-        sourceLink: 'https://www.rada.gov.ua/'
       - sourceTitle: Президент України
         sourceTitleEng: President of Ukraine
-        sourceIcon: /uploads/300a37122b1bc2fc8c9d9c00e3560a79.png
+        sourceIcon: /uploads/home/pres.svg
         sourceLink: 'https://www.president.gov.ua/'
+      - sourceTitle: Верховна рада України
+        sourceTitleEng: Verkhovna Rada of Ukraine
+        sourceIcon: /uploads/home/ver.svg
+        sourceLink: 'https://www.rada.gov.ua/'
+      - sourceTitle: Кабінет міністрів України
+        sourceTitleEng: Cabinet of Ministers of Ukraine
+        sourceIcon: /uploads/home/cab.svg
+        sourceLink: 'https://www.kmu.gov.ua/'
+      - sourceTitle: Запорізька  обласна рада
+        sourceTitleEng: Zaporizhzhia Regional Council
+        sourceIcon: /uploads/home/zap.svg
+        sourceLink: 'https://zor.gov.ua/'
     _template: sources
 ---
 
