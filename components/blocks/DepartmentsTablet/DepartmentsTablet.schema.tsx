@@ -15,6 +15,11 @@ export const departmentsTabletComponentSchema: Template = {
       name: "title",
     },
     {
+      type: "string",
+      label: "Title Eng",
+      name: "titleEng",
+    },
+    {
       type: "object",
       label: "Departments",
       name: "departments",
@@ -34,6 +39,11 @@ export const departmentsTabletComponentSchema: Template = {
           type: "string",
           label: "Department name",
           name: "name",
+        },
+        {
+          type: "string",
+          label: "Department name Eng",
+          name: "nameEng",
         },
         {
           type: "string",

@@ -13,10 +13,20 @@ export const aboutTownsComponentSchema: Template = {
       name: "desc",
     },
     {
+      type: "rich-text",
+      label: "Description Eng",
+      name: "descEng",
+    },
+    {
       type: "object",
       label: "Districts",
       name: "districts",
       list: true,
+      ui: {
+        itemProps: (item) => {
+          return { label: item?.name };
+        },
+      },
       fields: [
         {
           type: "string",
@@ -25,8 +35,18 @@ export const aboutTownsComponentSchema: Template = {
         },
         {
           type: "string",
+          label: "Name Eng",
+          name: "nameEng",
+        },
+        {
+          type: "string",
           label: "Villages",
           name: "towns",
+        },
+        {
+          type: "string",
+          label: "Villages Eng",
+          name: "townsEng",
         },
         {
           type: "boolean",

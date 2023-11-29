@@ -1,5 +1,4 @@
 import { Template } from "tinacms";
-import { AboutDesc } from "@/components/blocks/AboutDesc/AboutDesc";
 
 export const aboutDescComponentSchema: Template = {
   name: "AboutDesc",
@@ -23,6 +22,11 @@ export const aboutDescComponentSchema: Template = {
     },
     {
       type: "string",
+      label: "Title Eng",
+      name: "titleEng",
+    },
+    {
+      type: "string",
       label: "Number of people",
       name: "people",
     },
@@ -30,6 +34,11 @@ export const aboutDescComponentSchema: Template = {
       type: "string",
       label: "Number of people year",
       name: "year",
+    },
+    {
+      type: "string",
+      label: "Number of people year Eng",
+      name: "yearEng",
     },
     {
       type: "string",
@@ -43,6 +52,11 @@ export const aboutDescComponentSchema: Template = {
     },
     {
       type: "string",
+      label: "Number of towns Eng",
+      name: "townsTitleEng",
+    },
+    {
+      type: "string",
       label: "Square of community",
       name: "square",
     },
@@ -50,6 +64,11 @@ export const aboutDescComponentSchema: Template = {
       type: "string",
       label: "Square of community title",
       name: "squareTitle",
+    },
+    {
+      type: "string",
+      label: "Square of community title Eng",
+      name: "squareTitleEng",
     },
   ],
 };

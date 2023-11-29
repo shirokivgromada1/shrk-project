@@ -7,18 +7,31 @@ import Inst from "../../../assets/instagram.svg";
 import Telegram from "../../../assets/telegram.svg";
 import Facebook from "../../../assets/facebook.svg";
 import Phone from "../../../assets/phone-icon.svg";
+import { useContext } from "react";
+import { LangContext } from "@/helpers/LangSwitcher/LangSwitcher";
 export const CommunityHeadDesc = ({
-  data,
-}: {
+                                    data,
+                                  }: {
   data: PageComponentsCommunityHeadDesc;
 }) => {
-  const { title, image, fullname, contacts, employment: employments } = data;
-  const isMobile = useBetterMediaQuery("(max-width: 531px)");
+  const {
+    title,
+    titleEng,
+    fullnameEng,
+    image,
+    fullname,
+    contacts,
+    employment: employments,
+  } = data;
   const isTablet = useBetterMediaQuery("(max-width: 1150px)");
+  const { lang } = useContext(LangContext);
+
   return (
     <main className={styles.head}>
       <div className="container">
-        <h1 data-tina-field={tinaField(data, "title")}>{title}</h1>
+        <h1 data-tina-field={tinaField(data, "title")}>
+          {lang === "ua" ? title : titleEng}
+        </h1>
         <div className={styles.head__inner}>
           <div className={styles.head__inner_photo}>
             {image && (
@@ -32,12 +45,14 @@ export const CommunityHeadDesc = ({
           </div>
           <div className={styles.head__inner_info}>
             {fullname && (
-              <h3 data-tina-field={tinaField(data, "fullname")}>{fullname}</h3>
+              <h3 data-tina-field={tinaField(data, "fullname")}>
+                {lang === "ua" ? fullname : fullnameEng}
+              </h3>
             )}
             <ul>
               {employments && (
                 <p data-tina-field={tinaField(employments, "title")}>
-                  {employments?.title}
+                  {lang === "ua" ? employments?.title : employments?.titleEng}
                 </p>
               )}
               {employments &&
@@ -45,22 +60,22 @@ export const CommunityHeadDesc = ({
                   (e, index) =>
                     e && (
                       <li key={index} data-tina-field={tinaField(e, "desc")}>
-                        {e.desc}
+                        {lang === "ua" ? e.desc : e.descEng}
                       </li>
                     )
                 )}
             </ul>
             <div className={styles.head__inner_details}>
-              {!!isTablet && contacts?.title && (
+              {!!isTablet && contacts?.title && contacts?.titleEng && (
                 <h5 data-tina-field={tinaField(contacts, "title")}>
-                  {contacts?.title}
+                  {lang === "ua" ? contacts?.title : contacts?.titleEng}
                 </h5>
               )}
               <div className={styles.head__inner_details_contacts}>
                 <div>
-                  {!isTablet && contacts?.title && (
+                  {!isTablet && contacts?.title && contacts?.titleEng && (
                     <h5 data-tina-field={tinaField(contacts, "title")}>
-                      {contacts?.title}
+                      {lang === "ua" ? contacts?.title : contacts?.titleEng}
                     </h5>
                   )}
                   <div>
@@ -79,9 +94,9 @@ export const CommunityHeadDesc = ({
                       )}
                     </div>
                     <div>
-                      {contacts?.place && (
+                      {contacts?.place && contacts?.placeEng && (
                         <p data-tina-field={tinaField(contacts, "place")}>
-                          {contacts?.place}
+                          {lang === "ua" ? contacts?.place : contacts?.placeEng}
                         </p>
                       )}
                       {contacts?.email && (

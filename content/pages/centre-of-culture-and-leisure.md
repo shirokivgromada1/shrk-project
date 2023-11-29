@@ -2,7 +2,7 @@
 title: centre-of-culture-and-leisure
 components:
   - title: 'КУ “Центр культури та дозвілля, сім''ї, молоді, спорту та туризму”'
-    image: /uploads/silrada/ku-knp/centre-of-culture-and-leisure.png
+    image: /uploads/communual-institutions/cu-2.png
     fullname: Марковська Ірина Олександрівна
     schedule:
       title: Графік роботи
@@ -44,4 +44,6 @@ components:
       text: Новини
     _template: news
 ---
+
+
 

@@ -75,12 +75,18 @@ components:
   - order:
       - title: 'Інформаційна картка послуги догляд вдома:'
         link: >-
-          /uploads/all-services/social-protection/center-for-social-services-of-shirokivska-hromada/Informatsiyna-kartka-dohliad-vdoma.pdf
+          /uploads/сenter-for-social-services-of-shirokivska-hromada/Informatsiyna-kartka-dohliad-vdoma.pdf
       - title: >-
           Інформаційна картка послуг відділення соціальної роботи з сім’ями,
           дітьми та пільговими категоріями населення:
         link: >-
-          /uploads/all-services/social-protection/center-for-social-services-of-shirokivska-hromada/Informatsiyna-kartka-viddilennia-sotsial-noi-roboty-z-simiamy-dit-my-ta-pil-hovymy-katehoriiamy-naselennia-1.pdf
+          /uploads/сenter-for-social-services-of-shirokivska-hromada/Informatsiyna-kartka-viddilennia-sotsial-noi-roboty-z-simiamy-dit-my-ta-pil-hovymy-katehoriiamy-naselennia-1.pdf
     _template: HeadOrders
 ---
+
+
+
+
+
+
 

@@ -25,13 +25,23 @@ components:
           і доповнення до них
         link: branch-inter-branch-territorial-agreements-collective-agreements
       - title: Перелік КНП ЗОЗ
-        link: list-knp-zoh
+        link: list-KNP-ZOH
       - title: Фінансові плани КП та звіти
         link: financial-plans-and-reports
       - title: Фінансовий відділ Широківської сільської ради
-        link: financial-department
+        link: financial-department-
       - title: Накази про присвоєння адреси закінченим об’єкту будівництва
         link: orders-assigning-address-to-completed-construction-project
     _template: Officially
 ---
+
+
+
+
+
+
+
+
+
+
 

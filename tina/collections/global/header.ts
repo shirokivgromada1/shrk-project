@@ -21,6 +21,11 @@ export const header: TinaField = {
     },
     {
       type: "string",
+      label: "Name Eng",
+      name: "nameEng",
+    },
+    {
+      type: "string",
       label: "Color",
       name: "color",
       options: [
@@ -52,7 +57,11 @@ export const header: TinaField = {
           type: "string",
           label: "Label",
           name: "label",
-          required: true,
+        },
+        {
+          type: "string",
+          label: "Label Eng",
+          name: "labelEng",
         },
         {
           type: "boolean",
@@ -73,6 +82,11 @@ export const header: TinaField = {
             {
               label: "Label",
               name: "label",
+              type: "string",
+            },
+            {
+              label: "Label Eng",
+              name: "labelEng",
               type: "string",
             },
             { label: "Href", name: "href", type: "string" },

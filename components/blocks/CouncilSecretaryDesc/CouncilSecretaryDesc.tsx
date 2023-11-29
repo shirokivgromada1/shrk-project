@@ -7,25 +7,31 @@ import Inst from "../../../assets/instagram.svg";
 import Telegram from "../../../assets/telegram.svg";
 import Facebook from "../../../assets/facebook.svg";
 import Phone from "../../../assets/phone-icon.svg";
+import { useContext } from "react";
+import { LangContext } from "@/helpers/LangSwitcher/LangSwitcher";
 export const CouncilSecretaryDesc = ({
-  data,
-}: {
+                                       data,
+                                     }: {
   data: PageComponentsCouncilSecretaryDesc;
 }) => {
   const {
     title,
+    titleEng,
+    fullnameEng,
     image,
     fullname,
     schedule,
     contacts,
     employment: employments,
   } = data;
-  const isMobile = useBetterMediaQuery("(max-width: 531px)");
   const isTablet = useBetterMediaQuery("(max-width: 1115px)");
+  const { lang } = useContext(LangContext);
   return (
     <main className={styles.secretary}>
       <div className="container">
-        <h1 data-tina-field={tinaField(data, "title")}>{title}</h1>
+        <h1 data-tina-field={tinaField(data, "title")}>
+          {lang === "ua" ? title : titleEng}
+        </h1>
         <div className={styles.secretary__inner}>
           <div className={styles.secretary__inner_photo}>
             {image && (
@@ -38,13 +44,15 @@ export const CouncilSecretaryDesc = ({
             )}
           </div>
           <div className={styles.secretary__inner_info}>
-            {fullname && (
-              <h3 data-tina-field={tinaField(data, "fullname")}>{fullname}</h3>
+            {fullname && fullnameEng && (
+              <h3 data-tina-field={tinaField(data, "fullname")}>
+                {lang === "ua" ? fullname : fullnameEng}
+              </h3>
             )}
             <ul>
-              {employments && (
+              {employments && employments?.titleEng && (
                 <p data-tina-field={tinaField(employments, "title")}>
-                  {employments?.title}
+                  {lang === "ua" ? employments?.title : employments?.titleEng}
                 </p>
               )}
               {employments &&
@@ -52,7 +60,7 @@ export const CouncilSecretaryDesc = ({
                   (e, index) =>
                     e && (
                       <li key={index} data-tina-field={tinaField(e, "desc")}>
-                        {e.desc}
+                        {lang === "ua" ? e.desc : e.descEng}
                       </li>
                     )
                 )}
@@ -61,51 +69,55 @@ export const CouncilSecretaryDesc = ({
               <div className={styles.secretary__inner_details_schedule}>
                 {schedule && (
                   <h5 data-tina-field={tinaField(schedule, "title")}>
-                    {schedule?.title}
+                    {lang === "ua" ? schedule?.title : schedule?.titleEng}
                   </h5>
                 )}
                 {schedule && (
                   <p data-tina-field={tinaField(schedule, "time")}>
-                    {schedule?.time}
+                    {lang === "ua" ? schedule?.time : schedule?.timeEng}
                   </p>
                 )}
               </div>
-              {!!isTablet && contacts?.title && (
+              {!!isTablet && contacts?.title && contacts?.titleEng && (
                 <h5 data-tina-field={tinaField(contacts, "title")}>
-                  {contacts?.title}
+                  {lang === "ua" ? contacts?.title : contacts?.titleEng}
                 </h5>
               )}
               <div className={styles.secretary__inner_details_contacts}>
                 <div>
-                  {!isTablet && contacts?.title && (
+                  {!isTablet && contacts?.title && contacts?.titleEng && (
                     <h5 data-tina-field={tinaField(contacts, "title")}>
-                      {contacts?.title}
+                      {lang === "ua" ? contacts?.title : contacts?.titleEng}
                     </h5>
                   )}
                   <div>
                     <div>
-                      {contacts?.phone1 && (
+                      {contacts?.phone1 && contacts?.phone1Eng && (
                         <span data-tina-field={tinaField(contacts, "phone1")}>
                           <Phone />
-                          {contacts?.phone1}
+                          {lang === "ua"
+                            ? contacts?.phone1
+                            : contacts?.phone1Eng}
                         </span>
                       )}
-                      {contacts?.phone2 && (
+                      {contacts?.phone2 && contacts?.phone2Eng && (
                         <span data-tina-field={tinaField(contacts, "phone2")}>
                           <Phone />
-                          {contacts?.phone2}
+                          {lang === "ua"
+                            ? contacts?.phone2
+                            : contacts?.phone2Eng}
                         </span>
                       )}
                     </div>
                     <div>
-                      {contacts?.place && (
+                      {contacts?.place && contacts?.placeEng && (
                         <p data-tina-field={tinaField(contacts, "place")}>
-                          {contacts?.place}
+                          {lang === "ua" ? contacts?.place : contacts?.placeEng}
                         </p>
                       )}
-                      {contacts?.email && (
+                      {contacts?.email && contacts?.emailEng && (
                         <p data-tina-field={tinaField(contacts, "email")}>
-                          {contacts?.email}
+                          {lang === "ua" ? contacts?.email : contacts?.emailEng}
                         </p>
                       )}
                     </div>

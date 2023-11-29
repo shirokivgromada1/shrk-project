@@ -1,7 +1,4 @@
 import { Template } from "tinacms";
-import styles from "@/components/blocks/DeputyHeadTablet/DeputyHeadTablet.module.scss";
-import Image from "next/image";
-import { tinaField } from "tinacms/dist/react";
 
 export const deputyHeadTabletComponentSchema: Template = {
   name: "DeputyHeadTablet",
@@ -17,6 +14,11 @@ export const deputyHeadTabletComponentSchema: Template = {
       type: "string",
       label: "Title",
       name: "title",
+    },
+    {
+      type: "string",
+      label: "Title Eng",
+      name: "titleEng",
     },
     {
       type: "object",
@@ -41,8 +43,18 @@ export const deputyHeadTabletComponentSchema: Template = {
         },
         {
           type: "string",
+          label: "Person fullname Eng",
+          name: "fullnameEng",
+        },
+        {
+          type: "string",
           label: "Person position",
           name: "position",
+        },
+        {
+          type: "string",
+          label: "Person position Eng",
+          name: "positionEng",
         },
         {
           type: "string",

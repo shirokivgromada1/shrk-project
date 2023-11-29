@@ -3,11 +3,12 @@ import { motion } from "framer-motion";
 import PropTypes from "prop-types";
 import ArrowDown from "./../../../../../assets/arrow-down.svg";
 import { useMediaQuery } from "usehooks-ts";
-import { Dispatch, useEffect, useState } from "react";
+import { Dispatch, useContext, useEffect, useState } from "react";
 import AnimateHeight from "react-animate-height";
 import Link from "next/link";
 import { tinaField } from "tinacms/dist/react";
 import { GlobalHeader, Maybe } from "@/tina/__generated__/types";
+import { LangContext } from "@/helpers/LangSwitcher/LangSwitcher";
 
 const Menu = ({ data }: { data: Maybe<GlobalHeader> | undefined }) => {
   const matches = useMediaQuery("(min-width: 1120px) or (max-width: 450px)");
@@ -17,7 +18,7 @@ const Menu = ({ data }: { data: Maybe<GlobalHeader> | undefined }) => {
   useEffect(() => {
     if (!matches) setId(null);
   }, [matches]);
-
+  const { lang } = useContext(LangContext);
   return (
     <motion.div
       initial={{ opacity: 0 }}
@@ -37,7 +38,7 @@ const Menu = ({ data }: { data: Maybe<GlobalHeader> | undefined }) => {
                   }}
                   data-tina-field={tinaField(nav, "label")}
                 >
-                  <h1>{nav.label}</h1>
+                  <h1>{lang === "ua" ? nav.label : nav.labelEng}</h1>
                   <div
                     hidden={matches}
                     className={
@@ -48,13 +49,15 @@ const Menu = ({ data }: { data: Maybe<GlobalHeader> | undefined }) => {
                   </div>
                 </div>
 
+
                 {matches && (
                   <ul className={styles.menu__section_items}>
                     {nav?.links?.map(
                       (link, idx) =>
                         link &&
                         link.href &&
-                        link.label && (
+                        link.label &&
+                        link.labelEng && (
                           <li key={"item" + idx}>
                             <Link
                               href={
@@ -65,7 +68,9 @@ const Menu = ({ data }: { data: Maybe<GlobalHeader> | undefined }) => {
                                   : link.href
                               }
                             >
-                              <a>{link.label}</a>
+                              <a>
+                                {lang === "ua" ? link.label : link.labelEng}
+                              </a>
                             </Link>
                           </li>
                         )
@@ -94,7 +99,9 @@ const Menu = ({ data }: { data: Maybe<GlobalHeader> | undefined }) => {
                                     : link.href
                                 }
                               >
-                                <a>{link.label}</a>
+                                <a>
+                                  {lang === "ua" ? link.label : link.labelEng}
+                                </a>
                               </Link>
                             </li>
                           )

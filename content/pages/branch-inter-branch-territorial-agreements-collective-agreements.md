@@ -9,7 +9,8 @@ components:
           Зміни до колективного договору КУ “Веселівський психоневрологічний
           інтернат” Запорізької обласної ради.
         link: >-
-          /uploads/officially/branch-inter-branch-territorial-agreements-collective-agreements/zminy-do-kol.dohovoru-pdf.pdf
+          /uploads/branch-inter-branch-territorial-agreements-collective-agreements/zminy-do-kol.dohovoru-pdf.pdf
     _template: HeadOrders
 ---
+
 

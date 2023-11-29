@@ -16,6 +16,11 @@ export const councilSecretaryDescComponentSchema: Template = {
       name: "title",
     },
     {
+      type: "string",
+      label: "Title Eng",
+      name: "titleEng",
+    },
+    {
       type: "image",
       label: "Person photo",
       name: "image",
@@ -26,6 +31,11 @@ export const councilSecretaryDescComponentSchema: Template = {
       name: "fullname",
     },
     {
+      type: "string",
+      label: "Person fullname Eng",
+      name: "fullnameEng",
+    },
+    {
       type: "object",
       label: "Employment",
       name: "employment",
@@ -34,6 +44,11 @@ export const councilSecretaryDescComponentSchema: Template = {
           type: "string",
           label: "Title",
           name: "title",
+        },
+        {
+          type: "string",
+          label: "Title Eng",
+          name: "titleEng",
         },
         {
           type: "object",
@@ -51,6 +66,11 @@ export const councilSecretaryDescComponentSchema: Template = {
               label: "Description",
               name: "desc",
             },
+            {
+              type: "string",
+              label: "Description Eng",
+              name: "descEng",
+            },
           ],
         },
       ],
@@ -67,8 +87,18 @@ export const councilSecretaryDescComponentSchema: Template = {
         },
         {
           type: "string",
+          label: "Title Eng",
+          name: "titleEng",
+        },
+        {
+          type: "string",
           label: "Time",
           name: "time",
+        },
+        {
+          type: "string",
+          label: "Time Eng",
+          name: "timeEng",
         },
       ],
     },
@@ -84,8 +114,18 @@ export const councilSecretaryDescComponentSchema: Template = {
         },
         {
           type: "string",
+          label: "Title Eng",
+          name: "titleEng",
+        },
+        {
+          type: "string",
           label: "Phone 1",
           name: "phone1",
+        },
+        {
+          type: "string",
+          label: "Phone 1 Eng",
+          name: "phone1Eng",
         },
         {
           type: "string",
@@ -94,13 +134,28 @@ export const councilSecretaryDescComponentSchema: Template = {
         },
         {
           type: "string",
+          label: "Phone 2 Eng",
+          name: "phone2Eng",
+        },
+        {
+          type: "string",
           label: "Place",
           name: "place",
         },
         {
           type: "string",
+          label: "Place Eng",
+          name: "placeEng",
+        },
+        {
+          type: "string",
           label: "Email",
           name: "email",
+        },
+        {
+          type: "string",
+          label: "Email Eng",
+          name: "emailEng",
         },
         {
           type: "string",

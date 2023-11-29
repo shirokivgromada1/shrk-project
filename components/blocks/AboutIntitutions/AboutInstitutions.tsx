@@ -3,13 +3,14 @@ import { tinaField } from "tinacms/dist/react";
 import { PageComponentsAboutInstitutions } from "@/tina/__generated__/types";
 import useBetterMediaQuery from "@/hooks/useBetterMediaQuery";
 import Image from "next/image";
-import { useState } from "react";
+import { useContext, useState } from "react";
 import ArrowUp from "../../../assets/arrow-down-thin.svg";
 import ArrowDown from "../../../assets/arrow-down-thin.svg";
 import { motion } from "framer-motion";
+import { LangContext } from "@/helpers/LangSwitcher/LangSwitcher";
 export const AboutInstitutions = ({
-  data,
-}: {
+                                    data,
+                                  }: {
   data: PageComponentsAboutInstitutions;
 }) => {
   const {
@@ -18,8 +19,11 @@ export const AboutInstitutions = ({
     educationals: educationals,
     pharmacies: pharmacies,
     cultTitle,
-    educTitle,
+    cultTitleEng,
+    educTitleEng,
     pharTitle,
+    educTitle,
+    pharTitleEng,
   } = data;
   const isMobile = useBetterMediaQuery("(max-width: 450px)");
   const isWideScreen = useBetterMediaQuery("(min-width: 768px)");
@@ -55,6 +59,7 @@ export const AboutInstitutions = ({
         break;
     }
   };
+  const { lang } = useContext(LangContext);
   return (
     <main className={styles.institutions}>
       <div className="container">
@@ -74,7 +79,7 @@ export const AboutInstitutions = ({
               {isWideScreen ? (
                 <>
                   <h2 data-tina-field={tinaField(data, "cultTitle")}>
-                    {cultTitle}:
+                    {lang === "ua" ? cultTitle : cultTitleEng}:
                   </h2>
                   <motion.ul
                     initial="closed"
@@ -92,14 +97,20 @@ export const AboutInstitutions = ({
                               data-tina-field={tinaField(c, "name")}
                             >
                               {" "}
-                              {c?.name}
+                              {lang === "ua" ? c?.name : c?.nameEng}
                             </li>
                           )
                       )}
                     {culturals &&
                       culturals.filter((item) => !item?.hidden).length > 4 && (
                         <button onClick={() => handleShowMoreClick("cult")}>
-                          {showCult ? "Згорнути" : "Більше"}{" "}
+                          {showCult
+                            ? lang === "ua"
+                              ? "Більше"
+                              : "Collapse"
+                            : lang === "ua"
+                              ? "Більше"
+                              : "More"}{" "}
                           <ArrowDown
                             className={` ${showCult && styles.transform}`}
                           />
@@ -111,7 +122,7 @@ export const AboutInstitutions = ({
                 <>
                   <button onClick={() => handleShowMoreClick("cult")}>
                     <h2 data-tina-field={tinaField(data, "cultTitle")}>
-                      {cultTitle}
+                      {lang === "ua" ? cultTitle : cultTitleEng}
                     </h2>
                     <div>
                       <ArrowDown
@@ -137,7 +148,7 @@ export const AboutInstitutions = ({
                                 data-tina-field={tinaField(c, "name")}
                               >
                                 {" "}
-                                {c?.name}
+                                {lang === "ua" ? c?.name : c?.nameEng}
                               </li>
                             )
                         )}
@@ -151,7 +162,7 @@ export const AboutInstitutions = ({
               {isWideScreen ? (
                 <>
                   <h2 data-tina-field={tinaField(data, "educTitle")}>
-                    {educTitle}:
+                    {lang === "ua" ? educTitle : educTitleEng}:
                   </h2>
                   <motion.ul
                     initial="closed"
@@ -169,15 +180,21 @@ export const AboutInstitutions = ({
                               data-tina-field={tinaField(e, "name")}
                             >
                               {" "}
-                              {e.name}
+                              {lang === "ua" ? e?.name : e?.nameEng}
                             </li>
                           )
                       )}
                     {educationals &&
                       educationals.filter((item) => !item?.hidden).length >
-                        4 && (
+                      4 && (
                         <button onClick={() => handleShowMoreClick("educ")}>
-                          {showEduc ? "Згорнути" : "Більше"}{" "}
+                          {showEduc
+                            ? lang === "ua"
+                              ? "Згорнути"
+                              : "Collapse"
+                            : lang === "ua"
+                              ? "Більше"
+                              : "More"}{" "}
                           <ArrowDown
                             className={` ${showEduc && styles.transform}`}
                           />
@@ -189,7 +206,7 @@ export const AboutInstitutions = ({
                 <>
                   <button onClick={() => handleShowMoreClick("educ")}>
                     <h2 data-tina-field={tinaField(data, "educTitle")}>
-                      {educTitle}
+                      {lang === "ua" ? educTitle : educTitleEng}
                     </h2>
                     <div>
                       <ArrowDown
@@ -214,7 +231,7 @@ export const AboutInstitutions = ({
                                 key={index}
                                 data-tina-field={tinaField(e, "name")}
                               >
-                                {e?.name}
+                                {lang === "ua" ? e?.name : e?.nameEng}
                               </li>
                             )
                         )}
@@ -227,7 +244,7 @@ export const AboutInstitutions = ({
               {isWideScreen ? (
                 <>
                   <h2 data-tina-field={tinaField(data, "pharTitle")}>
-                    {pharTitle}:
+                    {lang === "ua" ? pharTitle : pharTitleEng}:
                   </h2>
                   <motion.ul
                     initial="closed"
@@ -245,14 +262,20 @@ export const AboutInstitutions = ({
                               data-tina-field={tinaField(p, "name")}
                             >
                               {" "}
-                              {p?.name}
+                              {lang === "ua" ? p?.name : p?.nameEng}
                             </li>
                           )
                       )}
                     {pharmacies &&
                       pharmacies.filter((item) => !item?.hidden).length > 4 && (
                         <button onClick={() => handleShowMoreClick("phar")}>
-                          {showPhar ? "Згорнути" : "Більше"}{" "}
+                          {showPhar
+                            ? lang === "ua"
+                              ? "Згорнути"
+                              : "Collapse"
+                            : lang === "ua"
+                              ? "Більше"
+                              : "More"}{" "}
                           <ArrowDown
                             className={` ${showPhar && styles.transform}`}
                           />
@@ -264,7 +287,7 @@ export const AboutInstitutions = ({
                 <>
                   <button onClick={() => handleShowMoreClick("phar")}>
                     <h2 data-tina-field={tinaField(data, "pharTitle")}>
-                      {pharTitle}
+                      {lang === "ua" ? pharTitle : pharTitleEng}
                     </h2>
                     <div>
                       <ArrowDown
@@ -290,7 +313,7 @@ export const AboutInstitutions = ({
                                 data-tina-field={tinaField(p, "name")}
                               >
                                 {" "}
-                                {p?.name}
+                                {lang === "ua" ? p?.name : p?.nameEng}
                               </li>
                             )
                         )}

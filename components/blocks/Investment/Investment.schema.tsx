@@ -17,8 +17,18 @@ export const investmentComponentSchema: Template = {
     },
     {
       type: "string",
+      label: "Title Eng",
+      name: "titleEng",
+    },
+    {
+      type: "string",
       label: "Subtitle",
       name: "subtitle",
+    },
+    {
+      type: "string",
+      label: "Subtitle Eng",
+      name: "subtitleEng",
     },
     {
       type: "image",
@@ -32,13 +42,28 @@ export const investmentComponentSchema: Template = {
     },
     {
       type: "rich-text",
+      label: "First text block Eng",
+      name: "firstTextEng",
+    },
+    {
+      type: "rich-text",
       label: "Second text block",
       name: "secondText",
+    },
+    {
+      type: "rich-text",
+      label: "Second text block Eng",
+      name: "secondTextEng",
     },
     {
       type: "string",
       label: "Invest title",
       name: "investTitle",
+    },
+    {
+      type: "string",
+      label: "Invest title Eng",
+      name: "investTitleEng",
     },
     {
       type: "object",
@@ -52,10 +77,15 @@ export const investmentComponentSchema: Template = {
         },
         {
           type: "string",
+          label: "Button text Eng",
+          name: "textEng",
+        },
+        {
+          type: "string",
           label: "URL",
           name: "url",
-        }
-      ]
+        },
+      ],
     },
   ],
 };

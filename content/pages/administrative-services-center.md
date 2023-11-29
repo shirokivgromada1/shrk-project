@@ -5,41 +5,41 @@ components:
     employee:
       - fullname: Гур’янова Наталія Олександрівна
         district: Володимирівський округ
-        photo: /uploads/all-services/administrative-services-center/perso-1.png
+        photo: /uploads/administrative-services-center/employee-2.png
         phone: '(061)239-95-26, (097)321-96-43'
         address: 'с. Володимирівське, вул. Шкільна, 2'
         email: volodimirivske.sotg@gmail.com
       - fullname: Дідик Тетяна Володимирівна
         district: Веселівський і Петропільський округи
-        photo: /uploads/all-services/administrative-services-center/person-2.png
+        photo: /uploads/administrative-services-center/employee-3.png
         phone: '(061)239-95-2, (098)282-29-33'
         address: 'с. Веселе, вул. Центральна, 48-а'
         email: vesele.sotg@gmail.com
       - fullname: Мілейко Юлія Олександрівна
         district: Зеленопільський і Лукашівський округи
-        photo: /uploads/silrada/noname.png
+        photo: /uploads/administrative-services-center/employee-1.png
         phone: (097) 183-61-60
         address: ' с.Широке, вул.Центральна, 1, с.Лукашеве, вул.Центральна, 18'
         email: shirockoe.sotg@gmail.com
       - fullname: Нелуш Олена Сергіївна
         district: Августинівський і Відраднівський округи
-        photo: /uploads/silrada/noname.png
+        photo: /uploads/administrative-services-center/employee-2.png
         phone: '(061)239-95-24, (098) 205-33-92'
         address: ' с.Августинівка, вул.Молодіжна, 63'
         email: augustinovka.sotg@gmail.com
       - fullname: Тімченко Наталія Іванівна
         district: Микола-Пільський і Новопетрівський округи
-        photo: /uploads/silrada/noname.png
+        photo: /uploads/administrative-services-center/employee-4.png
         phone: ' (099)490-92-07'
         address: 'с.Миколай-Поле, вул.Центральна, 76'
         email: lukasheve.sotg@gmail.com
       - fullname: Шаповалов Олександр Євгенович
         district: 'с. Лукашеве, вул. Центральна, 18'
-        photo: /uploads/silrada/noname.png
+        photo: /uploads/administrative-services-center/employee-5.png
         phone: (050)243-84-88
         address: 'м. Запоріжжя, вул. Героїв 37 батальйону, 12'
       - fullname: Лагно Марина Юріївна державний реєстратор
-        photo: /uploads/silrada/noname.png
+        photo: /uploads/administrative-services-center/employee-2.png
         phone: (067)386-2963
         address: 'м. Запоріжжя, вул. Героїв 37 батальйону, 12'
     _template: AdministrativeServicesEmployees
@@ -98,4 +98,10 @@ components:
             link: 'https://usr.minjust.gov.ua/'
     _template: AdministrativeServicesLinks
 ---
+
+
+
+
+
+
 

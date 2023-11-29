@@ -4,18 +4,21 @@ import { tinaField } from "tinacms/dist/react";
 import Image from "next/image";
 import useBetterMediaQuery from "@/hooks/useBetterMediaQuery";
 import Link from "next/link";
+import { useContext } from "react";
+import { LangContext } from "@/helpers/LangSwitcher/LangSwitcher";
 export const EnterprisesTablet = ({
-  data,
-}: {
+                                    data,
+                                  }: {
   data: PageComponentsEnterprisesTablet;
 }) => {
-  const { title, enterprises: enterprises } = data;
-  const isMobile = useBetterMediaQuery("(max-width: 531px)");
-  const isTablet = useBetterMediaQuery("(max-width: 768px)");
+  const { title, titleEng, enterprises: enterprises } = data;
+  const { lang } = useContext(LangContext);
   return (
     <main className={styles.enterprises}>
       <div className="container">
-        <h1 data-tina-field={tinaField(data, "title")}>{title}</h1>
+        <h1 data-tina-field={tinaField(data, "title")}>
+          {lang === "ua" ? title : titleEng}
+        </h1>
         <div className={styles.enterprises__inner}>
           {enterprises &&
             enterprises.map(
@@ -29,9 +32,9 @@ export const EnterprisesTablet = ({
                     key={index}
                   >
                     <div className={styles.enterprises__inner_enterprise}>
-                      {e?.name && (
+                      {e?.name && e?.nameEng && (
                         <h3 data-tina-field={tinaField(e, "name")}>
-                          {e?.name}
+                          {lang === "ua" ? e?.name : e?.nameEng}
                         </h3>
                       )}
                     </div>

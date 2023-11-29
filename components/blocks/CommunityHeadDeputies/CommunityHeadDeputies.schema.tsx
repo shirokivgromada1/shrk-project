@@ -16,6 +16,11 @@ export const communityHeadDeputiesComponentSchema: Template = {
       name: "title",
     },
     {
+      type: "string",
+      label: "Title Eng",
+      name: "titleEng",
+    },
+    {
       type: "object",
       label: "Deputies",
       name: "deputies",
@@ -38,8 +43,18 @@ export const communityHeadDeputiesComponentSchema: Template = {
         },
         {
           type: "string",
+          label: "Person fullname Eng",
+          name: "fullnameEng",
+        },
+        {
+          type: "string",
           label: "Person position",
           name: "position",
+        },
+        {
+          type: "string",
+          label: "Person position Eng",
+          name: "positionEng",
         },
         {
           type: "string",

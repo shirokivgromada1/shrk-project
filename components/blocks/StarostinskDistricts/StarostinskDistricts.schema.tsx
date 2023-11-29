@@ -16,6 +16,11 @@ export const starostinskDistrictsComponentSchema: Template = {
       name: "title",
     },
     {
+      type: "string",
+      label: "Title Eng",
+      name: "titleEng",
+    },
+    {
       type: "object",
       label: "Districts",
       name: "districts",
@@ -30,7 +35,6 @@ export const starostinskDistrictsComponentSchema: Template = {
           label: "District id",
           name: "id",
           type: "number",
-
         },
         {
           label: "District name",
@@ -38,8 +42,18 @@ export const starostinskDistrictsComponentSchema: Template = {
           type: "string",
         },
         {
+          label: "District name Eng",
+          name: "nameEng",
+          type: "string",
+        },
+        {
           label: "Captain name",
           name: "captain",
+          type: "string",
+        },
+        {
+          label: "Captain name Eng",
+          name: "captainEng",
           type: "string",
         },
         {
@@ -53,13 +67,29 @@ export const starostinskDistrictsComponentSchema: Template = {
           type: "string",
         },
         {
+          label: "Contacts title Eng",
+          name: "contactsTitleEng",
+          type: "string",
+        },
+        {
           label: "Contacts phone",
           name: "contactsPhone",
           type: "string",
         },
         {
+          label: "Contacts phone Eng",
+          name: "contactsPhoneEng",
+          type: "string",
+        },
+
+        {
           label: "Contacts address",
           name: "contactsAddress",
+          type: "string",
+        },
+        {
+          label: "Contacts address Eng",
+          name: "contactsAddressEng",
           type: "string",
         },
         {
@@ -68,8 +98,18 @@ export const starostinskDistrictsComponentSchema: Template = {
           type: "string",
         },
         {
+          label: "Schedule title Eng",
+          name: "scheduleTitleEng",
+          type: "string",
+        },
+        {
           label: "Schedule date",
           name: "scheduleDate",
+          type: "string",
+        },
+        {
+          label: "Schedule date Eng",
+          name: "scheduleDateEng",
           type: "string",
         },
         {

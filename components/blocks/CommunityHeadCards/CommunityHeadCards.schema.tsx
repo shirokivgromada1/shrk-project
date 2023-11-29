@@ -25,6 +25,11 @@ export const communityHeadCardsComponentSchema: Template = {
         },
         {
           type: "string",
+          label: "Card name Eng",
+          name: "nameEng",
+        },
+        {
+          type: "string",
           label: "Card page link",
           name: "link",
         },

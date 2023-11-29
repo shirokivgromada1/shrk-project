@@ -27,15 +27,16 @@ components:
       дитячими колясками тощо (ДБНВ.2.2-17:2006).
     links:
       - title: ФОТОЗВІТИ
-        link: >-
-          /uploads/all-services/social-protection/department-population-social-protection/monitoring-access-ensuring-/Baza-dannykh.docx
+        link: s
       - title: База данних щодо доступності маломобільних груп населення
-        link: >-
-          /uploads/all-services/social-protection/department-population-social-protection/monitoring-access-ensuring-/Baza-dannykh.docx
+        link: s
       - title: РОЗПОРЯДЖЕННЯ
-        link: >-
-          /uploads/all-services/social-protection/department-population-social-protection/monitoring-access-ensuring-/Baza-dannykh.docx
+        link: /uploads/monitoring-access-ensuring/Baza-dannykh.docx
         url: ''
     _template: MonitoringEnsuringAccess
 ---
+
+
+
+
 

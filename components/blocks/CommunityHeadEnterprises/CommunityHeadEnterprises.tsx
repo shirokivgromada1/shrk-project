@@ -1,19 +1,19 @@
 import styles from "./CommunityHeadEnterprises.module.scss";
 import { PageComponentsCommunityHeadEnterprises } from "@/tina/__generated__/types";
 import { tinaField } from "tinacms/dist/react";
-import Image from "next/image";
 import useBetterMediaQuery from "@/hooks/useBetterMediaQuery";
 import Link from "next/link";
 import ArrowDown from "../../../assets/arrow-down.svg";
-import { useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import { animateScroll as scrolle } from "react-scroll/modules";
+import { LangContext } from "@/helpers/LangSwitcher/LangSwitcher";
 export const CommunityHeadEnterprises = ({
-  data,
-}: {
+                                           data,
+                                         }: {
   data: PageComponentsCommunityHeadEnterprises;
 }) => {
-  const { title, enterprises: enterprises } = data;
+  const { title, titleEng, enterprises: enterprises } = data;
   const isTablet = useBetterMediaQuery("(max-width: 768px)");
   const [isEnterpriseOpened, setIsEnterpriseOpened] = useState(false);
   const handleEnterprisesClick = () => {
@@ -38,6 +38,7 @@ export const CommunityHeadEnterprises = ({
       }
     }
   }, []);
+  const { lang } = useContext(LangContext);
   return (
     <>
       {!isTablet ? (
@@ -48,7 +49,7 @@ export const CommunityHeadEnterprises = ({
               data-tina-field={tinaField(data, "title")}
               onClick={() => handleEnterprisesClick()}
             >
-              {title}
+              {lang === "ua" ? title : titleEng}
               <ArrowDown
                 className={`${isEnterpriseOpened ? styles.active : ""}`}
               />
@@ -77,9 +78,9 @@ export const CommunityHeadEnterprises = ({
                             className={styles.deputies__inner_deputy}
                             layout
                           >
-                            {e?.name && (
+                            {e?.name && e?.nameEng && (
                               <h4 data-tina-field={tinaField(e, "name")}>
-                                {e?.name}
+                                {lang === "ua" ? e?.name : e?.nameEng}
                               </h4>
                             )}
                           </motion.div>

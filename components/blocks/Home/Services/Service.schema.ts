@@ -16,6 +16,11 @@ export const servicesComponentSchema: Template = {
       name: "title",
     },
     {
+      type: "string",
+      label: "Title Eng",
+      name: "titleEng",
+    },
+    {
       type: "object",
       label: "Service",
       name: "service",
@@ -29,6 +34,11 @@ export const servicesComponentSchema: Template = {
         {
           label: "Title",
           name: "serviceTitle",
+          type: "string",
+        },
+        {
+          label: "Title Eng",
+          name: "serviceTitleEng",
           type: "string",
         },
         {

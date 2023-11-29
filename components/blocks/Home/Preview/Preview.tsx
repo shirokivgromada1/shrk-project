@@ -1,6 +1,6 @@
 import { Swiper, SwiperSlide } from "swiper/react";
 import SearchIcon from "./../../../../assets/search.svg";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useContext } from "react";
 import SanitizeHTML from "./../../../util/SanitizeHTML";
 import Image from "next/image";
 import { Skeleton, useMediaQuery } from "@mui/material";
@@ -15,16 +15,24 @@ import "swiper/css";
 
 import styles from "./Preview.module.scss";
 import client from "@/tina/__generated__/client";
+import { LangContext } from "@/helpers/LangSwitcher/LangSwitcher";
 
 export const Preview = ({
-  data,
-}: {
+                          data,
+                        }: {
   data: PageComponentsPreview | DepartmentPeopleComponentsPreview;
 }) => {
   const [loaded, setLoaded] = useState(false);
   const [isLoading, setLoading] = useState(false);
 
-  const { previewImage, title, description, freshNews } = data;
+  const {
+    previewImage,
+    title,
+    titleEng,
+    descriptionEng,
+    description,
+    freshNews,
+  } = data;
   const [news, setNews] = useState<any[] | null | undefined>(null);
 
   const match = useMediaQuery("(max-width: 700px)");
@@ -32,20 +40,14 @@ export const Preview = ({
   useEffect(() => {
     const fetchContent = async () => {
       setLoading(true);
-      const newsResponse = await client.queries.newsConnection({
-        filter: {
-          hideNews: {
-            eq: false
-          }
-        }
-      });
+      const newsResponse = await client.queries.newsConnection();
       setNews(newsResponse.data.newsConnection.edges);
       setLoading(false);
     };
     if (!freshNews || freshNews?.length === 0) fetchContent();
     else setNews(freshNews);
   }, [freshNews]);
-
+  const { lang } = useContext(LangContext);
   return (
     <div className={styles.preview}>
       <div className="container-fluid">
@@ -70,17 +72,21 @@ export const Preview = ({
         >
           <div className={styles.preview__block_headline}>
             <div className={styles.preview__block_headline_h}>
-              {title && (
-                <h1 data-tina-field={tinaField(data, "title")}>{title}</h1>
+              {title && titleEng && (
+                <h1 data-tina-field={tinaField(data, "title")}>
+                  {lang === "ua" ? title : titleEng}
+                </h1>
               )}
-              {description && (
+              {description && descriptionEng && (
                 <h5 data-tina-field={tinaField(data, "description")}>
-                  {description}
+                  {lang === "ua" ? description : descriptionEng}
                 </h5>
               )}
             </div>
             <div className={styles.preview__block_headline_inner}>
-              <button type="button">Читати більше</button>
+              <button type="button">
+                {lang === "ua" ? "Читати більше" : "Read more"}
+              </button>
               <div className={styles.preview__block_headline_inner_mobile}>
                 <input type="text" />
                 <button type="button">
@@ -101,7 +107,11 @@ export const Preview = ({
                 }
                 className={styles.previewSwiper__slide}
               >
-                {index === 0 ? <h1>Важливі новини</h1> : <h1 />}
+                {index === 0 ? (
+                  <h1>{lang === "ua" ? "Важливі новини" : "Important news"}</h1>
+                ) : (
+                  <h1 />
+                )}
                 <AnimatePresence mode="wait">
                   <motion.div
                     initial={{ opacity: 0 }}
@@ -125,8 +135,8 @@ export const Preview = ({
                               ? "... "
                               : " "
                             : news[index]?.node?.title?.length > 180
-                            ? "... "
-                            : " "}
+                              ? "... "
+                              : " "}
                         </span>
                       </div>
                     )}

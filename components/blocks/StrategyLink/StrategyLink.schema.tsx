@@ -18,6 +18,11 @@ export const strategyLinkComponentSchema: Template = {
     },
     {
       type: "string",
+      label: "Title Eng",
+      name: "titleEng",
+    },
+    {
+      type: "string",
       label: "Title link",
       name: "url",
     },
@@ -26,7 +31,11 @@ export const strategyLinkComponentSchema: Template = {
       label: "Title link text",
       name: "urlText",
     },
-
+    {
+      type: "string",
+      label: "Title link text Eng",
+      name: "urlTextEng",
+    },
     {
       type: "rich-text",
       label: "First text block",
@@ -34,8 +43,18 @@ export const strategyLinkComponentSchema: Template = {
     },
     {
       type: "rich-text",
+      label: "First text block Eng",
+      name: "firstTextEng",
+    },
+    {
+      type: "rich-text",
       label: "Second text block",
       name: "secondText",
+    },
+    {
+      type: "rich-text",
+      label: "Second text block Eng",
+      name: "secondTextEng",
     },
   ],
 };

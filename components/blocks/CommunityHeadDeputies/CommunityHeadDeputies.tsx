@@ -5,15 +5,16 @@ import Image from "next/image";
 import useBetterMediaQuery from "@/hooks/useBetterMediaQuery";
 import Link from "next/link";
 import ArrowDown from "../../../assets/arrow-down.svg";
-import { useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import { animateScroll as scrolle } from "react-scroll";
+import { LangContext } from "@/helpers/LangSwitcher/LangSwitcher";
 export const CommunityHeadDeputies = ({
-  data,
-}: {
+                                        data,
+                                      }: {
   data: PageComponentsCommunityHeadDeputies;
 }) => {
-  const { title, deputies: deputies } = data;
+  const { title, titleEng, deputies: deputies } = data;
   const isTablet = useBetterMediaQuery("(max-width: 768px)");
   const [isDeputiesOpened, setIsDeputiesOpened] = useState(false);
   const handleDeputiesClick = () => {
@@ -38,6 +39,8 @@ export const CommunityHeadDeputies = ({
       }
     }
   }, []);
+  const { lang } = useContext(LangContext);
+
   return (
     <div>
       {!isTablet ? (
@@ -48,7 +51,7 @@ export const CommunityHeadDeputies = ({
               onClick={() => handleDeputiesClick()}
               id="deputies"
             >
-              {title}{" "}
+              {lang === "ua" ? title : titleEng}
               <ArrowDown
                 className={`${isDeputiesOpened ? styles.active : ""}`}
               />
@@ -90,14 +93,14 @@ export const CommunityHeadDeputies = ({
                               )}
                             </div>
                             <div className={styles.deputies__inner_deputy_desc}>
-                              {d?.position && (
+                              {d?.position && d?.positionEng && (
                                 <h3 data-tina-field={tinaField(d, "position")}>
-                                  {d?.position}
+                                  {lang === "ua" ? d?.position : d?.positionEng}
                                 </h3>
                               )}
-                              {d?.fullname && (
+                              {d?.fullname && d?.fullnameEng && (
                                 <p data-tina-field={tinaField(d, "fullname")}>
-                                  {d?.fullname}
+                                  {lang === "ua" ? d?.fullname : d?.fullnameEng}
                                 </p>
                               )}
                             </div>

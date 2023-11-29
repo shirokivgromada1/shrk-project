@@ -4,18 +4,23 @@ import { tinaField } from "tinacms/dist/react";
 import Image from "next/image";
 import useBetterMediaQuery from "@/hooks/useBetterMediaQuery";
 import Link from "next/link";
+import { useContext } from "react";
+import { LangContext } from "@/helpers/LangSwitcher/LangSwitcher";
 export const DeputyHeadTablet = ({
-  data,
-}: {
+                                   data,
+                                 }: {
   data: PageComponentsDeputyHeadTablet;
 }) => {
-  const { title, deputy: deputies } = data;
+  const { title, titleEng, deputy: deputies } = data;
   const isMobile = useBetterMediaQuery("(max-width: 531px)");
   const isTablet = useBetterMediaQuery("(max-width: 768px)");
+  const { lang } = useContext(LangContext);
   return (
     <main className={styles.deputies}>
       <div className="container">
-        <h1 data-tina-field={tinaField(data, "title")}>{title}</h1>
+        <h1 data-tina-field={tinaField(data, "title")}>
+          {lang === "ua" ? title : titleEng}
+        </h1>
         <div className={styles.deputies__inner}>
           {deputies &&
             deputies.map(
@@ -40,14 +45,14 @@ export const DeputyHeadTablet = ({
                         )}
                       </div>
                       <div className={styles.deputies__inner_deputy_desc}>
-                        {d?.position && (
+                        {d?.position && d?.positionEng && (
                           <h3 data-tina-field={tinaField(d, "position")}>
-                            {d?.position}
+                            {lang === "ua" ? d?.position : d?.positionEng}
                           </h3>
                         )}
-                        {d?.fullname && (
+                        {d?.fullname && d?.fullnameEng && (
                           <p data-tina-field={tinaField(d, "fullname")}>
-                            {d?.fullname}
+                            {lang === "ua" ? d?.fullname : d?.fullnameEng}
                           </p>
                         )}
                       </div>
