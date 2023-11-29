@@ -9,7 +9,7 @@ components:
         nameEng: Sonyachiy district
         captain: 'Староста: Дар’я Ішкова'
         captainEng: 'Mayor: Darya Ishkova'
-        image: /uploads/about-community/starostinsk-districts/1.svg
+        image: /uploads/about-community/starostinsk-districts/1.png
         contactsTitle: Контакти
         contactsTitleEng: Contacts
         contactsPhone: 'тел: +38 (066) 558 31 19'
@@ -22,12 +22,18 @@ components:
         scheduleDateEng: 'Monday - Friday from 8:00 a.m. to 4:30 p.m'
       - id: 2
         name: Августинівський округ
+        nameEng: Augustynivsky district
         captain: 'Староста: Ася Шевчук'
-        image: /uploads/starostinsk-districts/item-2.png
+        captainEng: 'Mayor: Asya Shevchuk'
+        image: /uploads/about-community/starostinsk-districts/2.png
         contactsTitle: Контакти
+        contactsTitleEng: Contacts
         contactsPhone: 'тел: +38 (097) 274 39 76, +38 (073) 483 77 50'
+        contactsPhoneEng: 'phone: +38 (097) 274 39 76, +38 (073) 483 77 50'
         contactsAddress: 'адреса: с. Августинівка, вул. Молодіжна, 63'
+        contactsAddressEng: 'address: v. Augustynivka, st. Molodizhna, 63'
         scheduleTitle: 'Дні прийому: '
+        scheduleTitleEng: 'Reception days:'
         scheduleDate: "понеділок - п’ятниця\_з 8:00 до 16:30"
         scheduleDateEng: 'Monday - Friday from 8:00 a.m. to 4:30 p.m'
       - id: 3
