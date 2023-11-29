@@ -5,25 +5,28 @@ components:
     titleEng: Shirokiv community
     description: Знайдіть усі послуги та інформацію онлайн
     descriptionEng: Find all services and information online
-    previewImage: /uploads/preview.png
+    previewImage: /uploads/home/photo.png
     freshNews: []
     _template: preview
   - title: Ми надаємо такі послуги
     titleEng: We provide the following services
     service:
-      - serviceTitle: Соціальний захист
-        serviceTitleEng: Social Protection
-        serviceIcon: /uploads/health.svg
-        serviceLink: 'http://example.com'
       - serviceTitle: Комунальне майно
         serviceTitleEng: Communal property
-        serviceIcon: /uploads/house.svg
+        serviceIcon: /uploads/home/comm.svg
+        serviceLink: communal-property
       - serviceTitle: Клініка "Сімейний лікар"
         serviceTitleEng: Clinic "Family Doctor"
-        serviceIcon: /uploads/clinic.svg
+        serviceIcon: /uploads/home/clinic.svg
+        serviceLink: family-doctor-clinic
       - serviceTitle: Первинна  правова допомога
         serviceTitleEng: Primary legal aid
-        serviceIcon: /uploads/emergency.svg
+        serviceIcon: /uploads/home/aid.svg
+        serviceLink: primary-legal-aid
+      - serviceTitle: Соціальний захист
+        serviceTitleEng: Social Protection
+        serviceIcon: /uploads/home/social.svg
+        serviceLink: social-protection
     _template: services
   - headline:
       text: Новини
@@ -61,7 +64,4 @@ components:
         sourceLink: 'https://www.president.gov.ua/'
     _template: sources
 ---
-
-
-
 
