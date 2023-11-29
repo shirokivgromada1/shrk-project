@@ -123,6 +123,14 @@ components:
         nameEng: Petropolis branch of «Pharmacies №1»
       - name: «Аптека №2» у Миколай-Полі
         nameEng: «Pharmacy №2» in Mykolay-Pola
+      - name: Філія «Аптеки №2» у Новопетрівці
+        nameEng: «Pharmacy №2» branch in Novopetrivka
+      - name: Августинівська філія «Аптеки №2»
+        nameEng: Augustinivska branch «Pharmacy №2»
+      - name: Аптечний пункт №1 у м. Запоріжжя
+        nameEng: Pharmacy point №1 in Zaporozhye
+      - name: Відраднівська філія «Аптеки №2»
+        nameEng: Vidradniv branch «Pharmacies №2»
     _template: AboutInstitutions
 ---
 
