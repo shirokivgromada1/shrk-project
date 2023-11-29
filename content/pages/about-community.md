@@ -83,8 +83,14 @@ components:
         nameEng: Volodymyriv Library
       - name: 'Лукашівський центр дозвілля,Лукашівська бібліотека'
         nameEng: 'Lukashiv leisure center, Lukashiv library'
-      - {}
-      - {}
+      - name: Ручаївський центр дозвілля
+        nameEng: Ruchaiv leisure center
+      - name: 'Широківський центр дозвілля, Широківська сільська бібліотека'
+        nameEng: 'Shirokiv leisure center, Shirokiv village library'
+      - name: 'Миколай-Пільський центр дозвілля, Миколай-Пільська бібліотека'
+        nameEng: 'Mykolay-Pilski leisure center, Mykolaiv-Pilsk Library'
+      - name: Новопетрівська бібліотека
+        nameEng: Novopetriv library
     educTitle: Освітні заклади
     educTitleEng: Educational institutions
     educationals:
@@ -96,8 +102,14 @@ components:
         nameEng: Volodymyriv Lyceum "Success"
       - name: Лукашівська гімназія «Мрія»
         nameEng: Lukashiv Gymnasium "Dream"
+      - name: Петропільський ліцей
+        nameEng: Petropolis Lyceum
+      - name: Широківська гімназія
+        nameEng: Shirokiv gymnasium
       - name: Миколай-Пільська філія Петропільського ліцею
         nameEng: Mykolay-Pilska branch of the Petropolis Lyceum
+      - name: Новопетрівська філія Петропільського ліцею
+        nameEng: Novopetrivsk branch of the Petropolis Lyceum
     pharTitle: Аптеки громади
     pharTitleEng: Community pharmacies
     pharmacies:
