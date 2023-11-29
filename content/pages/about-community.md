@@ -1,7 +1,7 @@
 ---
 title: about-community
 components:
-  - image: /uploads/about-desc/banner-1.png
+  - image: /uploads/about-community/about-community/banner1.png
     title: Про громаду
     titleEng: About community
     people: '14,9'
@@ -53,7 +53,7 @@ components:
         towns: 'с. Веселе, с. Зоряне, с. Нововознесенка, с. Новодніпровка'
         townsEng: 'v. Vesele, v. Zoriane, v. Novovoznesenka, v. Novodniprovka'
     _template: AboutTowns
-  - image: /uploads/about-desc/banner-2.png
+  - image: /uploads/about-community/about-community/banner2.png
     cultTitle: Заклади культури
     cultTitleEng: Cultural institutions
     culturals:
@@ -67,6 +67,8 @@ components:
         nameEng: Volodymyriv Library
       - name: 'Лукашівський центр дозвілля,Лукашівська бібліотека'
         nameEng: 'Lukashiv leisure center, Lukashiv library'
+      - {}
+      - {}
     educTitle: Освітні заклади
     educTitleEng: Educational institutions
     educationals:
@@ -95,12 +97,4 @@ components:
         nameEng: «Pharmacy №2» in Mykolay-Pola
     _template: AboutInstitutions
 ---
-
-
-
-
-
-
-
-
 
