@@ -52,6 +52,22 @@ components:
         nameEng: Veselivsky district
         towns: 'с. Веселе, с. Зоряне, с. Нововознесенка, с. Новодніпровка'
         townsEng: 'v. Vesele, v. Zoriane, v. Novovoznesenka, v. Novodniprovka'
+      - name: Петропільський округ
+        nameEng: Petropolis district
+        towns: 'с. Петропіль, с. Надія, с. Петропавлівка, с. Червоний Яр'
+        townsEng: 's. Petropi, s. Nadia, s. Petropavlivka, s. Chervoniy Yar'
+      - name: Відраднівський округ
+        nameEng: Vidradniv district
+        towns: с-ще Відрадне
+        townsEng: v. Vidradne
+      - name: Заленопільський округ
+        nameEng: Zalenopol district
+        towns: 'с. Зеленопілля, с. Водяне, с. Ручаївка'
+        townsEng: 's. Zelenopyllya, s. Vodyane, s. Ruchayivka'
+      - name: Миколай-Пільський округ
+        nameEng: Mykolay-Pilsky district
+        towns: ' Миколай-Поле, Яворницьке, Морозівка'
+        townsEng: 'Nykolay-Pole, Yavornytse, Morozivka'
     _template: AboutTowns
   - image: /uploads/about-community/about-community/banner2.png
     cultTitle: Заклади культури
