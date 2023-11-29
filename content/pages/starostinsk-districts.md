@@ -6,10 +6,10 @@ components:
     districts:
       - id: 1
         name: Сонячний округ
-        nameEng: Sunny district
+        nameEng: Sonyachiy district
         captain: 'Староста: Дар’я Ішкова'
         captainEng: 'Mayor: Darya Ishkova'
-        image: /uploads/starostinsk-districts/item-1.png
+        image: /uploads/about-community/starostinsk-districts/1.svg
         contactsTitle: Контакти
         contactsTitleEng: Contacts
         contactsPhone: 'тел: +38 (066) 558 31 19'
@@ -58,9 +58,4 @@ components:
         scheduleDateEng: 'Monday - Friday from 8:00 a.m. to 4:30 p.m'
     _template: StarostinskDistricts
 ---
-
-
-
-
-
 
