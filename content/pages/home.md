@@ -39,12 +39,12 @@ components:
         pageText: Очільник МАГАТЕ Гроссі прибув на ЗАЕС
         pageLink: ''
       - pageTitle: газета
-        pageImage: /uploads/neom-0rCJ-y3wx6g-unsplash.jpg
+        pageImage: /uploads/home/gaz.png
         pageText: Названо успіхи ЗСУ на Бердянському напрямку
         pageLink: 'http://example.com'
       - pageTitle: Вакансії
         page: content/pages/news.md
-        pageImage: ''
+        pageImage: /uploads/home/vac.png
         pageText: Як допомогти територіальній обороні. Відеоінструкція.
     _template: infoPages
   - title: Офіційні джерела
