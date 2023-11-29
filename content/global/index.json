@@ -1,6 +1,6 @@
 {
   "header": {
-    "icon": "/uploads/logo.svg",
+    "icon": "/uploads/header/logo.svg",
     "name": "Широківська громада",
     "nameEng": "Shirokiv community",
     "color": "",
@@ -275,7 +275,7 @@
       "instagram": "/",
       "telegram": "/"
     },
-    "logo": "",
+    "logo": "/uploads/footer/logo.svg",
     "headline": "Широківська сільська рада  Запорізького району Запорізької області",
     "headlineEng": "Shirokiv village council of the Zaporizhia district of the Zaporizhia region",
     "location": "м. Запоріжжя, вул. Розенталь, 7",
