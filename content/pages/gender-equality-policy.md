@@ -27,11 +27,10 @@ components:
       - genderTitle: >-
           Розпорядження Про приєднання до Європейської Хартії Рівності жінок та
           чоловіків у житті місцевих рад
-        genderLink: >-
-          /uploads/all-services/social-protection/department-population-social-protection/gender-equality/gender-equality-policy/IMG_0001-2.pdf
+        genderLink: /uploads/gender-equality-policy/IMG_0001-2.pdf
       - genderTitle: Розпорядження Про затвердження паспортів бюджетних програм на 2022 рік
-        genderLink: >-
-          /uploads/all-services/social-protection/department-population-social-protection/gender-equality/gender-equality-policy/21.12.2021.docx
+        genderLink: /uploads/gender-equality-policy/21.12.2021.docx
     _template: GenderEqualityItem
 ---
+
 

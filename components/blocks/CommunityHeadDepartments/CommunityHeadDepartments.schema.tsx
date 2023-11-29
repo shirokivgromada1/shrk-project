@@ -17,6 +17,11 @@ export const communityHeadDepartmentsComponentSchema: Template = {
       name: "title",
     },
     {
+      type: "string",
+      label: "Title Eng",
+      name: "titleEng",
+    },
+    {
       type: "object",
       label: "Departments",
       name: "departments",
@@ -36,6 +41,11 @@ export const communityHeadDepartmentsComponentSchema: Template = {
           type: "string",
           label: "Departments title",
           name: "name",
+        },
+        {
+          type: "string",
+          label: "Departments title Eng",
+          name: "nameEng",
         },
         {
           type: "string",

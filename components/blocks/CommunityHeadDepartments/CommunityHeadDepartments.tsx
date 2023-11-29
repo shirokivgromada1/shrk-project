@@ -5,15 +5,16 @@ import Image from "next/image";
 import useBetterMediaQuery from "@/hooks/useBetterMediaQuery";
 import Link from "next/link";
 import ArrowDown from "../../../assets/arrow-down.svg";
-import { useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import { animateScroll as scrolle } from "react-scroll/modules";
+import { LangContext } from "@/helpers/LangSwitcher/LangSwitcher";
 export const CommunityHeadDepartments = ({
-  data,
-}: {
+                                           data,
+                                         }: {
   data: PageComponentsCommunityHeadDepartments;
 }) => {
-  const { title, departments: departments } = data;
+  const { title, titleEng, departments: departments } = data;
   const isTablet = useBetterMediaQuery("(max-width: 768px)");
   const [isDepartmentsOpened, setIsDepartmentsOpened] = useState(false);
   const handleDepartmentsClick = () => {
@@ -38,6 +39,7 @@ export const CommunityHeadDepartments = ({
       }
     }
   }, []);
+  const { lang } = useContext(LangContext);
   return (
     <>
       {!isTablet ? (
@@ -48,7 +50,7 @@ export const CommunityHeadDepartments = ({
               onClick={() => handleDepartmentsClick()}
               id="departments"
             >
-              {title}
+              {lang === "ua" ? title : titleEng}
               <ArrowDown
                 className={`${isDepartmentsOpened ? styles.active : ""}`}
               />
@@ -92,7 +94,7 @@ export const CommunityHeadDepartments = ({
                               )}
                             </div>
                             <h4 data-tina-field={tinaField(d, "name")}>
-                              {d?.name}
+                              {lang === "ua" ? d?.name : d?.nameEng}
                             </h4>
                           </motion.div>
                         </Link>

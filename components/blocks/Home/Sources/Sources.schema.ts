@@ -16,19 +16,29 @@ export const sourcesComponentSchema: Template = {
       name: "title",
     },
     {
+      type: "string",
+      label: "Title Eng",
+      name: "titleEng",
+    },
+    {
       type: "object",
       label: "Source",
       name: "source",
       list: true,
       ui: {
         itemProps: (item) => {
-          return { label: item.serviceTitle };
+          return { label: item.sourceTitle };
         },
       },
       fields: [
         {
           label: "Title",
           name: "sourceTitle",
+          type: "string",
+        },
+        {
+          label: "Title Eng",
+          name: "sourceTitleEng",
           type: "string",
         },
         {

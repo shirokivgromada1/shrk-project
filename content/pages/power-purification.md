@@ -8,7 +8,7 @@ components:
           position: заступник сільського голови
         date:
           declarationTitle: 'Панов, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Panov-zayava-deklaratsiya.pdf
+          declarationLink: /uploads/power-purification/Panov-zayava-deklaratsiya.pdf
           declarationUrl: ''
         summary: >-
           За результатами проведеної перевірки встановлено, що до Панова Ігоря
@@ -21,8 +21,7 @@ components:
           position: заступник сільського голови
         date:
           declarationTitle: 'Ставицька заява, декларація'
-          declarationLink: >-
-            /uploads/officially/power-purification/Stavy-ts-ka-zayava-deklaratsiya.pdf
+          declarationLink: /uploads/power-purification/Stavy-ts-ka-zayava-deklaratsiya.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Ставицької
           Ольги Сергіївни не застосовуються заборони, визначені частинами
@@ -33,8 +32,7 @@ components:
           position: керуюча справами (секретар) виконавчого комітету
         date:
           declarationTitle: 'Головань заява, декларація'
-          declarationLink: >-
-            /uploads/officially/power-purification/Golovan-zayava-deklaratsiya.pdf
+          declarationLink: /uploads/power-purification/Golovan-zayava-deklaratsiya.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Головань
           Лариси Семенівни не застосовуються заборони, визначені частинами
@@ -47,8 +45,7 @@ components:
             обліку та звітності
         date:
           declarationTitle: 'Нікітенко заява, декларація'
-          declarationLink: >-
-            /uploads/officially/power-purification/Nikitenko-zayava-deklaratsiya.pdf
+          declarationLink: /uploads/power-purification/Nikitenko-zayava-deklaratsiya.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Нікітенко
           Еліни Анатоліївни не застосовуються заборони, визначені частинами
@@ -59,8 +56,7 @@ components:
           position: головний спеціаліст відділу бухгалтерського обліку та звітності
         date:
           declarationTitle: 'Іванова заява, декларація'
-          declarationLink: >-
-            /uploads/officially/power-purification/Ivanova-zayava-deklaratsiya.pdf
+          declarationLink: /uploads/power-purification/Ivanova-zayava-deklaratsiya.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Іванової
           Одарки Олександрівни не застосовуються заборони, визначені частинами
@@ -73,8 +69,7 @@ components:
             інвестицій та регуляторної діяльності
         date:
           declarationTitle: 'Савченко заява, декларація'
-          declarationLink: >-
-            /uploads/officially/power-purification/Savchenko-zayava-deklaratsiya.pdf
+          declarationLink: /uploads/power-purification/Savchenko-zayava-deklaratsiya.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Савченко
           Тамари Володимирівна не застосовуються заборони, визначені частинами
@@ -85,8 +80,7 @@ components:
           position: 'начальник відділу АПК, земельних відносин та екології'
         date:
           declarationTitle: 'Шахов заява, декларація'
-          declarationLink: >-
-            /uploads/officially/power-purification/SHahov-zayava-deklaratsiya.pdf
+          declarationLink: /uploads/power-purification/SHahov-zayava-deklaratsiya.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Панова Ігоря
           Вікторовича не застосовуються заборони, визначені частинами третьою та
@@ -97,8 +91,7 @@ components:
           position: 'спеціаліст відділу АПК, земельних відносин та екології'
         date:
           declarationTitle: 'Пономаренко заява, декларація'
-          declarationLink: >-
-            /uploads/officially/power-purification/Ponomarenko-zayava-deklaratsiya.pdf
+          declarationLink: /uploads/power-purification/Ponomarenko-zayava-deklaratsiya.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Пономаренко
           Віталія Олександровича не застосовуються заборони, визначені частинами
@@ -109,8 +102,7 @@ components:
           position: 'спеціаліст 2 категорії відділу АПК, земельних відносин та екології'
         date:
           declarationTitle: 'Ковтун заява, декларація'
-          declarationLink: >-
-            /uploads/officially/power-purification/Kovtun-zayava-deklaratsiya.pdf
+          declarationLink: /uploads/power-purification/Kovtun-zayava-deklaratsiya.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Ковтун Ірини
           Анатоліївни не застосовуються заборони, визначені частинами третьою та
@@ -121,8 +113,7 @@ components:
           position: 'спеціаліст 2 категорії відділу АПК, земельних відносин та екології'
         date:
           declarationTitle: 'Ступак заява, декларація'
-          declarationLink: >-
-            /uploads/officially/power-purification/Stupak-zayava-deklaratsiya.pdf
+          declarationLink: /uploads/power-purification/Stupak-zayava-deklaratsiya.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Ступака Олега
           Григоровича не застосовуються заборони, визначені частинами третьою та
@@ -133,8 +124,7 @@ components:
           position: начальник відділу ЖКГ та благоустрою
         date:
           declarationTitle: 'Вакулінський заява, декларація'
-          declarationLink: >-
-            /uploads/officially/power-purification/Vakulins-ky-j-zayava-deklaratsiya.pdf
+          declarationLink: /uploads/power-purification/Vakulins-ky-j-zayava-deklaratsiya.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Вакулінського
           Дмитра Івановича не застосовуються заборони, визначені частинами
@@ -145,8 +135,7 @@ components:
           position: спеціаліст 1 категорії відділу ЖКГ та благоустрою
         date:
           declarationTitle: 'Павленко заява, декларація'
-          declarationLink: >-
-            /uploads/officially/power-purification/Pavlenko-zayava-deklaratsiya.pdf
+          declarationLink: /uploads/power-purification/Pavlenko-zayava-deklaratsiya.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Павленко
           Ксенії Сергіївни не застосовуються заборони, визначені частинами
@@ -157,8 +146,7 @@ components:
           position: начальник господарського і технічного відділу
         date:
           declarationTitle: 'Голосной заява, декларація'
-          declarationLink: >-
-            /uploads/officially/power-purification/Golosnoj-zayava-deklaratsiya.pdf
+          declarationLink: /uploads/power-purification/Golosnoj-zayava-deklaratsiya.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Голосного
           Миколи Яковича не застосовуються заборони, визначені частинами третьою
@@ -169,8 +157,7 @@ components:
           position: начальник загального відділу
         date:
           declarationTitle: 'Захарченко заява, декларація'
-          declarationLink: >-
-            /uploads/officially/power-purification/Zaharchenko-zayava-deklaratsiya.pdf
+          declarationLink: /uploads/power-purification/Zaharchenko-zayava-deklaratsiya.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Захарченко
           Наталії Іванівни не застосовуються заборони, визначені частинами
@@ -184,8 +171,7 @@ components:
             внутрішніх справ загального відділу
         date:
           declarationTitle: 'Калашник заява, декларація'
-          declarationLink: >-
-            /uploads/officially/power-purification/Kalashny-k-zayava-deklaratsiya.pdf
+          declarationLink: /uploads/power-purification/Kalashny-k-zayava-deklaratsiya.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Калашника
           Миколи Володимировича не застосовуються заборони, визначені частинами
@@ -198,7 +184,7 @@ components:
             послуг
         date:
           declarationTitle: 'Банде заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Bande-zayava-deklaratsiya.pdf
+          declarationLink: /uploads/power-purification/Bande-zayava-deklaratsiya.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Банде Любов
           Сергіївни не застосовуються заборони, визначені частинами третьою та
@@ -209,8 +195,7 @@ components:
           position: начальник юридичного відділу
         date:
           declarationTitle: 'Литвиненко заява, декларація'
-          declarationLink: >-
-            /uploads/officially/power-purification/Ly-tvy-nenko-zayava-deklaratsiya.pdf
+          declarationLink: /uploads/power-purification/Ly-tvy-nenko-zayava-deklaratsiya.pdf
           declarationUrl: ''
         summary: >-
           За результатами проведеної перевірки встановлено, що до Литвиненко
@@ -222,7 +207,7 @@ components:
           position: головний спеціаліст загального відділу
         date:
           declarationTitle: 'Носкова, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Noskova.pdf
+          declarationLink: /uploads/power-purification/Noskova.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Носкової
           ЮліїІгорівни не застосовуються заборони, визначені частинами третьою
@@ -233,7 +218,7 @@ components:
           position: головний спеціаліст загального відділу
         date:
           declarationTitle: 'Павлюк, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Pavlyuk.pdf
+          declarationLink: /uploads/power-purification/Pavlyuk.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Павлюк
           Анастасії Василівни не застосовуються заборони, визначені частинами
@@ -244,7 +229,7 @@ components:
           position: головний спеціаліст відділу освіти
         date:
           declarationTitle: 'Шахова, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/SHahova.pdf
+          declarationLink: /uploads/power-purification/SHahova.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Шахової Ольги
           Миколаївни не застосовуються заборони, визначені частинами третьою та
@@ -255,7 +240,7 @@ components:
           position: головний спеціаліст відділу освіти
         date:
           declarationTitle: 'Тутиніна, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Tuty-nina.pdf
+          declarationLink: /uploads/power-purification/Tuty-nina.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Тутиніної
           Надії Василівни не застосовуються заборони, визначені частинами
@@ -266,7 +251,7 @@ components:
           position: начальник відділу освіти
         date:
           declarationTitle: 'Кондрус, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Kondrus.pdf
+          declarationLink: /uploads/power-purification/Kondrus.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Кондрус Олени
           В’ячеславовни не застосовуються заборони, визначені частинами третьою
@@ -277,7 +262,7 @@ components:
           position: головний спеціаліст відділу освіти
         date:
           declarationTitle: 'Антоненко, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Antonenko.pdf
+          declarationLink: /uploads/power-purification/Antonenko.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Антоненко
           Тетяни Олександрівни не застосовуються заборони, визначені частинами
@@ -288,7 +273,7 @@ components:
           position: головний спеціаліст відділу освіти
         date:
           declarationTitle: 'Попович, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Popovy-ch.pdf
+          declarationLink: /uploads/power-purification/Popovy-ch.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Попович
           Світлани Володимирівни не застосовуються заборони, визначені частинами
@@ -301,7 +286,7 @@ components:
             послуг”
         date:
           declarationTitle: 'Мілейко, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Milejko.pdf
+          declarationLink: /uploads/power-purification/Milejko.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Мілейко Юлії
           Олександрівни не застосовуються заборони, визначені частинами третьою
@@ -314,7 +299,7 @@ components:
             послуг”
         date:
           declarationTitle: 'Афріхіна, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Afry-kina.pdf
+          declarationLink: /uploads/power-purification/Afry-kina.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Афріхіної
           Світлани Валентинівни не застосовуються заборони, визначені частинами
@@ -327,7 +312,7 @@ components:
             “Центр надання адміністративних послуг”
         date:
           declarationTitle: 'Копчак, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Kopchak.pdf
+          declarationLink: /uploads/power-purification/Kopchak.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Копчак
           Вікторії Володимирівни не застосовуються заборони, визначені частинами
@@ -338,7 +323,7 @@ components:
           position: головний спеціаліст юридичного відділу
         date:
           declarationTitle: 'Панченко, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Scan_20180416_151405.pdf
+          declarationLink: /uploads/power-purification/Scan_20180416_151405.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Панченко
           Олексія Сергійовича не застосовуються заборони, визначені частинами
@@ -349,7 +334,7 @@ components:
           position: заступник сільського голови
         date:
           declarationTitle: 'Свіркін, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Scan_20180416_145757.pdf
+          declarationLink: /uploads/power-purification/Scan_20180416_145757.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Свіркіна
           Дмитра Олександровича не застосовуються заборони, визначені частинами
@@ -362,7 +347,7 @@ components:
             благоустрою
         date:
           declarationTitle: 'Арутюнян, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Arutyunyan.pdf
+          declarationLink: /uploads/power-purification/Arutyunyan.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Арутюняна
           Євгена Едуардовича не застосовуються заборони, визначені частинами
@@ -375,7 +360,7 @@ components:
             послуг”
         date:
           declarationTitle: 'Гавриш, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Gavry-sh.pdf
+          declarationLink: /uploads/power-purification/Gavry-sh.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Гавриш Тетяни
           Володимирівни не застосовуються заборони, визначені частинами третьою
@@ -388,7 +373,7 @@ components:
             послуг”
         date:
           declarationTitle: 'Гур’янова, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Gur-yanova.pdf
+          declarationLink: /uploads/power-purification/Gur-yanova.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Гур’янової
           Наталії Олександрівни не застосовуються заборони, визначені частинами
@@ -399,7 +384,7 @@ components:
           position: головний спеціаліст відділу архітектури та містобудування
         date:
           declarationTitle: 'Комісаренко, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Komisarenko.pdf
+          declarationLink: /uploads/power-purification/Komisarenko.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Комісаренко
           Анни Олександрівни не застосовуються заборони, визначені частинами
@@ -410,7 +395,7 @@ components:
           position: головний спеціаліст юридичного відділу
         date:
           declarationTitle: 'Максименко, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Maksy-menko.pdf
+          declarationLink: /uploads/power-purification/Maksy-menko.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Максименко
           Володимира Юрійовича не застосовуються заборони, визначені частинами
@@ -421,7 +406,7 @@ components:
           position: головний спеціаліст відділу бухгалтерського обліку та звітності
         date:
           declarationTitle: 'Сідловська, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Sidlovs-ka.pdf
+          declarationLink: /uploads/power-purification/Sidlovs-ka.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Сідловської
           Євгенії Леонідівни не застосовуються заборони, визначені частинами
@@ -434,7 +419,7 @@ components:
             політики
         date:
           declarationTitle: 'Іванченко, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Ivanchenko.pdf
+          declarationLink: /uploads/power-purification/Ivanchenko.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Іванченко
           Ірини Володимирівни не застосовуються заборони, визначені частинами
@@ -447,7 +432,7 @@ components:
             послуг”
         date:
           declarationTitle: 'Кравченко, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Kravchenko.pdf
+          declarationLink: /uploads/power-purification/Kravchenko.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Кравченко
           Єлізавети Валентинівни не застосовуються заборони, визначені частинами
@@ -458,7 +443,7 @@ components:
           position: спеціаліст 1 категорії відділу ЖКГ та благоустрою
         date:
           declarationTitle: 'Зубенко, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Zubenko.pdf
+          declarationLink: /uploads/power-purification/Zubenko.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Зубенко Олени
           Володимирівни не застосовуються заборони, визначені частинами третьою
@@ -469,7 +454,7 @@ components:
           position: головний спеціаліст відділу бухгалтерського обліку та звітності
         date:
           declarationTitle: 'Гурбич, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Gurby-ch.pdf
+          declarationLink: /uploads/power-purification/Gurby-ch.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Гурбич Марії
           Євгенівни не застосовуються заборони, визначені частинами третьою та
@@ -482,7 +467,7 @@ components:
             інвестицій та регуляторної діяльності
         date:
           declarationTitle: 'Ткаченко, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Scan_20190115_132803.pdf
+          declarationLink: /uploads/power-purification/Scan_20190115_132803.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Ткаченко
           Наталії Миколаївни не застосовуються заборони, визначені частинами
@@ -496,7 +481,7 @@ components:
             військового обліку
         date:
           declarationTitle: 'Стукало, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Stukalo.pdf
+          declarationLink: /uploads/power-purification/Stukalo.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Стукало Олени
           Петрівни не застосовуються заборони, визначені частинами третьою та
@@ -507,7 +492,7 @@ components:
           position: державний реєстратор відділу “Центр надання адміністративних послуг”
         date:
           declarationTitle: 'Гопка, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Gopka.pdf
+          declarationLink: /uploads/power-purification/Gopka.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Гопка Юрія
           Володимировича не застосовуються заборони, визначені частинами третьою
@@ -520,7 +505,7 @@ components:
             містобудування
         date:
           declarationTitle: 'Блинова, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Bly-nova.pdf
+          declarationLink: /uploads/power-purification/Bly-nova.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Блинової
           Людмили Юріївни не застосовуються заборони, визначені частинами
@@ -531,7 +516,7 @@ components:
           position: адміністратор відділу “Центр надання адміністративних послуг”
         date:
           declarationTitle: 'Гусак, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Gusak.pdf
+          declarationLink: /uploads/power-purification/Gusak.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Гусак Олени
           Валентинівни не застосовуються заборони, визначені частинами третьою
@@ -542,7 +527,7 @@ components:
           position: головний спеціаліст відділу соціального захисту
         date:
           declarationTitle: 'Фесенко, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Фесенко.pdf
+          declarationLink: /uploads/power-purification/Fesenko.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Фесенко Андрія
           Владиславович не застосовуються заборони, визначені частинами третьою
@@ -553,7 +538,7 @@ components:
           position: головний спеціаліст відділу освіти
         date:
           declarationTitle: 'Батракова, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Батракова.pdf
+          declarationLink: /uploads/power-purification/Batrakova.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Батракової
           Марини Володимирівни не застосовуються заборони, визначені частинами
@@ -564,7 +549,7 @@ components:
           position: спеціаліст 1 категорії відділу ЖКГ та благоустрою
         date:
           declarationTitle: 'Івакін, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Івакін.pdf
+          declarationLink: /uploads/power-purification/Ivakin.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Івакіна
           Олексія Віталійовича не застосовуються заборони, визначені частинами
@@ -577,7 +562,7 @@ components:
             містобудування
         date:
           declarationTitle: 'Івчік, заява, декларація'
-          declarationLink: /uploads/officially/power-purification/Івчик.pdf
+          declarationLink: /uploads/power-purification/Ivchyk.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Івчик Дар’ї
           Олександрівни не застосовуються заборони, визначені частинами третьою
@@ -585,4 +570,12 @@ components:
           14.01.2020
     _template: PowerPurification
 ---
+
+
+
+
+
+
+
+
 

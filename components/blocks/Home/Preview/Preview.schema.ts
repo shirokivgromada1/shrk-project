@@ -17,8 +17,18 @@ export const previewComponentSchema: Template = {
     },
     {
       type: "string",
+      label: "Title Eng",
+      name: "titleEng",
+    },
+    {
+      type: "string",
       label: "Description",
       name: "description",
+    },
+    {
+      type: "string",
+      label: "Description Eng",
+      name: "descriptionEng",
     },
     {
       type: "image",

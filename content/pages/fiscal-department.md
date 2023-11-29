@@ -2,7 +2,7 @@
 title: fiscal-department
 components:
   - title: Фінансовий відділ
-    image: /uploads/silrada/departments/fiscal-department.png
+    image: /uploads/silrada-department-desc/photo-6.png
     fullname: Нічіпорчук Людмила Анатоліївна
     schedule:
       title: Графік роботи
@@ -59,4 +59,6 @@ components:
       - title: Паспорти бюджетних програм міського бюджету за 2023 рік
     _template: HeadOrders
 ---
+
+
 

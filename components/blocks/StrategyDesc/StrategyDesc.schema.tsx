@@ -16,9 +16,19 @@ export const strategyDescComponentSchema: Template = {
       name: "title",
     },
     {
+      type: "string",
+      label: "Title Eng",
+      name: "titleEng",
+    },
+    {
       type: "rich-text",
       label: "Text block",
       name: "text",
+    },
+    {
+      type: "rich-text",
+      label: "Text block Eng",
+      name: "textEng",
     },
     {
       type: "object",
@@ -38,8 +48,18 @@ export const strategyDescComponentSchema: Template = {
         },
         {
           type: "string",
+          label: "Title Eng",
+          name: "titleEng",
+        },
+        {
+          type: "string",
           label: "Description",
           name: "desc",
+        },
+        {
+          type: "string",
+          label: "Description Eng",
+          name: "descEng",
         },
         {
           type: "image",

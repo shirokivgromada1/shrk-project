@@ -17,6 +17,11 @@ export const communityHeadEnterprisesComponentSchema: Template = {
       name: "title",
     },
     {
+      type: "string",
+      label: "Title Eng",
+      name: "titleEng",
+    },
+    {
       type: "object",
       label: "enterprises",
       name: "enterprises",
@@ -29,8 +34,13 @@ export const communityHeadEnterprisesComponentSchema: Template = {
       fields: [
         {
           type: "string",
-          label: "enterprises name",
+          label: "Enterprises name",
           name: "name",
+        },
+        {
+          type: "string",
+          label: "Enterprises name Eng",
+          name: "nameEng",
         },
         {
           type: "string",

@@ -2,7 +2,7 @@
 title: accounting-department
 components:
   - title: Відділ бухгалтерського обліку
-    image: /uploads/silrada/departments/accounting-department.png
+    image: /uploads/silrada-department-desc/photo-8.png
     fullname: Свіріна Одарка Олександрівна
     schedule:
       title: Графік роботи
@@ -48,4 +48,6 @@ components:
       - title: Паспорти бюджетних програм міського бюджету за 2023 рік
     _template: HeadOrders
 ---
+
+
 

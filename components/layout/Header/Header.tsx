@@ -4,7 +4,7 @@ import Eye from "./../../../assets/eye.svg";
 import Account from "./../../../assets/account.svg";
 import Search from "./../../../assets/search.svg";
 import NavLink from "./components/NavLink/NavLink";
-import { Dispatch, FC, useEffect, useState } from "react";
+import { Dispatch, FC, useContext, useEffect, useState } from "react";
 import Link from "next/link";
 import SanitizeHTML from "./../../util/SanitizeHTML";
 import { Skeleton } from "@mui/material";
@@ -19,6 +19,7 @@ import Bell from "./../../../assets/bell.svg";
 import { useChat } from "@/context/ChatContext";
 import { useAuth } from "@/context/AuthContext";
 import { useUser } from "@/context/UserContext";
+import LangSwitcher, { LangContext } from "@/helpers/LangSwitcher/LangSwitcher";
 
 interface IHeader {
   setMenuOpen: Dispatch<boolean>;
@@ -67,7 +68,7 @@ const Header: FC<IHeader> = ({ setMenuOpen, menuOpen, data }) => {
         }, 200);
     }
   }, [eyeView, searchView]);
-
+  const { lang } = useContext(LangContext);
   return (
     <header className={styles.header}>
       <div className="container">
@@ -89,7 +90,7 @@ const Header: FC<IHeader> = ({ setMenuOpen, menuOpen, data }) => {
                   />
                 )}
                 <span data-tina-field={tinaField(data, "name")}>
-                  {data.name}
+                  {lang === "ua" ? data.name : data.nameEng}
                 </span>
               </a>
             </Link>
@@ -101,7 +102,9 @@ const Header: FC<IHeader> = ({ setMenuOpen, menuOpen, data }) => {
               data.nav &&
               data.nav.map(
                 (link, index) =>
-                  link && (
+                  link &&
+                  link.label &&
+                  link.labelEng && (
                     <li
                       key={link.label + index}
                       data-tina-field={tinaField(link, "label")}
@@ -122,7 +125,9 @@ const Header: FC<IHeader> = ({ setMenuOpen, menuOpen, data }) => {
                         isView={isView}
                         links={link.isModal ? link.links : undefined}
                       >
-                        <span>{link.label}</span>
+                        <span>
+                          {lang === "ua" ? link.label : link.labelEng}
+                        </span>
                       </NavLink>
                     </li>
                   )
@@ -156,7 +161,7 @@ const Header: FC<IHeader> = ({ setMenuOpen, menuOpen, data }) => {
                 searchView={searchView}
               />
             </>
-            <button type="button">ua</button>
+            <LangSwitcher/>
             <Link href={"/dashboard/messages"}>
               <a className={styles.header__options_controllers_link}>
                 <>

@@ -1,7 +1,7 @@
 import Link from "next/link";
 import styles from "./Sources.module.scss";
 import { IoIosArrowDown } from "react-icons/io";
-import { useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
 import AnimateHeight from "react-animate-height";
 import { useMediaQuery } from "usehooks-ts";
 import {
@@ -9,14 +9,15 @@ import {
   PageComponentsSources,
 } from "@/tina/__generated__/types";
 import { tinaField } from "tinacms/dist/react";
+import { LangContext } from "@/helpers/LangSwitcher/LangSwitcher";
 
 export const Sources = ({
-  data,
-}: {
+                          data,
+                        }: {
   data: PageComponentsSources | DepartmentPeopleComponentsSources;
 }) => {
   const [isView, setView] = useState(false);
-  const { title, source: sources } = data;
+  const { title, titleEng, source: sources } = data;
   const [viewCount, setCount] = useState(4);
 
   const defaultScreen = useMediaQuery("(min-width:1330px)");
@@ -34,11 +35,15 @@ export const Sources = ({
       smallScreen && setCount(1);
     }
   }, [largeScreen, mediumScreen, smallScreen, defaultScreen]);
-
+  const { lang } = useContext(LangContext);
   return (
     <div className={styles.links}>
       <div className="container">
-        {title && <h1 data-tina-field={tinaField(data, "title")}>{title}</h1>}
+        {title && titleEng && (
+          <h1 data-tina-field={tinaField(data, "title")}>
+            {lang === "ua" ? title : titleEng}
+          </h1>
+        )}
         <div className={styles.links_wrapper}>
           {sources && (
             <div className={styles.links__inner}>
@@ -57,7 +62,7 @@ export const Sources = ({
                             data-tina-field={tinaField(s, "sourceIcon")}
                           />
                           <span data-tina-field={tinaField(s, "sourceTitle")}>
-                            {s?.sourceTitle}
+                            {lang === "ua" ? s?.sourceTitle : s?.sourceTitleEng}
                           </span>
                         </a>
                       </Link>
@@ -90,7 +95,9 @@ export const Sources = ({
                               data-tina-field={tinaField(s, "sourceIcon")}
                             />
                             <span data-tina-field={tinaField(s, "sourceTitle")}>
-                              {s?.sourceTitle}
+                              {lang === "ua"
+                                ? s?.sourceTitle
+                                : s?.sourceTitleEng}
                             </span>
                           </a>
                         </Link>
@@ -103,7 +110,15 @@ export const Sources = ({
         {sources && sources.length > viewCount && (
           <div className={styles.links__seeMore}>
             <button type="button" onClick={() => setView((prev) => !prev)}>
-              <span>{isView ? "Менше" : "Більше"}</span>
+              <span>
+                {isView
+                  ? lang === "ua"
+                    ? "Менше"
+                    : "Less"
+                  : lang === "ua"
+                    ? "Більше"
+                    : "More"}
+              </span>
               <IoIosArrowDown
                 style={{
                   transform: isView ? "rotate(180deg)" : "rotate(0deg)",

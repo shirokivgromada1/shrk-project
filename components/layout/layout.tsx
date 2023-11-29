@@ -8,6 +8,7 @@ import Menu from "./Header/components/Menu/Menu";
 import Footer from "./Footer/Footer";
 import { useRouter } from "next/router";
 import styles from "./layout.module.scss";
+import { LangSwitcherProvider } from "@/helpers/LangSwitcher/LangSwitcher";
 
 export const Layout = ({
   data = layoutData,
@@ -24,6 +25,7 @@ export const Layout = ({
   }, [router.asPath]);
 
   return (
+    <LangSwitcherProvider>
     <div className={styles.layout}>
       <Head>
         <title>Широківська об'єднана територіальна громада</title>
@@ -52,5 +54,6 @@ export const Layout = ({
       </AnimatePresence>
       <Footer data={data?.footer} />
     </div>
+    </LangSwitcherProvider>
   );
 };

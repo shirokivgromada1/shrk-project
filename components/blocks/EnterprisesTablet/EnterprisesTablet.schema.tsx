@@ -15,6 +15,11 @@ export const enterprisesTabletComponentSchema: Template = {
       name: "title",
     },
     {
+      type: "string",
+      label: "Title Eng",
+      name: "titleEng",
+    },
+    {
       type: "object",
       label: "Enterprises",
       name: "enterprises",
@@ -29,6 +34,11 @@ export const enterprisesTabletComponentSchema: Template = {
           type: "string",
           label: "Enterprise name",
           name: "name",
+        },
+        {
+          type: "string",
+          label: "Enterprise name Eng",
+          name: "nameEng",
         },
         {
           type: "string",

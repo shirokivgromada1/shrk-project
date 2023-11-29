@@ -2,21 +2,28 @@
 title: home
 components:
   - title: Широківська громада
+    titleEng: Shirokiv community
     description: Знайдіть усі послуги та інформацію онлайн
-    previewImage: /uploads/home/photo.png
+    descriptionEng: Find all services and information online
+    previewImage: /uploads/preview.png
     freshNews: []
     _template: preview
   - title: Ми надаємо такі послуги
+    titleEng: We provide the following services
     service:
       - serviceTitle: Соціальний захист
-        serviceIcon: /uploads/home/service-4.svg
+        serviceTitleEng: Social Protection
+        serviceIcon: /uploads/health.svg
         serviceLink: 'http://example.com'
       - serviceTitle: Комунальне майно
-        serviceIcon: /uploads/home/service-1.svg
-      - serviceTitle: Клініка  "Сімейний лікар"
-        serviceIcon: /uploads/home/service-2.svg
+        serviceTitleEng: Communal property
+        serviceIcon: /uploads/house.svg
+      - serviceTitle: Клініка "Сімейний лікар"
+        serviceTitleEng: Clinic "Family Doctor"
+        serviceIcon: /uploads/clinic.svg
       - serviceTitle: Первинна  правова допомога
-        serviceIcon: /uploads/home/service-3.svg
+        serviceTitleEng: Primary legal aid
+        serviceIcon: /uploads/emergency.svg
     _template: services
   - headline:
       text: Новини
@@ -34,19 +41,27 @@ components:
         pageImage: ''
     _template: infoPages
   - title: Офіційні джерела
+    titleEng: Official sources
     source:
       - sourceTitle: Запорізька  обласна рада
-        sourceIcon: /uploads/home/info-4.svg
+        sourceTitleEng: Zaporizhzhia Regional Council
+        sourceIcon: /uploads/Coat_of_arms_of_Zaporizhia_Oblast.svg
         sourceLink: 'https://zor.gov.ua/'
       - sourceTitle: Кабінет міністрів України
-        sourceIcon: /uploads/home/info-3.svg
+        sourceTitleEng: Cabinet of Ministers of Ukraine
+        sourceIcon: /uploads/e6d83d483c84840881fd1a52ba7f9f83.png
         sourceLink: 'https://www.kmu.gov.ua/'
       - sourceTitle: Верховна рада України
-        sourceIcon: /uploads/home/info-2.svg
+        sourceTitleEng: Verkhovna Rada of Ukraine
+        sourceIcon: /uploads/d8210517c562a91418a7edfb10494896.png
         sourceLink: 'https://www.rada.gov.ua/'
       - sourceTitle: Президент України
-        sourceIcon: /uploads/home/info-1.svg
+        sourceTitleEng: President of Ukraine
+        sourceIcon: /uploads/300a37122b1bc2fc8c9d9c00e3560a79.png
         sourceLink: 'https://www.president.gov.ua/'
     _template: sources
 ---
+
+
+
 

@@ -3,12 +3,12 @@ title: head-orders
 components:
   - title: Розпорядження голови
     subtitle: ''
+    removeMarginBottom: false
     order:
       - title: >-
           Актуальний бюджет громади на 2023 рік (з усіма змінами та
           доповненнями) станом на 01.06.2023 року
-        link: >-
-          /uploads/officially/documents/head-orders/Aktual-nyy-biudzhet-hromady-na-2023-rik-z-usima-zminamy-ta-dopovnenniamy-stanom-na-01.06.2023-roku.doc
+        link: ''
       - title: Інформація про виконання місцевого бюджету за січень-травень 2023 року
         hidden: false
       - title: Про початок нового 2022/2023 навчального року в закладах освіти
@@ -22,13 +22,18 @@ components:
       - title: >-
           Актуальний бюджет громади на 2023 рік (з усіма змінами та
           доповненнями) станом на 02.05.2023 року
-        link: >-
-          /uploads/officially/documents/head-orders/Aktual-nyy-biudzhet-hromady-na-2023-rik-z-usima-zminamy-ta-dopovnenniamy-stanom-na-02.05.2023-roku.doc
         hidden: false
       - title: Виконання місцевого бюджету за січень-квітень 2023 року
-        link: >-
-          /uploads/officially/documents/head-orders/informatsiiag-pro-vykonannia-mistsevoho-biudzhetu-za-sichen-kviten-2023-roku.xlsx
         hidden: false
     _template: HeadOrders
 ---
+
+
+
+
+
+
+
+
+
 

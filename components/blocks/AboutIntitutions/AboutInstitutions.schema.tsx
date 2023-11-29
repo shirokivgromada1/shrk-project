@@ -18,15 +18,30 @@ export const aboutInstitutionsComponentSchema: Template = {
       name: "cultTitle",
     },
     {
+      type: "string",
+      label: "Culturals title Eng",
+      name: "cultTitleEng",
+    },
+    {
       type: "object",
       label: "Culturals Insitutions",
       name: "culturals",
       list: true,
+      ui: {
+        itemProps: (item) => {
+          return { label: item?.name };
+        },
+      },
       fields: [
         {
           type: "string",
           label: "Name",
           name: "name",
+        },
+        {
+          type: "string",
+          label: "Name Eng",
+          name: "nameEng",
         },
         {
           type: "boolean",
@@ -41,15 +56,30 @@ export const aboutInstitutionsComponentSchema: Template = {
       name: "educTitle",
     },
     {
+      type: "string",
+      label: "Educational title Eng",
+      name: "educTitleEng",
+    },
+    {
       type: "object",
       label: "Educational Insitutions",
       name: "educationals",
       list: true,
+      ui: {
+        itemProps: (item) => {
+          return { label: item?.name };
+        },
+      },
       fields: [
         {
           type: "string",
           label: "Name",
           name: "name",
+        },
+        {
+          type: "string",
+          label: "Name Eng",
+          name: "nameEng",
         },
         {
           type: "boolean",
@@ -64,15 +94,30 @@ export const aboutInstitutionsComponentSchema: Template = {
       name: "pharTitle",
     },
     {
+      type: "string",
+      label: "Pharmacies title Eng",
+      name: "pharTitleEng",
+    },
+    {
       type: "object",
       label: "Pharmacies",
       name: "pharmacies",
       list: true,
+      ui: {
+        itemProps: (item) => {
+          return { label: item?.name };
+        },
+      },
       fields: [
         {
           type: "string",
           label: "Name",
           name: "name",
+        },
+        {
+          type: "string",
+          label: "Name Eng",
+          name: "nameEng",
         },
         {
           type: "boolean",

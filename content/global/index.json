@@ -1,28 +1,34 @@
 {
   "header": {
-    "icon": "/uploads/home/icon.svg",
+    "icon": "/uploads/logo.svg",
     "name": "Широківська громада",
-    "color": "default",
+    "nameEng": "Shirokiv community",
+    "color": "",
     "nav": [
       {
         "href": "about-community",
         "label": "Про громаду",
+        "labelEng": "About community",
         "isModal": true,
         "links": [
           {
             "label": "Історія",
+            "labelEng": "History",
             "href": "about-community"
           },
           {
             "label": "Інвестиції",
+            "labelEng": "Investments",
             "href": "investment"
           },
           {
             "label": "Стратегія розвитку",
+            "labelEng": "Development strategy",
             "href": "development-strategy"
           },
           {
             "label": "Старостинські округи",
+            "labelEng": "Starostinsk districts",
             "href": "starostinsk-districts"
           }
         ]
@@ -30,40 +36,49 @@
       {
         "href": "/head-of-the-community",
         "label": "Сільська рада",
+        "labelEng": "Village Council",
         "links": [
           {
             "label": "Заступники голови громади",
+            "labelEng": "Deputy heads of the community",
             "href": "head-of-the-community#deputies",
             "href1": "m-deputies-heads"
           },
           {
             "label": "Секретар ради",
+            "labelEng": "Secretary of the Council",
             "href": "secretary-of-the-council"
           },
           {
             "label": "Виконавчий комітет",
+            "labelEng": "Executive Committee",
             "href": "executive-committee"
           },
           {
             "label": "Голова громади",
+            "labelEng": "Head of the community",
             "href": "head-of-the-community"
           },
           {
             "label": "Депутатський корпус",
+            "labelEng": "Deputies Corps",
             "href": "deputies-corps"
           },
           {
             "label": "Відділи апарат",
+            "labelEng": "Apparatus departments",
             "href": "head-of-the-community#departments",
             "href1": "m-departments"
           },
           {
             "label": "КУ/КП/КНП",
+            "labelEng": "KU/KP/KNP",
             "href": "head-of-the-community#enterprises",
             "href1": "m-enterprises"
           },
           {
             "label": "Опікунська рада",
+            "labelEng": "Board of Trustees",
             "href": "guardians-board"
           }
         ]
@@ -71,29 +86,36 @@
       {
         "href": "all-services",
         "label": "Послуги",
+        "labelEng": "Services",
         "links": [
           {
             "label": "Клініка \"Сімейний лікар\"",
+            "labelEng": "Clinic \"Family Doctor\"",
             "href": "family-doctor-clinic"
           },
           {
             "label": "Комунальне майно",
+            "labelEng": "Communal property",
             "href": "communal-property"
           },
           {
             "label": "Первинна правова допомога",
+            "labelEng": "Primary legal aid",
             "href": "primary-legal-aid"
           },
           {
             "label": "Соціальний захист",
+            "labelEng": "Social Protection",
             "href": "social-protection"
           },
           {
             "label": "ЦНАП",
+            "labelEng": "Tsnap",
             "href": "administrative-services-center"
           },
           {
             "label": "Опитування щодо якості послуг",
+            "labelEng": "Service quality survey",
             "href": "service-quality-survey"
           }
         ]
@@ -101,93 +123,115 @@
       {
         "href": "officially",
         "label": "Офіційно",
+        "labelEng": "Officially",
         "links": [
           {
             "label": "Документи",
+            "labelEng": "Documents",
             "href": "documents"
           },
           {
             "label": "Громадські слухання",
+            "labelEng": "Public hearings",
             "href": "public-hearings"
           },
           {
             "label": "Публічна інформація",
+            "labelEng": "Public information",
             "href": "public-information"
           },
           {
             "label": "Очищення влади",
+            "labelEng": "Purification of power",
             "href": "power-purification"
           },
           {
             "label": "Конкурси",
+            "labelEng": "Competitions",
             "href": "competitions"
           },
           {
             "label": "Оголошення",
+            "labelEng": "Advertisement",
             "href": "advertisements"
           },
           {
             "label": "Петиціі ONLINE",
+            "labelEng": "ONLINE petitions",
             "href": "https://petition.e-dem.ua/shyroke"
           },
           {
             "label": "Діючі програми Широківської громади",
+            "labelEng": "Current programs",
             "href": "current-programs"
           },
           {
             "label": "Галузеві/міжгалузеві, територіальні угоди, колективні договори, зміни і доповнення",
+            "labelEng": "Branch/inter-branch, territorial agreements, collective agreements, changes and additions",
             "href": "branch-inter-branch-territorial-agreements-collective-agreements"
           },
           {
             "label": "Перелік КНП ЗОЗ",
+            "labelEng": "List of KNP ZOH",
             "href": "list-knp-zoh"
           },
           {
             "label": "Фінансові плани КП та звіти",
+            "labelEng": "KP financial plans and reports",
             "href": "financial-plans-and-reports"
           },
           {
             "label": "Фінансовий відділ Широківської сільської ради",
+            "labelEng": "Financial department of the Shirokiv village council",
             "href": "financial-department"
           },
           {
             "label": "Накази про присвоєння адреси закінченим об’єкту будівництва",
+            "labelEng": "Orders on assigning an address to a completed construction site",
             "href": "orders-assigning-address-to-completed-construction-project"
           }
         ]
       },
       {
         "label": "Прес-центр",
+        "labelEng": "Press center",
         "isModal": true,
         "links": [
           {
             "label": "Анонси",
+            "labelEng": "Announcements",
             "href": "announcements"
           },
           {
             "label": "Вакансії",
+            "labelEng": "Vacancies",
             "href": "vacancies"
           },
           {
             "label": "Газета",
+            "labelEng": "Newspaper",
             "href": "newspapers"
           },
           {
             "label": "Новини",
+            "labelEng": "News",
             "href": "news"
           }
         ]
       },
       {
         "label": "Корисна інформація",
+        "labelEng": "Useful Information",
         "isModal": true,
         "links": [
           {
             "label": "Проект PMCI",
+            "labelEng": "Project PMCI",
             "href": "projects-rmsi"
           },
           {
             "label": "Заклади освіти",
+            "labelEng": "Educational institutions",
             "href": "education-institutions"
           }
         ]
@@ -198,19 +242,23 @@
     "nav": [
       {
         "href": "about_community",
-        "label": "Про громаду"
+        "label": "Про громаду",
+        "labelEng": "About community"
       },
       {
         "href": "officially",
-        "label": "Офіційно"
+        "label": "Офіційно",
+        "labelEng": "Officially"
       },
       {
         "href": "head-of-the-community",
-        "label": "Сільська рада"
+        "label": "Сільська рада",
+        "labelEng": "Village Council"
       },
       {
         "href": "services",
-        "label": "Послуги"
+        "label": "Послуги",
+        "labelEng": "Services"
       },
       {
         "href": "announcements",
@@ -218,7 +266,8 @@
       },
       {
         "href": "projects-rmsi",
-        "label": "Корисна інформація"
+        "label": "Корисна інформація",
+        "labelEng": "Useful information"
       }
     ],
     "social": {
@@ -226,11 +275,14 @@
       "instagram": "/",
       "telegram": "/"
     },
-    "logo": "/uploads/home/logo-footer.svg",
+    "logo": "",
     "headline": "Широківська сільська рада  Запорізького району Запорізької області",
+    "headlineEng": "Shirokiv village council of the Zaporizhia district of the Zaporizhia region",
     "location": "м. Запоріжжя, вул. Розенталь, 7",
+    "locationEng": "Zaporizhzhia, st. Rosenthal, 7",
     "googleUrl": "https://www.google.com/maps/place/Rozental+St,+7,+Zaporizhzhia,+Zaporiz'ka+oblast,+Ukraine,+69000/@47.8602722,35.0099899,17z/data=!3m1!4b1!4m6!3m5!1s0x40dc63eafbf",
     "workTime": "пн-пт, з 8 до 20 години",
+    "workTimeEng": "Mon-Fri, from 8 to 20",
     "phone": "(061) 286-21-21"
   },
   "theme": {

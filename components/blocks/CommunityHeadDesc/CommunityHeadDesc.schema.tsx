@@ -16,6 +16,11 @@ export const communityHeadDescComponentSchema: Template = {
       name: "title",
     },
     {
+      type: "string",
+      label: "Title Eng",
+      name: "titleEng",
+    },
+    {
       type: "image",
       label: "Head photo",
       name: "image",
@@ -26,6 +31,11 @@ export const communityHeadDescComponentSchema: Template = {
       name: "fullname",
     },
     {
+      type: "string",
+      label: "Head fullname Eng",
+      name: "fullnameEng",
+    },
+    {
       type: "object",
       label: "Employment",
       name: "employment",
@@ -34,6 +44,11 @@ export const communityHeadDescComponentSchema: Template = {
           type: "string",
           label: "Title",
           name: "title",
+        },
+        {
+          type: "string",
+          label: "Title Eng",
+          name: "titleEng",
         },
         {
           type: "object",
@@ -50,6 +65,11 @@ export const communityHeadDescComponentSchema: Template = {
               type: "string",
               label: "Description",
               name: "desc",
+            },
+            {
+              type: "string",
+              label: "Description Eng",
+              name: "descEng",
             },
           ],
         },
@@ -68,6 +88,11 @@ export const communityHeadDescComponentSchema: Template = {
         },
         {
           type: "string",
+          label: "Title Eng",
+          name: "titleEng",
+        },
+        {
+          type: "string",
           label: "Phone 1",
           name: "phone1",
         },
@@ -80,6 +105,11 @@ export const communityHeadDescComponentSchema: Template = {
           type: "string",
           label: "Place",
           name: "place",
+        },
+        {
+          type: "string",
+          label: "Place Eng",
+          name: "placeEng",
         },
         {
           type: "string",
