@@ -35,6 +35,8 @@ components:
   - listInfoPages:
       - pageTitle: Анонси
         page: content/pages/announcements.md
+        pageText: Очільник МАГАТЕ Гроссі прибув на ЗАЕС
+        pageLink: ''
       - pageTitle: Example
         pageImage: /uploads/neom-0rCJ-y3wx6g-unsplash.jpg
         pageText: example title
