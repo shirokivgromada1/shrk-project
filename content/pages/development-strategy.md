@@ -15,15 +15,14 @@ components:
       працівники комунальних установ, закладів і підприємств, представники
       місцевого бізнесу та громадськості.
     textEng: >
-      The strategy of sustainable development of Shirokivska TG for\*\* the
-      period 2021-2028\*\* was adopted on December 3, 2021 at the plenary
-      meeting of the seventeenth extraordinary session of the Shirokiv village
-      council of the VIII convocation.                   The strategy was
-      developed by a working group, which included international experts, the
-      village head, deputies, members of the executive committee and
-      representatives of structural subdivisions of the Shirokiv village
-      council, employees of communal institutions, institutions and enterprises,
-      representatives of local businesses and the public.
+      The strategy of sustainable development of Shirokivska TG for **the period
+      2021-2028** was adopted on December 3, 2021 at the plenary meeting of the
+      seventeenth extraordinary session of the Shirokiv village council of the
+      VIII convocation. The strategy was developed by a working group, which
+      included international experts, the village head, deputies, members of the
+      executive committee and representatives of structural subdivisions of the
+      Shirokiv village council, employees of communal institutions, institutions
+      and enterprises, representatives of local businesses and the public.
     goals:
       - title: 'Стратегічна ціль 1 '
         titleEng: Strategic goal 1
