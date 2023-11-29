@@ -35,15 +35,17 @@ components:
   - listInfoPages:
       - pageTitle: Анонси
         page: content/pages/announcements.md
+        pageImage: /uploads/home/ann.png
         pageText: Очільник МАГАТЕ Гроссі прибув на ЗАЕС
         pageLink: ''
-      - pageTitle: Example
+      - pageTitle: газета
         pageImage: /uploads/neom-0rCJ-y3wx6g-unsplash.jpg
-        pageText: example title
+        pageText: Названо успіхи ЗСУ на Бердянському напрямку
         pageLink: 'http://example.com'
-      - pageTitle: Новини
+      - pageTitle: Вакансії
         page: content/pages/news.md
         pageImage: ''
+        pageText: Як допомогти територіальній обороні. Відеоінструкція.
     _template: infoPages
   - title: Офіційні джерела
     titleEng: Official sources
