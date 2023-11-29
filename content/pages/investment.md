@@ -5,7 +5,7 @@ components:
     titleEng: INVESTMENTS
     subtitle: РАДІ ВІТАТИ у Широківській громаді Запорізької області!
     subtitleEng: WELCOME to the Shirokiv community of the Zaporizhzhia region!
-    image: /uploads/investment/investment-banner.png
+    image: /uploads/about-community/investment/banner1.png
     firstText: "НАША ГРОМАДА націлена на економічне зростання, розвиток інфраструктури, покращення благоустрою, підвищення якості соціальної, освітньої та медичної сфер.\_\n\nМИ ВІДКРИТІ для всіх українських та міжнародних партнерів, які готові вести власний бізнес в Широківській громаді. Адже це збільшення робочих місць та відсотку податків, які надходять до бюджету сільської ради.\_\n\nМИ ГОТОВІ надавати консультаційну та юридичну підтримку усім підприємцям нашої громади, допоможемо знайти партнерів та отримати необхідні документи/дозволи, залучатимемо місцевий бізнес до грантових проєктів, державних і муніципальних програм.\_\n"
     firstTextEng: >
       OUR COMMUNITY is aimed at economic growth, infrastructure development,
@@ -46,9 +46,7 @@ components:
     button:
       text: Наш інвестиційний сайт
       textEng: Our investment site
-      url: home
+      url: 'https://test.shtg.gov.ua/'
     _template: Investment
 ---
-
-
 
