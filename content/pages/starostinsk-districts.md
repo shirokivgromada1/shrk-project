@@ -38,30 +38,57 @@ components:
         scheduleDateEng: 'Monday - Friday from 8:00 a.m. to 4:30 p.m'
       - id: 3
         name: Лукашівський округ
+        nameEng: Lukashiv district
         captain: 'Староста: Олена Бєлогурова'
-        image: /uploads/starostinsk-districts/item-3.png
+        captainEng: 'Mayor: Olena Belogurova'
+        image: /uploads/about-community/starostinsk-districts/3.png
         contactsTitle: Контакти
+        contactsTitleEng: Contacts
         contactsPhone: 'тел: +38 (067) 680 49 04'
+        contactsPhoneEng: 'phone: +38 (067) 680 49 04'
         contactsAddress: 'адреса: с. Лукашеве, вул. Центральна, 18'
+        contactsAddressEng: 'address: v. Lukasheve, str. Tsentralna, 18'
         scheduleTitle: 'Дні прийому: '
+        scheduleTitleEng: 'Reception days:'
         scheduleDate: "понеділок - п’ятниця\_з 8:00 до 16:30"
         scheduleDateEng: 'Monday - Friday from 8:00 a.m. to 4:30 p.m'
       - id: 4
         name: Володимирівський округ
+        nameEng: Volodymyrivsky district
         captain: 'Староста: Леонід Стукало'
-        image: /uploads/starostinsk-districts/item-4.png
+        captainEng: 'Mayor: Leonid Stukalo'
+        image: /uploads/about-community/starostinsk-districts/4.png
         contactsTitle: Контакти
+        contactsTitleEng: Contacts
         contactsPhone: 'тел: +38 (067) 680 49 04'
+        contactsPhoneEng: 'phone: +38 (067) 680 49 04'
         contactsAddress: 'адреса: с. Лукашеве, вул. Центральна, 18'
+        contactsAddressEng: 'address: v. Lukasheve, str. Tsentralna, 18'
         scheduleTitle: 'Дні прийому: '
+        scheduleTitleEng: 'Reception days:'
         scheduleDate: "понеділок - п’ятниця\_з 8:00 до 16:30"
         scheduleDateEng: 'Monday - Friday from 8:00 a.m. to 4:30 p.m'
       - id: 5
-        name: Ростислав Мартинюк
-        image: /uploads/starostinsk-districts/item-5.png
+        name: Новопертрівський округ
+        nameEng: Novopertrivsky district
+        captain: 'Староста: Тетяна Овсянікова'
+        captainEng: 'Mayor: Tetyana Ovsyanikova'
+        image: /uploads/about-community/starostinsk-districts/5.png
+        contactsTitle: Контакти
+        contactsTitleEng: Contacts
         contactsPhone: '+380969872487'
-        contactsAddress: отделение  №1
+        contactsPhoneEng: '+380969872487'
+        contactsAddress: 'адреса: с. Лукашеве, вул. Центральна, 18'
+        contactsAddressEng: 'address: v. Lukasheve, str. Tsentralna, 18'
+        scheduleTitle: 'Дні прийому: '
+        scheduleTitleEng: 'Reception days:'
+        scheduleDate: "понеділок - п’ятниця\_з 8:00 до 16:30"
         scheduleDateEng: 'Monday - Friday from 8:00 a.m. to 4:30 p.m'
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
     _template: StarostinskDistricts
 ---
 
