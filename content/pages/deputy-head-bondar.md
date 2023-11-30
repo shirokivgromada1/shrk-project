@@ -46,7 +46,17 @@ components:
       facebook: 'https://www.facebook.com/profile.php?id=100019477542622'
     _template: CouncilSecretaryDesc
   - _template: news
-  - title: Розпорядження голови
+  - title: Документи
+    notMain: true
+    order:
+      - title: >-
+          Звіти про виконання паспортів бюджетних програм міського бюджету за
+          2017 рік
+      - title: >-
+          Звіти про виконання паспортів бюджетних програм міського бюджету за
+          2018 рік
+      - title: Паспорти бюджетних програм міського бюджету за 2022 рік
+      - title: Паспорти бюджетних програм міського бюджету за 2023 рік
     _template: HeadOrders
 ---
 
