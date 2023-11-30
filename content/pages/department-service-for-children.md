@@ -2,7 +2,7 @@
 title: department-service-for-children
 components:
   - title: Відділ “Служба у справах дітей”
-    image: /uploads/silrada-department-desc/photo-9.png
+    image: /uploads/non.png
     fullname: Гонтар Юрій Михайлович
     schedule:
       title: Графік роботи
@@ -67,6 +67,4 @@ components:
       - title: Паспорти бюджетних програм міського бюджету за 2023 рік
     _template: HeadOrders
 ---
-
-
 
