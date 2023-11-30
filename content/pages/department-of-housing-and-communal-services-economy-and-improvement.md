@@ -2,7 +2,7 @@
 title: department-of-housing-and-communal-services-economy-and-improvement
 components:
   - title: Відділ житлово-комунального  господарства та благоустрою
-    image: /uploads/silrada-department-desc/photo-2.png
+    image: /uploads/silrada/departments/hou.png
     fullname: Вакулінський Дмитро Іванович
     schedule:
       title: Графік роботи
@@ -67,6 +67,4 @@ components:
       - title: Паспорти бюджетних програм міського бюджету за 2023 рік
     _template: HeadOrders
 ---
-
-
 
