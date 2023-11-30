@@ -8,13 +8,13 @@ components:
         fullname: Ставицька Ольга Сергіївна
         fullnameEng: Stavytska Olga Serhiivna
         position: Заступниця голови
-        positionEng: Deputy head
+        positionEng: Deputy Chairman
         link: deputy-head-stavitska
       - image: /uploads/silrada/head-of-the-community/2.png
         fullname: "Юдіна Марина Дмитрівна\_"
         fullnameEng: Yudina Maryna Dmitrivna
         position: Заступниця голови
-        positionEng: Deputy head
+        positionEng: Deputy Chairman
         link: deputy-head-judina
       - image: /uploads/silrada/head-of-the-community/3.png
         fullname: Головань Лариса Семенівна
@@ -28,13 +28,13 @@ components:
         position: Заступниця голови
         positionEng: Secretary of the Council
         link: secretary-of-the-council
-      - image: /uploads/deputies-mobile/svikrin.png
+      - image: /uploads/silrada/head-of-the-community/5.png
         fullname: Свіркін Дмитро Олександрович
         fullnameEng: Svirkin Dmytro Oleksandrovich
         position: Заступник голови
         positionEng: Deputy Chairman
         link: '#'
-      - image: /uploads/deputies-mobile/bondar.png
+      - image: /uploads/silrada/head-of-the-community/6.png
         fullname: Бондар Олександр Олександрович
         fullnameEng: Bondar Oleksandr Oleksandrovych
         position: Заступник голови
