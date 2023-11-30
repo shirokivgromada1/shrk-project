@@ -20,7 +20,7 @@ components:
         fullname: Головань Лариса Семенівна
         fullnameEng: Golovan Larisa Semenivna
         position: Керуюча справами виконавчого комітету
-        positionEng: MANAGING THE AFFAIRS OF THE EXECUTIVE COMMITTEE
+        positionEng: Managing the affairs of the executive committee
         link: managing-the-executive-affairs-committee
       - image: /uploads/deputies-mobile/pravdyuk.png
         fullname: Правдюк Олена Анатоліївна
