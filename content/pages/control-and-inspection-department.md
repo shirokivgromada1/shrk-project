@@ -4,7 +4,7 @@ components:
   - title: >-
       Відділ з питань контролю та інспектування,  взаємодії з правоохоронними
       органами,  цивільного захисту та військового обліку
-    image: /uploads/silrada-department-desc/photo-5.png
+    image: /uploads/silrada/departments/ins.png
     fullname: Кіслухін Євген Олександрович
     schedule:
       title: Графік роботи
@@ -68,6 +68,4 @@ components:
       - title: Паспорти бюджетних програм міського бюджету за 2023 рік
     _template: HeadOrders
 ---
-
-
 
