@@ -2,7 +2,7 @@
 title: legal-department
 components:
   - title: Юридичний відділ
-    image: /uploads/silrada-department-desc/photo-3.png
+    image: /uploads/silrada/departments/jur.png
     fullname: "Литвиненко Жанна Миколаївна\_"
     schedule:
       title: Графік роботи
@@ -58,7 +58,4 @@ components:
       - title: Паспорти бюджетних програм міського бюджету за 2023 рік
     _template: HeadOrders
 ---
-
-
-
 
