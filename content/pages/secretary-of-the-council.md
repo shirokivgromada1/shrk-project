@@ -3,7 +3,7 @@ title: secretary-of-the-council
 components:
   - title: секретарка ради
     titleEng: secretary of the council
-    image: ''
+    image: /uploads/silrada/head-of-the-community/4.png
     fullname: Правдюк Олена Анатоліївна
     fullnameEng: Pravdyuk Olena Anatolyivna
     employment:
@@ -66,6 +66,4 @@ components:
       - title: Паспорти бюджетних програм міського бюджету за 2023 рік заванатажити
     _template: HeadOrders
 ---
-
-
 
