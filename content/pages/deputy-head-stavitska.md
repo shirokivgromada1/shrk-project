@@ -3,7 +3,7 @@ title: deputy-head-stavitska
 components:
   - title: Заступниця голови громади
     titleEng: Deputy head of the community
-    image: /uploads/deputy-head/svatitska.jpg
+    image: /uploads/silrada/head-of-the-community/1.png
     fullname: Ставицька Ольга Сергіївна
     fullnameEng: Stavytska Olga Serhiivna
     employment:
@@ -74,6 +74,4 @@ components:
       - title: Паспорти бюджетних програм міського бюджету за 2023 рік заванатажити
     _template: HeadOrders
 ---
-
-
 
