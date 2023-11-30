@@ -4,24 +4,24 @@ components:
   - title: ЗАСТУПНИКИ ГОЛОВИ
     titleEng: DEPUTY CHAIRMEN
     deputy:
-      - image: /uploads/deputies-mobile/stavytsika.png
+      - image: /uploads/silrada/head-of-the-community/1.png
         fullname: Ставицька Ольга Сергіївна
         fullnameEng: Stavytska Olga Serhiivna
         position: Заступниця голови
         positionEng: Deputy head
-        link: '#'
-      - image: /uploads/deputies-mobile/udina.png
+        link: deputy-head-stavitska
+      - image: /uploads/silrada/head-of-the-community/2.png
         fullname: "Юдіна Марина Дмитрівна\_"
         fullnameEng: Yudina Maryna Dmitrivna
-        position: Керуюча справами  виконавчого комітету
-        positionEng: Managing the affairs of the executive committee
-        link: '#'
+        position: Заступниця голови
+        positionEng: Deputy head
+        link: deputy-head-judina
       - image: /uploads/deputies-mobile/golovan.png
         fullname: Головань Лариса Семенівна
         fullnameEng: Golovan Larisa Semenivna
-        position: Заступниця голови
-        positionEng: Deputy head
-        link: '#'
+        position: Керуюча справами виконавчого комітету
+        positionEng: MANAGING THE AFFAIRS OF THE EXECUTIVE COMMITTEE
+        link: managing-the-executive-affairs-committee
       - image: /uploads/deputies-mobile/pravdyuk.png
         fullname: Правдюк Олена Анатоліївна
         fullnameEng: Pravdyuk Olena Anatolyivna
@@ -42,7 +42,4 @@ components:
         link: '#'
     _template: DeputyHeadTablet
 ---
-
-
-
 
