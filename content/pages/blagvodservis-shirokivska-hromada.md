@@ -2,7 +2,7 @@
 title: blagvodservis-shirokivska-hromada
 components:
   - title: КП “Благводсервіс Широківської громади”
-    image: /uploads/communual-institutions/cu-6.png
+    image: /uploads/silrada/communual-institutions/pru.png
     fullname: Прус Інна Миколаївна
     schedule:
       title: Графік роботи
@@ -14,6 +14,7 @@ components:
     position:
       title: Посада
       name: Керівник
+    desc: ''
     _template: EnterprisesDesc
   - title: Основні функції
     function:
@@ -25,5 +26,4 @@ components:
       text: Новини
     _template: news
 ---
-
 
