@@ -2,7 +2,7 @@
 title: community-development-agency
 components:
   - title: КУ “Агенція розвитку Широківської громади”
-    image: /uploads/communual-institutions/cu-1.png
+    image: /uploads/silrada/communual-institutions/nos.png
     fullname: Носкова Юлія Ігорівна
     schedule:
       title: Графік роботи
@@ -15,7 +15,7 @@ components:
     position:
       title: Посада
       name: Директорка
-    desc: >+
+    desc: >
       Загалом фахівці Агенції написали понад 40 проектних заявок, з яких 18
       отримали перемогу та фінансування. Обсяг залучених коштів перевищує 6
       мільйонів гривень.Також Агенцією реалізовується проект Громадських бюджет,
@@ -25,11 +25,9 @@ components:
       населення громади.
 
 
-
       У співпраці з громадськими організаціями, на проекти та ініціативи у
       громаді було додатково залучено понад 750 тисяч гривень позабюджетних
       коштів.
-
     _template: EnterprisesDesc
   - title: Основні функції
     function:
@@ -52,8 +50,4 @@ components:
       text: Новини
     _template: news
 ---
-
-
-
-
 
