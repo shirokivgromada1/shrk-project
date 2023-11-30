@@ -2,8 +2,7 @@
 title: department-of-social-protection-of-the-population
 components:
   - title: Відділ соціального захисту населення
-    image: >-
-      /uploads/silrada/departments/department-of-social-protection-of-the-population.png
+    image: /uploads/silrada/departments/soc.png
     fullname: Малишкіна Наталя Сергіївна
     schedule:
       title: Графік роботи
