@@ -4,7 +4,7 @@ components:
   - title: >-
       Спеціалізоване комунальне підприємство «Об'єднана житлово-комунальна,
       побутова та ритуальна служба»
-    image: /uploads/communual-institutions/cu-5.png
+    image: /uploads/silrada/communual-institutions/spe.png
     fullname: Мамотенко Олег Миколайович
     schedule:
       title: Графік роботи
@@ -16,6 +16,7 @@ components:
     position:
       title: Посада
       name: Керівник
+    desc: ''
     _template: EnterprisesDesc
   - title: Основні функції
     function:
@@ -29,5 +30,4 @@ components:
       text: Новини
     _template: news
 ---
-
 
