@@ -3,7 +3,7 @@ title: deputy-head-bondar
 components:
   - title: заступник голови громади
     titleEng: deputy head of the community
-    image: /uploads/deputy-head/bondar.PNG
+    image: /uploads/silrada/head-of-the-community/6.png
     fullname: Бондар Олександр Олександрович
     fullnameEng: Bondar Oleksandr Oleksandrovych
     employment:
@@ -49,6 +49,4 @@ components:
   - title: Розпорядження голови
     _template: HeadOrders
 ---
-
-
 
