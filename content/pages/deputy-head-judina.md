@@ -3,7 +3,7 @@ title: deputy-head-judina
 components:
   - title: заступниця голови громади
     titleEng: deputy head of the community
-    image: /uploads/deputy-head/judina.png
+    image: /uploads/silrada/head-of-the-community/2.png
     fullname: Юдіна Марина Дмитрівна
     fullnameEng: Yudina Maryna Dmitrivna
     employment:
@@ -59,6 +59,4 @@ components:
       - title: Паспорти бюджетних програм міського бюджету за 2023 рік заванатажити
     _template: HeadOrders
 ---
-
-
 
