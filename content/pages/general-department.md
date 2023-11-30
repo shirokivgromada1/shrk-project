@@ -2,7 +2,7 @@
 title: general-department
 components:
   - title: Загальний відділ
-    image: /uploads/silrada-department-desc/photo-4.png
+    image: /uploads/silrada/departments/gen.png
     fullname: Захарченко Наталія Іванівна
     schedule:
       title: Графік роботи
@@ -64,6 +64,4 @@ components:
       - title: Паспорти бюджетних програм міського бюджету за 2023 рік
     _template: HeadOrders
 ---
-
-
 
