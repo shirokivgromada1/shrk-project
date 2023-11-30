@@ -2,7 +2,7 @@
 title: department-of-agro-industrial-complex
 components:
   - title: Відділ агропромислового комплексу  та земельних відносин
-    image: /uploads/silrada-department-desc/photo-7.png
+    image: /uploads/silrada/departments/agr.png
     fullname: Шахов Андрій Михайлович
     schedule:
       title: Графік роботи
@@ -60,6 +60,4 @@ components:
       - title: Паспорти бюджетних програм міського бюджету за 2023 рік
     _template: HeadOrders
 ---
-
-
 
