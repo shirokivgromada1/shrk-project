@@ -2,7 +2,7 @@
 title: local-fire-and-rescue-service
 components:
   - title: 'КНП “Місцева пожежно-рятувальна служба” '
-    image: /uploads/communual-institutions/cu-9.png
+    image: /uploads/silrada/communual-institutions/rat.png
     fullname: Чернов Юрій Володимирович
     schedule:
       title: Графік роботи
@@ -16,9 +16,8 @@ components:
     position:
       title: Посада
       name: Керівник
-    desc: |+
+    desc: |
       Ліквідація наслідків надзвичайних ситуацій та гасіння пожеж
-
     _template: EnterprisesDesc
   - title: Основні функції
     function:
@@ -32,6 +31,4 @@ components:
       text: Новини
     _template: news
 ---
-
-
 
