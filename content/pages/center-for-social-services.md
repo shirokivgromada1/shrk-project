@@ -2,7 +2,7 @@
 title: center-for-social-services
 components:
   - title: КУ “Центр соціальних послуг Широківської громади”
-    image: /uploads/communual-institutions/cu-3.png
+    image: /uploads/silrada/communual-institutions/soc.png
     fullname: Лук’яненко Дмитро Олександрович
     schedule:
       title: Графік роботи
@@ -15,6 +15,7 @@ components:
     position:
       title: Посада
       name: Директор
+    desc: ''
     _template: EnterprisesDesc
   - title: Соціальні послуги
     function:
@@ -33,5 +34,4 @@ components:
       text: Новини
     _template: news
 ---
-
 
