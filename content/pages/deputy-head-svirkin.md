@@ -3,7 +3,7 @@ title: deputy-head-svirkin
 components:
   - title: заступник голови громади
     titleEng: deputy head of the community
-    image: /uploads/deputy-head/svirkin.PNG
+    image: /uploads/silrada/head-of-the-community/5.png
     fullname: Свіркін Дмитро Олександрович
     fullnameEng: Svirkin Dmytro Oleksandrovich
     employment:
@@ -56,6 +56,4 @@ components:
       - title: Паспорти бюджетних програм міського бюджету за 2023 рік заванатажити
     _template: HeadOrders
 ---
-
-
 
