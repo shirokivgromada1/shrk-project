@@ -16,18 +16,18 @@ components:
         position: Заступниця голови
         positionEng: Deputy head
         link: deputy-head-judina
-      - image: /uploads/deputies-mobile/golovan.png
+      - image: /uploads/silrada/head-of-the-community/3.png
         fullname: Головань Лариса Семенівна
         fullnameEng: Golovan Larisa Semenivna
         position: Керуюча справами виконавчого комітету
         positionEng: Managing the affairs of the executive committee
         link: managing-the-executive-affairs-committee
-      - image: /uploads/deputies-mobile/pravdyuk.png
+      - image: /uploads/silrada/head-of-the-community/4.png
         fullname: Правдюк Олена Анатоліївна
         fullnameEng: Pravdyuk Olena Anatolyivna
         position: Заступниця голови
-        positionEng: Deputy head
-        link: '#'
+        positionEng: Secretary of the Council
+        link: secretary-of-the-council
       - image: /uploads/deputies-mobile/svikrin.png
         fullname: Свіркін Дмитро Олександрович
         fullnameEng: Svirkin Dmytro Oleksandrovich
