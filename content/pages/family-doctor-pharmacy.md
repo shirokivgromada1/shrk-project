@@ -1,8 +1,8 @@
 ---
 title: family-doctor-pharmacy
 components:
-  - title: КУ “Агенція розвитку Широківської громади”
-    image: /uploads/communual-institutions/cu-7.png
+  - title: КП “Аптека “Сімейний лікар”
+    image: /uploads/silrada/communual-institutions/apt.png
     fullname: Баранова Ганна Володимирівна
     schedule:
       title: Графік роботи
@@ -14,13 +14,12 @@ components:
     position:
       title: Посада
       name: Директорка
-    desc: >+
+    desc: >
       Аптека займається різноманітною діяльністю, спрямованою на надання послуг
       у сфері охорони здоров'я та медичного забезпечення населення. Наша
       установа має за мету надавати високоякісні послуги та забезпечувати
       населення необхідними медичними та санітарними засобами для збереження та
       поліпшення їхнього здоров'я
-
     _template: EnterprisesDesc
   - title: 'Основні функції відділу:'
     function:
@@ -56,6 +55,4 @@ components:
       text: Новини
     _template: news
 ---
-
-
 
