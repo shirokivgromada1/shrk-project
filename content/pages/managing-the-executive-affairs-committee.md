@@ -42,8 +42,22 @@ components:
       emailEng: 'e-mail: kerspr.sotg@ukr.net'
       facebook: 'https://www.facebook.com/profile.php?id=100014457489658'
     _template: CouncilSecretaryDesc
-  - _template: news
-  - title: Розпорядження голови
+  - notMain: true
+    headline:
+      text: Новини
+    _template: news
+  - title: Документи
+    notMain: true
+    order:
+      - title: >-
+          Звіти про виконання паспортів бюджетних програм міського бюджету за
+          2017 рік
+        url: ''
+      - title: >-
+          Звіти про виконання паспортів бюджетних програм міського бюджету за
+          2018 рік
+      - title: Паспорти бюджетних програм міського бюджету за 2022 рік
+      - title: Паспорти бюджетних програм міського бюджету за 2023 рік
     _template: HeadOrders
 ---
 
