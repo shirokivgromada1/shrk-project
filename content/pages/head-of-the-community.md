@@ -3,7 +3,7 @@ title: head-of-the-community
 components:
   - title: ГОЛОВА ГРОМАДИ
     titleEng: HEAD OF THE COMMUNITY
-    image: /uploads/head/head-img.png
+    image: /uploads/silrada/head-of-the-community/image 12.png
     fullname: Коротенко Денис Олександрович
     fullnameEng: Denys Oleksandrovych Korotenko
     employment:
@@ -74,37 +74,37 @@ components:
   - title: ЗАСТУПНИКИ ГОЛОВИ
     titleEng: DEPUTY CHAIRMEN
     deputies:
-      - image: /uploads/head/deputy-1.png
+      - image: /uploads/silrada/head-of-the-community/1.png
         fullname: Ставицька Ольга Сергіївна
         fullnameEng: Olga Serhiivna Stavytska
         position: Заступниця Голови
         positionEng: Deputy Chairman
         link: deputy-head-stavitska
-      - image: /uploads/head/deputy-2.png
+      - image: /uploads/silrada/head-of-the-community/2.png
         fullname: Юдіна Марина Дмитрівна
         fullnameEng: Yudina Maryna Dmitrivna
         position: Заступниця Голови
         positionEng: Deputy Chairman
         link: deputy-head-judina
-      - image: /uploads/head/deputy-3.png
+      - image: /uploads/silrada/head-of-the-community/3.png
         fullname: Головань Лариса Семенівна
         fullnameEng: Larisa Semenivna Golovan
-        position: Керуюча справами  виконавчого комітету
+        position: Керуюча справами виконавчого комітету
         positionEng: Managing the affairs of the executive committee
-        link: secretary-of-the-council
-      - image: /uploads/head/deputy-4.png
+        link: managing-the-executive-affairs-committee
+      - image: /uploads/silrada/head-of-the-community/4.png
         fullname: Правдюк Олена Анатоліївна
         fullnameEng: Olena Anatolyivna Pravdyuk
         position: Секретарка Ради
         positionEng: Secretary of the Council
         link: secretary-of-the-council
-      - image: /uploads/head/deputy-5.png
+      - image: /uploads/silrada/head-of-the-community/5.png
         fullname: Свіркін Дмитро Олександрович
         fullnameEng: Dmytro Oleksandrovich Svirkin
         position: Заступник Голови
         positionEng: Deputy Chairman
         link: deputy-head-svirkin
-      - image: /uploads/head/deputy-6.png
+      - image: /uploads/silrada/head-of-the-community/6.png
         fullname: Бондар Олександр Олександрович
         fullnameEng: Bondar Oleksandr Oleksandrovych
         position: Заступник Голови
@@ -198,16 +198,4 @@ components:
         link: guardians-board
     _template: CommunityHeadCards
 ---
-
-
-
-
-
-
-
-
-
-
-
-
 
