@@ -2,7 +2,7 @@
 title: 'communal-agricultural-enterprise '
 components:
   - title: КП “КОМУНАЛЬНЕ СІЛЬСЬКОГОСПОДАРСЬКЕ ПІДПРИЄМСТВО “ШИРОКЕ”
-    image: /uploads/silrada/noname.png
+    image: /uploads/non.png
     fullname: Ступак Олег Григорович
     schedule:
       title: Графік роботи
