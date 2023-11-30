@@ -49,6 +49,7 @@ components:
       - name: >-
           Видає направлення на відвідування закладів, щоб налагодити контакт з
           дитиною
+      - name: "Готує акти та проводить перевірку\_ умов проживання дітей.\_"
     _template: SilradaDepartmentFunctions
   - notMain: true
     headline:
