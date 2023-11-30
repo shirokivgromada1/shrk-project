@@ -2,7 +2,7 @@
 title: department-of-education-of-shirokivska-hromada
 components:
   - title: Відділ освіти Широківської громади
-    image: /uploads/silrada-department-desc/photo-1.png
+    image: /uploads/silrada/departments/osv.png
     fullname: Іваніченко Денис Константинович
     schedule:
       title: Графік роботи
@@ -74,12 +74,4 @@ components:
         url: 'null'
     _template: HeadOrders
 ---
-
-
-
-
-
-
-
-
 
