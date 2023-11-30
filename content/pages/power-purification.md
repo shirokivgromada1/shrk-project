@@ -8,7 +8,7 @@ components:
           position: заступник сільського голови
         date:
           declarationTitle: 'Панов, заява, декларація'
-          declarationLink: /uploads/power-purification/Panov-zayava-deklaratsiya.pdf
+          declarationLink: /uploads/officially/power-purification/Panov-zayava-deklaratsiya.pdf
           declarationUrl: ''
         summary: >-
           За результатами проведеної перевірки встановлено, що до Панова Ігоря
@@ -21,7 +21,8 @@ components:
           position: заступник сільського голови
         date:
           declarationTitle: 'Ставицька заява, декларація'
-          declarationLink: /uploads/power-purification/Stavy-ts-ka-zayava-deklaratsiya.pdf
+          declarationLink: >-
+            /uploads/officially/power-purification/Stavy-ts-ka-zayava-deklaratsiya.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Ставицької
           Ольги Сергіївни не застосовуються заборони, визначені частинами
@@ -32,7 +33,8 @@ components:
           position: керуюча справами (секретар) виконавчого комітету
         date:
           declarationTitle: 'Головань заява, декларація'
-          declarationLink: /uploads/power-purification/Golovan-zayava-deklaratsiya.pdf
+          declarationLink: >-
+            /uploads/officially/power-purification/Golovan-zayava-deklaratsiya.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Головань
           Лариси Семенівни не застосовуються заборони, визначені частинами
@@ -45,7 +47,8 @@ components:
             обліку та звітності
         date:
           declarationTitle: 'Нікітенко заява, декларація'
-          declarationLink: /uploads/power-purification/Nikitenko-zayava-deklaratsiya.pdf
+          declarationLink: >-
+            /uploads/officially/power-purification/Nikitenko-zayava-deklaratsiya.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Нікітенко
           Еліни Анатоліївни не застосовуються заборони, визначені частинами
@@ -56,7 +59,8 @@ components:
           position: головний спеціаліст відділу бухгалтерського обліку та звітності
         date:
           declarationTitle: 'Іванова заява, декларація'
-          declarationLink: /uploads/power-purification/Ivanova-zayava-deklaratsiya.pdf
+          declarationLink: >-
+            /uploads/officially/power-purification/Ivanova-zayava-deklaratsiya.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Іванової
           Одарки Олександрівни не застосовуються заборони, визначені частинами
@@ -69,7 +73,8 @@ components:
             інвестицій та регуляторної діяльності
         date:
           declarationTitle: 'Савченко заява, декларація'
-          declarationLink: /uploads/power-purification/Savchenko-zayava-deklaratsiya.pdf
+          declarationLink: >-
+            /uploads/officially/power-purification/Savchenko-zayava-deklaratsiya.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Савченко
           Тамари Володимирівна не застосовуються заборони, визначені частинами
@@ -80,7 +85,8 @@ components:
           position: 'начальник відділу АПК, земельних відносин та екології'
         date:
           declarationTitle: 'Шахов заява, декларація'
-          declarationLink: /uploads/power-purification/SHahov-zayava-deklaratsiya.pdf
+          declarationLink: >-
+            /uploads/officially/power-purification/SHahov-zayava-deklaratsiya.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Панова Ігоря
           Вікторовича не застосовуються заборони, визначені частинами третьою та
@@ -91,7 +97,8 @@ components:
           position: 'спеціаліст відділу АПК, земельних відносин та екології'
         date:
           declarationTitle: 'Пономаренко заява, декларація'
-          declarationLink: /uploads/power-purification/Ponomarenko-zayava-deklaratsiya.pdf
+          declarationLink: >-
+            /uploads/officially/power-purification/Ponomarenko-zayava-deklaratsiya.pdf
         summary: >-
           За результатами проведеної перевірки встановлено, що до Пономаренко
           Віталія Олександровича не застосовуються заборони, визначені частинами
@@ -570,12 +577,4 @@ components:
           14.01.2020
     _template: PowerPurification
 ---
-
-
-
-
-
-
-
-
 
