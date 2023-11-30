@@ -16,13 +16,13 @@ components:
           Оголошення про проведення конкурсу на зайняття вакантної посади
           директора Миколай-Пільського ЗЗСО
         link: >-
-          /uploads/competitions/Oholoshennia-konkurs-dyrektora-Mykolay-Pil-s-koho-ZZSO.docx
+          /uploads/officially/documents/competitions/Oholoshennia-konkurs-dyrektora-Mykolay-Pil-s-koho-ZZSO.docx
       - title: >-
           Протокол №1 засідання конкурсної комісії з проведення конкурсу на
           зайняття вакантних посад директорів закладів освіти Широківської ТГ
           від 13.09.2021 року
         link: >-
-          /uploads/competitions/Protokol-1-zasidannia-konkursnoi-komisii-z-provedennia-konkursu-na-zayniattia-vakantnykh-posad-dyrektoriv-zakladiv-osvity-SHyrokivs-koi-TH-vid-13.09.2021-roku.pdf
+          /uploads/officially/documents/competitions/Protokol-1-zasidannia-konkursnoi-komisii-z-provedennia-konkursu-na-zayniattia-vakantnykh-posad-dyrektoriv-zakladiv-osvity-SHyrokivs-koi-TH-vid-13.09.2021-roku.pdf
         url: ''
       - title: >-
           Оголошення про проведення конкурсу на зайняття вакантної посади
@@ -31,22 +31,24 @@ components:
           закладу загальної середньої освіти Широківської сільської ради
           Запорізького району Запорізької області, що належить до комунальної
           власності територіальної громади Широківської сільської ради
-        link: /uploads/competitions/obiava-na-Avh-SHyr.z.o.-2.docx
+        link: >-
+          /uploads/officially/documents/competitions/obiava-na-Avh-SHyr.z.o.-2.docx
       - title: >-
           Протокол №1 засідання конкурсної комісії з проведення конкурсу на
           зайняття вакантних посад директорів закладів освіти Широківської ТГ
           від 13.09.2021 року
-        link: /uploads/competitions/protokol-1-vid-29.09.2021.pdf
+        link: >-
+          /uploads/officially/documents/competitions/protokol-1-vid-29.09.2021.pdf
       - title: >-
           Протокол №2 засідання конкурсної комісії з проведення конкурсу на
           зайняття вакантної посади директора Миколай-Пільського ЗЗСО від
           13.10.2021 року
-        link: /uploads/competitions/protokol-2.pdf
+        link: /uploads/officially/documents/competitions/protokol-2.pdf
       - title: >-
           Протокол №3 засідання конкурсної комісії з проведення конкурсу на
           зайняття вакантної посади директора Миколай-Пільського ЗЗСО від
           13.10.2021 року
-        link: /uploads/competitions/protokol-3.pdf
+        link: /uploads/officially/documents/competitions/protokol-3.pdf
       - title: >-
           Відеозапис засідання конкурсної комісії з проведення конкурсу на
           зайняття вакантної посади директора Миколай-Пільського ЗЗСО від
@@ -56,8 +58,7 @@ components:
           Оголошення про конкурс на заміщення вакантних посад директорів
           закладів освіти Широківської громади
         link: >-
-          /uploads/competitions/Oholoshennia-pro-pryznachennia-konkursu-na-zamishchennia-vakantnykh-posad-u-zakladakh-osvity
-          (1).docx
+          /uploads/officially/documents/competitions/Oholoshennia-pro-pryznachennia-konkursu-na-zamishchennia-vakantnykh-posad-u-zakladakh-osvity.docx
       - title: >-
           Оголошення про проведення конкурсу на зайняття посади генерального
           директора Комунального некомерційного підприємства «Клініка «Сімейний
@@ -70,12 +71,12 @@ components:
           Протокол №1 засідання конкурсної комісії з проведення конкурсу на
           зайняття вакантних посад директорів закладів освіти Широківської ТГ
           від 06.12.2021 року
-        link: /uploads/competitions/protokol-1-1.pdf
+        link: /uploads/officially/documents/competitions/protokol-1-1.pdf
       - title: >-
           Протокол №3 засідання конкурсної комісії з проведення конкурсу на
           зайняття вакантних посад директорів закладів освіти Широківської ТГ
           від 20.12.2021 року.
-        link: /uploads/competitions/protokol-vid-20.12.21.pdf
+        link: ''
       - title: >-
           Відеозапис засідання конкурсної комісії з проведення конкурсу на
           зайняття вакантних посад директорів закладів освіти Широківської ТГ
@@ -91,12 +92,7 @@ components:
           сільської ради Запорізького району Запорізької області та, що належать
           до комунальної власності територіальної громади Широківської сільської
           ради
-        link: /uploads/competitions/oholoshennia-.z.o..docx
+        link: /uploads/officially/documents/competitions/oholoshennia-.z.o..docx
     _template: HeadOrders
 ---
-
-
-
-
-
 
