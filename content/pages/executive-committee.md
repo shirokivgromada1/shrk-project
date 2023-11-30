@@ -18,6 +18,10 @@ components:
         position: "Заступник сільського\_ голови з питань діяльності виконавчих органів ради"
         phone: 'тел: +38 (066) 286 54 07'
         email: shyroke.otg@gmail.com
+      - fullname: Головань Лариса Семенівна
+        position: Керуючий справами (секретар) виконавчого комітету
+        phone: 'тел: +38 (066) 286 54 07'
+        email: shyroke.otg@gmail.com
       - fullname: Правдюк Олена Анатоліївна
         position: Член виконавчого комітету
         phone: 'тел: +38 (066) 286 54 07'
@@ -37,5 +41,4 @@ components:
         buttonText: ''
     _template: HeadOrders
 ---
-
 
