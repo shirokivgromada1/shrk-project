@@ -40,12 +40,12 @@ components:
     links:
       - title: Про затвердження Стратегії
         link: >-
-          /uploads/department-population-social-protection/Pro-zatverdzhennia-Stratehii.pdf
+          /uploads/all-services/social-protection/department-population-social-protection/Pro-zatverdzhennia-Stratehii.pdf
       - title: >-
           «Стратегії розвитку системи надання соціальних послуг Широківської
           територіальної громади Запорізької області до 2027 року»
         link: >-
-          /uploads/department-population-social-protection/Stratehii-rozvytku-SHyrokivs-ka-hromada-21.04.2021.docx
+          /uploads/all-services/social-protection/department-population-social-protection/Stratehii-rozvytku-SHyrokivs-ka-hromada-21.04.2021.docx
     _template: DepartmentSocialProtectionSub
 ---
 
