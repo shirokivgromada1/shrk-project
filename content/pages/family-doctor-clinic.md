@@ -2,7 +2,7 @@
 title: family-doctor-clinic
 components:
   - title: КЛІНІКА СІМЕЙНИЙ ЛІКАР
-    logo: /uploads/clinic-title/clinic-logo.svg
+    logo: /uploads/all-services/family-doctor-clinic/Group.png
     desc: >
       Клініка “Сімейний лікар” - доступна медицина від команди найкращих
       спеціалістів
