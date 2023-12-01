@@ -126,9 +126,9 @@ components:
       logo: /uploads/all-services/family-doctor-clinic/Frame 331.svg
       title: Соціальні мережі
       socialList:
-        - icon: /uploads/clinic-contact/facebook.svg
+        - icon: /uploads/all-services/family-doctor-clinic/logos_facebook.svg
           name: '@shyroke.likar'
-        - icon: /uploads/clinic-contact/instagram.svg
+        - icon: /uploads/all-services/family-doctor-clinic/skill-icons_instagram.svg
           name: simeynyy_likar
     _template: ClinicContact
 ---
