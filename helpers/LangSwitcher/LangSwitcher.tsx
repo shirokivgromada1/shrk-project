@@ -41,10 +41,11 @@ const LangSwitcher: React.FC = () => {
   const { lang, changeLanguage } = useContext(LangContext)!;
   const [isUA, setIsUA] = useState("ua");
   const handleLanguageChange = () => {
-    changeLanguage(isUA);
     setIsUA((prev) => (prev === "ua" ? "en" : "ua"));
   };
-
+  useEffect(() => {
+    changeLanguage(isUA);
+  }, [isUA, changeLanguage]);
   return (
     <div className={styles.langSwitcher} onClick={() => handleLanguageChange()}>
       {lang}
