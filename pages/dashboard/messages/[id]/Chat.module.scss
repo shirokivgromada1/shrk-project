@@ -67,14 +67,14 @@
     width: 100%;
     margin-bottom: 40px;
     border-radius: 5px;
-    border-left: 2px solid #309c54;
+    border-left: 2px solid var(--themeColor, #309c54);
     padding-block: 15px;
-    background: #fff;
+    background: var(--themeBgColor, #fff);
     box-shadow: 0px 4px 6px 0px rgba(85, 85, 85, 0.08);
     & > h1 {
-      color: $font-color;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 18px;
+      font-size: calc(var(--themeFontSize) * 18px);
       font-style: normal;
       font-weight: 500;
       line-height: normal;
@@ -109,11 +109,13 @@
       border: none;
       display: flex;
       font-family: Inter;
-      font-size: 14px;
+      font-size: calc(var(--themeFontSize) * 14px);
       font-style: normal;
       font-weight: 500;
       line-height: normal;
       scrollbar-width: none;
+      background-color: var(--themeBgColor, #fff);
+      color: var(--themeColor, #000);
       &::-webkit-scrollbar {
         display: none;
       }
@@ -121,7 +123,7 @@
         outline: none;
       }
       &::placeholder {
-        color: #b6b6b6;
+        color: var(--themeColor, #b6b6b6);
         font-family: Inter;
         font-size: 14px;
         font-style: normal;
@@ -157,9 +159,9 @@
     gap: 10px;
     padding: 12px 10px;
     border-radius: 5px;
-    background-color: rgba(48, 156, 84, 0.5);
+    background-color: var(--themeBgColor, rgba(48, 156, 84, 0.5));
     justify-content: space-between;
-
+    color: var(--themeColor, #000);
     &_info {
       display: flex;
       align-items: center;

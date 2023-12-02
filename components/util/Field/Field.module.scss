@@ -4,9 +4,9 @@
   gap: 15px;
   &__label {
     & > label {
-      color: #000;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 18px;
+      font-size: calc(var(--themeFontSize) * 18px);
       font-style: normal;
       font-weight: 500;
       line-height: normal;
@@ -15,7 +15,7 @@
       margin-top: 5px;
       color: rgba(0, 0, 0, 0.54);
       font-family: Inter;
-      font-size: 14px;
+      font-size: calc(var(--themeFontSize) * 14px);
       font-style: normal;
       font-weight: 400;
       line-height: normal;
@@ -25,7 +25,7 @@
   &__error {
     color: $error-primary-color;
     font-family: Inter;
-    font-size: 12px;
+    font-size: calc(var(--themeFontSize) * 12px);
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -48,21 +48,21 @@
 
     & > input {
       border-radius: 7px;
-      border: 1px solid $primary-color;
+      border: 1px solid var(--themeColor, #309c54);
       width: 210px;
       height: 37px;
       padding: 9px 20px;
-      color: #000;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 16px;
+      font-size: calc(var(--themeFontSize) * 16px);
       font-style: normal;
       font-weight: 400;
       line-height: normal;
       &:focus,
       &:focus-visible,
       &:active {
-        border: 1px solid $primary-color;
-        outline: 1px solid $primary-color;
+        border: 1px solid var(--themeColor, #309c54);
+        outline: 1px solid var(--themeColor, #309c54);
       }
     }
     &_error {
@@ -85,7 +85,7 @@
       & label {
         color: $font-color;
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 500;
         line-height: normal;

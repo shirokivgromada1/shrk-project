@@ -2,7 +2,7 @@
   &__step {
     &_label {
       & > span > span {
-        color: #000;
+        color: var(--themeColor, #000);
         font-family: Inter;
         font-size: 15px;
         font-style: normal;
@@ -29,7 +29,7 @@
             gap: 5px;
 
             & span {
-              color: #000;
+              color: var(--themeColor, #000);
               font-family: Inter;
               font-size: 13px;
               font-style: normal;
@@ -50,7 +50,7 @@
             gap: 5px;
             margin-bottom: 6px;
             & span {
-              color: #000;
+              color: var(--themeColor, #000);
               font-family: Inter;
               font-size: 13px;
               font-style: normal;
@@ -61,7 +61,7 @@
           }
           & input {
             width: 418px;
-            color: #000 !important;
+            color: var(--themeColor, #000) !important;
             font-family: Inter;
             font-size: 14px;
             font-style: normal;
@@ -75,7 +75,7 @@
           text-transform: unset;
           border-radius: 3px;
           border-radius: 3px;
-          background: #fff;
+          background: var(--themeBgColor, #fff);
           box-shadow: 0px 4px 6px 0px rgba(85, 85, 85, 0.15);
           color: rgba(0, 0, 0, 0.87);
           font-family: Inter;

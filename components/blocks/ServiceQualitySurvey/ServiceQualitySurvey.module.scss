@@ -12,20 +12,20 @@
       flex-direction: column;
       align-items: center;
       h1 {
-        color: #000;
+        color: var(--themeColor, #000);
         text-align: center;
         font-family: Inter;
-        font-size: 24px;
+        font-size: calc(var(--themeFontSize) * 24px);
         font-style: normal;
         font-weight: 500;
         line-height: normal;
         margin-bottom: 10px;
       }
       p {
-        color: #000;
+        color: var(--themeColor, #000);
         text-align: center;
         font-family: Inter;
-        font-size: 18px;
+        font-size: calc(var(--themeFontSize) * 18px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -35,10 +35,10 @@
       }
       a {
         margin-top: 38px;
-        color: #fff;
+        color: var(--themeBgColor, #fff);
         text-align: center;
         font-family: Inter;
-        font-size: 18px;
+        font-size: calc(var(--themeFontSize) * 18px);
         font-style: normal;
         font-weight: 500;
         line-height: 115.023%; /* 20.704px */
@@ -57,7 +57,7 @@
       padding-top: 20px;
       &_desc {
         h1 {
-          font-size: 20px;
+          font-size: calc(var(--themeFontSize) * 20px);
           font-style: normal;
           line-height: normal;
         }
@@ -80,7 +80,7 @@
           font-size: 22px;
         }
         p {
-          font-size: 16px;
+          font-size: calc(var(--themeFontSize) * 16px);
         }
         a {
           margin-top: 30px;

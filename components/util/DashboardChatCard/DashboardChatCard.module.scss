@@ -2,7 +2,7 @@
   & > h1 {
     color: $font-color;
     font-family: Inter;
-    font-size: 16px;
+    font-size: calc(var(--themeFontSize) * 16px);
     font-style: normal;
     font-weight: 600;
     line-height: normal;
@@ -27,7 +27,7 @@
     gap: 20px;
     border-radius: 0px 0px 5px 5px;
     border-top: 1px solid $primary-color;
-    background: #fff;
+    background: var(--themeBgColor, #fff);
     box-shadow: 0px 4px 6px 0px rgba(85, 85, 85, 0.08);
     padding: 22px 15px;
     &_userID {
@@ -146,7 +146,7 @@
   }
   &__completed {
     background: rgba(16, 163, 92, 0.2);
-    color: #309c54;
+    color: var(--themeColor, #309c54);
     & > svg {
       & > circle {
         fill: #309c54;
@@ -155,7 +155,7 @@
   }
   &__progress {
     background: rgba(255, 122, 0, 0.2);
-    color: #ff7a00;
+    color: var(--themeColor, #ff7a00);
     & > svg {
       & > circle {
         fill: #ff7a00;
@@ -164,7 +164,7 @@
   }
   &__rejected {
     background: rgba(163, 16, 16, 0.2);
-    color: #f33a3a;
+    color: var(--themeColor, #f33a3a);
     & > svg {
       & > circle {
         fill: #f33a3a;

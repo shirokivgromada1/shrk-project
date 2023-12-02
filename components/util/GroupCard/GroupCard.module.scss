@@ -14,7 +14,7 @@
         &_item {
           padding: 9px 20px;
           border-radius: 7px;
-          border: 1px solid $primary-color;
+          border: 1px solid var(--themeColor, #309c54);
           min-width: 210px;
           max-width: fit-content;
           text-align: center;
@@ -23,7 +23,7 @@
       & h1 {
         color: $font-color;
         font-family: Inter;
-        font-size: 18px;
+        font-size: calc(var(--themeFontSize) * 18px);
         font-style: normal;
         font-weight: 500;
         line-height: normal;
@@ -49,9 +49,9 @@
             gap: 8px;
           }
           & span {
-            color: $font-color;
+            color: var(--themeColor, #000);
             font-family: Inter;
-            font-size: 13px;
+            font-size: calc(var(--themeFontSize) * 13px);
             font-style: normal;
             font-weight: 400;
             line-height: normal;
@@ -59,9 +59,9 @@
         }
       }
       & > h1 {
-        color: $font-color;
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 18px;
+        font-size: calc(var(--themeFontSize) * 18px);
         font-style: normal;
         font-weight: 500;
         line-height: normal;
@@ -74,9 +74,9 @@
     }
     &_text {
       margin-bottom: 30px;
-      color: $font-color;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 16px;
+      font-size: calc(var(--themeFontSize) * 16px);
       font-style: normal;
       line-height: normal;
       word-break: break-all;
@@ -90,7 +90,7 @@
     padding: 20px 50px 20px 25px;
     border-radius: 5px;
     border-left: 2px solid #309c54;
-    background: #fff;
+    background: var(--themeBgColor, #fff);
     box-shadow: 0px 4px 6px 0px rgba(85, 85, 85, 0.08);
     & > div {
       width: 100%;
@@ -111,9 +111,9 @@
       }
     }
     &_title {
-      color: $font-color;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 18px;
+      font-size: calc(var(--themeFontSize) * 18px);
       font-style: normal;
       font-weight: 500;
       line-height: normal;
@@ -124,9 +124,9 @@
     &_lastCreated {
       display: flex;
       align-items: center;
-      color: $font-color;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 15px;
+      font-size: calc(var(--themeFontSize) * 15px);
       font-style: normal;
       font-weight: 400;
       line-height: normal;
@@ -136,9 +136,9 @@
       align-items: center;
       gap: 3px;
       & > span {
-        color: $font-color;
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 500;
         line-height: 115.023%; /* 18.404px */

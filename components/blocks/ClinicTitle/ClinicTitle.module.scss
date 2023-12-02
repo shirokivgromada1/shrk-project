@@ -8,9 +8,9 @@
     justify-content: center;
     margin-block: 40px 20px;
     h1 {
-      color: #000;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 40px;
+      font-size: calc(var(--themeFontSize) * 40px);
       font-style: normal;
       font-weight: 500;
       line-height: 115.023%; /* 46.009px */
@@ -19,10 +19,10 @@
     }
   }
   p {
-    color: #000;
+    color: var(--themeColor, #000);
     text-align: center;
     font-family: Inter;
-    font-size: 18px;
+    font-size: calc(var(--themeFontSize) * 18px);
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -35,9 +35,9 @@
       padding: 9px 28px;
       border-radius: 29px;
       background: #309c54;
-      color: #fff;
+      color: var(--themeBgColor, #fff);
       font-family: Inter;
-      font-size: 16px;
+      font-size: calc(var(--themeFontSize) * 16px);
       font-style: normal;
       font-weight: 500;
       line-height: normal;
@@ -61,7 +61,7 @@
       }
     }
     p {
-      font-size: 16px;
+      font-size: calc(var(--themeFontSize) * 16px);
     }
   }
 }
@@ -70,7 +70,7 @@
   .clinic {
     margin-bottom: 70px;
     &__title {
-      margin-block:40px 15px;
+      margin-block: 40px 15px;
       h1 {
         font-size: 22px;
         font-weight: 400;

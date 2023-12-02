@@ -27,9 +27,9 @@
 
   & tr {
     &:first-child {
-      color: #1f723a;
+      color: var(--themeColor, #1f723a);
       font-family: Inter;
-      font-size: 16px;
+      font-size: calc(var(--themeFontSize) * 16px);
       font-style: normal;
       font-weight: 600;
       line-height: normal;
@@ -38,20 +38,20 @@
     &:not(:first-child) {
       border-collapse: separate;
       border-radius: 0px 0px 5px 5px;
-      background: #fefefe;
+      background: var(--themeBgColor, #fff);
       box-shadow: 0px 4px 6px 0px rgba(85, 85, 85, 0.06);
       & td {
         padding: 20px 0px;
-        color: #000;
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 14px;
+        font-size: calc(var(--themeFontSize) * 14px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
         &:first-child {
-          color: $font-color;
+          color: var(--themeColor, #000);
           font-family: Inter;
-          font-size: 14px;
+          font-size: calc(var(--themeFontSize) * 14px);
           font-style: normal;
           font-weight: 500;
           line-height: normal;
@@ -60,9 +60,9 @@
           word-break: break-all;
         }
         &:nth-child(2) {
-          color: $font-color;
+          color: var(--themeColor, #000);
           font-family: Inter;
-          font-size: 14px;
+          font-size: calc(var(--themeFontSize) * 14px);
           font-style: normal;
           font-weight: 400;
           line-height: normal;
@@ -71,9 +71,9 @@
           padding-right: 30px;
         }
         &:nth-child(3) {
-          color: $font-color;
+          color: var(--themeColor, #309c54);
           font-family: Inter;
-          font-size: 14px;
+          font-size: calc(var(--themeFontSize) * 14px);
           font-style: normal;
           font-weight: 400;
           line-height: normal;
@@ -130,9 +130,9 @@
   display: flex;
   justify-content: center;
   & > button {
-    color: #fff;
+    color: var(--themeBgColor, #fff);
     font-family: Inter;
-    font-size: 16px;
+    font-size: calc(var(--themeFontSize) * 16px);
     font-style: normal;
     font-weight: 600;
     line-height: normal;
@@ -157,7 +157,7 @@
   & > h1 {
     color: $font-color;
     font-family: Inter;
-    font-size: 24px;
+    font-size: calc(var(--themeFontSize) * 24px);
     font-style: normal;
     font-weight: 600;
     line-height: normal;
@@ -166,7 +166,7 @@
   & > p {
     color: #7a828b;
     font-family: Inter;
-    font-size: 18px;
+    font-size: calc(var(--themeFontSize) * 18px);
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -184,7 +184,7 @@
   & > h1 {
     color: $font-color;
     font-family: Inter;
-    font-size: 24px;
+    font-size: calc(var(--themeFontSize) * 24px);
     font-style: normal;
     font-weight: 600;
     line-height: normal;
@@ -192,7 +192,7 @@
   & > p {
     color: $font-color;
     font-family: Inter;
-    font-size: 16px;
+    font-size: calc(var(--themeFontSize) * 16px);
     font-style: normal;
     font-weight: 500;
     line-height: normal;
@@ -218,7 +218,7 @@
   & > h1 {
     color: $font-color;
     font-family: Inter;
-    font-size: 24px;
+    font-size: calc(var(--themeFontSize) * 24px);
     font-style: normal;
     font-weight: 600;
     line-height: normal;
@@ -231,7 +231,7 @@
       justify-content: center;
       color: #373737;
       font-family: Inter;
-      font-size: 18px;
+      font-size: calc(var(--themeFontSize) * 18px);
       font-style: normal;
       font-weight: 500;
       line-height: normal;
@@ -254,7 +254,7 @@
     gap: 20px;
     border-radius: 0px 0px 5px 5px;
     border-top: 1px solid $primary-color;
-    background: #fff;
+    background: var(--themeBgColor, #fff);
     box-shadow: 0px 4px 6px 0px rgba(85, 85, 85, 0.08);
     padding: 22px 15px;
     &_actions {
@@ -302,7 +302,7 @@
     & > h1 {
       color: $font-color;
       font-family: Inter;
-      font-size: 16px;
+      font-size: calc(var(--themeFontSize) * 16px);
       font-style: normal;
       font-weight: 600;
       line-height: normal;
@@ -322,7 +322,7 @@
   .noChats {
     border-radius: 0px 0px 5px 5px;
     border-top: 1px solid var(--green, #309c54);
-    background: #fff;
+    background: var(--themeBgColor, #fff);
     box-shadow: 0px 4px 6px 0px rgba(85, 85, 85, 0.08);
     height: fit-content;
     padding: 22px 18px;

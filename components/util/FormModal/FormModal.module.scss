@@ -1,7 +1,7 @@
 .formModal {
   border-radius: 15px;
   // position: absolute;
-  background-color: #fff;
+  background-color: var(--themeBgColor, #fff);
   padding: 40px 50px;
   max-width: 688px;
   width: calc(100% - 80px);
@@ -16,13 +16,13 @@
       & > svg {
         width: 24px;
         height: 24px;
-        background-color: $primary-color;
+        background-color: var(--themeBgColor, #309c54);
         border-radius: 50%;
       }
       & > span {
-        color: #828282;
+        color: var(--themeColor, #828282);
         font-family: Inter;
-        font-size: 12px;
+        font-size: calc(var(--themeFontSize) * 12px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -44,9 +44,9 @@
           &:nth-child(1) {
             order: 2;
             & label {
-              color: $font-color;
+              color: var(--themeColor, #000);
               font-family: Inter;
-              font-size: 15px;
+              font-size: calc(var(--themeFontSize) * 15px);
               font-style: normal;
               font-weight: 400;
               line-height: normal;
@@ -61,8 +61,8 @@
               width: 11px;
               height: 11px;
               background-color: inherit;
-              color: #017b5f;
-              border: 2px solid $primary-color;
+              color: var(--themeColor, #017b5f);
+              border: 2px solid var(--themeColor, #309c54);
               border-radius: 24px;
               &::after {
                 content: "";
@@ -72,7 +72,7 @@
                 left: 50%;
                 width: 5px;
                 height: 5px;
-                background-color: #01a982;
+                background-color: var(--themeColor, #01a982);
                 border-radius: 12px;
                 opacity: 0;
                 transform: translate(-50%, -50%);
@@ -96,17 +96,17 @@
       gap: 10px;
       & > span {
         &:first-child {
-          color: $font-color;
+          color: var(--themeColor, #000);
           font-family: Inter;
-          font-size: 18px;
+          font-size: calc(var(--themeFontSize) * 18px);
           font-style: normal;
           font-weight: 500;
           line-height: normal;
         }
         &:nth-child(2) {
-          color: #828282;
+          color: var(--themeColor, #828282);
           font-family: Inter;
-          font-size: 12px;
+          font-size: calc(var(--themeFontSize) * 12px);
           font-style: normal;
           font-weight: 400;
           line-height: normal;
@@ -146,9 +146,9 @@
     flex-direction: column;
     gap: 5px;
     & > span {
-      color: #707070;
+      color: var(--themeColor, #707070);
       font-family: Inter;
-      font-size: 13px;
+      font-size: calc(var(--themeFontSize) * 13px);
       font-style: normal;
       font-weight: 400;
       line-height: normal;
@@ -161,17 +161,17 @@
       resize: none;
       height: 183px;
       font-family: Inter;
-      font-size: 16px;
+      font-size: calc(var(--themeFontSize) * 16px);
       font-style: normal;
       line-height: normal;
       &:focus {
-        border-color: $primary-color;
+        border-color: var(--themeColor, #309c54);
         outline: none;
       }
       &::placeholder {
-        color: #727272;
+        color: var(--themeColor, #727272);
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 500;
         line-height: normal;
@@ -185,16 +185,16 @@
     margin-bottom: 25px;
     & > div {
       & > h1 {
-        color: $font-color;
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 24px;
+        font-size: calc(var(--themeFontSize) * 24px);
         font-style: normal;
         font-weight: 600;
         line-height: normal;
         margin-bottom: 5px;
       }
       & > p {
-        color: #888;
+        color: var(--themeColor, #888);
         font-family: Inter;
         font-size: 14px;
         font-style: normal;
@@ -207,7 +207,7 @@
         width: 24px;
         height: 24px;
         & > path {
-          stroke: #5a5959;
+          stroke: var(--themeColor, #5a5959);
         }
       }
     }
@@ -231,7 +231,7 @@
           &:first-child {
             color: $font-color;
             font-family: Inter;
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             font-style: normal;
             font-weight: 500;
             line-height: normal;
@@ -260,7 +260,7 @@
         & > h1 {
           color: $font-color;
           font-family: Inter;
-          font-size: 20px;
+          font-size: calc(var(--themeFontSize) * 20px);
           font-style: normal;
           font-weight: 600;
           line-height: normal;

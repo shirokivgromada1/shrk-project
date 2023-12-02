@@ -1,9 +1,9 @@
 .departments {
   margin-bottom: 100px;
   h1 {
-    color: #000;
+    color: var(--themeColor, #000);
     font-family: Inter;
-    font-size: 30px;
+    font-size: calc(var(--themeFontSize) * 30px);
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -25,31 +25,30 @@
       gap: 15px;
       padding: 30px 15px;
       border-radius: 10px;
-      background: #FFF;
+      background: var(--themeBgColor, #fff);
       box-shadow: 0px 4px 6px 0px rgba(85, 85, 85, 0.08);
       height: 159px;
       cursor: pointer;
       transition: background-color 0.4s ease-in;
       &:hover {
-        background-color: #309c54;
+        background-color: var(--themeBgColor, #309c54);
         h3 {
-          color: #ffffff;
+          color: var(--themeBgColor, #fff);
         }
         img {
           filter: brightness(100) !important;
         }
       }
       img {
-       transition: filter 0.4s ease-out;
+        transition: filter 0.4s ease-out;
       }
       &_desc {
-
         h3 {
           transition: color 0.4s ease-in;
-          color: #309c54;
+          color: var(--themeColor, #309c54);
           text-align: center;
           font-family: Inter;
-          font-size: 18px;
+          font-size: calc(var(--themeFontSize) * 18px);
           font-style: normal;
           font-weight: 400;
           line-height: normal;
@@ -67,7 +66,7 @@
         padding: 20px 10px;
         &_desc {
           h3 {
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
           }
         }
       }
@@ -85,7 +84,7 @@
         height: 160px;
         &_desc {
           h3 {
-            font-size: 18px;
+            font-size: calc(var(--themeFontSize) * 18px);
           }
         }
       }
@@ -101,10 +100,10 @@
     &__inner {
       &_department {
         padding: 20px 20px;
-       height: 140px;
+        height: 140px;
         &_desc {
           h3 {
-            font-size: 18px;
+            font-size: calc(var(--themeFontSize) * 18px);
           }
         }
       }
@@ -117,7 +116,7 @@
       &_department {
         &_desc {
           h3 {
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
           }
         }
       }

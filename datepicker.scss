@@ -1,6 +1,6 @@
 .react-datepicker__day--in-selecting-range:not(.react-datepicker__day--in-range, .react-datepicker__month-text--in-range, .react-datepicker__quarter-text--in-range, .react-datepicker__year-text--in-range) {
   background-color: rgba(48, 156, 84, 0.35) !important;
-  color: #fff !important;
+  color: var(--themeBgColor, #fff) !important;
 }
 
 .react-datepicker__day
@@ -8,14 +8,14 @@
   .react-datepicker__day--in-range
   .react-datepicker__day--weekend
   .react-datepicker__day--outside-month {
-  color: #fff !important;
+  color: var(--themeBgColor, #fff) !important;
 }
 .react-datepicker__day--in-range {
   color: rgba(255, 255, 255, 0.37) !important;
   background-color: rgba(48, 156, 84, 0.35) !important;
   border-radius: 0px !important;
   &:hover {
-    color: #fff !important;
+    color: var(--themeBgColor, #fff) !important;
     background-color: rgba(48, 156, 84, 0.35) !important;
   }
 }
@@ -38,7 +38,7 @@
 .react-datepicker__month-container {
   border-radius: 20px;
   padding: 25px 34px;
-  background: #fff;
+  background: var(--themeBgColor, #fff);
 }
 
 .react-datepicker-popper[data-placement^="bottom"] {
@@ -55,7 +55,7 @@
 .react-datepicker__header {
   padding-top: 0px !important;
   padding-bottom: 5px !important;
-  background-color: #fff !important;
+  background-color: var(--themeBgColor, #fff) !important;
   border: none !important;
   & > div {
     justify-content: space-between !important;
@@ -74,7 +74,7 @@
       border: none;
       color: #309c54;
       font-family: Inter;
-      font-size: 20px;
+      font-size: calc(var(--themeFontSize) * 20px);
       font-style: normal;
       font-weight: 600;
       line-height: normal;
@@ -114,7 +114,7 @@
     padding: 12px !important;
     margin: 0px !important;
     margin-block: 2px !important;
-    color: #000;
+    color: var(--themeColor, #000);
     text-align: center;
     font-family: Inter;
     font-size: 14px;
@@ -133,7 +133,7 @@
 .react-datepicker__day--range-end {
   border-radius: 3px !important;
   background: #309c54 !important;
-  color: #fff !important;
+  color: var(--themeBgColor, #fff) !important;
 }
 
 .react-datepicker__day--range-start {

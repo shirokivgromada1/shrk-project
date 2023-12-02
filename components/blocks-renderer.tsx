@@ -70,7 +70,7 @@ export const Components = (
                 <div
                   key={i}
                   data-tina-field={tinaField(component)}
-                  style={{ overflow: "hidden" }}
+                  // style={{ overflow: "hidden" }}
                 >
                   <Component {...component} />
                 </div>

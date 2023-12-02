@@ -3,9 +3,9 @@
   margin-bottom: 90px;
   & > div {
     & > h1 {
-      color: #000;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 40px;
+      font-size: calc(var(--themeFontSize) * 40px);
       font-style: normal;
       font-weight: 500;
       line-height: 115.023%; /* 46.009px */
@@ -25,24 +25,29 @@
     }
     & th {
       text-align: left;
-      color: #000;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 24px;
+      font-size: calc(var(--themeFontSize) * 24px);
       font-style: normal;
       font-weight: 400;
       line-height: normal;
       padding-bottom: 40px;
     }
     & td {
+      font-family: Inter;
+      font-size: calc(var(--themeFontSize) * 16px);
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
       padding-bottom: 30px;
       border-bottom: 1px solid rgba(48, 156, 84, 0.4);
     }
     &_name {
       width: 275px;
       & > h5 {
-        color: #000;
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 600;
         line-height: normal;
@@ -52,9 +57,9 @@
     &_contacts {
       width: 362px;
       & > h5 {
-        color: #000;
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -64,9 +69,9 @@
     &_address {
       width: 240px;
       & > h5 {
-        color: #000;
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -77,11 +82,8 @@
 @media screen and (max-width: 1260px) {
   .educationInstitution {
     &__inner {
-
-
       &_name {
         width: 275px;
-
 
         padding-right: 110px;
       }
@@ -91,17 +93,15 @@
 
         padding-right: 140px;
       }
-    }}
+    }
+  }
 }
 
 @media screen and (max-width: 1140px) {
   .educationInstitution {
     &__inner {
-
-
       &_name {
         width: 275px;
-
 
         padding-right: 90px;
       }
@@ -111,7 +111,8 @@
 
         padding-right: 120px;
       }
-    }}
+    }
+  }
 }
 
 @media screen and (max-width: 1095px) {
@@ -122,7 +123,8 @@
           width: 160px;
         }
       }
-    }}
+    }
+  }
 }
 
 @media only screen and (max-width: 768px) {
@@ -148,15 +150,15 @@
         flex: 0 0 calc(50% - 20px);
         padding: 25px 20px;
         border-radius: 5px;
-        background: #FFF;
+        background: var(--themeBgColor, #fff);
         box-shadow: 0px 4px 6px 0px rgba(85, 85, 85, 0.08);
-        &:not(:last-child){
-         margin-bottom: 20px;
+        &:not(:last-child) {
+          margin-bottom: 20px;
         }
       }
       & tr {
-          display: flex;
-          flex-direction: column;
+        display: flex;
+        flex-direction: column;
 
         &:not(:first-child) {
           & > td {
@@ -165,10 +167,9 @@
         }
       }
       & th {
-       display: none;
+        display: none;
       }
       & td {
-
         padding: 0;
         border-bottom: none;
       }
@@ -176,7 +177,7 @@
         width: 100%;
         & > h5 {
           &:first-of-type {
-            font-size: 18px;
+            font-size: calc(var(--themeFontSize) * 18px);
             margin-bottom: 20px;
           }
         }
@@ -185,14 +186,14 @@
         padding-top: 10px !important;
         width: 100%;
         & > h5 {
-          color: #000;
+          color: var(--themeColor, #000);
           font-family: Inter;
-          font-size: 16px;
+          font-size: calc(var(--themeFontSize) * 16px);
           font-style: normal;
           font-weight: 400;
           line-height: normal;
           &:first-of-type {
-            color: #000;
+            color: var(--themeColor, #000);
             font-weight: 600;
           }
         }
@@ -200,9 +201,9 @@
       &_address {
         width: 100%;
         & > h5 {
-          color: #000;
+          color: var(--themeColor, #000);
           font-family: Inter;
-          font-size: 16px;
+          font-size: calc(var(--themeFontSize) * 16px);
           font-style: normal;
           font-weight: 400;
           line-height: normal;
@@ -215,19 +216,18 @@
 @media only screen and (max-width: 620px) {
   .educationInstitution {
     &__inner {
-        &_name {
-          & > h5 {
-            &:first-of-type {
-              font-size: 16px;
-            }
+      &_name {
+        & > h5 {
+          &:first-of-type {
+            font-size: calc(var(--themeFontSize) * 16px);
           }
         }
       }
     }
   }
+}
 @media only screen and (max-width: 552px) {
   .educationInstitution {
-
     &__inner {
       & tbody {
         display: flex;
@@ -235,23 +235,24 @@
       }
       tbody > * {
         padding: 25px 20px;
-        &:not(:last-child){
+        &:not(:last-child) {
           margin-bottom: 25px;
         }
       }
       &_name {
         & > h5 {
           &:first-of-type {
-            font-size: 18px;
+            font-size: calc(var(--themeFontSize) * 18px);
             margin-bottom: 20px;
           }
         }
       }
+    }
   }
-}}
+}
 @media only screen and (max-width: 390px) {
   .educationInstitution {
-    margin-bottom:50px;
+    margin-bottom: 50px;
     & > div {
       & > h1 {
         font-size: 22px;
@@ -259,7 +260,6 @@
       }
     }
     &__inner {
-
       &_name {
         width: 100%;
 
@@ -270,4 +270,5 @@
         }
       }
     }
-  }}
+  }
+}

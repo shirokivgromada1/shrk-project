@@ -3,9 +3,9 @@
   &__inner {
     padding-top: 40px;
     h1 {
-      color: #000;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 40px;
+      font-size: calc(var(--themeFontSize) * 40px);
       font-style: normal;
       font-weight: 500;
       line-height: 115.023%; /* 46.009px */
@@ -25,30 +25,29 @@
         position: absolute;
         bottom: 10%;
         left: 21%;
-        width: 58.5%;
+        width: minmax(58.5%, auto);
         div {
           padding: 30px 10px;
           border-radius: 15px;
           h4 {
-            color: #000;
-
+            color: var(--themeColor, #000);
             text-align: center;
             font-family: Inter;
-            font-size: 34px;
+            font-size: calc(var(--themeFontSize) * 34px);
             font-style: normal;
             font-weight: 600;
             line-height: normal;
             padding-bottom: 1px;
             span {
-              font-size: 25px;
+              font-size: calc(var(--themeFontSize) * 25px);
             }
           }
           p {
-            color: #000;
+            color: var(--themeColor, #000);
 
             text-align: center;
             font-family: Inter;
-            font-size: 20px;
+            font-size: calc(var(--themeFontSize) * 20px);
             font-style: normal;
             font-weight: 500;
             line-height: normal;
@@ -81,11 +80,11 @@
             h4 {
               font-size: 30px;
               span {
-                font-size: 20px;
+                font-size: calc(var(--themeFontSize) * 20px);
               }
             }
             p {
-              font-size: 18px;
+              font-size: calc(var(--themeFontSize) * 18px);
             }
           }
         }
@@ -117,11 +116,11 @@
             h4 {
               font-size: 25px;
               span {
-                font-size: 16px;
+                font-size: calc(var(--themeFontSize) * 16px);
               }
             }
             p {
-              font-size: 16px;
+              font-size: calc(var(--themeFontSize) * 16px);
             }
           }
         }
@@ -190,7 +189,7 @@
           padding-bottom: 5px;
           div {
             h4 {
-              font-size: 20px;
+              font-size: calc(var(--themeFontSize) * 20px);
               span {
                 font-size: 14px;
               }
@@ -224,7 +223,7 @@
         position: relative;
         & > div {
           position: absolute;
-          top:5%;
+          top: 5%;
           right: 10%;
           height: 388px;
           display: flex;
@@ -236,7 +235,7 @@
             align-items: center;
             padding: 30px 10px;
             h4 {
-              color: #000;
+              color: var(--themeColor, #000);
 
               text-align: center;
               font-family: Inter;
@@ -245,14 +244,14 @@
               font-weight: 600;
               line-height: normal;
               span {
-                font-size: 18px;
+                font-size: calc(var(--themeFontSize) * 18px);
               }
             }
             p {
-              color: #000;
+              color: var(--themeColor, #000);
               text-align: center;
               font-family: Inter;
-              font-size: 20px;
+              font-size: calc(var(--themeFontSize) * 20px);
               font-style: normal;
               font-weight: 500;
               line-height: normal;
@@ -270,7 +269,6 @@
 }
 @media screen and (max-width: 370px) {
   .about {
-
     &__inner {
       &_banner1 {
         img {

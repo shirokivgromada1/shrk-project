@@ -10,12 +10,12 @@
   padding-right: 44px;
   border-radius: 2px;
   border-top: 1px solid #309c54;
-  background: var(--themeBgColor);
+  background: var(--themeBgColor, #fff);
   box-shadow: 0px 4px 7px 0px rgba(45, 45, 45, 0.07);
   z-index: 40;
   gap: 10px;
   & > a {
-    color: var(--themeColor);
+    color: var(--themeColor, #000);
     font-family: Inter;
     font-size: calc(var(--themeFontSize) * 12px);
     font-style: normal;

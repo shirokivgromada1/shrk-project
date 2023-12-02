@@ -1,9 +1,9 @@
 .leadership {
   margin-bottom: 90px;
-   h1 {
-    color: #000;
+  h1 {
+    color: var(--themeColor, #000);
     font-family: Inter;
-    font-size: 40px;
+    font-size: calc(var(--themeFontSize) * 40px);
     font-style: normal;
     font-weight: 500;
     line-height: normal;
@@ -22,17 +22,17 @@
       justify-content: space-between;
       align-items: flex-start;
       padding-bottom: 30px;
-      background: #fff;
-      border-bottom: 1px solid rgba(48, 156, 84, 0.40);
+      background: var(--themeBgColor, #fff);
+      border-bottom: 1px solid rgba(48, 156, 84, 0.4);
       div {
         display: flex;
         flex-direction: column;
         gap: 15px;
       }
       h5 {
-        color: #000;
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 600;
         line-height: normal;
@@ -40,32 +40,30 @@
       }
 
       p {
-        color: #000;
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
         width: 449px;
       }
 
-
-        a {
-          display: flex;
-          padding: 7px 20px;
-          justify-content: center;
-          align-items: center;
-          border-radius: 29px;
-          background: #309C54;
-          color: #FFF;
-          font-family: Inter;
-          font-size: 16px;
-          font-style: normal;
-          font-weight: 400;
-          line-height: normal;
-          min-width: max-content;
-
-        }
+      a {
+        display: flex;
+        padding: 7px 20px;
+        justify-content: center;
+        align-items: center;
+        border-radius: 29px;
+        background: #309c54;
+        color: var(--themeBgColor, #fff);
+        font-family: Inter;
+        font-size: calc(var(--themeFontSize) * 16px);
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        min-width: max-content;
+      }
     }
   }
 }
@@ -92,7 +90,6 @@
           max-width: 569px;
         }
 
-
         a {
           min-width: 35px;
           min-height: 35px;
@@ -104,13 +101,13 @@
   }
 }
 @media only screen and (max-width: 530px) {
-    .leadership {
-        .additionCard {
-          gap: 50px;
-
-        }
-      }}
-  @media only screen and (max-width: 390px) {
+  .leadership {
+    .additionCard {
+      gap: 50px;
+    }
+  }
+}
+@media only screen and (max-width: 390px) {
   .leadership {
     margin-bottom: 50px;
 

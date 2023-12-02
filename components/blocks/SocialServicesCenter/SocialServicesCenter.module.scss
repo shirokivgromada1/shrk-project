@@ -1,9 +1,9 @@
 .center {
   margin-bottom: 90px;
   h1 {
-    color: #000;
+    color: var(--themeColor, #000);
     font-family: Inter;
-    font-size: 40px;
+    font-size: calc(var(--themeFontSize) * 40px);
     font-style: normal;
     font-weight: 500;
     line-height: 115.023%; /* 46.009px */
@@ -13,9 +13,9 @@
     margin-inline: auto;
   }
   h2 {
-    color: #000;
+    color: var(--themeColor, #000);
     font-family: Inter;
-    font-size: 18px;
+    font-size: calc(var(--themeFontSize) * 18px);
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -43,11 +43,11 @@
           h3 {
             display: flex;
             gap: 10px;
-            color: #000;
+            color: var(--themeColor, #000);
             text-align: start;
             /* title med */
             font-family: Inter;
-            font-size: 20px;
+            font-size: calc(var(--themeFontSize) * 20px);
             font-style: normal;
             font-weight: 500;
             line-height: normal;
@@ -63,9 +63,9 @@
           }
           p {
             padding-left: 14px;
-            color: #000;
+            color: var(--themeColor, #000);
             font-family: Inter;
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             font-style: normal;
             font-weight: 400;
             line-height: normal;
@@ -73,9 +73,9 @@
           }
           h5 {
             padding-left: 14px;
-            color: #000;
+            color: var(--themeColor, #000);
             font-family: Inter;
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             font-style: normal;
             font-weight: 600;
             line-height: normal;
@@ -95,26 +95,26 @@
             list-style-type: none;
             position: relative;
             padding-left: 15px;
-            color: #000;
+            color: var(--themeColor, #000);
             font-family: Inter;
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             font-style: normal;
             font-weight: 400;
             line-height: normal;
           }
           li::before {
-             content: "●";
-             color: green;
-             position: absolute;
-             left: 0;
-           }
+            content: "●";
+            color: green;
+            position: absolute;
+            left: 0;
+          }
         }
       }
       h5 {
         padding-left: 14px;
-        color: #000;
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 600;
         line-height: normal;
@@ -122,7 +122,7 @@
     }
     &_taxi {
       h2 {
-        color: #000;
+        color: var(--themeColor, #000);
         font-family: Inter;
         font-size: 28px;
         font-style: normal;
@@ -132,10 +132,10 @@
         margin-top: 20px;
       }
       h4 {
-        color: #000;
+        color: var(--themeColor, #000);
         text-align: center;
         font-family: Inter;
-        font-size: 18px;
+        font-size: calc(var(--themeFontSize) * 18px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -185,7 +185,7 @@
           flex-direction: column;
           div {
             h3 {
-              font-size: 18px;
+              font-size: calc(var(--themeFontSize) * 18px);
               margin-bottom: 10px;
               max-width: initial;
             }
@@ -215,7 +215,7 @@
       }
       &_taxi {
         h2 {
-          font-size: 20px;
+          font-size: calc(var(--themeFontSize) * 20px);
           margin-bottom: 15px;
         }
       }
@@ -249,7 +249,7 @@
     }
     h2 {
       margin-bottom: 60px;
-      font-size: 18px;
+      font-size: calc(var(--themeFontSize) * 18px);
     }
     &__inner {
       &_item {
@@ -270,7 +270,7 @@
       }
       &_taxi {
         h2 {
-          font-size: 20px;
+          font-size: calc(var(--themeFontSize) * 20px);
           margin-bottom: 15px;
         }
       }

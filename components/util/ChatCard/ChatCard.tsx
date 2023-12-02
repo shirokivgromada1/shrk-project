@@ -17,7 +17,7 @@ export const HtmlTooltip = styled(({ className, ...props }: TooltipProps) => (
   <Tooltip {...props} classes={{ popper: className }} />
 ))(({ theme }) => ({
   [`& .${tooltipClasses.tooltip}`]: {
-    backgroundColor: "#fff",
+    backgroundColor: "var(--themeBgColor, #fff)",
     padding: 20,
     fontSize: theme.typography.pxToRem(12),
     boxShadow: "0px 4px 6px 0px rgba(85, 85, 85, 0.08)",
@@ -58,6 +58,7 @@ const ChatCard = ({ chat, setView, setActiveIndex }: Props) => {
   const [isLoading, setLoading] = useState(true);
   const [user, setUser] = useState<User | null>(null);
   const [selectedOption, setSelectedOption] = useState<Option | null>(null);
+
   const handleChange = (selectedOption: SingleValue<Option>) => {
     setSelectedOption(selectedOption);
     axiosInstance
@@ -198,22 +199,28 @@ const ChatCard = ({ chat, setView, setActiveIndex }: Props) => {
                     return {
                       padding: 0,
                       paddingBottom: "11px",
-                      color: "#000",
+                      color: "var(--themeColor)",
                       fontWeight: isSelected ? "600" : "400",
                       ":first-child": {
-                        color: isSelected ? "rgba(48, 156, 84, 1)" : "#000",
+                        color: isSelected
+                          ? "rgba(48, 156, 84, 1)"
+                          : "var(--themeColor)",
                         borderBottom: isSelected
                           ? "1px solid rgba(48, 156, 84, 1)"
                           : "1px solid rgba(48, 156, 84, 0.25)",
                       },
                       ":nth-child(2)": {
-                        color: isSelected ? "rgba(255, 122, 0, 1)" : "#000",
+                        color: isSelected
+                          ? "rgba(255, 122, 0, 1)"
+                          : "var(--themeColor)",
                         borderBottom: isSelected
                           ? "1px solid rgba(255, 122, 0, 1)"
                           : "1px solid rgba(255, 122, 0, 0.25)",
                       },
                       ":last-child": {
-                        color: isSelected ? "rgba(243, 58, 58, 1)" : "#000",
+                        color: isSelected
+                          ? "rgba(243, 58, 58, 1)"
+                          : "var(--themeColor)",
                         borderBottom: isSelected
                           ? "1px solid rgba(243, 58, 58, 1)"
                           : "1px solid rgba(243, 58, 58, 0.25)",

@@ -10,7 +10,7 @@
     height: 50px;
     border-radius: 50%;
     filter: drop-shadow(0px 4px 13px rgba(75, 75, 75, 0.07));
-    background-color: #fff;
+    background-color: var(--themeBgColor, #fff);
     transition: all 0.3s linear;
     & > svg {
       width: 25px;
@@ -35,7 +35,7 @@
     height: 50px;
     border-radius: 50%;
     filter: drop-shadow(0px 4px 13px rgba(75, 75, 75, 0.07));
-    background-color: #fff;
+    background-color: var(--themeBgColor, #fff);
     transition: all 0.3s linear;
     & > svg {
       width: 25px;
@@ -71,12 +71,12 @@
     }
     & h5 {
       font-family: Inter;
-      font-size: 22px;
+      font-size: calc(var(--themeFontSize) * 22px);
       font-style: normal;
       font-weight: 500;
       line-height: 115.023%;
       margin-bottom: 8px;
-      color: #011f26;
+      color: var(--themeColor, #011f26);
     }
     & > a {
       &:hover {
@@ -84,11 +84,19 @@
           color: #309c54;
         }
       }
+      & > p {
+        color: var(--themeColor, #555);
+        font-family: Inter;
+        font-size: calc(var(--themeFontSize) * 14px);
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+      }
       & > div {
         display: inline;
         & * {
           font-family: Inter;
-          font-size: 15px !important;
+          font-size: calc(var(--themeFontSize) * 15px) !important;
           font-style: normal;
           font-weight: 500;
           line-height: normal;
@@ -96,14 +104,14 @@
           margin-bottom: 0px;
           text-decoration: none;
           display: inline;
-          color: #000;
+          color: var(--themeColor, #000);
         }
       }
     }
     & button {
       color: #4196d6;
       font-family: Inter;
-      font-size: 15px;
+      font-size: calc(var(--themeFontSize) * 15px);
       font-style: normal;
       font-weight: 400;
       line-height: normal;
@@ -126,7 +134,7 @@
       }
       & h5 {
         font-family: Inter;
-        font-size: 22px;
+        font-size: calc(var(--themeFontSize) * 22px);
         font-style: normal;
         font-weight: 500;
         line-height: 115.023%;
@@ -138,7 +146,7 @@
           display: inline;
           & * {
             font-family: Inter;
-            font-size: 15px !important;
+            font-size: calc(var(--themeFontSize) * 15px) !important;
             font-style: normal;
             font-weight: 500;
             line-height: normal;
@@ -146,14 +154,14 @@
             margin-bottom: 0px;
             text-decoration: none;
             display: inline;
-            color: #000;
+            color: var(--themeColor, #000);
           }
         }
       }
       & button {
         color: #4196d6;
         font-family: Inter;
-        font-size: 15px;
+        font-size: calc(var(--themeFontSize) * 15px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -173,7 +181,7 @@
         margin-bottom: 8px;
       }
       & h5 {
-        font-size: 20px;
+        font-size: calc(var(--themeFontSize) * 20px);
       }
     }
   }
@@ -205,7 +213,7 @@
         margin-bottom: 8px;
       }
       & h5 {
-        font-size: 18px;
+        font-size: calc(var(--themeFontSize) * 18px);
       }
     }
   }

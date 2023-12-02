@@ -35,14 +35,14 @@
       justify-content: space-between;
       margin-bottom: 4px;
       & > h1 {
-        color: #000;
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 500;
         line-height: normal;
         & button {
-          color: #0174c8;
+          color: var(--themeColor, #0174c8);
           font-family: Inter;
           font-size: 14px;
           font-style: normal;
@@ -78,7 +78,7 @@
         flex-direction: column;
         justify-content: space-between;
         & > h1 {
-          color: #000;
+          color: var(--themeColor, #000);
           font-family: Inter;
           font-size: 28px;
           font-style: normal;
@@ -145,9 +145,9 @@
         flex-direction: column;
         justify-content: space-between;
         & > h1 {
-          color: #000;
+          color: var(--themeColor, #000);
           font-family: Inter;
-          font-size: 18px;
+          font-size: calc(var(--themeFontSize) * 18px);
           font-style: normal;
           font-weight: 500;
           line-height: normal;
@@ -194,9 +194,9 @@
         flex-direction: column;
         justify-content: space-between;
         & > h1 {
-          color: #000;
+          color: var(--themeColor, #000);
           font-family: Inter;
-          font-size: 18px;
+          font-size: calc(var(--themeFontSize) * 18px);
           font-style: normal;
           font-weight: 500;
           line-height: normal;
@@ -216,9 +216,9 @@
 }
 
 .headline {
-  color: #000;
+  color: var(--themeColor, #000);
   font-family: Inter;
-  font-size: 20px;
+  font-size: calc(var(--themeFontSize) * 20px);
   font-style: normal;
   font-weight: 500;
   line-height: normal;
@@ -256,9 +256,9 @@
         }
         & > div {
           & > h1 {
-            color: #000;
+            color: var(--themeColor, #000);
             font-family: Inter;
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             font-style: normal;
             font-weight: 500;
             line-height: normal;
@@ -280,9 +280,9 @@
           flex-direction: column;
           justify-content: space-between;
           & > h1 {
-            color: #000;
+            color: var(--themeColor, #000);
             font-family: Inter;
-            font-size: 18px;
+            font-size: calc(var(--themeFontSize) * 18px);
             font-style: normal;
             font-weight: 500;
             line-height: normal;
@@ -383,9 +383,9 @@
         }
         & > div {
           & > h1 {
-            color: #000;
+            color: var(--themeColor, #000);
             font-family: Inter;
-            font-size: 18px;
+            font-size: calc(var(--themeFontSize) * 18px);
             font-style: normal;
             font-weight: 500;
             line-height: normal;
@@ -405,9 +405,9 @@
         & > div {
           & > h1 {
             margin-bottom: 5px;
-            color: #000;
+            color: var(--themeColor, #000);
             font-family: Inter;
-            font-size: 24px;
+            font-size: calc(var(--themeFontSize) * 24px);
             font-style: normal;
             font-weight: 500;
             line-height: normal;
@@ -428,9 +428,9 @@
     }
     & > h1 {
       grid-area: headline;
-      color: #000;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 20px;
+      font-size: calc(var(--themeFontSize) * 20px);
       font-style: normal;
       font-weight: 500;
       line-height: normal;
@@ -493,9 +493,9 @@
         & > div {
           order: 2;
           & > h1 {
-            color: #000;
+            color: var(--themeColor, #000);
             font-family: Inter;
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             font-style: normal;
             font-weight: 600;
             line-height: normal;
@@ -512,9 +512,9 @@
           flex-shrink: 0;
         }
         & > div > h1 {
-          color: #000;
+          color: var(--themeColor, #000);
           font-family: Inter;
-          font-size: 16px;
+          font-size: calc(var(--themeFontSize) * 16px);
           font-style: normal;
           font-weight: 500;
           line-height: normal;
@@ -523,7 +523,7 @@
       }
     }
     & > h1 {
-      color: #000;
+      color: var(--themeColor, #000);
       font-family: Inter;
       font-size: 22px;
       font-style: normal;

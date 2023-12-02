@@ -6,9 +6,9 @@
     flex-direction: column;
     gap: 80px;
     & > p {
-      color: #309c54;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 24px;
+      font-size: calc(var(--themeFontSize) * 24px);
       font-style: normal;
       font-weight: 600;
       line-height: normal;
@@ -66,25 +66,25 @@
       gap: 15px;
     }
     & h1 {
-      color: #000;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 26px;
+      font-size: calc(var(--themeFontSize) * 26px);
       font-style: normal;
       font-weight: 500;
       line-height: normal;
     }
     & p {
-      color: #626262;
+      color: var(--themeColor, #626262);
       font-family: Inter;
-      font-size: 16px;
+      font-size: calc(var(--themeFontSize) * 16px);
       font-style: normal;
       font-weight: 500;
       line-height: normal;
     }
     & span {
-      color: #555;
+      color: var(--themeColor, #555);
       font-family: Inter;
-      font-size: 14px;
+      font-size: calc(var(--themeFontSize) * 14px);
       font-style: normal;
       font-weight: 600;
       line-height: normal;
@@ -150,9 +150,9 @@
       height: 108px !important;
     }
     & h1 {
-      color: #000;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 16px;
+      font-size: calc(var(--themeFontSize) * 16px);
       font-style: normal;
       font-weight: 500;
       line-height: normal;

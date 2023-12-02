@@ -1,9 +1,9 @@
 .genderItem {
   margin-bottom: 90px;
   h1 {
-    color: #000;
+    color: var(--themeColor, #000);
     font-family: Inter;
-    font-size: 40px;
+    font-size: calc(var(--themeFontSize) * 40px);
     font-style: normal;
     font-weight: 500;
     line-height: normal;
@@ -22,13 +22,13 @@
         justify-content: space-between;
         align-items: center;
         width: 100%;
-        color: #0174c8;
+        color: var(--themeColor, #0174c8);
         gap: 30px;
 
         & > h5 {
           color: #309c54;
           font-family: Inter;
-          font-size: 20px;
+          font-size: calc(var(--themeFontSize) * 20px);
           font-style: normal;
           font-weight: 400;
           line-height: normal;
@@ -43,7 +43,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 15px 40px;
-    background: #f9fafb;
+    background: var(--themeBgColor, #f9fafb);
     svg {
       min-width: 49px;
       min-height: 49px;
@@ -54,9 +54,9 @@
   }
   .showButton {
     padding-top: 5px;
-    color: #000;
+    color: var(--themeColor, #000);
     font-family: Inter;
-    font-size: 16px;
+    font-size: calc(var(--themeFontSize) * 16px);
     font-style: normal;
     font-weight: 500;
     line-height: normal;
@@ -70,7 +70,7 @@
   .genderItem {
     margin-bottom: 70px;
     h1 {
-      color: #000;
+      color: var(--themeColor, #000);
       font-size: 30px;
       font-weight: 400;
       margin-block: 20px;
@@ -80,7 +80,7 @@
       & > div {
         & > a {
           & > h5 {
-            font-size: 18px;
+            font-size: calc(var(--themeFontSize) * 18px);
             font-weight: 500;
           }
           svg {
@@ -110,7 +110,7 @@
         & > a {
           justify-content: center;
           & > h5 {
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             font-weight: 500;
           }
         }
@@ -118,7 +118,7 @@
     }
     .projectCard {
       border-radius: 5px;
-      background: #fff;
+      background: var(--themeBgColor, #fff);
       padding: 18px 20px;
     }
   }

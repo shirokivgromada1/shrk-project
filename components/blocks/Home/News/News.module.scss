@@ -3,7 +3,7 @@
   overflow: hidden;
   & > div > h1 {
     font-family: Inter;
-    font-size: 36px;
+    font-size: calc(var(--themeFontSize) * 36px);
     font-style: normal;
     font-weight: 300;
     line-height: 115.023%;

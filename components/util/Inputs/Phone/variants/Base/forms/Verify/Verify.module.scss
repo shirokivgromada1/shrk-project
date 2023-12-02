@@ -1,18 +1,18 @@
 .form {
-	display: flex;
-	flex-direction: column;
-	gap: 15px;
-	&__control {
-		display: flex;
-		gap: 15px;
-		flex-wrap: wrap;
-	}
-	&__label {
-		color: #000;
-		font-family: Inter;
-		font-size: 18px;
-		font-style: normal;
-		font-weight: 500;
-		line-height: normal;
-	}
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  &__control {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+  }
+  &__label {
+    color: var(--themeColor, #000);
+    font-family: Inter;
+    font-size: calc(var(--themeFontSize) * 18px);
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+  }
 }

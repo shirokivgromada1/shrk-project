@@ -3,9 +3,9 @@
   margin-bottom: 90px;
   & > div {
     & > h1 {
-      color: #000;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 40px;
+      font-size: calc(var(--themeFontSize) * 40px);
       font-style: normal;
       font-weight: 500;
       line-height: 115.023%; /* 46.009px */
@@ -16,9 +16,9 @@
   }
   &__inner {
     width: 100%;
-      border-collapse: collapse;
+    border-collapse: collapse;
     tbody {
-      tr  {
+      tr {
         border-bottom: 1px solid rgba(48, 156, 84, 0.4);
         height: inherit;
       }
@@ -34,9 +34,9 @@
       }
     }
     & th {
-      color: #000;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 24px;
+      font-size: calc(var(--themeFontSize) * 24px);
       font-style: normal;
       font-weight: 400;
       line-height: normal;
@@ -57,9 +57,9 @@
     &_name {
       & > h5 {
         max-width: 469px;
-        color: #000;
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 600;
         line-height: normal;
@@ -71,9 +71,9 @@
       display: flex;
       align-items: flex-start;
       & > h5 {
-        color: #000;
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -88,21 +88,19 @@
         justify-content: center;
         align-items: center;
         border-radius: 29px;
-        background: #309C54;
-        color: #FFF;
+        background: #309c54;
+        color: var(--themeBgColor, #fff);
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
-
       }
     }
   }
 }
 @media screen and (max-width: 1175px) {
   .programs {
-
     &__inner {
       & th {
         font-size: 22px;
@@ -125,10 +123,8 @@
 }
 @media screen and (max-width: 1090px) {
   .programs {
-
     &__inner {
       & th {
-
         &:nth-of-type(2) {
           padding-right: 0px;
         }
@@ -151,10 +147,8 @@
 
 @media screen and (max-width: 1000px) {
   .programs {
-
     &__inner {
       & th {
-
         &:nth-of-type(2) {
           padding-right: 0px;
           text-align: center;
@@ -199,7 +193,7 @@
         font-weight: 400;
         font-size: 30px;
         line-height: normal;
-        margin-block:20px 40px;
+        margin-block: 20px 40px;
       }
     }
     &__inner {
@@ -219,26 +213,26 @@
           gap: 10px;
           h5 {
             max-width: 350px;
-            color: #000;
+            color: var(--themeColor, #000);
             font-family: Inter;
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             font-style: normal;
             font-weight: 600;
             line-height: normal;
             p {
-              color: #000;
+              color: var(--themeColor, #000);
               font-family: Inter;
-              font-size: 16px;
+              font-size: calc(var(--themeFontSize) * 16px);
               font-style: normal;
               font-weight: 600;
               line-height: normal;
             }
           }
           p {
-            max-width:590px;
-            color: #000;
+            max-width: 590px;
+            color: var(--themeColor, #000);
             font-family: Inter;
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             font-style: normal;
             font-weight: 400;
             line-height: normal;
@@ -252,10 +246,9 @@
           min-height: 35px;
           justify-content: center;
           align-items: center;
-          border-radius:50%;
-          background: #309C54;
-          color: #FFF;
-
+          border-radius: 50%;
+          background: #309c54;
+          color: var(--themeBgColor, #fff);
         }
       }
     }
@@ -263,31 +256,29 @@
 }
 
 @media only screen and (max-width: 390px) {
-    .programs {
-      margin-top: 0px;
-      margin-bottom: 50px;
-      & > div {
-        & > h1 {
-          font-size: 22px;
-        }
+  .programs {
+    margin-top: 0px;
+    margin-bottom: 50px;
+    & > div {
+      & > h1 {
+        font-size: 22px;
       }
-      &__inner {
-        .program {
-          gap: 35px;
-          &__desc {
-
-            p {
-              max-width:590px;
-              color: #000;
-              font-family: Inter;
-              font-size: 16px;
-              font-style: normal;
-              font-weight: 400;
-              line-height: normal;
-            }
+    }
+    &__inner {
+      .program {
+        gap: 35px;
+        &__desc {
+          p {
+            max-width: 590px;
+            color: var(--themeColor, #000);
+            font-family: Inter;
+            font-size: calc(var(--themeFontSize) * 16px);
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
           }
         }
       }
     }
-
+  }
 }

@@ -10,7 +10,7 @@
     height: 50px;
     border-radius: 50%;
     filter: drop-shadow(0px 4px 13px rgba(75, 75, 75, 0.07));
-    background-color: #fff;
+    background-color: var(--themeBgColor, #fff);
     transition: all 0.3s linear;
     & > svg {
       width: 25px;
@@ -35,7 +35,7 @@
     height: 50px;
     border-radius: 50%;
     filter: drop-shadow(0px 4px 13px rgba(75, 75, 75, 0.07));
-    background-color: #fff;
+    background-color: var(--themeBgColor, #fff);
     transition: all 0.3s linear;
     & > svg {
       width: 25px;
@@ -60,9 +60,9 @@
   margin-top: 30px;
   margin-bottom: 170px;
   & p {
-    color: #309c54;
+    color: var(--themeColor, #000);
     font-family: Inter;
-    font-size: 24px;
+    font-size: calc(var(--themeFontSize) * 24px);
     font-style: normal;
     font-weight: 600;
     line-height: normal;
@@ -78,9 +78,9 @@
 }
 
 .title {
-  color: #000;
+  color: var(--themeColor, #000);
   font-family: Inter;
-  font-size: 20px;
+  font-size: calc(var(--themeFontSize) * 20px);
   font-style: normal;
   font-weight: 400;
   line-height: normal;
@@ -94,11 +94,11 @@
   &_button {
     padding: 10px 60px;
     border-radius: 40px;
-    border: 1px solid #fff;
+    border: 1px solid var(--themeBgColor, #fff);
     background: #309c54;
-    color: #fff;
+    color: var(--themeBgColor, #fff);
     font-family: Inter;
-    font-size: 18px;
+    font-size: calc(var(--themeFontSize) * 18px);
     font-style: normal;
     font-weight: 600;
     line-height: normal;
@@ -136,9 +136,9 @@
     object-position: center;
   }
   & span {
-    color: #000;
+    color: var(--themeColor, #000);
     font-family: Inter;
-    font-size: 18px;
+    font-size: calc(var(--themeFontSize) * 18px);
     font-style: normal;
     font-weight: 500;
     line-height: normal;
@@ -169,9 +169,9 @@
         object-position: center;
       }
       & span {
-        color: #000;
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 18px;
+        font-size: calc(var(--themeFontSize) * 18px);
         font-style: normal;
         font-weight: 500;
         line-height: normal;
@@ -224,15 +224,15 @@
       margin-bottom: 10px !important;
     }
     & span {
-      font-size: 16px;
+      font-size: calc(var(--themeFontSize) * 16px);
     }
   }
   .title {
     width: 100%;
-    color: #000;
+    color: var(--themeColor, #000);
     /* text phone */
     font-family: Inter;
-    font-size: 16px;
+    font-size: calc(var(--themeFontSize) * 16px);
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -255,7 +255,7 @@
           height: 400px !important;
         }
         & span {
-          font-size: 16px;
+          font-size: calc(var(--themeFontSize) * 16px);
         }
       }
     }

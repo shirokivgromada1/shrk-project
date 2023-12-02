@@ -12,7 +12,7 @@
   align-items: center;
   gap: 8px;
   font-family: Inter;
-  font-size: 14px;
+  font-size: calc(var(--themeFontSize) * 14px);
   font-style: normal;
   font-weight: 400;
   line-height: normal;
@@ -42,7 +42,7 @@
   }
   &__completed {
     background: rgba(16, 163, 92, 0.2);
-    color: #309c54;
+    color: var(--themeColor, #309c54);
     & > svg {
       & > circle {
         fill: #309c54;
@@ -51,7 +51,7 @@
   }
   &__progress {
     background: rgba(255, 122, 0, 0.2);
-    color: #ff7a00;
+    color: var(--themeColor, #ff7a00);
     & > svg {
       & > circle {
         fill: #ff7a00;
@@ -60,7 +60,7 @@
   }
   &__rejected {
     background: rgba(163, 16, 16, 0.2);
-    color: #f33a3a;
+    color: var(--themeColor, #f33a3a);
     & > svg {
       & > circle {
         fill: #f33a3a;
@@ -90,16 +90,16 @@
     gap: 11px;
   }
   & span {
-    color: rgba(0, 0, 0, 0.26);
+    color: var(--themeColor, rgba(0, 0, 0, 0.26));
     font-family: Inter;
-    font-size: 14px;
+    font-size: calc(var(--themeFontSize) * 14px);
     font-style: normal;
     font-weight: 400;
     line-height: normal;
   }
   & h5 {
     width: max-content;
-    color: $font-color;
+    color: var(--themeColor, #000);
     font-family: Inter;
     font-size: 14px;
     font-style: normal;
@@ -116,14 +116,14 @@
     background-color: transparent;
     border: none;
     font-family: Inter;
-    font-size: 14px;
+    font-size: calc(var(--themeFontSize) * 14px);
     font-style: normal;
     font-weight: 400;
     line-height: normal;
     & > option {
-      color: $font-color;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 14px;
+      font-size: calc(var(--themeFontSize) * 14px);
       font-style: normal;
       font-weight: 400;
       line-height: normal;

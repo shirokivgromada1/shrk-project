@@ -1,9 +1,9 @@
 .employees {
   margin-bottom: 90px;
   h1 {
-    color: #000;
+    color: var(--themeColor, #000);
     font-family: Inter;
-    font-size: 40px;
+    font-size: calc(var(--themeFontSize) * 40px);
     font-style: normal;
     font-weight: 500;
     line-height: 115.023%; /* 46.009px */
@@ -20,9 +20,8 @@
       display: flex;
       flex-direction: column;
       flex: 0 0 calc(33.33% - 27px);
-      background: #f9fafb;
+      background: var(--themeBgColor, #f9fafb);
       img {
-
         object-fit: cover;
         object-position: top center;
       }
@@ -34,9 +33,9 @@
         min-height: 225px;
         &_fullname {
           h4 {
-            color: #000;
+            color: var(--themeColor, #000);
             font-family: Inter;
-            font-size: 20px;
+            font-size: calc(var(--themeFontSize) * 20px);
             font-style: normal;
             font-weight: 600;
             line-height: normal;
@@ -45,11 +44,11 @@
             text-align: center;
           }
           p {
-            color: #000;
+            color: var(--themeColor, #000);
 
             text-align: center;
             font-family: Inter;
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             font-style: normal;
             font-weight: 400;
             line-height: normal;
@@ -61,18 +60,18 @@
           justify-content: center;
           gap: 10px;
           & span:first-child {
-            color: #000;
+            color: var(--themeColor, #000);
             text-align: center;
             font-family: Inter;
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             font-style: normal;
             font-weight: 600;
             line-height: normal;
           }
           & span:nth-child(2) {
-            color: #000;
+            color: var(--themeColor, #000);
             font-family: Inter;
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             font-style: normal;
             font-weight: 400;
             line-height: normal;
@@ -85,18 +84,18 @@
           justify-content: center;
           gap: 10px;
           & span:first-child {
-            color: #000;
+            color: var(--themeColor, #000);
             text-align: center;
             font-family: Inter;
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             font-style: normal;
             font-weight: 600;
             line-height: normal;
           }
           & span:nth-child(2) {
-            color: #000;
+            color: var(--themeColor, #000);
             font-family: Inter;
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             font-style: normal;
             font-weight: 400;
             line-height: normal;
@@ -160,14 +159,14 @@
           &_fullname {
             margin-bottom: 14px;
             h4 {
-              font-size: 18px;
+              font-size: calc(var(--themeFontSize) * 18px);
               font-weight: 500;
               margin-bottom: 5px;
             }
           }
           h5 {
             text-align: center;
-            color: #000;
+            color: var(--themeColor, #000);
             font-family: Inter;
             font-size: 14px;
             font-style: normal;
@@ -188,7 +187,7 @@
           &_address {
             gap: 0px;
             & span:first-child {
-font-size: 15px;
+              font-size: 15px;
               font-weight: 400;
               &:first-letter {
                 text-transform: lowercase;
@@ -201,84 +200,84 @@ font-size: 15px;
   }
 }
 @media only screen and (max-width: 580px) {
-    .employees {
-
-      &__inner {
-        gap: 30px;
-        &_item {
-
-          &_info {
-            padding: 10px 12px;}}
+  .employees {
+    &__inner {
+      gap: 30px;
+      &_item {
+        &_info {
+          padding: 10px 12px;
+        }
       }
     }
+  }
 }
 @media screen and (max-width: 570px) {
   .employees {
-  margin-bottom: 50px;
-  h1 {
-    font-size: 22px;
-    font-weight: 400;
-    margin-block: 20px 40px;
-  }
-  &__inner {
-    gap: 20px;
-    flex-wrap: wrap;
-    &_item {
-      display: flex;
-      flex-direction: column;
-      flex: initial;
-      background: #FFF;
-
-      box-shadow: 0px 4px 10px 0px rgba(169, 169, 169, 0.12);
-      padding: 20px ;
-      width: 100%;
-      img {
-        display: none !important;
-      }
-      &_info {
+    margin-bottom: 50px;
+    h1 {
+      font-size: 22px;
+      font-weight: 400;
+      margin-block: 20px 40px;
+    }
+    &__inner {
+      gap: 20px;
+      flex-wrap: wrap;
+      &_item {
         display: flex;
         flex-direction: column;
-        min-height: 180px;
-        padding: 0;
-        h5 {
-          text-align: start;
-          margin-bottom: 5px;
-          font-weight: 700;
+        flex: initial;
+        background: var(--themeBgColor, #fff);
+
+        box-shadow: 0px 4px 10px 0px rgba(169, 169, 169, 0.12);
+        padding: 20px;
+        width: 100%;
+        img {
+          display: none !important;
         }
-        &_fullname {
-          h4 {
-            font-size: 18px;
-            font-weight: 500;
+        &_info {
+          display: flex;
+          flex-direction: column;
+          min-height: 180px;
+          padding: 0;
+          h5 {
             text-align: start;
-            margin-bottom: 0;
+            margin-bottom: 5px;
+            font-weight: 700;
           }
-          p {
-            text-align: start;
+          &_fullname {
+            h4 {
+              font-size: calc(var(--themeFontSize) * 18px);
+              font-weight: 500;
+              text-align: start;
+              margin-bottom: 0;
+            }
+            p {
+              text-align: start;
+            }
           }
-        }
-        &_phone {
-          justify-content: flex-start;
-          & span:first-child {
-            font-size: 16px;
-            text-align: start;
+          &_phone {
+            justify-content: flex-start;
+            & span:first-child {
+              font-size: calc(var(--themeFontSize) * 16px);
+              text-align: start;
+            }
+            & span:nth-child(2) {
+              font-size: calc(var(--themeFontSize) * 16px);
+            }
           }
-          & span:nth-child(2) {
-            font-size: 16px;
-          }
-        }
-        &_address {
-          & span:first-child {
-            font-size: 16px;
-            text-align: start;
-          }
-          & span:nth-child(2) {
-            font-size: 16px;
+          &_address {
+            & span:first-child {
+              font-size: calc(var(--themeFontSize) * 16px);
+              text-align: start;
+            }
+            & span:nth-child(2) {
+              font-size: calc(var(--themeFontSize) * 16px);
+            }
           }
         }
       }
     }
   }
-}
 }
 @media only screen and (max-width: 391px) {
   .employees {
@@ -290,7 +289,7 @@ font-size: 15px;
     }
     h2 {
       margin-bottom: 60px;
-      font-size: 18px;
+      font-size: calc(var(--themeFontSize) * 18px);
     }
     &__inner {
       &_item {
@@ -311,7 +310,7 @@ font-size: 15px;
       }
       &_taxi {
         h2 {
-          font-size: 20px;
+          font-size: calc(var(--themeFontSize) * 20px);
           margin-bottom: 15px;
         }
       }

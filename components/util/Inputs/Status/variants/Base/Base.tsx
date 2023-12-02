@@ -53,7 +53,7 @@ export const stylesSelect: StylesConfig<status, false> = {
   },
   control: (styles) => ({
     ...styles,
-    color: "#000",
+    color: "var(--themeColor)",
     fontFamily: "Inter",
     fontSize: "16px",
     fontStyle: "normal",

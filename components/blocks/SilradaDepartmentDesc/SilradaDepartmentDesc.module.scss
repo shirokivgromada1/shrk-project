@@ -1,9 +1,9 @@
 .department {
   margin-bottom: 70px;
   h1 {
-    color: #000;
+    color: var(--themeColor, #000);
     font-family: Inter;
-    font-size: 40px;
+    font-size: calc(var(--themeFontSize) * 40px);
     font-style: normal;
     font-weight: 500;
     line-height: normal;
@@ -15,77 +15,76 @@
     display: flex;
     flex-direction: column;
     gap: 50px;
-   &_item {
-     display: flex;
-     gap: 40px;
-     max-width: 660px;
-     margin-inline: auto;
-     &_photo {
-       max-height: 365px;
-       img {
-
-         object-fit: cover;
-         object-position: top center;
-       }
-     }
-    &_desc {
+    &_item {
       display: flex;
-      flex-direction:column;
-      gap: 20px;
-      justify-content: center;
-      max-width: 255px;
-      h4 {
-        color: #000;
-
-        font-family: Inter;
-        font-size: 24px;
-        font-style: normal;
-        font-weight: 500;
-        line-height: normal;
-        margin-bottom: 10px;
+      gap: 40px;
+      max-width: 660px;
+      margin-inline: auto;
+      &_photo {
+        max-height: 365px;
+        img {
+          object-fit: cover;
+          object-position: top center;
+        }
       }
-      & div {
-        h5 {
-          color: #000;
+      &_desc {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        justify-content: center;
+        max-width: 255px;
+        h4 {
+          color: var(--themeColor, #000);
 
           font-family: Inter;
-          font-size: 20px;
+          font-size: calc(var(--themeFontSize) * 24px);
           font-style: normal;
           font-weight: 500;
           line-height: normal;
           margin-bottom: 10px;
         }
-        p {
-          color: #000;
-          font-family: Inter;
-          font-size: 16px;
-          font-style: normal;
-          font-weight: 400;
-          line-height: normal;
+        & div {
+          h5 {
+            color: var(--themeColor, #000);
+
+            font-family: Inter;
+            font-size: calc(var(--themeFontSize) * 20px);
+            font-style: normal;
+            font-weight: 500;
+            line-height: normal;
+            margin-bottom: 10px;
+          }
+          p {
+            color: var(--themeColor, #000);
+            font-family: Inter;
+            font-size: calc(var(--themeFontSize) * 16px);
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+          }
         }
       }
     }
-   }
     &_powers {
       max-width: 1190px;
       margin-inline: auto;
       h3 {
-        color: #1B1B1B;
+        color: var(--themeColor, #1b1b1b);
 
         text-align: center;
         font-family: Inter;
-        font-size: 28px;
+        font-size: calc(var(--themeFontSize) * 28px);
         font-style: normal;
         font-weight: 500;
         line-height: normal;
         margin-bottom: 15px;
       }
       p {
-        color: #000;
+        color: var(--themeColor, #000);
 
         text-align: center;
         font-family: Inter;
-        font-size: 18px;
+        font-size: calc(var(--themeFontSize) * 18px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -98,10 +97,10 @@
   .department {
     margin-bottom: 80px;
     h1 {
-      color: #000;
+      color: var(--themeColor, #000);
       font-size: 30px;
       font-weight: 400;
-      margin-block:20px 40px;
+      margin-block: 20px 40px;
     }
     &__inner {
       gap: 40px;
@@ -115,14 +114,14 @@
         &_desc {
           gap: 24px;
           padding-block: 0px;
-          max-width:39vw;
+          max-width: 39vw;
           h4 {
             font-size: 22px;
             margin-bottom: 5px;
           }
           & div {
             h5 {
-              font-size: 18px;
+              font-size: calc(var(--themeFontSize) * 18px);
               margin-bottom: 10px;
             }
           }
@@ -137,7 +136,6 @@
       }
     }
   }
-
 }
 @media only screen and (max-width: 650px) {
   .department {
@@ -152,9 +150,9 @@
         &_desc {
           gap: 10px;
           padding-block: 0px;
-          max-width:39vw;
+          max-width: 39vw;
           h4 {
-            font-size: 20px;
+            font-size: calc(var(--themeFontSize) * 20px);
             margin-bottom: 5px;
           }
           & div {
@@ -167,7 +165,7 @@
       }
       &_powers {
         h3 {
-          font-size: 20px;
+          font-size: calc(var(--themeFontSize) * 20px);
         }
         p {
           font-size: 17px;
@@ -175,13 +173,12 @@
       }
     }
   }
-
 }
 @media only screen and (max-width: 530px) {
   .department {
     h1 {
       font-size: 22px;
-      margin-block:40px 20px;
+      margin-block: 40px 20px;
     }
     &__inner {
       &_item {
@@ -194,14 +191,14 @@
         }
         &_desc {
           gap: 10px;
-          max-width:initial;
+          max-width: initial;
           align-items: center;
           h4 {
             margin-bottom: 0px;
             text-align: center;
           }
           p {
-            color: #000;
+            color: var(--themeColor, #000);
 
             text-align: center;
             font-family: Inter;
@@ -225,7 +222,6 @@
       }
     }
   }
-
 }
 @media only screen and (max-width: 390px) {
   .department {
@@ -233,20 +229,19 @@
       &_item {
         &_desc {
           p {
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
           }
           & div {
             h5 {
-              font-size: 16px;
+              font-size: calc(var(--themeFontSize) * 16px);
               margin-bottom: 10px;
             }
             p {
-              font-size: 16px;
+              font-size: calc(var(--themeFontSize) * 16px);
             }
           }
         }
       }
     }
   }
-
 }

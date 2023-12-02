@@ -4,9 +4,9 @@
   position: relative;
   &__seeMoreAnn {
     & > h5 {
-      color: #000;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 18px;
+      font-size: calc(var(--themeFontSize) * 18px);
       font-style: normal;
       font-weight: 500;
       line-height: normal;
@@ -15,7 +15,7 @@
     & > button {
       color: #004bc1;
       font-family: Inter;
-      font-size: 16px;
+      font-size: calc(var(--themeFontSize) * 16px);
       font-style: normal;
       font-weight: 600;
       line-height: normal;
@@ -37,17 +37,17 @@
       & p {
         color: #4f4f4f;
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
         margin-bottom: 10px;
       }
       & h5 {
-        color: #000;
+        color: var(--themeColor, #000);
         /* text phone */
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -75,7 +75,7 @@
     }
   }
   & > h1 {
-    color: #000;
+    color: var(--themeColor, #000);
     text-align: center;
     font-family: Inter;
     font-size: 32px;
@@ -120,13 +120,27 @@
     display: flex;
     flex-direction: column;
     gap: 50px;
-    & > p {
-      color: #000;
+    & > p,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 16px;
+    }
+    & > p {
+      font-size: calc(var(--themeFontSize) * 16px);
       font-style: normal;
       font-weight: 400;
       line-height: normal;
+    }
+    & ol {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-left: 20px;
     }
     & ul {
       display: flex;
@@ -135,9 +149,9 @@
       list-style: none;
       margin-left: 20px;
       & > li {
-        color: #000;
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -165,9 +179,9 @@
   &__seeMore {
     margin-bottom: 150px;
     & h1 {
-      color: #000;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 24px;
+      font-size: calc(var(--themeFontSize) * 24px);
       font-style: normal;
       font-weight: 500;
       line-height: normal;
@@ -218,7 +232,7 @@
             padding-bottom: 20px !important;
             margin-bottom: 0px !important;
             grid-area: title;
-            color: #000 !important;
+            color: var(--themeColor, #000) !important;
             font-size: 20px !important;
           }
           & > p {
@@ -243,7 +257,7 @@
     margin-bottom: 150px;
     & > h1 {
       width: 568px;
-      color: #000;
+      color: var(--themeColor, #000);
       text-align: center;
       font-family: Inter;
       font-size: 22px;
@@ -315,7 +329,7 @@
             grid-area: month;
             color: #a0a0a0;
             font-family: Inter;
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             font-style: normal;
             font-weight: 300;
             line-height: normal;
@@ -325,7 +339,7 @@
             grid-area: year;
             color: #333;
             font-family: Inter;
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             font-style: normal;
             font-weight: 500;
             line-height: normal;
@@ -350,9 +364,9 @@
             line-height: normal;
           }
           &_minutes {
-            color: #000;
+            color: var(--themeColor, #000);
             font-family: Inter;
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             font-style: normal;
             font-weight: 300;
             line-height: normal;
@@ -365,9 +379,9 @@
       &_fact {
         &:first-child {
           & > h1 {
-            color: #000;
+            color: var(--themeColor, #000);
             font-family: Inter;
-            font-size: 18px;
+            font-size: calc(var(--themeFontSize) * 18px);
             font-style: normal;
             font-weight: 500;
             line-height: normal;
