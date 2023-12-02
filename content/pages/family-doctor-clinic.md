@@ -2,7 +2,7 @@
 title: family-doctor-clinic
 components:
   - title: КЛІНІКА СІМЕЙНИЙ ЛІКАР
-    logo: /uploads/clinic-title/clinic-logo.svg
+    logo: /uploads/all-services/family-doctor-clinic/Group.png
     desc: >
       Клініка “Сімейний лікар” - доступна медицина від команди найкращих
       спеціалістів
@@ -14,13 +14,14 @@ components:
 
       **Ваше здоров’я – наш пріоритет.**
     buttonText: Перейти на наш сайт
-    url: home
+    url: /
     _template: ClinicTitle
   - title: Які медичні послуги ми пропонуємо?
     servicess:
       - title: Полікніка
-        icon: /uploads/clinic-service/building-hospital.svg
-        image: /uploads/clinic-service/image-1.png
+        icon: >-
+          /uploads/all-services/family-doctor-clinic/tabler_building-hospital.svg
+        image: /uploads/all-services/family-doctor-clinic/1.png
         description:
           descTitle: Полікніка
           descSubtext: >-
@@ -46,8 +47,8 @@ components:
             - name: Дитячий невролог
             - name: ЛОР
       - title: Первинна медицина
-        icon: /uploads/clinic-service/maki_doctor.svg
-        image: /uploads/clinic-service/image-2.png
+        icon: /uploads/all-services/family-doctor-clinic/maki_doctor.svg
+        image: /uploads/all-services/family-doctor-clinic/2.png
         description:
           descTitle: Первинна медицина
           descSubtext: >-
@@ -59,8 +60,8 @@ components:
             - name: Педіатрія
             - name: Вакцинація
       - title: Стоматологія
-        icon: /uploads/clinic-service/tooth.svg
-        image: /uploads/clinic-service/image-1.png
+        icon: /uploads/all-services/family-doctor-clinic/mdi_tooth-outline.svg
+        image: /uploads/all-services/family-doctor-clinic/1.png
         description:
           descTitle: Стоматологія
           descSubtext: >-
@@ -73,8 +74,9 @@ components:
             - name: Стоматолог - ортопед
             - name: 'Дитячий стоматолог '
       - title: Стаціонарний відділ
-        icon: /uploads/clinic-service/doctor.svg
-        image: /uploads/clinic-service/image-2.png
+        icon: >-
+          /uploads/all-services/family-doctor-clinic/healthicons_doctor-outline.svg
+        image: /uploads/all-services/family-doctor-clinic/2.png
         description:
           descTitle: Стаціонарний відділ
           descSubtext: 'Приймальний покій за телефоном: '
@@ -88,8 +90,8 @@ components:
             - name: Гінекологія
             - name: Урологія
       - title: Інструментальні послуги
-        icon: /uploads/clinic-service/diagnostic.svg
-        image: /uploads/clinic-service/image-1.png
+        icon: /uploads/all-services/family-doctor-clinic/fluent-mdl2_diagnostic.svg
+        image: /uploads/all-services/family-doctor-clinic/1.png
         description:
           descTitle: Інструментальні послуги
           descSubtext: >-
@@ -109,24 +111,24 @@ components:
     _template: ClinicService
   - title: Зв’язок з нами
     schedule:
-      scheduleLogo: /uploads/clinic-contact/schedule-logo.svg
+      scheduleLogo: /uploads/all-services/family-doctor-clinic/3.svg
       scheduleTitle: 'Графік роботи в з 8:00 – 20:00'
       schedulePhones: +38 099 18 88 003 +38 096 18 88 003 +38 073 18 88 003
       schedulePropose: Скарги та пропозиції
       proposePhones: +38 099 18 88 103
     address:
-      logo: /uploads/clinic-contact/address-logo.svg
+      logo: /uploads/all-services/family-doctor-clinic/Frame 330.svg
       title: Адреса
       street: 'вул. Лікарняна,18'
       url: 'https://maps.app.goo.gl/SCfBYrJj4VmTdiwZ8'
       buttonText: Показати на мапі
     socials:
-      logo: /uploads/clinic-contact/socials-logo.svg
+      logo: /uploads/all-services/family-doctor-clinic/Frame 331.svg
       title: Соціальні мережі
       socialList:
-        - icon: /uploads/clinic-contact/facebook.svg
+        - icon: /uploads/all-services/family-doctor-clinic/logos_facebook.svg
           name: '@shyroke.likar'
-        - icon: /uploads/clinic-contact/instagram.svg
+        - icon: /uploads/all-services/family-doctor-clinic/skill-icons_instagram.svg
           name: simeynyy_likar
     _template: ClinicContact
 ---

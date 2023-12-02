@@ -10,7 +10,7 @@ components:
           соціальної інфраструктури за об’єктами у 2020 році
         additionDownload:
           file: >-
-            /uploads/leadership-flies/Rozpodil-koshtiv-biudzhetu-rozvytku-na-zdiysnennia-zakhodiv-iz-budivnytstva-rekonstruktsi-i-restavratsii-obiektiv-vyrobnychoi-komunikatsiynoi-ta-sotsial-noi-infrastruktury-za-obiektamy-u-2020-rotsi.xlsx
+            /uploads/useful-info/project-rmsi/leadership/Rozpodil-koshtiv-biudzhetu-rozvytku-na-zdiysnennia-zakhodiv-iz-budivnytstva-rekonstruktsi-i-restavratsii-obiektiv-vyrobnychoi-komunikatsiynoi-ta-sotsial-noi-infrastruktury-za-obiektamy-u-2020-rotsi.xlsx
           url: ''
       - additionTitle: Додаток 1.2.1
         additionDescription: >-
@@ -18,10 +18,10 @@ components:
           загальної середньої освіти закладам загальної середньої освіти”
         additionDownload:
           file: >-
-            /uploads/leadership-flies/Zvedenyy-rozrakhunok-do-koshtorysu-na-2021-rik-po-KPKVK-0111021-Nadannia-zahal-noi-seredn-oi-osvity-zakladam-zahal-noi-seredn-oi-osvity.xlsx
+            /uploads/useful-info/project-rmsi/leadership/Zvedenyy-rozrakhunok-do-koshtorysu-na-2021-rik-po-KPKVK-0111021-Nadannia-zahal-noi-seredn-oi-osvity-zakladam-zahal-noi-seredn-oi-osvity.xlsx
       - additionTitle: Додаток 1.2.2
         additionDownload:
-          file: /uploads/leadership-flies/Dodatok-1.2.2.xlsx
+          file: /uploads/useful-info/project-rmsi/leadership/Dodatok-1.2.2.xlsx
       - additionTitle: Додаток 1.2.3
         additionDescription: >-
           Перелік навчальних програм навчального плану Широківського закладу
@@ -30,36 +30,36 @@ components:
           складової у 1-11 класах у 2020 /2021 навчальному році
         additionDownload:
           file: >-
-            /uploads/leadership-flies/Perelik-navchal-nykh-prohram-navchal-noho-planu-SHyrokivs-koho-ZZSO-2020-2021.docx
+            /uploads/useful-info/project-rmsi/leadership/Perelik-navchal-nykh-prohram-navchal-noho-planu-SHyrokivs-koho-ZZSO-2020-2021.docx
       - additionTitle: Додаток 1.2.4
         additionDownload:
-          file: /uploads/leadership-flies/Dodatok-1.2.4.docx
+          file: /uploads/useful-info/project-rmsi/leadership/Dodatok-1.2.4.docx
       - additionTitle: Додаток 1.2.5
         additionDownload:
-          file: /uploads/leadership-flies/Dodatok-1.2.5.docx
+          file: /uploads/useful-info/project-rmsi/leadership/Dodatok-1.2.5.docx
       - additionTitle: Додаток 1.2.6
         additionDownload:
-          file: /uploads/leadership-flies/Dodatok-1.2.6.docx
+          file: /uploads/useful-info/project-rmsi/leadership/Dodatok-1.2.6.docx
       - additionTitle: Додаток 1.2.7
         additionDescription: Перелік навчальних програм Відраненського ЗЗСО 2020-2021
         additionDownload:
           file: >-
-            /uploads/leadership-flies/Perelik-navchal-nykh-prohram-Vidranens-koho-ZZSO-2020-2021.doc
+            /uploads/useful-info/project-rmsi/leadership/Perelik-navchal-nykh-prohram-Vidranens-koho-ZZSO-2020-2021.doc
       - additionTitle: Додаток 1.2.8
         additionDownload:
-          file: /uploads/leadership-flies/Dodatok-1.2.8.docx
+          file: /uploads/useful-info/project-rmsi/leadership/Dodatok-1.2.8.docx
       - additionTitle: Додаток 1.2.9
         additionDescription: СПИСОК ПРОГРАМ ЛУКАШІВСЬКОГО НВК НА 2020-2021Н.Р
         additionDownload:
           file: >-
-            /uploads/leadership-flies/SPYSOK-PROHRAM-LUKASHIVS-KOHO-NVK-NA-2020-2021N.R.docx
+            /uploads/useful-info/project-rmsi/leadership/SPYSOK-PROHRAM-LUKASHIVS-KOHO-NVK-NA-2020-2021N.R.docx
       - additionTitle: Додаток 1.2.10
         additionDescription: >-
           Про затвердження Правил благоустрою Широківської сільської  об’єднаної
           територіальної громади
         additionDownload:
           file: >-
-            /uploads/leadership-flies/Pro-zatverdzhennia-Pravyl-blahoustroiu-SHyrokivs-koi-OTH.docx
+            /uploads/useful-info/project-rmsi/leadership/Pro-zatverdzhennia-Pravyl-blahoustroiu-SHyrokivs-koi-OTH.docx
       - additionTitle: Додаток 1.2.11
         additionDescription: >-
           Про викладення в новій редакції Програми розвитку житлово-комунального
@@ -67,14 +67,14 @@ components:
           ради на 2020-2022 роки
         additionDownload:
           file: >-
-            /uploads/leadership-flies/Pro-vykladennia-v-noviy-redaktsii-Prohramy-rozvytku-zhytlovo-komunal-noho-hospodarstva-ta-blahoustroiu-naselenykh-punktiv-SHyrokivs-koi-sil-s-koi-rady-na-2020-2022-roky.docx
+            /uploads/useful-info/project-rmsi/leadership/Pro-vykladennia-v-noviy-redaktsii-Prohramy-rozvytku-zhytlovo-komunal-noho-hospodarstva-ta-blahoustroiu-naselenykh-punktiv-SHyrokivs-koi-sil-s-koi-rady-na-2020-2022-roky.docx
       - additionTitle: Додаток 1.2.12
         additionDescription: >-
           ПОЛОЖЕННЯ про соціальний захист населення Широківської сільської
           ради.docx
         additionDownload:
           file: >-
-            /uploads/leadership-flies/POLOZHENNYA-pro-sotsial-nyy-zakhyst-naselennia-SHyrokivs-koi-sil-s-koi-rady.docx
+            /uploads/useful-info/project-rmsi/leadership/POLOZHENNYA-pro-sotsial-nyy-zakhyst-naselennia-SHyrokivs-koi-sil-s-koi-rady.docx
       - additionTitle: Додаток 1.3.1
         additionDescription: >-
           Про створення Робочої групи з місцевого економічного розвитку та
@@ -82,7 +82,7 @@ components:
           розвитку Широківської територіальної громади
         additionDownload:
           file: >-
-            /uploads/leadership-flies/Rozporiadzhennia-shchodo-stvorennia-robochoi-hrupy-z-MER.pdf
+            /uploads/useful-info/project-rmsi/leadership/Rozporiadzhennia-shchodo-stvorennia-robochoi-hrupy-z-MER.pdf
       - additionTitle: Додаток 1.4.1
         additionDescription: >-
           Про розподіл функціональних  обов’язків між сільським головою,
@@ -91,31 +91,24 @@ components:
           комітету Широківської сільської ради
         additionDownload:
           file: >-
-            /uploads/leadership-flies/Rozporiadzhennia-holovy-SHyrokivs-koi-sil-s-koi-rady-13-vid-16.01.2021.docx
+            /uploads/useful-info/project-rmsi/leadership/Rozporiadzhennia-holovy-SHyrokivs-koi-sil-s-koi-rady-13-vid-16.01.2021.docx
       - additionTitle: Додаток 1.4.2
         additionDescription: "Аналітика роботи загального відділу Широківської сільської ради Запорізького району Запорізької області за 2020 рік\t"
         additionDownload:
           file: >-
-            /uploads/leadership-flies/Analityka-roboty-zahal-noho-viddilu-SHyrokivs-koi-sil-s-koi-rady-Zaporiz-koho-rayonu-Zaporiz-koi-oblasti-za-2020-rik.docx
+            /uploads/useful-info/project-rmsi/leadership/Analityka-roboty-zahal-noho-viddilu-SHyrokivs-koi-sil-s-koi-rady-Zaporiz-koho-rayonu-Zaporiz-koi-oblasti-za-2020-rik.docx
       - additionTitle: Додаток 1.4.3
         additionDescription: >-
           ПРАВИЛА внутрішнього трудового розпорядку Широківської сільської ради
           Запорізького району Запорізької області
         additionDownload:
           file: >-
-            /uploads/leadership-flies/P-R-A-V-Y-L-A-vnutrishn-oho-trudovoho-rozporiadku-SHyrokivs-koi-sil-s-koi-rady-Zaporiz-koho-rayonu-Zaporiz-koi-oblasti.docx
+            /uploads/useful-info/project-rmsi/leadership/P-R-A-V-Y-L-A-vnutrishn-oho-trudovoho-rozporiadku-SHyrokivs-koi-sil-s-koi-rady-Zaporiz-koho-rayonu-Zaporiz-koi-oblasti.docx
       - additionTitle: Додаток
         additionDescription: ' Розпорядження про початок роботи над Статутом громади'
         additionDownload:
           file: >-
-            /uploads/leadership-flies/Pro-napratsiuvannia-proektu-Statutu-SHyrokivs-koi-terytorial-noi-hromady.pdf
+            /uploads/useful-info/project-rmsi/leadership/Pro-napratsiuvannia-proektu-Statutu-SHyrokivs-koi-terytorial-noi-hromady.pdf
     _template: leadership
 ---
-
-
-
-
-
-
-
 
