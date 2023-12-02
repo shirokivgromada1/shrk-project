@@ -1,7 +1,7 @@
 .deputies {
   margin-bottom: 100px;
   h1 {
-    color: #000;
+    color: var(--themeColor, #000);
     font-family: Inter;
     font-size: 30px;
     font-style: normal;
@@ -25,11 +25,10 @@
       gap: 10px;
       width: 47%;
       cursor: pointer;
-      background: #fff;
+      background: var(--themeBgColor, #fff);
 
       &_photo {
         img {
-
           object-fit: cover;
           object-position: top center;
         }
@@ -37,20 +36,20 @@
       &_desc {
         max-width: 285px;
         h3 {
-          color: #000;
+          color: var(--themeColor, #000);
           text-align: center;
           font-family: Inter;
-          font-size: 18px;
+          font-size: calc(var(--themeFontSize) * 18px);
           font-style: normal;
           font-weight: 500;
           line-height: normal;
           padding-bottom: 5px;
         }
         p {
-          color: #000;
+          color: var(--themeColor, #000);
           text-align: center;
           font-family: Inter;
-          font-size: 16px;
+          font-size: calc(var(--themeFontSize) * 16px);
           font-style: normal;
           font-weight: 400;
           line-height: normal;
@@ -87,7 +86,7 @@
         margin-inline: auto;
         border-radius: 5px;
         width: initial;
-        background: #fff;
+        background: var(--themeBgColor, #fff);
 
         box-shadow: 0px 4px 10px 0px rgba(169, 169, 169, 0.12);
         &_desc {
@@ -133,5 +132,3 @@
     }
   }
 }
-
-

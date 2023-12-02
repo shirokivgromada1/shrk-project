@@ -36,7 +36,7 @@
     &_title {
       margin-bottom: 30px;
       & > h1 {
-        color: #000;
+        color: var(--themeColor, #000);
         text-align: center;
         font-family: Inter;
         font-size: 32px;
@@ -54,7 +54,7 @@
       text-align: center;
       margin-bottom: 50px;
       & > * {
-        color: #000;
+        color: var(--themeColor, #000);
         text-align: center;
         font-family: Inter;
         font-style: normal;
@@ -71,7 +71,7 @@
         width: 100%;
       }
       & > p {
-        color: #000;
+        color: var(--themeColor, #000);
         font-family: Inter;
         font-style: normal;
         font-weight: 400;
@@ -85,7 +85,7 @@
         margin-top: 15px;
         list-style: none;
         & > li {
-          color: #000;
+          color: var(--themeColor, #000);
           font-family: Inter;
           font-style: normal;
           font-weight: 400;
@@ -101,7 +101,7 @@
       }
     }
     &_contactsInfo {
-      color: #000;
+      color: var(--themeColor, #000);
       text-align: center;
       font-family: Inter;
       font-style: normal;
@@ -111,7 +111,7 @@
     }
     &_pubDate {
       text-align: center;
-      color: #000;
+      color: var(--themeColor, #000);
       font-family: Inter;
       font-style: normal;
       font-weight: 600;
@@ -127,7 +127,7 @@
         & > h1 {
           max-width: 568px;
           margin: auto;
-          color: #000;
+          color: var(--themeColor, #000);
           text-align: center;
           font-family: Inter;
           font-size: 22px;
@@ -152,7 +152,7 @@
         margin-bottom: 50px;
         & > * {
           font-family: Inter;
-          font-size: 16px;
+          font-size: calc(var(--themeFontSize) * 16px);
           font-style: normal;
           font-weight: 400;
           line-height: normal;
@@ -163,10 +163,10 @@
       }
       &_title {
         & > h1 {
-          color: #000;
+          color: var(--themeColor, #000);
           text-align: center;
           font-family: Inter;
-          font-size: 20px;
+          font-size: calc(var(--themeFontSize) * 20px);
           font-style: normal;
           font-weight: 400;
           line-height: normal;

@@ -3,7 +3,7 @@
   position: sticky;
   top: 0;
   z-index: 20;
-  background-color: var(--themeBgColor);
+  background-color: var(--themeBgColor, #fff);
   transition: all 0.3s linear;
   & > div {
     display: flex;
@@ -22,7 +22,7 @@
       display: flex;
       align-items: center;
       gap: 8px;
-      color: #000;
+      color: var(--themeColor, #000);
       & > span {
         font-family: Inter;
         font-size: calc(var(--themeFontSize) * 18px);
@@ -41,6 +41,7 @@
       list-style-type: none;
       display: flex;
       justify-content: center;
+      flex-wrap: wrap;
       gap: 15px;
     }
   }
@@ -90,7 +91,7 @@
         width: 32px;
         height: 32px;
         text-transform: uppercase;
-        color: #fff;
+        color: var(--themeBgColor, #fff);
         font-family: Inter;
         font-size: 12px;
         font-style: normal;
@@ -112,7 +113,7 @@
           border-radius: 50%;
           background-color: red;
           text-transform: uppercase;
-          color: #fff;
+          color: var(--themeBgColor, #fff);
           font-family: Inter;
           font-size: 12px;
           font-style: normal;
@@ -148,7 +149,7 @@
   }
 }
 
-@media screen and (max-width: 1270px) {
+@media screen and (max-width: 1200px) {
   .header {
     &__options {
       &_controllers {

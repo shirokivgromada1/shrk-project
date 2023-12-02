@@ -21,6 +21,7 @@ import { CHAT_ENDPOINTS } from "@/constants/endpoints";
 import { Chat, useChat } from "@/context/ChatContext";
 import { Field as FieldType } from "@/components/dashboard/layout/layout";
 import classNames from "classnames";
+import Loader from "../Loader/Loader";
 
 type Props = {
   setIsOpen: Dispatch<SetStateAction<boolean>>;
@@ -53,6 +54,8 @@ const FormModal = ({
   const { phoneNumber, hasViber, onChangeViber } = useUser();
   const { onChangeChats, chats } = useChat();
   const router = useRouter();
+
+  const [isLoading, setLoading] = useState(false);
 
   let SchemaObject = {
     title: yup.string().required("Тема є обов'язковим"),
@@ -101,6 +104,7 @@ const FormModal = ({
   }
 
   const onSubmit: SubmitHandler<Inputs> = (data) => {
+    setLoading(true);
     axiosInstance
       .post(
         `${process.env.NEXT_PUBLIC_APP_BASE_URL}${CHAT_ENDPOINTS.CHAT_CREATE}/`,
@@ -114,6 +118,9 @@ const FormModal = ({
       })
       .catch((error) => {
         console.log("error: ", error);
+      })
+      .finally(() => {
+        setLoading(false);
       });
   };
 
@@ -351,19 +358,24 @@ const FormModal = ({
             </div>
           )}
         </div>
-        <Button
-          type="submit"
-          style={{ borderRadius: 26 }}
-          disabled={!isDirty || !isValid || !isEmpty(errors)}
-          toolTip={
-            errors.notifyInViber?.message ||
-            errors.method?.message ||
-            errors.text?.message ||
-            errors.title?.message
-          }
-        >
-          Надіслати лист
-        </Button>
+        <>
+          {isLoading && <Loader />}
+          {!isLoading && (
+            <Button
+              type="submit"
+              style={{ borderRadius: 26 }}
+              disabled={!isDirty || !isValid || !isEmpty(errors)}
+              toolTip={
+                errors.notifyInViber?.message ||
+                errors.method?.message ||
+                errors.text?.message ||
+                errors.title?.message
+              }
+            >
+              Надіслати лист
+            </Button>
+          )}
+        </>
       </form>
     </Modal>
   );

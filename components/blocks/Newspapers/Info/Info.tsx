@@ -19,7 +19,6 @@ export const NewspapersInfo = ({
         <div className={styles.newspaper__publication_add}>
           <h1>{titleInfo}</h1>
           {descriptionInfo.children.map((child: any, childIndex: number) => {
-            console.log("child", child);
             if (child.type.startsWith("h"))
               return child.children.map((text: any, textIndex: number) => (
                 <child.type key={"descriptionInfo" + textIndex}>

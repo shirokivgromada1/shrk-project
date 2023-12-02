@@ -17,7 +17,7 @@
   & > span {
     color: $font-color;
     font-family: Inter;
-    font-size: 24px;
+    font-size: calc(var(--themeFontSize) * 24px);
     font-style: normal;
     font-weight: 600;
     line-height: normal;

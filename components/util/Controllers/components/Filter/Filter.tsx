@@ -168,7 +168,7 @@ const Filter: FC<IFilter> = ({
                       width: "332px",
                       marginTop: "8px",
                       borderRadius: "20px",
-                      backgroundColor: "#fff",
+                      backgroundColor: "var(--themeBgColor, #fff)",
                       boxShadow:
                         "0px 4px 26px 0px rgba(176, 176, 176, 0.09),  0px -3px 17px 0px rgba(101, 101, 101, 0.06);",
                     },
@@ -295,7 +295,7 @@ const Filter: FC<IFilter> = ({
                   width: "332px",
                   marginTop: "8px",
                   borderRadius: "20px",
-                  backgroundColor: "#fff",
+                  backgroundColor: "var(--themeBgColor, #fff)",
                   boxShadow:
                     "0px 4px 26px 0px rgba(176, 176, 176, 0.09),  0px -3px 17px 0px rgba(101, 101, 101, 0.06);",
                 },

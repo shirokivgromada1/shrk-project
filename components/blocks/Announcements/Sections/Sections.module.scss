@@ -2,9 +2,9 @@
   margin-top: 30px;
   margin-bottom: 170px;
   & p {
-    color: #309c54;
+    color: var(--themeColor, #000);
     font-family: Inter;
-    font-size: 24px;
+    font-size: calc(var(--themeFontSize) * 24px);
     font-style: normal;
     font-weight: 600;
     line-height: normal;
@@ -27,9 +27,9 @@
   }
   & > div {
     & > h1 {
-      color: #000;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 32px;
+      font-size: calc(var(--themeFontSize) * 32px);
       font-style: normal;
       font-weight: 400;
       line-height: normal;
@@ -47,18 +47,15 @@
       display: grid;
       grid-template-columns: 62px 1fr;
       gap: 43px;
-      &:last-child {
-      }
       &:hover {
         & h5 {
-          color: #309c54;
+          color: var(--themeColor, #309c54);
         }
       }
     }
 
     &_time {
       position: relative;
-      z-index: -1;
       &:before {
         content: "";
         position: absolute;
@@ -74,7 +71,7 @@
         top: 0;
         left: 0;
         z-index: 2;
-        background: #fff;
+        background: var(--themeBgColor, #fff);
         & path {
           stroke: #c2c5cb;
         }
@@ -86,23 +83,23 @@
         top: 50px;
         left: 3px;
         z-index: 2;
-        background: #fff;
+        background: var(--themeBgColor, #fff);
         padding-block: 5px;
         &_noImg {
           top: 35px !important;
           & > span {
-            color: #636363;
+            color: var(--themeColor, #636363);
             font-family: Inter;
-            font-size: 13px;
+            font-size: calc(var(--themeFontSize) * 13px);
             font-style: normal;
             font-weight: 500;
             line-height: normal;
           }
         }
         & > span {
-          color: #636363;
+          color: var(--themeColor, #636363);
           font-family: Inter;
-          font-size: 13px;
+          font-size: calc(var(--themeFontSize) * 13px);
           font-style: normal;
           font-weight: 500;
           line-height: normal;
@@ -111,9 +108,9 @@
     }
     &_info {
       & > h1 {
-        color: #000;
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 24px;
+        font-size: calc(var(--themeFontSize) * 24px);
         font-style: normal;
         font-weight: 500;
         line-height: normal;
@@ -125,7 +122,7 @@
         gap: 65px;
         & > svg {
           & > path {
-            stroke: #309c54;
+            stroke: var(--themeColor, #309c54);
           }
         }
         &__inner {
@@ -135,9 +132,9 @@
           &_onlyTitle {
             grid-template-columns: 1fr !important;
             & h5 {
-              color: #000;
+              color: var(--themeColor, #000);
               font-family: Inter;
-              font-size: 20px;
+              font-size: calc(var(--themeFontSize) * 20px);
               font-style: normal;
               font-weight: 500;
               line-height: normal;
@@ -150,9 +147,9 @@
             object-fit: cover;
           }
           & h5 {
-            color: #000;
+            color: var(--themeColor, #000);
             font-family: Inter;
-            font-size: 20px;
+            font-size: calc(var(--themeFontSize) * 20px);
             font-style: normal;
             font-weight: 500;
             line-height: normal;
@@ -161,41 +158,13 @@
       }
     }
   }
-
-  &__pagination {
-    display: flex;
-    gap: 16px;
-    justify-content: center;
-    & > div {
-      & > button {
-        color: #000;
-        font-family: Inter;
-        font-size: 20px;
-        font-style: normal;
-        font-weight: 500;
-        line-height: normal;
-      }
-      & > span {
-        color: #000;
-        font-family: Inter;
-        font-size: 20px;
-        font-style: normal;
-        font-weight: 500;
-        line-height: normal;
-      }
-    }
-
-    &__active {
-      color: #309c54 !important;
-    }
-  }
 }
 
 @media screen and (max-width: 980px) {
   .announcements {
     margin-top: 20px;
     & > div > h1 {
-      color: #000;
+      color: var(--themeColor, #000);
       /* h1 */
       font-family: Inter;
       font-size: 30px;
@@ -237,10 +206,10 @@
       }
       &_info {
         & > h1 {
-          color: #000;
+          color: var(--themeColor, #000);
           /* h2 phone */
           font-family: Inter;
-          font-size: 20px;
+          font-size: calc(var(--themeFontSize) * 20px);
           font-style: normal;
           font-weight: 500;
           line-height: normal;
@@ -257,9 +226,9 @@
               height: 114px;
             }
             & > h5 {
-              color: #004bc1;
+              color: var(--themeBgColor, #004bc1);
               font-family: Inter;
-              font-size: 16px;
+              font-size: calc(var(--themeFontSize) * 16px);
               font-style: normal;
               font-weight: 500;
               line-height: normal;
@@ -269,7 +238,7 @@
                 width: auto;
                 color: #004bc1;
                 font-family: Inter;
-                font-size: 16px;
+                font-size: calc(var(--themeFontSize) * 16px);
                 font-style: normal;
                 font-weight: 500;
                 line-height: normal;
@@ -310,7 +279,7 @@
             & > h5 {
               color: #004bc1;
               font-family: Inter;
-              font-size: 16px;
+              font-size: calc(var(--themeFontSize) * 16px);
               font-style: normal;
               font-weight: 500;
               line-height: normal;

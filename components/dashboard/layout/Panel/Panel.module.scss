@@ -1,5 +1,5 @@
 .panel {
-  background: #309c54;
+  background: var(--themeBgColor, #309c54);
   padding-block: 15px;
   & > div {
     display: flex;
@@ -16,14 +16,14 @@
       align-items: center;
       width: 40px;
       height: 40px;
-      background-color: #fff;
+      background-color: var(--themeBgColor, #fff);
       border-radius: 50%;
     }
   }
   &__dashboard {
-    color: #fff;
+    color: var(--themeColor, #fff);
     font-family: Inter;
-    font-size: 24px;
+    font-size: calc(var(--themeFontSize) * 24px);
     font-style: normal;
     font-weight: 500;
     line-height: 115.023%;
@@ -38,7 +38,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      background: #fff;
+      background: var(--themeBgColor, #fff);
       padding: 9px;
       border-radius: 50%;
       position: relative;
@@ -62,18 +62,18 @@
         border-radius: 50%;
         background-color: red;
         text-transform: uppercase;
-        color: #fff;
+        color: var(--themeColor, #fff);
         font-family: Inter;
-        font-size: 12px;
+        font-size: calc(var(--themeFontSize) * 12px);
         font-style: normal;
         font-weight: 500;
         line-height: 115.023%;
       }
     }
     &_text {
-      color: #fff;
+      color: var(--themeColor, #fff);
       font-family: Inter;
-      font-size: 14px;
+      font-size: calc(var(--themeFontSize) * 14px);
       font-style: normal;
       font-weight: 600;
       line-height: normal;
@@ -84,23 +84,26 @@
 @media screen and (max-width: 910px) {
   .panel {
     &__dashboard {
-      color: #fff;
+      color: var(--themeBgColor, #fff);
 
       font-family: Inter;
-      font-size: 20px;
+      font-size: calc(var(--themeFontSize) * 20px);
       font-style: normal;
       font-weight: 500;
       line-height: 115.023%;
     }
     &__burger {
       & > button {
-        background-color: #fff;
+        background-color: var(--themeBgColor, #fff);
         border-radius: 50%;
         width: 32px;
         height: 32px;
         display: flex;
         justify-content: center;
         align-items: center;
+        & circle {
+          fill: var(--themeColor, #fff);
+        }
       }
     }
     &__control {

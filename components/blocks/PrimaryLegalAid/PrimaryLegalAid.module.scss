@@ -1,9 +1,9 @@
 .aid {
   margin-bottom: 90px;
   h1 {
-    color: #000;
+    color: var(--themeColor, #000);
     font-family: Inter;
-    font-size: 40px;
+    font-size: calc(var(--themeFontSize) * 40px);
     font-style: normal;
     font-weight: 500;
     line-height: 115.023%; /* 46.009px */
@@ -23,7 +23,7 @@
       gap: 100px;
       padding: 15px 30px;
       max-width: 1300px;
-      background: #FFF;
+      background: var(--themeBgColor, #fff);
       box-shadow: 0px 4px 6px 0px rgba(85, 85, 85, 0.08);
       &_text {
         display: flex;
@@ -31,9 +31,9 @@
         gap: 20px;
         h5 {
           max-width: 773px;
-          color: #000;
+          color: var(--themeColor, #000);
           font-family: Inter;
-          font-size: 20px;
+          font-size: calc(var(--themeFontSize) * 20px);
           font-style: normal;
           font-weight: 500;
           line-height: normal;
@@ -69,10 +69,9 @@
         gap: 0;
         padding: 15px 25px;
         &_text {
-
           gap: 20px;
           h5 {
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             font-weight: 600;
           }
           div {
@@ -81,12 +80,11 @@
           }
         }
         svg {
-         display: none;
+          display: none;
         }
       }
     }
   }
-
 }
 @media only screen and (max-width: 390px) {
   .aid {
@@ -101,11 +99,10 @@
         gap: 0;
         padding: 14px 20px;
         border-radius: 5px;
-        border-left: 3px solid #309C54;
+        border-left: 3px solid #309c54;
         &_text {
-
           h5 {
-            font-size: 18px;
+            font-size: calc(var(--themeFontSize) * 18px);
             font-weight: 500;
           }
           div {
@@ -115,9 +112,9 @@
       }
       .showButton {
         padding-top: 5px;
-        color: #000;
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 500;
         line-height: normal;

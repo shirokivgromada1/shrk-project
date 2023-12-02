@@ -1,7 +1,7 @@
 .links {
   margin-bottom: 90px;
   h2 {
-    color: #000;
+    color: var(--themeColor, #000);
     font-family: Inter;
     font-size: 28px;
     font-style: normal;
@@ -14,8 +14,8 @@
     svg {
       transform: rotate(180deg);
     }
-      transition: gap 1s ease-out;
-    }
+    transition: gap 1s ease-out;
+  }
   &__inner {
     display: flex;
     flex-direction: column;
@@ -23,7 +23,7 @@
     &_link {
       width: 100%;
       padding: 12px 20px 12px 30px;
-      background: #f9fafb;
+      background: var(--themeBgColor, #f9fafb);
       display: flex;
       flex-direction: column;
       gap: 20px;
@@ -34,7 +34,7 @@
         width: 100%;
         cursor: pointer;
         h3 {
-          max-width:500px;
+          max-width: 500px;
           color: #309c54;
           font-family: Inter;
           font-size: 21px;
@@ -67,16 +67,16 @@
             gap: 3px;
             max-width: 1000px;
             span {
-              color: #000;
+              color: var(--themeColor, #000);
               font-family: Inter;
-              font-size: 18px;
+              font-size: calc(var(--themeFontSize) * 18px);
               font-style: normal;
               font-weight: 400;
               line-height: 121.523%;
-              min-height:23px;
+              min-height: 23px;
               &:nth-child(2) {
                 text-decoration: underline;
-                text-underline-offset:4px;
+                text-underline-offset: 4px;
               }
             }
           }
@@ -87,9 +87,9 @@
 }
 @media only screen and (max-width: 768px) {
   .links {
-    margin-bottom:70px;
+    margin-bottom: 70px;
     h2 {
-      font-size: 24px;
+      font-size: calc(var(--themeFontSize) * 24px);
       font-weight: 400;
       margin-bottom: 20px;
     }
@@ -103,13 +103,12 @@
           gap: 15px;
           h3 {
             max-width: 400px;
-            font-size: 18px;
+            font-size: calc(var(--themeFontSize) * 18px);
             font-weight: 500;
           }
           svg {
             min-width: 35px;
-            min-height:35px;
-
+            min-height: 35px;
           }
         }
         &_list {
@@ -117,10 +116,10 @@
           li {
             max-width: 648px;
             p {
-             max-width: initial;
+              max-width: initial;
               gap: 5px;
               span {
-                font-size: 16px;
+                font-size: calc(var(--themeFontSize) * 16px);
                 font-weight: 400;
                 line-height: normal;
               }
@@ -134,8 +133,8 @@
 @media only screen and (max-width: 390px) {
   .links {
     h2 {
-      font-size: 18px;
-      font-weight:600;
+      font-size: calc(var(--themeFontSize) * 18px);
+      font-weight: 600;
     }
     &__inner {
       gap: 40px;
@@ -143,7 +142,7 @@
         padding: 0;
         gap: 15px;
         &_title {
-          gap:10px;
+          gap: 10px;
           border-bottom: 1px solid #309c54;
           padding-bottom: 15px;
           h3 {
@@ -157,7 +156,7 @@
           li {
             p {
               span {
-                font-size: 16px;
+                font-size: calc(var(--themeFontSize) * 16px);
               }
             }
           }

@@ -1,7 +1,7 @@
 .enterprises {
   margin-bottom: 100px;
   h1 {
-    color: #000;
+    color: var(--themeColor, #000);
     font-family: Inter;
     font-size: 30px;
     font-style: normal;
@@ -19,13 +19,13 @@
     &_enterprise {
       cursor: pointer;
       padding: 30px 50px;
-      background: #fff;
+      background: var(--themeBgColor, #fff);
       transition: background-color 0.3s ease-in;
       box-shadow: 0px 4px 10px 0px rgba(169, 169, 169, 0.12);
       &:hover {
         background-color: #309c54;
         h3 {
-          color: #ffffff;
+          color: var(--themeBgColor, #fff) fff;
         }
       }
       h3 {
@@ -33,7 +33,7 @@
         transition: color 0.3s ease-in;
         text-align: center;
         font-family: Inter;
-        font-size: 18px;
+        font-size: calc(var(--themeFontSize) * 18px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;

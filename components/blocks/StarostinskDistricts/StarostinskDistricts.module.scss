@@ -1,9 +1,9 @@
 .districts {
   margin-bottom: 120px;
   h1 {
-    color: #000;
+    color: var(--themeColor, #000);
     font-family: Inter;
-    font-size: 40px;
+    font-size: calc(var(--themeFontSize) * 40px);
     font-style: normal;
     font-weight: 500;
     line-height: 115.023%; /* 46.009px */
@@ -31,16 +31,16 @@
       align-items: center;
 
       padding: 35px 55px;
-      background: #f9fafb;
+      background: var(--themeBgColor, #f9fafb);
       img {
         padding-block: 20px 15px !important;
       }
       button {
         p {
-          color: #000;
+          color: var(--themeColor, #000);
           text-align: center;
           font-family: Inter;
-          font-size: 16px;
+          font-size: calc(var(--themeFontSize) * 16px);
           font-style: normal;
           font-weight: 300;
           line-height: normal;
@@ -53,10 +53,10 @@
         gap: 0px;
         //margin-bottom: 5px;
         h3 {
-          color: #000;
+          color: var(--themeColor, #000);
           text-align: center;
           font-family: Inter;
-          font-size: 18px;
+          font-size: calc(var(--themeFontSize) * 18px);
           font-style: normal;
           font-weight: 600;
           line-height: normal;
@@ -76,10 +76,10 @@
           gap: 15px;
         }
         h3 {
-          color: #000;
+          color: var(--themeColor, #000);
           text-align: center;
           font-family: Inter;
-          font-size: 16px;
+          font-size: calc(var(--themeFontSize) * 16px);
           font-style: normal;
           font-weight: 600;
           line-height: normal;
@@ -90,19 +90,19 @@
           flex-direction: column;
           list-style-type: none;
           align-items: center;
-          color: #000;
+          color: var(--themeColor, #000);
           text-align: center;
           font-family: Inter;
-          font-size: 16px;
+          font-size: calc(var(--themeFontSize) * 16px);
           font-style: normal;
           font-weight: 400;
           line-height: normal;
         }
         p {
-          color: #000;
+          color: var(--themeColor, #000);
           text-align: center;
           font-family: Inter;
-          font-size: 16px;
+          font-size: calc(var(--themeFontSize) * 16px);
           font-style: normal;
           font-weight: 400;
           line-height: normal;
@@ -153,7 +153,7 @@
         &_overall {
           margin-bottom: 1px;
           h3 {
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             font-weight: 500;
           }
         }
@@ -222,7 +222,7 @@
           justify-content: space-between;
           h3 {
             text-align: start;
-            font-size: 18px;
+            font-size: calc(var(--themeFontSize) * 18px);
           }
         }
         &_info {
@@ -237,13 +237,13 @@
             text-align: start;
           }
           ul {
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             align-items: flex-start;
             text-align: start;
           }
 
           p {
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             text-align: start;
           }
           p:last-child {
@@ -257,7 +257,7 @@
 @media screen and (max-width: 350px) {
   .districts {
     h1 {
-      font-size: 20px;
+      font-size: calc(var(--themeFontSize) * 20px);
       font-weight: 400;
       margin-block: 40px;
     }
@@ -267,7 +267,7 @@
         }
         &_overall {
           h3 {
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
           }
           svg {
             width: 24px;

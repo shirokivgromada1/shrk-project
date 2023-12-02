@@ -1,10 +1,10 @@
-.monitoring  {
+.monitoring {
   margin-bottom: 90px;
   h1 {
-    color: #000;
+    color: var(--themeColor, #000);
     text-align: center;
     font-family: Inter;
-    font-size: 40px;
+    font-size: calc(var(--themeFontSize) * 40px);
     font-style: normal;
     font-weight: 500;
     line-height: 115.023%; /* 46.009px */
@@ -23,10 +23,10 @@
       max-width: 1190px;
       margin-inline: auto;
       p {
-        color: #000;
+        color: var(--themeColor, #000);
         text-align: center;
         font-family: Inter;
-        font-size: 18px;
+        font-size: calc(var(--themeFontSize) * 18px);
         font-style: normal;
         font-weight: 500;
         line-height: normal;
@@ -45,13 +45,13 @@
         justify-content: center;
         align-items: center;
         border-radius: 5px;
-        background: #FFF;
+        background: var(--themeBgColor, #fff);
         box-shadow: 0px 4px 6px 0px rgba(85, 85, 85, 0.08);
         transition: background 0.4s ease;
         &:hover {
           background: #309c54;
           h5 {
-            color: #fff;
+            color: var(--themeBgColor, #fff);
           }
         }
         h5 {
@@ -62,7 +62,7 @@
           font-style: normal;
           font-weight: 400;
           line-height: normal;
-          color: #000;
+          color: var(--themeColor, #000);
           text-transform: uppercase;
           transition: color 0.4s ease;
         }
@@ -71,7 +71,7 @@
   }
 }
 @media screen and (max-width: 975px) {
-  .monitoring  {
+  .monitoring {
     &__inner {
       &_links {
         gap: 15px;
@@ -79,7 +79,7 @@
           width: calc(33.33% - 10px);
           h5 {
             padding: 25px 10px;
-            font-size: 18px;
+            font-size: calc(var(--themeFontSize) * 18px);
           }
         }
       }
@@ -87,15 +87,15 @@
   }
 }
 @media only screen and (max-width: 768px) {
-  .monitoring  {
+  .monitoring {
     margin-bottom: 70px;
     h1 {
-      font-size: 20px;
+      font-size: calc(var(--themeFontSize) * 20px);
       font-style: normal;
       font-weight: 500;
       line-height: normal;
-      text-transform:lowercase;
-      max-width:initial;
+      text-transform: lowercase;
+      max-width: initial;
       margin-block: 20px;
       &:first-letter {
         text-transform: uppercase;
@@ -108,7 +108,7 @@
       &_desc {
         p {
           font-family: Inter;
-          font-size: 16px;
+          font-size: calc(var(--themeFontSize) * 16px);
           font-weight: 400;
         }
       }
@@ -122,26 +122,26 @@
           display: flex;
           flex-direction: initial;
           width: auto;
-          height:auto;
+          height: auto;
           gap: 15px;
           justify-content: flex-start;
-          align-items:center;
+          align-items: center;
           border-radius: 5px;
           &:hover {
             .linkIcon {
-              background: #fff;
+              background: var(--themeBgColor, #fff);
             }
           }
           .linkIcon {
             min-width: 5px;
             min-height: 35px;
-            background-color: #309C54;
+            background-color: #309c54;
             transition: background-color 0.4s ease;
           }
           h5 {
             padding: 0;
             text-align: start;
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             font-weight: 600;
             max-width: 470px;
             text-transform: lowercase;
@@ -155,19 +155,19 @@
   }
 }
 @media only screen and (max-width: 391px) {
-  .monitoring  {
+  .monitoring {
     margin-bottom: 50px;
     h1 {
       font-size: 22px;
       font-weight: 400;
-      margin-block:40px 20px;
+      margin-block: 40px 20px;
       text-transform: uppercase;
     }
     &__inner {
       &_links {
         gap: 20px;
         a {
-          padding:20px;
+          padding: 20px;
           gap: 15px;
           .linkIcon {
             display: none;

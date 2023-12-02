@@ -12,9 +12,9 @@
     justify-content: space-between;
     //gap: 141px;
     h2 {
-      color: #000;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 20px;
+      font-size: calc(var(--themeFontSize) * 20px);
       font-style: normal;
       font-weight: 600;
       line-height: normal;
@@ -26,9 +26,9 @@
       align-items: flex-start;
       gap: 10px;
       list-style-type: none;
-      color: #000;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 15px;
+      font-size: calc(var(--themeFontSize) * 15px);
       font-style: normal;
       font-weight: 400;
       line-height: normal;
@@ -47,10 +47,10 @@
       button {
         display: flex;
         align-items: center;
-        color: #000;
+        color: var(--themeColor, #000);
 
         font-family: Inter;
-        font-size: 14px;
+        font-size: calc(var(--themeFontSize) * 14px);
         font-style: normal;
         font-weight: 600;
         line-height: normal;
@@ -89,7 +89,7 @@
       padding-inline: 0px;
       gap: 10px;
       h2 {
-        font-size: 18px;
+        font-size: calc(var(--themeFontSize) * 18px);
       }
       &_list1 {
         max-width: 30%;
@@ -124,7 +124,7 @@
         justify-content: space-between;
         width: 100%;
         h2 {
-          font-size: 20px;
+          font-size: calc(var(--themeFontSize) * 20px);
           margin-bottom: 15px;
         }
       }
@@ -197,7 +197,6 @@
   }
 }
 
-
 @media screen and (max-width: 470px) {
   .institutions {
     margin-bottom: 60px;
@@ -211,7 +210,7 @@
         justify-content: space-between;
         width: 100%;
         h2 {
-          font-size: 20px;
+          font-size: calc(var(--themeFontSize) * 20px);
           margin-bottom: 15px;
         }
       }
@@ -222,7 +221,7 @@
 
           li {
             padding-left: 20px;
-            width:initial;
+            width: initial;
           }
         }
       }
@@ -233,7 +232,7 @@
 
           li {
             padding-left: 20px;
-            width:initial;
+            width: initial;
           }
         }
       }
@@ -244,15 +243,13 @@
 
           li {
             padding-left: 20px;
-            width:initial;
+            width: initial;
           }
         }
       }
     }
   }
 }
-
-
 
 @media only screen and (max-width: 370px) {
   .institutions {

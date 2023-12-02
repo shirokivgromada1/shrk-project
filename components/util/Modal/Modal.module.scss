@@ -25,9 +25,9 @@
       background: #309c54;
       box-shadow: 0px 2px 8px 0px rgba(140, 140, 140, 0.25);
       padding: 8px 24px;
-      color: #fff;
+      color: var(--themeBgColor, #fff);
       font-family: Inter;
-      font-size: 16px;
+      font-size: calc(var(--themeFontSize) * 16px);
       font-style: normal;
       font-weight: 600;
       line-height: normal;
@@ -40,9 +40,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #000;
+    color: var(--themeColor, #000);
     font-family: Inter;
-    font-size: 24px;
+    font-size: calc(var(--themeFontSize) * 24px);
     font-style: normal;
     font-weight: 600;
     line-height: normal;
@@ -58,7 +58,7 @@
   display: grid;
   grid-template-rows: auto 1fr auto;
   border-radius: 15px;
-  background: #fff;
+  background: var(--themeBgColor, #fff);
   max-width: 839px;
   width: calc(100% - 80px);
   height: 237px;
@@ -84,7 +84,7 @@
       display: none;
     }
     &__message {
-      font-size: 16px;
+      font-size: calc(var(--themeFontSize) * 16px);
       text-align: center;
       width: 100%;
     }

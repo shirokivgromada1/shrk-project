@@ -39,6 +39,7 @@ import Close from "@/assets/close.svg";
 import CustomOptionLocality from "@/components/authentication/sign-up/Locality/components/CustomOption/CustomOption";
 import { convertToMB } from "@/pages/dashboard/messages/[id]";
 import { truncateMiddleOfLongFileNames } from "../MessageBox/MessageBox";
+import Loader from "../Loader/Loader";
 
 type Props = {
   setIsOpen: Dispatch<SetStateAction<boolean>>;
@@ -68,6 +69,7 @@ const GroupModal = ({ setIsOpen, handleClose, modalIsOpen }: Props) => {
   >([]);
   const [size, setSize] = useState(0);
   const [files, setFiles] = useState<CustomFile[] | null>(null);
+  const [isLoading, setLoading] = useState(false);
 
   const [selectedLocalities, setSelectedLocalities] = useState<string[]>([]);
   const [selectedStatuses, setSelectedStatuses] = useState<string[]>([]);
@@ -173,6 +175,7 @@ const GroupModal = ({ setIsOpen, handleClose, modalIsOpen }: Props) => {
   }
 
   const onSubmit = (event: SyntheticEvent<HTMLFormElement, SubmitEvent>) => {
+    setLoading(true);
     event.preventDefault();
 
     const formData = new FormData();
@@ -207,9 +210,12 @@ const GroupModal = ({ setIsOpen, handleClose, modalIsOpen }: Props) => {
         } else {
           onChangeGroups([group]);
         }
-        handleClose();
+        closeModal();
       })
-      .catch((error) => console.log(error));
+      .catch((error) => console.log(error))
+      .finally(() => {
+        setLoading(false);
+      });
   };
 
   const handleFile = (fileList: FileList) => {
@@ -436,7 +442,7 @@ const GroupModal = ({ setIsOpen, handleClose, modalIsOpen }: Props) => {
                           ...{
                             control: (styles) => ({
                               ...styles,
-                              color: "#000",
+                              color: "var(--themeColor)",
                               fontFamily: "Inter",
                               fontSize: "16px",
                               lineHeight: "normal",
@@ -563,21 +569,26 @@ const GroupModal = ({ setIsOpen, handleClose, modalIsOpen }: Props) => {
             </div>
           </div>
         </div>
-        <Button
-          type="submit"
-          style={{ borderRadius: 26 }}
-          disabled={
-            !title ||
-            !description ||
-            isEmpty(selectedLocalities) ||
-            isEmpty(selectedStatuses) ||
-            selectedLocalities.includes("") ||
-            selectedStatuses.includes("") ||
-            size >= 5
-          }
-        >
-          Надіслати лист
-        </Button>
+        <>
+          {!isLoading && (
+            <Button
+              type="submit"
+              style={{ borderRadius: 26 }}
+              disabled={
+                !title ||
+                !description ||
+                isEmpty(selectedLocalities) ||
+                isEmpty(selectedStatuses) ||
+                selectedLocalities.includes("") ||
+                selectedStatuses.includes("") ||
+                size >= 5
+              }
+            >
+              Надіслати лист
+            </Button>
+          )}
+          {isLoading && <Loader />}
+        </>
       </form>
     </Modal>
   );

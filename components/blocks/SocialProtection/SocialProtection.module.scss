@@ -1,5 +1,5 @@
 .protection {
- max-width: 1125px;
+  max-width: 1125px;
   margin: 0 auto;
   margin-bottom: 90px;
   &__inner {
@@ -12,10 +12,10 @@
       flex-direction: column;
       align-items: center;
       h1 {
-        color: #000;
+        color: var(--themeColor, #000);
         text-align: center;
         font-family: Inter;
-        font-size: 40px;
+        font-size: calc(var(--themeFontSize) * 40px);
         font-style: normal;
         font-weight: 500;
         line-height: 115.023%; /* 46.009px */
@@ -23,10 +23,10 @@
         text-transform: uppercase;
       }
       p {
-        color: #000;
+        color: var(--themeColor, #000);
         text-align: center;
         font-family: Inter;
-        font-size: 18px;
+        font-size: calc(var(--themeFontSize) * 18px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -45,24 +45,24 @@
         justify-content: flex-start;
         align-items: center;
         padding: 23px 30px;
-        background: #FFF;
+        background: var(--themeBgColor, #fff);
         box-shadow: 0px 4px 10px 0px rgba(85, 85, 85, 0.12);
         transition: background 0.4s ease;
         gap: 15px;
         &:hover {
           background: #309c54;
           h5 {
-            color: #fff;
+            color: var(--themeBgColor, #fff);
           }
           .linkIcon {
-            background-color: #fff;
+            background-color: var(--themeBgColor, #fff);
           }
         }
         h5 {
           transition: color 0.4s ease;
-          color: #000;
+          color: var(--themeColor, #000);
           font-family: Inter;
-          font-size: 20px;
+          font-size: calc(var(--themeFontSize) * 20px);
           font-style: normal;
           font-weight: 600;
           line-height: 115.023%; /* 23.005px */
@@ -71,7 +71,7 @@
         .linkIcon {
           min-width: 10px;
           min-height: 40px;
-          background-color: #309C54;
+          background-color: #309c54;
         }
       }
     }
@@ -94,7 +94,6 @@
           line-height: normal;
           margin-bottom: 15px;
         }
-
       }
       &_links {
         gap: 10px;
@@ -102,7 +101,7 @@
         a {
           padding: 15px 25px;
           h5 {
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             font-weight: 600;
             line-height: normal;
             max-width: 642px;
@@ -138,9 +137,8 @@
           margin-bottom: 5px;
         }
         p {
-          font-size: 16px;
+          font-size: calc(var(--themeFontSize) * 16px);
         }
-
       }
       &_links {
         gap: 15px;
@@ -148,13 +146,13 @@
         a {
           padding: 12px 20px;
           border-radius: 5px;
-          border-left: 3px solid #309C54;
+          border-left: 3px solid #309c54;
           h5 {
-            font-size: 18px;
+            font-size: calc(var(--themeFontSize) * 18px);
             font-weight: 500;
           }
           .linkIcon {
-           display: none;
+            display: none;
           }
         }
       }

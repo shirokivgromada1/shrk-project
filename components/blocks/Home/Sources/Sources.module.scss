@@ -3,7 +3,7 @@
   padding: 43px 70px;
   & h1 {
     font-family: Inter;
-    font-size: 48px;
+    font-size: calc(var(--themeFontSize) * 48px);
     font-style: normal;
     font-weight: 500;
     line-height: 115.023%;
@@ -38,7 +38,7 @@
         display: flex;
         align-items: center;
         gap: 15px;
-        color: #000;
+        color: var(--themeColor, #000);
         &:hover {
           color: $hover-primary-color;
         }
@@ -48,7 +48,7 @@
         }
         & span {
           font-family: Inter;
-          font-size: 16px;
+          font-size: calc(var(--themeFontSize) * 16px);
           font-style: normal;
           font-weight: 400;
           line-height: 115.023%;
@@ -60,9 +60,9 @@
     display: flex;
     justify-content: center;
     & button {
-      color: var(--themeColor);
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 16px;
+      font-size: calc(var(--themeFontSize) * 16px);
       font-style: normal;
       font-weight: 500;
       line-height: 115.023%;
@@ -155,10 +155,10 @@
       & > button {
         padding: 11px 17px;
         border-radius: 20px;
-        border: 1px solid #000;
-        color: #000;
+        border: 1px solid var(--themeColor);
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 500;
         line-height: 115.023%; /* 18.404px */
@@ -192,10 +192,10 @@
       & > button {
         padding: 11px 17px;
         border-radius: 20px;
-        border: 1px solid #000;
-        color: #000;
+        border: 1px solid var(--themeColor);
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 500;
         line-height: 115.023%; /* 18.404px */

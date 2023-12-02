@@ -4,7 +4,7 @@
   gap: 10px;
   cursor: pointer;
   & > b {
-    color: #000;
+    color: var(--themeColor, #000);
     font-family: Inter;
     font-size: 11px;
     font-style: normal;
@@ -12,7 +12,7 @@
     line-height: normal;
   }
   & > p {
-    color: #000;
+    color: var(--themeColor, #000);
     font-family: Inter;
     font-size: 13px;
     font-style: normal;

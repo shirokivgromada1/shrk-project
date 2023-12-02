@@ -3,7 +3,7 @@
   & span {
     font-family: Inter;
     font-size: calc(var(--themeFontSize) * 14px);
-    color: #000;
+    color: var(--themeColor, #000);
     font-style: normal;
     font-weight: 500;
     line-height: 115.023%;

@@ -2,7 +2,7 @@
   margin-bottom: 90px;
   margin-inline: auto;
   h2 {
-    color: #000;
+    color: var(--themeColor, #000);
     font-family: Inter;
     font-size: 28px;
     font-style: normal;
@@ -13,14 +13,15 @@
   }
   &__inner {
     display: flex;
-    justify-content: space-between;gap: 35px;
+    justify-content: space-between;
+    gap: 35px;
     &_schedule {
       display: flex;
       width: 410px;
       padding: 25px 53px 25px 30px;
       align-items: flex-start;
       gap: 30px;
-      background: #fff;
+      background: var(--themeBgColor, #fff);
       box-shadow: 0px 4px 6px 0px rgba(85, 85, 85, 0.08);
       img {
         min-width: 50px !important;
@@ -31,9 +32,9 @@
         flex-direction: column;
         gap: 10px;
         h5 {
-          color: #000;
+          color: var(--themeColor, #000);
           font-family: Inter;
-          font-size: 16px;
+          font-size: calc(var(--themeFontSize) * 16px);
           font-style: normal;
           font-weight: 500;
           line-height: normal;
@@ -41,9 +42,9 @@
         }
         p {
           max-width: 155px;
-          color: #000;
+          color: var(--themeColor, #000);
           font-family: Inter;
-          font-size: 16px;
+          font-size: calc(var(--themeFontSize) * 16px);
           font-style: normal;
           font-weight: 400;
           line-height: normal;
@@ -56,25 +57,25 @@
       padding: 25px 53px 25px 30px;
       align-items: flex-start;
       gap: 30px;
-      background: #fff;
+      background: var(--themeBgColor, #fff);
       box-shadow: 0px 4px 6px 0px rgba(85, 85, 85, 0.08);
       img {
         min-width: 50px !important;
         min-height: 50px !important;
       }
       h5 {
-        color: #000;
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 500;
         line-height: normal;
         margin-bottom: 10px;
       }
       p {
-        color: #000;
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -84,9 +85,9 @@
         border-radius: 29px;
         background: #309c54;
         padding: 7px 22px;
-        color: #fff;
+        color: var(--themeBgColor, #fff);
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 500;
         line-height: normal;
@@ -98,7 +99,7 @@
       padding: 25px 53px 25px 30px;
       align-items: flex-start;
       gap: 30px;
-      background: #fff;
+      background: var(--themeBgColor, #fff);
       box-shadow: 0px 4px 6px 0px rgba(85, 85, 85, 0.08);
       .img {
         min-width: 50px !important;
@@ -106,9 +107,9 @@
       }
       &_desc {
         h5 {
-          color: #000;
+          color: var(--themeColor, #000);
           font-family: Inter;
-          font-size: 16px;
+          font-size: calc(var(--themeFontSize) * 16px);
           font-style: normal;
           font-weight: 500;
           line-height: normal;
@@ -124,9 +125,9 @@
           gap: 10px;
           align-items: center;
           span {
-            color: #000;
+            color: var(--themeColor, #000);
             font-family: Inter;
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             font-style: normal;
             font-weight: 400;
             line-height: normal;
@@ -157,7 +158,7 @@
         }
         a {
           padding: 7px 15px;
-          font-size: 16px;
+          font-size: calc(var(--themeFontSize) * 16px);
         }
       }
       &_socials {
@@ -179,7 +180,7 @@
       gap: 20px;
       &_schedule {
         width: initial;
-        padding:40px 30px;
+        padding: 40px 30px;
         gap: 30px;
         img {
           min-width: 50px !important;
@@ -192,7 +193,7 @@
       }
       &_address {
         width: initial;
-        padding:40px 30px;
+        padding: 40px 30px;
         gap: 30px;
         img {
           min-width: 50px !important;
@@ -204,7 +205,7 @@
       }
       &_socials {
         width: initial;
-        padding:40px 30px;
+        padding: 40px 30px;
         gap: 30px;
         .img {
           min-width: 50px !important;
@@ -218,21 +219,21 @@
   .contact {
     margin-bottom: 70px;
     h2 {
-      font-size: 20px;
+      font-size: calc(var(--themeFontSize) * 20px);
       margin-bottom: 20px;
     }
     &__inner {
       &_schedule {
-        padding:20px 30px;
+        padding: 20px 30px;
         &_desc {
           gap: 40px;
         }
       }
       &_address {
-        padding:20px 30px;
+        padding: 20px 30px;
       }
       &_socials {
-        padding:20px 30px;
+        padding: 20px 30px;
       }
     }
   }

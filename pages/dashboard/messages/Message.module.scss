@@ -13,7 +13,7 @@
     & > h1 {
       color: $font-color;
       font-family: Inter;
-      font-size: 24px;
+      font-size: calc(var(--themeFontSize) * 24px);
       font-style: normal;
       font-weight: 600;
       line-height: normal;
@@ -22,7 +22,7 @@
     & > p {
       color: $font-color;
       font-family: Inter;
-      font-size: 16px;
+      font-size: calc(var(--themeFontSize) * 16px);
       font-style: normal;
       font-weight: 500;
       line-height: normal;
@@ -37,7 +37,7 @@
       height: fit-content;
       border-radius: 5px;
       border-left: 2px solid #309c54;
-      background: #fff;
+      background: var(--themeBgColor, #fff);
       box-shadow: 0px 4px 6px 0px rgba(85, 85, 85, 0.08);
       padding: 10px 17px;
       & > h1 {

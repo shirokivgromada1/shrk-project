@@ -16,7 +16,7 @@
     &_text {
       box-shadow: 0px 4px 6px 0px rgba(155, 155, 155, 0.08);
       border-radius: 15px;
-      background: #fff;
+      background: var(--themeBgColor, #fff);
       padding: 15px 15px 23px 15px;
       position: relative;
       min-width: 150px;
@@ -25,9 +25,9 @@
         position: absolute;
         right: 15px;
         bottom: 7px;
-        color: #6b7b60;
+        color: var(--themeColor, #6b7b60);
         font-family: Inter;
-        font-size: 13px;
+        font-size: calc(var(--themeFontSize) * 13px);
         font-style: normal;
         font-weight: 500;
         line-height: normal;
@@ -50,14 +50,15 @@
       max-width: 540px;
       & > div {
         &:nth-child(2) {
-          background-color: #dcf8c7;
+          color: var(--themeBgColor, #000);
+          background-color: var(--themeColor, #dcf8c7);
         }
       }
     }
     & > div {
-      color: $font-color;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 15px;
+      font-size: calc(var(--themeFontSize) * 15px);
       font-style: normal;
       line-height: normal;
       &:first-child {
@@ -66,9 +67,9 @@
         align-items: center;
         width: 50px;
         height: 50px;
-        background-color: #d9d6dd;
+        background-color: var(--themeBgColor, #d9d6dd);
         border-radius: 50%;
-        color: #7e758a;
+        color: var(--themeColor, #7e758a);
         flex-shrink: 0;
       }
     }
@@ -86,7 +87,7 @@
     gap: 10px;
     padding: 12px 10px;
     border-radius: 5px;
-    background-color: rgba(48, 156, 84, 0.5);
+    background-color: var(--themeBgColor, rgba(48, 156, 84, 0.5));
     justify-content: space-between;
 
     &_info {
@@ -94,9 +95,9 @@
       align-items: center;
       gap: 10px;
       & > span {
-        color: $font-color;
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 13px;
+        font-size: calc(var(--themeFontSize) * 13px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;

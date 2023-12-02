@@ -2,9 +2,9 @@
   margin-bottom: 70px;
   & > div {
     & > h1 {
-      color: #000;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 40px;
+      font-size: calc(var(--themeFontSize) * 40px);
       font-style: normal;
       font-weight: 500;
       line-height: normal;
@@ -13,9 +13,9 @@
       margin-top: 40px;
     }
     & > h2 {
-      color: #000;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 24px;
+      font-size: calc(var(--themeFontSize) * 24px);
       font-style: normal;
       font-weight: 500;
       line-height: normal;
@@ -26,15 +26,16 @@
   &__inner {
     width: 100%;
     border-collapse: collapse;
-    td, th {
+    td,
+    th {
       border: 1px solid rgba(48, 156, 84, 0.4);
     }
     thead {
       th {
-        color: #000;
+        color: var(--themeColor, #000);
         text-align: center;
         font-family: Inter;
-        font-size: 19px;
+        font-size: calc(var(--themeFontSize) * 19px);
         font-style: normal;
         font-weight: 600;
         line-height: normal;
@@ -52,7 +53,7 @@
     }
     tbody {
       td {
-          height: 119px;
+        height: 119px;
         text-align: center;
         vertical-align: center;
         padding: 21px 37px;
@@ -60,34 +61,32 @@
     }
     &_name {
       h5 {
-        color: #000;
+        color: var(--themeColor, #000);
 
         text-align: center;
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 500;
         line-height: normal;
-
-        }
+      }
     }
     &_position {
-       p {
-         color: #000;
-         text-align: center;
-         font-family: Inter;
-         font-size: 16px;
-         font-style: normal;
-         font-weight: 400;
-         line-height: normal;
-       }
-
+      p {
+        color: var(--themeColor, #000);
+        text-align: center;
+        font-family: Inter;
+        font-size: calc(var(--themeFontSize) * 16px);
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+      }
     }
     &_contacts {
       p {
-        color: #000;
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -140,7 +139,7 @@
         margin-top: 20px;
       }
       & > h2 {
-        font-size: 18px;
+        font-size: calc(var(--themeFontSize) * 18px);
         font-weight: 500;
         margin-bottom: 20px;
       }
@@ -149,47 +148,46 @@
       display: flex;
       flex-direction: column;
       gap: 15px;
-     &_item {
+      &_item {
         padding: 15px;
-       display: flex;
-       flex-direction: column;
-       gap: 10px;
-       border-radius: 5px;
-       background: #FFF;
-       box-shadow: 0px 4px 10px 0px rgba(169, 169, 169, 0.12);
-       h4 {
-         color: #000;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        border-radius: 5px;
+        background: var(--themeBgColor, #fff);
+        box-shadow: 0px 4px 10px 0px rgba(169, 169, 169, 0.12);
+        h4 {
+          color: var(--themeColor, #000);
 
-         font-family: Inter;
-         font-size: 15px;
-         font-style: normal;
-         font-weight: 500;
-         line-height: normal;
-         margin-bottom: 5px;
-       }
-       h5 {
-         color: #000;
+          font-family: Inter;
+          font-size: 15px;
+          font-style: normal;
+          font-weight: 500;
+          line-height: normal;
+          margin-bottom: 5px;
+        }
+        h5 {
+          color: var(--themeColor, #000);
 
-         font-family: Inter;
-         font-size: 13px;
-         font-style: normal;
-         font-weight: 500;
-         line-height: normal;
-         margin-bottom: 5px;
-       }
-       p {
-         color: #1E1E1E;
+          font-family: Inter;
+          font-size: 13px;
+          font-style: normal;
+          font-weight: 500;
+          line-height: normal;
+          margin-bottom: 5px;
+        }
+        p {
+          color: #1e1e1e;
 
-         font-family: Inter;
-         font-size: 15px;
-         font-style: normal;
-         font-weight: 400;
-         line-height: normal;
-       }
-     }
+          font-family: Inter;
+          font-size: 15px;
+          font-style: normal;
+          font-weight: 400;
+          line-height: normal;
+        }
+      }
     }
   }
-
 }
 @media screen and (max-width: 390px) {
   .corps {
@@ -211,5 +209,4 @@
       }
     }
   }
-
 }

@@ -69,12 +69,12 @@
     border-radius: 5px;
     border-left: 2px solid #309c54;
     padding-block: 15px;
-    background: #fff;
+    background: var(--themeBgColor, #fff);
     box-shadow: 0px 4px 6px 0px rgba(85, 85, 85, 0.08);
     & > h1 {
       color: $font-color;
       font-family: Inter;
-      font-size: 18px;
+      font-size: calc(var(--themeFontSize) * 18px);
       font-style: normal;
       font-weight: 500;
       line-height: normal;
@@ -199,7 +199,7 @@
 
 .formModal {
   border-radius: 15px;
-  background-color: #fff;
+  background-color: var(--themeBgColor, #fff);
   padding: 40px 50px;
   max-width: 688px;
   width: calc(100% - 80px);
@@ -220,9 +220,9 @@
       gap: 15px;
       align-items: center;
       & > span {
-        color: #707070;
+        color: var(--themeColor, #707070);
         font-family: Inter;
-        font-size: 13px;
+        font-size: calc(var(--themeFontSize) * 13px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -230,9 +230,9 @@
     }
     &_headline {
       & h1 {
-        color: $font-color;
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 18px;
+        font-size: calc(var(--themeFontSize) * 18px);
         font-style: normal;
         font-weight: 500;
         line-height: normal;
@@ -264,12 +264,12 @@
       }
       & select {
         background-color: transparent;
-        border: 1px solid $primary-color;
+        border: 1px solid var(--themeColor, #309c54);
         border-radius: 7px;
         padding: 9px 20px;
-        color: $font-color;
+        color: var(--themeColor, #309c54);
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -277,9 +277,9 @@
         /* for Safari, Chrome, Opera */
         -webkit-appearance: none;
         & option {
-          color: $font-color;
+          color: var(--themeColor, #309c54);
           font-family: Inter;
-          font-size: 15px;
+          font-size: calc(var(--themeFontSize) * 15px);
           font-style: normal;
           font-weight: 400;
           line-height: normal;
@@ -296,18 +296,18 @@
     flex-direction: column;
     gap: 10px;
     & > h1 {
-      color: $font-color;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 18px;
+      font-size: calc(var(--themeFontSize) * 18px);
       font-style: normal;
       font-weight: 500;
       line-height: normal;
     }
     & > p {
-      color: #707070;
+      color: var(--themeFontSize, #707070);
 
       font-family: Inter;
-      font-size: 13px;
+      font-size: calc(var(--themeFontSize) * 13px);
       font-style: normal;
       font-weight: 400;
       line-height: normal;
@@ -320,9 +320,9 @@
   &__input {
     & > div {
       & > h1 {
-        color: $font-color;
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 18px;
+        font-size: calc(var(--themeFontSize) * 18px);
         font-style: normal;
         font-weight: 500;
         line-height: normal;
@@ -334,20 +334,20 @@
       border: 1px solid #d4d4d4;
       height: 40px;
       padding-left: 20px;
-      color: $font-color;
+      color: var(--themeColor, #000);
       font-family: Inter;
-      font-size: 16px;
+      font-size: calc(var(--themeFontSize) * 16px);
       font-style: normal;
       font-weight: 500;
       line-height: normal;
       &:focus {
-        border-color: $primary-color;
+        border-color: var(--themeColor, #309c54);
         outline: none;
       }
       &::placeholder {
-        color: #727272;
+        color: var(--themeColor, #727272);
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 500;
         line-height: normal;
@@ -369,9 +369,9 @@
           &:nth-child(1) {
             order: 2;
             & label {
-              color: $font-color;
+              color: var(--themeColor, #309c54);
               font-family: Inter;
-              font-size: 15px;
+              font-size: calc(var(--themeFontSize) * 15px);
               font-style: normal;
               font-weight: 400;
               line-height: normal;
@@ -386,8 +386,8 @@
               width: 11px;
               height: 11px;
               background-color: inherit;
-              color: #017b5f;
-              border: 2px solid $primary-color;
+              color: var(--themeColor, #017b5f);
+              border: 2px solid var(--themeColor, #309c54);
               border-radius: 24px;
               &::after {
                 content: "";
@@ -421,17 +421,17 @@
       gap: 10px;
       & > span {
         &:first-child {
-          color: $font-color;
+          color: var(--themeColor, #309c54);
           font-family: Inter;
-          font-size: 18px;
+          font-size: calc(var(--themeFontSize) * 18px);
           font-style: normal;
           font-weight: 500;
           line-height: normal;
         }
         &:nth-child(2) {
-          color: #828282;
+          color: var(--themeColor, #828282);
           font-family: Inter;
-          font-size: 12px;
+          font-size: calc(var(--themeFontSize) * 12px);
           font-style: normal;
           font-weight: 400;
           line-height: normal;
@@ -471,9 +471,9 @@
     flex-direction: column;
     gap: 5px;
     & > span {
-      color: #707070;
+      color: var(--themeColor, #707070);
       font-family: Inter;
-      font-size: 13px;
+      font-size: calc(var(--themeFontSize) * 13px);
       font-style: normal;
       font-weight: 400;
       line-height: normal;
@@ -486,17 +486,17 @@
       resize: none;
       height: 183px;
       font-family: Inter;
-      font-size: 16px;
+      font-size: calc(var(--themeFontSize) * 16px);
       font-style: normal;
       line-height: normal;
       &:focus {
-        border-color: $primary-color;
+        border-color: var(--themeColor, #309c54);
         outline: none;
       }
       &::placeholder {
-        color: #727272;
+        color: var(--themeColor, #727272);
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 500;
         line-height: normal;
@@ -510,18 +510,18 @@
     margin-bottom: 25px;
     & > div {
       & > h1 {
-        color: $font-color;
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 24px;
+        font-size: calc(var(--themeFontSize) * 24px);
         font-style: normal;
         font-weight: 600;
         line-height: normal;
         margin-bottom: 5px;
       }
       & > p {
-        color: #888;
+        color: var(--themeColor, #888);
         font-family: Inter;
-        font-size: 14px;
+        font-size: calc(var(--themeFontSize) * 14px);
         font-style: normal;
         font-weight: 500;
         line-height: normal;
@@ -569,7 +569,7 @@
           &:first-child {
             color: $font-color;
             font-family: Inter;
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             font-style: normal;
             font-weight: 500;
             line-height: normal;
@@ -598,7 +598,7 @@
         & > h1 {
           color: $font-color;
           font-family: Inter;
-          font-size: 20px;
+          font-size: calc(var(--themeFontSize) * 20px);
           font-style: normal;
           font-weight: 600;
           line-height: normal;

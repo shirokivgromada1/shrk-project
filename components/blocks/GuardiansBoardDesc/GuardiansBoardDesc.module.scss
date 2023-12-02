@@ -1,10 +1,10 @@
 .board {
   margin-bottom: 90px;
   h1 {
-    color: #000;
+    color: var(--themeColor, #000);
 
     font-family: Inter;
-    font-size: 40px;
+    font-size: calc(var(--themeFontSize) * 40px);
     font-style: normal;
     font-weight: 500;
     line-height: normal;
@@ -13,7 +13,7 @@
     text-align: center;
   }
   p {
-    color: #000;
+    color: var(--themeColor, #000);
     max-width: 1218px;
     text-align: center;
     font-family: Inter;
@@ -32,7 +32,7 @@
     li {
       border-radius: 5px;
       border-top: 1px solid #309c54;
-      background: #fff;
+      background: var(--themeBgColor, #fff);
       box-shadow: 0px 4px 19px 0px rgba(49, 49, 49, 0.07);
       display: flex;
       flex: 0 0 calc(29.3% - 15px);
@@ -41,10 +41,10 @@
       align-items: center;
       min-height: 140px;
       p {
-        color: #000;
+        color: var(--themeColor, #000);
         text-align: center;
         font-family: Inter;
-        font-size: 20px;
+        font-size: calc(var(--themeFontSize) * 20px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -65,14 +65,14 @@
 @media screen and (max-width: 1000px) {
   .board {
     p {
-      font-size: 20px;
+      font-size: calc(var(--themeFontSize) * 20px);
     }
     &__list {
       li {
         flex: 0 0 calc(31% - 15px);
         padding: 20px 15px;
         p {
-          font-size: 18px;
+          font-size: calc(var(--themeFontSize) * 18px);
         }
       }
     }
@@ -81,14 +81,14 @@
 @media screen and (max-width: 880px) {
   .board {
     p {
-      font-size: 18px;
+      font-size: calc(var(--themeFontSize) * 18px);
     }
     &__list {
       li {
         flex: 0 0 calc(32% - 15px);
         padding: 30px 10px;
         p {
-          font-size: 16px;
+          font-size: calc(var(--themeFontSize) * 16px);
         }
       }
     }
@@ -102,7 +102,7 @@
       margin-block: 20px 10px;
     }
     p {
-      font-size: 16px;
+      font-size: calc(var(--themeFontSize) * 16px);
       font-weight: 400;
       &:not(:last-child) {
         padding-bottom: 10px;
@@ -112,7 +112,7 @@
       gap: 20px;
       li {
         border-radius: 5px;
-        background: #fff;
+        background: var(--themeBgColor, #fff);
         border: none;
         box-shadow: 0px 4px 10px 0px rgba(169, 169, 169, 0.12);
         display: flex;
@@ -123,13 +123,13 @@
         &:hover {
           background-color: #309c54;
           p {
-            color: #fff;
+            color: var(--themeBgColor, #fff);
           }
         }
         p {
-          color: #000;
+          color: var(--themeColor, #000);
           transition: 0.4s background-color ease-in;
-          font-size: 16px;
+          font-size: calc(var(--themeFontSize) * 16px);
         }
       }
     }

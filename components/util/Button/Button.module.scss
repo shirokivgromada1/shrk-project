@@ -1,8 +1,8 @@
 .button {
-  background-color: $primary-color !important;
-  color: #fff !important;
+  background-color: var(--themeBgColor, #309c54) !important;
+  color: var(--themeColor, #fff) !important;
   font-family: Inter !important;
-  font-size: 16px !important;
+  font-size: calc(var(--themeFontSize) * 16px) !important;
   font-style: normal !important;
   font-weight: 400 !important;
   line-height: normal !important;
@@ -11,8 +11,8 @@
     background-color: $hover-primary-color !important;
   }
   &:disabled {
-    background-color: $disabled-primary-bg !important;
-    color: $disabled-primary-color !important;
+    background-color: var(--themeBgColor, $disabled-primary-bg) !important;
+    color: var(--themeColor, $disabled-primary-color) !important;
     cursor: not-allowed !important;
     pointer-events: unset !important;
   }

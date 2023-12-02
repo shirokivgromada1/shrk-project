@@ -14,7 +14,7 @@
       position: absolute;
       top: -64px;
       border-radius: 30px;
-      background: #fff;
+      background: var(--themeBgColor, #fff);
       box-shadow: 0px 4px 12px 0px rgba(85, 85, 85, 0.09);
       padding: 30px 0;
       margin: 0 70px;
@@ -32,7 +32,7 @@
             border-radius: 26px;
             background: #309c54;
             padding: 8px 28px;
-            color: #fff;
+            color: var(--themeBgColor, #fff);
             font-family: Inter;
             font-size: 14px;
             font-style: normal;
@@ -82,9 +82,9 @@
           }
         }
         & > h1 {
-          color: #000;
+          color: var(--themeColor, #000);
           font-family: Inter;
-          font-size: 24px;
+          font-size: calc(var(--themeFontSize) * 24px);
           font-style: normal;
           font-weight: 500;
           line-height: 115.023%;
@@ -107,7 +107,7 @@
   &__step {
     &_label {
       & > span > span {
-        color: #000;
+        color: var(--themeColor, #000);
         font-family: Inter;
         font-size: 15px;
         font-style: normal;
@@ -203,7 +203,7 @@
             gap: 5px;
 
             & span {
-              color: #000;
+              color: var(--themeColor, #000);
               font-family: Inter;
               font-size: 13px;
               font-style: normal;
@@ -224,7 +224,7 @@
             gap: 5px;
             margin-bottom: 6px;
             & span {
-              color: #000;
+              color: var(--themeColor, #000);
               font-family: Inter;
               font-size: 13px;
               font-style: normal;
@@ -235,7 +235,7 @@
           }
           & input {
             width: 418px;
-            color: #000 !important;
+            color: var(--themeColor, #000) !important;
             font-family: Inter;
             font-size: 14px;
             font-style: normal;
@@ -250,7 +250,7 @@
           border-radius: 5px;
           background: var(--green, #309c54);
           box-shadow: 0px 4px 6px 0px rgba(85, 85, 85, 0.15);
-          color: #fff;
+          color: var(--themeBgColor, #fff);
           font-family: Inter;
           font-size: 13px;
           font-style: normal;
@@ -291,7 +291,7 @@
     fill: #309c54;
   }
   & a {
-    color: #000;
+    color: var(--themeColor, #000);
     font-family: Inter;
     font-size: 14px;
     font-style: normal;
@@ -310,9 +310,9 @@
     border-radius: 5px;
     background: var(--green, #309c54);
     box-shadow: 0px 4px 6px 0px rgba(85, 85, 85, 0.15);
-    color: #fff;
+    color: var(--themeBgColor, #fff);
     font-family: Inter;
-    font-size: 18px;
+    font-size: calc(var(--themeFontSize) * 18px);
     font-style: normal;
     font-weight: 500;
     line-height: normal;

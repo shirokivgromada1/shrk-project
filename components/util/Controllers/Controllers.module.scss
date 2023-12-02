@@ -1,9 +1,9 @@
 .controllers {
   padding: 20px 0;
   & h1 {
-    color: #000;
+    color: var(--themeColor, #000);
     font-family: Inter;
-    font-size: 32px;
+    font-size: calc(var(--themeFontSize) * 32px);
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -14,7 +14,7 @@
 @media screen and (max-width: 1100px) {
   .controllers {
     & h1 {
-      color: #000;
+      color: var(--themeColor, #000);
       /* h1 */
       font-family: Inter;
       font-size: 30px;

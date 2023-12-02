@@ -4,6 +4,7 @@ import { IoMdClose } from "react-icons/io";
 import { motion } from "framer-motion";
 // import { useTheme } from "@/context/ThemeContext"
 import Modal from "react-modal";
+import useBetterMediaQuery from "@/hooks/useBetterMediaQuery";
 
 Modal.setAppElement("#__next");
 
@@ -52,8 +53,7 @@ const EyeModal: FC<Props> = ({ eyeView, setEyeView }) => {
     null
   );
 
-  // const { onChangeFontSize, onChangeBgColor, onChangeColor, bgColor, color } =
-  // 	useTheme()
+  const tabletMatch = useBetterMediaQuery("(max-width: 1200px)");
 
   const mixColors = (colors: string[]) => {
     const mixArray = [];
@@ -69,11 +69,29 @@ const EyeModal: FC<Props> = ({ eyeView, setEyeView }) => {
     mixColors(colors);
   }, []);
 
-  // const resetTheme = () => {
-  // 	onChangeFontSize(null)
-  // 	onChangeBgColor(null)
-  // 	onChangeColor(null)
-  // }
+  const resetTheme = () => {
+    document.documentElement.style.setProperty("--themeBgColor", "unset");
+    document.documentElement.style.setProperty("--themeColor", "unset");
+    document.documentElement.style.setProperty("--themeFontSize", "1");
+  };
+
+  const onChangeTheme = (bgColor: string, color: string) => {
+    document.documentElement.style.setProperty("--themeBgColor", bgColor);
+    document.documentElement.style.setProperty("--themeColor", color);
+  };
+
+  const onChangeFontSize = (size: number) => {
+    document.documentElement.style.setProperty(
+      "--themeFontSize",
+      size.toString()
+    );
+  };
+
+  useEffect(() => {
+    if (tabletMatch) {
+      resetTheme();
+    }
+  }, [tabletMatch]);
 
   return (
     <Modal
@@ -94,16 +112,13 @@ const EyeModal: FC<Props> = ({ eyeView, setEyeView }) => {
               <button
                 type="button"
                 key={"size" + i}
-                // onClick={() => onChangeFontSize(Object.values(size)[0])}
+                onClick={() => onChangeFontSize(Object.values(size)[0])}
               >
                 <span style={{ fontSize: `${Object.keys(size)[0]}px` }}>A</span>
               </button>
             ))}
           </div>
-          <button
-            type="button"
-            //   onClick={resetTheme}
-          >
+          <button type="button" onClick={resetTheme}>
             По замовчуванні
           </button>
         </motion.div>
@@ -119,10 +134,7 @@ const EyeModal: FC<Props> = ({ eyeView, setEyeView }) => {
                 variants={opacityVariants}
                 key={"mix" + i}
                 style={{ backgroundColor: m.bgColor }}
-                onClick={() => {
-                  //   onChangeBgColor(m.bgColor);
-                  //   onChangeColor(m.color);
-                }}
+                onClick={() => onChangeTheme(m.bgColor, m.color)}
               >
                 <span style={{ fontSize: 20, color: m.color }}>A</span>
               </motion.button>

@@ -6,12 +6,12 @@
     gap: 30px;
     .active {
       background-color: #309c54;
-      color: #ffffff;
+      color: var(--themeBgColor, #fff) fff;
     }
     .activeArrow {
       transform: rotate(180deg);
       path {
-        stroke: #ffffff;
+        stroke: var(--themeBgColor, #fff) fff;
       }
     }
     &_item {
@@ -22,19 +22,19 @@
       padding-bottom: 30px;
       border-bottom: 1px rgba(48, 156, 84, 0.4) solid;
       &_title {
-        color: #000;
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 600;
         line-height: normal;
         max-width: 350px;
       }
       &_desc {
-        color: #000;
+        color: var(--themeColor, #000);
 
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -138,7 +138,7 @@
         border: initial;
         &_title {
           border-radius: 5px;
-          background: #fff;
+          background: var(--themeBgColor, #fff);
           box-shadow: 0px 4px 10px 0px rgba(169, 169, 169, 0.12);
           max-width: initial;
           min-height: 50px;

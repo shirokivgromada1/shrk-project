@@ -8,7 +8,7 @@
     li {
       border-radius: 5px;
       cursor: pointer;
-      background: #fff;
+      background: var(--themeBgColor, #fff);
       box-shadow: 0px 4px 19px 0px rgba(49, 49, 49, 0.07);
       display: flex;
       flex: 0 0 calc(28.3% - 15px);
@@ -18,17 +18,17 @@
       min-height: 140px;
       transition: background-color 0.3s ease-in;
       &:hover {
-        background-color: #309c54;
+        background-color: var(--themeColor, #309c54);
         p {
-          color: #FFFFFF;
+          color: var(--themeBgColor, #fff);
         }
       }
       p {
-        color: #000;
+        color: var(--themeColor, #000);
         transition: color 0.3s ease-in;
         text-align: center;
         font-family: Inter;
-        font-size: 20px;
+        font-size: calc(var(--themeFontSize) * 20px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -46,10 +46,10 @@
         padding: 30px 10px;
         min-height: 130px;
         p {
-          color: #000;
+          color: var(--themeColor, #000);
           text-align: center;
           font-family: Inter;
-          font-size: 19px;
+          font-size: calc(var(--themeFontSize) * 19px);
           font-style: normal;
           font-weight: 400;
           line-height: normal;
@@ -75,7 +75,7 @@
       margin-block: 20px 10px;
     }
     p {
-      font-size: 16px;
+      font-size: calc(var(--themeFontSize) * 16px);
       font-weight: 400;
       &:not(:last-child) {
         padding-bottom: 10px;
@@ -85,7 +85,7 @@
       gap: 20px;
       li {
         border-radius: 5px;
-        background: #fff;
+        background: var(--themeBgColor, #fff);
         border: none;
         box-shadow: 0px 4px 10px 0px rgba(169, 169, 169, 0.12);
         display: flex;
@@ -96,13 +96,13 @@
         &:hover {
           background-color: #309c54;
           p {
-            color: #fff;
+            color: var(--themeBgColor, #fff);
           }
         }
         p {
-          color: #000;
+          color: var(--themeColor, #000);
           transition: 0.4s background-color ease-in;
-          font-size: 16px;
+          font-size: calc(var(--themeFontSize) * 16px);
         }
       }
     }

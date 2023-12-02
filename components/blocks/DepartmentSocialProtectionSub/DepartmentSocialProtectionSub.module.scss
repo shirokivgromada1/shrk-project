@@ -2,10 +2,10 @@
   margin-bottom: 90px;
   h1 {
     max-width: 1072px;
-    color: #000;
+    color: var(--themeColor, #000);
     text-align: center;
     font-family: Inter;
-    font-size: 28px;
+    font-size: calc(var(--themeFontSize) * 28px);
     font-style: normal;
     font-weight: 500;
     line-height: normal;
@@ -21,10 +21,10 @@
   }
   &__desc {
     p {
-      color: #000;
+      color: var(--themeColor, #000);
       text-align: center;
       font-family: Inter;
-      font-size: 18px;
+      font-size: calc(var(--themeFontSize) * 18px);
       font-style: normal;
       font-weight: 400;
       line-height: normal;
@@ -43,11 +43,11 @@
       justify-content: space-between;
       gap: 100px;
       padding: 20px 30px;
-      background: #fff;
+      background: var(--themeBgColor, #fff);
       box-shadow: 0px 4px 10px 0px rgba(85, 85, 85, 0.12);
       &:hover {
         h5 {
-          text-decoration: 2.5px solid #000 underline;
+          text-decoration: 2.5px solid var(--themeColor) underline;
           text-underline-offset: 0.25em;
         }
       }
@@ -57,9 +57,9 @@
         gap: 20px;
         h5 {
           max-width: 888px;
-          color: #000;
+          color: var(--themeColor, #000);
           font-family: Inter;
-          font-size: 20px;
+          font-size: calc(var(--themeFontSize) * 20px);
           font-style: normal;
           font-weight: 600;
           line-height: normal;
@@ -67,7 +67,7 @@
         div {
           min-width: 7px;
           min-height: 35px;
-          background: #309c54;
+          background: var(--themeBgColor, #309c54);
         }
       }
       a {
@@ -76,10 +76,10 @@
         justify-content: center;
         padding: 9px 28px;
         border-radius: 29px;
-        background: #309c54;
-        color: #fff;
+        background: var(--themeBgColor, #309c54);
+        color: var(--themeBgColor, #fff);
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -103,7 +103,7 @@
   .department {
     margin-bottom: 70px;
     h1 {
-      font-size: 20px;
+      font-size: calc(var(--themeFontSize) * 20px);
       font-weight: 500;
       margin-bottom: 20px;
     }
@@ -112,7 +112,7 @@
     }
     &__desc {
       p {
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-weight: 400;
         &:not(:last-of-type) {
           margin-bottom: 20px;
@@ -128,7 +128,7 @@
         &_text {
           gap: 15px;
           h5 {
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
           }
 
           div {

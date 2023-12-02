@@ -4,9 +4,9 @@
   position: relative;
   .active {
     border-color: #309c54;
-   svg {
-     transform: rotate(180deg);
-   }
+    svg {
+      transform: rotate(180deg);
+    }
     h5 {
       color: #309c54;
     }
@@ -20,7 +20,7 @@
     }
   }
   h2 {
-    color: #000;
+    color: var(--themeColor, #000);
     font-family: Inter;
     font-size: 28px;
     font-style: normal;
@@ -51,9 +51,9 @@
         padding: 15px 20px 15px 40px;
         border-color: #7a828b;
         h5 {
-          color: #000;
+          color: var(--themeColor, #000);
           font-family: Inter;
-          font-size: 20px;
+          font-size: calc(var(--themeFontSize) * 20px);
           font-style: normal;
           font-weight: 400;
           line-height: normal;
@@ -91,9 +91,9 @@
         padding-block: 30px;
         padding-left: 50px;
         h4 {
-          color: #000;
+          color: var(--themeColor, #000);
           font-family: Inter;
-          font-size: 20px;
+          font-size: calc(var(--themeFontSize) * 20px);
           font-style: normal;
           font-weight: 700;
           line-height: normal;
@@ -109,12 +109,12 @@
           padding: 0;
           li {
             width: 45%;
-            color: #000;
+            color: var(--themeColor, #000);
             padding-left: 25px;
             display: flex;
             align-items: center;
             font-family: Inter;
-            font-size: 18px;
+            font-size: calc(var(--themeFontSize) * 18px);
             font-style: normal;
             font-weight: 400;
             line-height: normal;
@@ -129,17 +129,17 @@
           }
         }
         p {
-          color: #000;
+          color: var(--themeColor, #000);
           max-width: 418px;
           font-family: Inter;
-          font-size: 16px;
+          font-size: calc(var(--themeFontSize) * 16px);
           font-style: normal;
           font-weight: 400;
           line-height: normal;
           span {
-            color: #000;
+            color: var(--themeColor, #000);
             font-family: Inter;
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             font-style: normal;
             font-weight: 600;
             line-height: normal;
@@ -261,7 +261,7 @@
     margin-bottom: 50px;
     padding-bottom: 70px;
     h2 {
-      font-size: 20px;
+      font-size: calc(var(--themeFontSize) * 20px);
       margin-bottom: 45px;
     }
     &__inner {
@@ -277,7 +277,7 @@
           border-left: 5px solid #7a828b;
           h5 {
             color: #7a828b;
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             font-weight: 500;
             max-width: 135px;
           }
@@ -293,7 +293,7 @@
           ul {
             row-gap: 15px;
             li {
-              font-size: 16px;
+              font-size: calc(var(--themeFontSize) * 16px);
               max-width: 25vw;
             }
           }
@@ -360,10 +360,10 @@
           max-width: 350px;
           padding: 25px 30px 25px 30px;
           h4 {
-            color: #000;
+            color: var(--themeColor, #000);
 
             font-family: Inter;
-            font-size: 18px;
+            font-size: calc(var(--themeFontSize) * 18px);
             font-style: normal;
             font-weight: 500;
             line-height: normal;
@@ -380,7 +380,7 @@
               display: flex;
               align-items: center;
               gap: 15px;
-              color: #000;
+              color: var(--themeColor, #000);
 
               font-family: Inter;
               font-size: 17px;
@@ -398,9 +398,9 @@
             }
           }
           p {
-            color: #000;
+            color: var(--themeColor, #000);
             font-family: Inter;
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
             font-style: normal;
             font-weight: 400;
             line-height: normal;
@@ -417,22 +417,19 @@
 
 @media only screen and (max-width: 391px) {
   .clinic {
-      h2 {
-       margin-bottom: 20px;
-      }
+    h2 {
+      margin-bottom: 20px;
+    }
     &__inner {
       &_list {
-
         &_card {
           max-width: 350px;
           width: initial;
           border-left: 7px solid #7a828b;
-
         }
       }
 
       &_mobile {
-
         div {
           ul {
             li {
@@ -442,6 +439,5 @@
         }
       }
     }
-
   }
 }

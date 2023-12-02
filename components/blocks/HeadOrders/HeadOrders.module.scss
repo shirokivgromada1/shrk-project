@@ -1,9 +1,9 @@
 .orders {
   margin-bottom: 90px;
   h1 {
-    color: #000;
+    color: var(--themeColor, #000);
     font-family: Inter;
-    font-size: 40px;
+    font-size: calc(var(--themeFontSize) * 40px) !important;
     font-style: normal;
     font-weight: 500;
     line-height: 115.023%; /* 46.009px */
@@ -13,9 +13,9 @@
     margin-inline: auto;
   }
   h2 {
-    color: #000;
+    color: var(--themeColor, #000);
     font-family: Inter;
-    font-size: 28px;
+    font-size: calc(var(--themeFontSize) * 28px);
     font-style: normal;
     font-weight: 500;
     line-height: normal;
@@ -33,7 +33,7 @@
       justify-content: space-between;
       gap: 100px;
       padding: 20px 30px;
-      background: #FFF;
+      background: var(--themeBgColor, #fff);
       box-shadow: 0px 4px 10px 0px rgba(85, 85, 85, 0.12);
 
       &_text {
@@ -42,9 +42,9 @@
         gap: 20px;
         h5 {
           max-width: 888px;
-          color: #000;
+          color: var(--themeColor, #000);
           font-family: Inter;
-          font-size: 20px;
+          font-size: calc(var(--themeFontSize) * 20px);
           font-style: normal;
           font-weight: 600;
           line-height: normal;
@@ -52,7 +52,7 @@
         div {
           min-width: 10px;
           min-height: 40px;
-          background: #309c54;
+          background: var(--themeColor, #309c54);
         }
       }
       a {
@@ -61,17 +61,16 @@
         justify-content: center;
         padding: 9px 28px;
         border-radius: 29px;
-        background: #309C54;
-        color: #FFF;
+        background: var(--themeBgColor, #309c54);
+        color: var(--themeBgColor, #fff);
         font-family: Inter;
-        font-size: 16px;
+        font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
         text-wrap: none;
         min-width: max-content;
         text-align: center;
-
       }
     }
   }
@@ -95,7 +94,7 @@
       margin-block: 20px;
     }
     h2 {
-      font-size: 20px;
+      font-size: calc(var(--themeFontSize) * 20px);
       font-weight: 500;
       margin-bottom: 20px;
       margin-top: 10px;
@@ -108,7 +107,7 @@
         &_text {
           gap: 15px;
           h5 {
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
           }
           div {
             min-width: 5px;
@@ -120,7 +119,6 @@
           border-radius: 50px;
           min-width: 35px;
           min-height: 35px;
-
         }
       }
     }
@@ -154,11 +152,11 @@
     h2 {
       margin-bottom: 15px;
       margin-top: 10px;
-      font-size: 18px;
+      font-size: calc(var(--themeFontSize) * 18px);
     }
 
     &__inner {
-     gap: 20px;
+      gap: 20px;
       &_item {
         gap: 10px;
         padding: 20px;

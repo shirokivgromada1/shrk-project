@@ -7,16 +7,16 @@
     gap: 30px;
     margin-inline: auto;
     h2 {
-      color: #000;
+      color: var(--themeColor, #000);
 
       text-align: center;
       font-family: Inter;
-      font-size: 36px;
+      font-size: calc(var(--themeFontSize) * 36px);
       font-style: normal;
       font-weight: 400;
       line-height: normal;
       a {
-        color: #000;
+        color: var(--themeColor, #000);
         text-decoration: underline;
         text-underline-offset: 2.5px;
       }
@@ -27,10 +27,10 @@
       div {
         width: 45%;
         p {
-          color: #000;
+          color: var(--themeColor, #000);
 
           font-family: Inter;
-          font-size: 18px;
+          font-size: calc(var(--themeFontSize) * 18px);
           font-style: normal;
           font-weight: 400;
           line-height: normal;
@@ -52,7 +52,7 @@
       &_desc {
         div {
           p {
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
           }
         }
       }
@@ -66,7 +66,7 @@
     &__inner {
       gap: 20px;
       h2 {
-        font-size: 20px;
+        font-size: calc(var(--themeFontSize) * 20px);
       }
       &_desc {
         flex-direction: column;
@@ -76,7 +76,7 @@
 
           p {
             text-align: center;
-            font-size: 16px;
+            font-size: calc(var(--themeFontSize) * 16px);
           }
         }
       }

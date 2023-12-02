@@ -1,10 +1,10 @@
 .documents {
   margin-bottom: 90px;
   min-height: 50vh;
-   h1 {
-    color: #000;
+  h1 {
+    color: var(--themeColor, #000);
     font-family: Inter;
-    font-size: 40px;
+    font-size: calc(var(--themeFontSize) * 40px);
     font-style: normal;
     font-weight: 500;
     line-height: normal;
@@ -29,19 +29,19 @@
       align-items: center;
       gap: 10px;
       border-radius: 5px;
-      background: #FFF;
+      background: var(--themeBgColor, #fff);
       box-shadow: 0px 4px 19px 0px rgba(49, 49, 49, 0.07);
       transition: background 0.4s ease;
       &:hover {
         background: #309c54;
         h5 {
-          color: #fff;
+          color: var(--themeBgColor, #fff);
         }
       }
       h5 {
-        color: #000;
+        color: var(--themeColor, #000);
         font-family: Inter;
-        font-size: 20px;
+        font-size: calc(var(--themeFontSize) * 20px);
         font-style: normal;
         font-weight: 500;
         line-height: normal;
@@ -52,8 +52,6 @@
     }
   }
 }
-
-
 
 @media screen and (max-width: 830px) {
   .documents {
@@ -69,7 +67,7 @@
         height: 91px;
         padding: 30px 20px;
         h5 {
-          font-size: 16px;
+          font-size: calc(var(--themeFontSize) * 16px);
           font-weight: 400;
         }
       }
