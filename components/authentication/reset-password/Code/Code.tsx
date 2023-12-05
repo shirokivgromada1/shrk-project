@@ -40,9 +40,9 @@ const Code = ({
     if (value) if (!isNumeric(value)) return;
 
     const digitsOnly = value.replace(/\D/g, "");
-    if (/^\d{0,4}$/.test(digitsOnly)) {
+    if (/^\d{0,6}$/.test(digitsOnly)) {
       setCode(value);
-      if (digitsOnly.length > 3) setIsEnabled(true);
+      if (digitsOnly.length > 5) setIsEnabled(true);
       else setIsEnabled(false);
     }
   };

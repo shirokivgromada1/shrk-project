@@ -55,29 +55,29 @@ const Messages = (
             <AnimatePresence>
               {sortedCombined.map((chat, index) => {
                 if ("latest_message_created" in chat) {
-                  if (chat.status === "completed")
-                    return (
-                      <motion.div
-                        key={"MessageCard" + index}
-                        initial={{ opacity: 0 }}
-                        animate={{ opacity: 1 }}
-                        exit={{ opacity: 0 }}
-                      >
-                        <MessageCard
-                          title={chat.title}
-                          created={chat.latest_message_created}
-                          text={chat.latest_message}
-                          messageId={chat.latest_message_id}
-                          chatId={chat.id}
-                          senderId={chat.latest_message_sender_id}
-                          seen={chat.latest_message_seen}
-                          isLarge={
-                            !!chat.latest_message &&
-                            chat.latest_message.length > 200
-                          }
-                        />
-                      </motion.div>
-                    );
+                  return (
+                    <motion.div
+                      key={"MessageCard" + index}
+                      initial={{ opacity: 0 }}
+                      animate={{ opacity: 1 }}
+                      exit={{ opacity: 0 }}
+                    >
+                      <MessageCard
+                        title={chat.title}
+                        created={chat.latest_message_created}
+                        text={chat.latest_message}
+                        messageId={chat.latest_message_id}
+                        chatId={chat.id}
+                        senderId={chat.latest_message_sender_id}
+                        seen={chat.latest_message_seen}
+                        status={chat.status}
+                        isLarge={
+                          !!chat.latest_message &&
+                          chat.latest_message.length > 200
+                        }
+                      />
+                    </motion.div>
+                  );
                 } else {
                   return (
                     <motion.div

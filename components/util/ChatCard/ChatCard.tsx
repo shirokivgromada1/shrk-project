@@ -191,6 +191,7 @@ const ChatCard = ({ chat, setView, setActiveIndex }: Props) => {
                     display: "flex",
                     flexDirection: "column",
                     gap: "20px",
+                    backgroundColor: "var(--themeBgColor, #fff)",
                   }),
                   option: (
                     styles,
@@ -199,28 +200,21 @@ const ChatCard = ({ chat, setView, setActiveIndex }: Props) => {
                     return {
                       padding: 0,
                       paddingBottom: "11px",
-                      color: "var(--themeColor)",
                       fontWeight: isSelected ? "600" : "400",
                       ":first-child": {
-                        color: isSelected
-                          ? "rgba(48, 156, 84, 1)"
-                          : "var(--themeColor)",
+                        color: "var(--themeColor, rgba(48, 156, 84, 1))",
                         borderBottom: isSelected
                           ? "1px solid rgba(48, 156, 84, 1)"
                           : "1px solid rgba(48, 156, 84, 0.25)",
                       },
                       ":nth-child(2)": {
-                        color: isSelected
-                          ? "rgba(255, 122, 0, 1)"
-                          : "var(--themeColor)",
+                        color: "var(--themeColor, rgba(255, 122, 0, 1))",
                         borderBottom: isSelected
                           ? "1px solid rgba(255, 122, 0, 1)"
                           : "1px solid rgba(255, 122, 0, 0.25)",
                       },
                       ":last-child": {
-                        color: isSelected
-                          ? "rgba(243, 58, 58, 1)"
-                          : "var(--themeColor)",
+                        color: "var(--themeColor, rgba(243, 58, 58, 1))",
                         borderBottom: isSelected
                           ? "1px solid rgba(243, 58, 58, 1)"
                           : "1px solid rgba(243, 58, 58, 0.25)",

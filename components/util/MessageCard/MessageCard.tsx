@@ -23,6 +23,7 @@ type Props = {
   senderId: number;
   seen: boolean;
   isLarge: boolean;
+  status: "inProgress" | "completed" | "rejected";
 };
 
 const MessageCard = ({
@@ -33,6 +34,7 @@ const MessageCard = ({
   senderId,
   chatId,
   seen = false,
+  status,
   isLarge,
 }: Props) => {
   const [open, setOpen] = useState(false);
@@ -119,13 +121,15 @@ const MessageCard = ({
               </button>
             )}
           </div>
-          <Button
-            type="button"
-            style={{ borderRadius: 26 }}
-            onClick={() => router.push("/dashboard/messages/" + chatId)}
-          >
-            Перейти в діалог
-          </Button>
+          {status === "completed" && (
+            <Button
+              type="button"
+              style={{ borderRadius: 26 }}
+              onClick={() => router.push("/dashboard/messages/" + chatId)}
+            >
+              Перейти в діалог
+            </Button>
+          )}
         </div>
       </AnimateHeight>
     </div>

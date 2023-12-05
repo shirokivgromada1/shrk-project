@@ -342,7 +342,7 @@ const DashboardChatCard = ({ chat, setActiveIndex, setView }: Props) => {
           <div className={styles.dashboard__item_actions}>
             {"latest_message_created" in chat ? (
               <>
-                {chat.status === "completed" && (
+                {(isAdmin || chat.status === "completed") && (
                   <Button
                     type="button"
                     style={{ padding: 0, borderRadius: "50%" }}

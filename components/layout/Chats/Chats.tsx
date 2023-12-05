@@ -29,10 +29,7 @@ const ChatsLayout = ({ data, children }: Props) => {
             <SlArrowLeft />
           </Button>
           {router.asPath === "/dashboard/messages" &&
-            !isEmpty(chats) &&
-            chats.filter((chat) => chat.status === "completed").length > 0 && (
-              <span>Повідомлення</span>
-            )}
+            !isEmpty([...chats, ...groups]) && <span>Повідомлення</span>}
           {router.asPath === "/dashboard/groups" && (
             <span>Групові повідомлення</span>
           )}
