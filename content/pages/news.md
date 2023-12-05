@@ -36,6 +36,8 @@ components:
         variantNews: '2'
       - category: content/newsCategories/youth_policy.md
         variantNews: '3'
+      - category: content/newsCategories/transport.md
+        variantNews: '4'
     _template: newsSections
 ---
 
