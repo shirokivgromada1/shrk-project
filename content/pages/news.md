@@ -38,6 +38,8 @@ components:
         variantNews: '3'
       - category: content/newsCategories/transport.md
         variantNews: '4'
+      - category: content/newsCategories/sports.md
+        variantNews: '1'
     _template: newsSections
 ---
 
