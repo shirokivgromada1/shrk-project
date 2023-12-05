@@ -40,6 +40,8 @@ components:
         variantNews: '4'
       - category: content/newsCategories/sports.md
         variantNews: '1'
+      - category: content/newsCategories/social_sphere.md
+        variantNews: '2'
     _template: newsSections
 ---
 
