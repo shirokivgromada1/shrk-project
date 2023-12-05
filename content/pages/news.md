@@ -46,6 +46,8 @@ components:
         variantNews: '3'
       - category: content/newsCategories/department_social_protection_population.md
         variantNews: '4'
+      - category: content/newsCategories/education.md
+        variantNews: '1'
     _template: newsSections
 ---
 
