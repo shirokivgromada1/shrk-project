@@ -1,6 +1,6 @@
 .modal {
   & > h1 {
-    color: $font-color;
+    color: var(--themeColor, #000);
     font-family: Inter;
     font-size: calc(var(--themeFontSize) * 16px);
     font-style: normal;
@@ -8,9 +8,9 @@
     line-height: normal;
   }
   & > p {
-    color: #7a828b;
+    color: var(--themeColor, #7a828b);
     font-family: Inter;
-    font-size: 14px;
+    font-size: calc(var(--themeFontSize) * 14px);
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -26,15 +26,15 @@
     flex-direction: column;
     gap: 20px;
     border-radius: 0px 0px 5px 5px;
-    border-top: 1px solid $primary-color;
+    border-top: 1px solid var(--themeColor, #309c54);
     background: var(--themeBgColor, #fff);
     box-shadow: 0px 4px 6px 0px rgba(85, 85, 85, 0.08);
     padding: 22px 15px;
     &_userID {
-      color: $font-color;
+      color: var(--themeColor, #000);
       text-align: right;
       font-family: Inter;
-      font-size: 12px;
+      font-size: calc(var(--themeFontSize) * 12px);
       font-style: normal;
       font-weight: 400;
       line-height: normal;
@@ -50,15 +50,15 @@
       grid-template-columns: 1fr max-content;
       gap: 35px;
       & > span {
-        color: $font-color;
+        color: var(--themeColor, #000);
         text-align: right;
         font-family: Inter;
-        font-size: 12px;
+        font-size: calc(var(--themeFontSize) * 12px);
         font-style: normal;
         font-weight: 400;
         line-height: normal;
         &:first-child {
-          font-size: 14px;
+          font-size: calc(var(--themeFontSize) * 14px);
           font-weight: 500;
           word-break: break-all;
           text-align: left;
@@ -93,18 +93,18 @@
     gap: 11px;
   }
   & span {
-    color: rgba(0, 0, 0, 0.26);
+    color: var(--themeColor, rgba(0, 0, 0, 0.26));
     font-family: Inter;
-    font-size: 14px;
+    font-size: calc(var(--themeFontSize) * 14px);
     font-style: normal;
     font-weight: 400;
     line-height: normal;
   }
   & h5 {
     width: max-content;
-    color: $font-color;
+    color: var(--themeColor, #000);
     font-family: Inter;
-    font-size: 14px;
+    font-size: calc(var(--themeFontSize) * 14px);
     font-style: normal;
     font-weight: 400;
     line-height: normal;

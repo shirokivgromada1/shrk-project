@@ -109,28 +109,32 @@ const DashboardLayout = ({
     (chat) =>
       chat.type === "feedback" &&
       !chat.latest_message_seen &&
-      userId !== chat.latest_message_sender_id
+      userId !== chat.latest_message_sender_id &&
+      chat.status === "completed"
   ).length;
 
   const countHelp = chats.filter(
     (chat) =>
       chat.type === "help" &&
       !chat.latest_message_seen &&
-      userId !== chat.latest_message_sender_id
+      userId !== chat.latest_message_sender_id &&
+      chat.status === "completed"
   ).length;
 
   const countOffers = chats.filter(
     (chat) =>
       chat.type === "offers" &&
       !chat.latest_message_seen &&
-      userId !== chat.latest_message_sender_id
+      userId !== chat.latest_message_sender_id &&
+      chat.status === "completed"
   ).length;
 
   const countChats = chats.filter(
     (chat) =>
       chat.type === "chat" &&
       !chat.latest_message_seen &&
-      userId !== chat.latest_message_sender_id
+      userId !== chat.latest_message_sender_id &&
+      chat.status === "completed"
   ).length;
 
   const countGroups = groups.filter((group) => {

@@ -29,7 +29,9 @@ const Panel = ({ handleClick, handleClose, open }: Props) => {
   const { chats, groups } = useChat();
   const countUnread = chats.filter(
     (chat) =>
-      !chat.latest_message_seen && userId !== chat.latest_message_sender_id
+      !chat.latest_message_seen &&
+      userId !== chat.latest_message_sender_id &&
+      chat.status === "completed"
   ).length;
 
   const countGroups = groups.filter((group) => {

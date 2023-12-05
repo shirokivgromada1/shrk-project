@@ -67,7 +67,7 @@ const Viber = (props: Props) => {
         </div>
         {!hasViber && (
           <Button type="button" onClick={handleClick}>
-            Підключити помичніка
+            Підключити помічника
           </Button>
         )}
       </div>

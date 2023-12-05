@@ -38,6 +38,8 @@ const MessageItem = ({ message, fileUrls }: Props) => {
     }
   }, [inView]);
 
+  console.log("message.files", message.files);
+
   return (
     <motion.div
       initial={{ opacity: 0 }}

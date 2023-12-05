@@ -37,11 +37,18 @@ export type Inputs = {
   title: string;
   text: string;
   method: "phone" | "text";
-  notifyInViber: "Viber" | "noViber";
+  notifyInViber?: "Viber" | "noViber";
   institution?: string;
   frequency_disturbance?: string;
   settlement?: string;
   helpType?: "social" | "humanitarian" | "paperwork" | "consultation";
+};
+
+type SchemaType = {
+  title: yup.StringSchema<string, yup.AnyObject, undefined, "">;
+  text: yup.StringSchema<string, yup.AnyObject, undefined, "">;
+  method: yup.StringSchema<"text" | "phone", yup.AnyObject, undefined, "">;
+  notifyInViber?: any;
 };
 
 const FormModal = ({
@@ -57,7 +64,7 @@ const FormModal = ({
 
   const [isLoading, setLoading] = useState(false);
 
-  let SchemaObject = {
+  let SchemaObject: SchemaType = {
     title: yup.string().required("Тема є обов'язковим"),
     text: yup
       .string()
@@ -67,11 +74,19 @@ const FormModal = ({
       .string<"phone" | "text">()
       .required("Метод зв'язку є обов'язковим")
       .oneOf(["phone", "text"]),
-    notifyInViber: yup
+  };
+
+  if (hasViber) {
+    SchemaObject.notifyInViber = yup
+      .string<"Viber" | "noViber">()
+      .oneOf(["Viber", "noViber"]);
+  } else {
+    SchemaObject.notifyInViber = yup
       .string<"Viber" | "noViber">()
       .required("Viber є обов'язковим")
-      .oneOf(["Viber", "noViber"]),
-  };
+      .oneOf(["Viber", "noViber"]);
+  }
+
   if (stateForm) {
     SchemaObject = Object.assign(
       SchemaObject,
@@ -105,6 +120,9 @@ const FormModal = ({
 
   const onSubmit: SubmitHandler<Inputs> = (data) => {
     setLoading(true);
+
+    if (!data.notifyInViber) data.notifyInViber = "Viber";
+
     axiosInstance
       .post(
         `${process.env.NEXT_PUBLIC_APP_BASE_URL}${CHAT_ENDPOINTS.CHAT_CREATE}/`,
@@ -145,15 +163,15 @@ const FormModal = ({
   }, [router.asPath]);
 
   useEffect(() => {
-    if (watch("notifyInViber") === "Viber") {
-      if (!hasViber)
+    if (!hasViber) {
+      if (watch("notifyInViber") === "Viber") {
         trigger("notifyInViber").then(() =>
           setError("notifyInViber", { message: "Користувач не підписався" })
         );
-      else trigger("notifyInViber").then(() => clearErrors("notifyInViber"));
-    } else {
-      trigger("notifyInViber").then(() => clearErrors("notifyInViber"));
-    }
+      } else {
+        trigger("notifyInViber").then(() => clearErrors("notifyInViber"));
+      }
+    } else trigger("notifyInViber").then(() => clearErrors("notifyInViber"));
   }, [watch("notifyInViber"), hasViber]);
 
   return (
@@ -296,68 +314,70 @@ const FormModal = ({
             />
           </div>
         </div>
-        <div className={styles.formModal__contact}>
-          <div className={styles.formModal__contact_title}>
-            <span>Підключити Viber-помічник?</span>
-            <span>
-              <b>*</b>обов'язкове питання
-            </span>
-          </div>
-          <div className={styles.formModal__contact_options}>
-            <Field
-              value={"Viber"}
-              type="radio"
-              id="Viber"
-              label={`Так, для мене це буде зручно`}
-              register={register}
-              registerLabel={"notifyInViber"}
-            />
-            <Field
-              value={"noViber"}
-              type="radio"
-              id="noViber"
-              label="Не користуюсь Viber"
-              register={register}
-              registerLabel={"notifyInViber"}
-            />
-          </div>
-          {watch("notifyInViber") === "Viber" && (
-            <div className={styles.formModal__Viber_status}>
-              {!hasViber && (
-                <Button
-                  type="button"
-                  style={{ borderRadius: 26 }}
-                  onClick={() =>
-                    window.open(
-                      `viber://pa?chatURI=shyrokebot&context=${userId}`,
-                      "_blank"
-                    )
-                  }
-                >
-                  Додати помічник
-                </Button>
-              )}
-              {hasViber && (
-                <>
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="20"
-                    height="20"
-                    viewBox="0 0 20 20"
-                    fill="none"
-                  >
-                    <path
-                      d="M5 10.8335L8.5 13.8335L15 5.8335"
-                      stroke="white"
-                      strokeLinecap="round"
-                    />
-                  </svg>
-                  <span>Viber-помічник успішно підключено</span>
-                </>
-              )}
+        {!hasViber && (
+          <div className={styles.formModal__contact}>
+            <div className={styles.formModal__contact_title}>
+              <span>Підключити Viber-помічник?</span>
+              <span>
+                <b>*</b>обов'язкове питання
+              </span>
             </div>
-          )}
-        </div>
+            <div className={styles.formModal__contact_options}>
+              <Field
+                value={"Viber"}
+                type="radio"
+                id="Viber"
+                label={`Так, для мене це буде зручно`}
+                register={register}
+                registerLabel={"notifyInViber"}
+              />
+              <Field
+                value={"noViber"}
+                type="radio"
+                id="noViber"
+                label="Не користуюсь Viber"
+                register={register}
+                registerLabel={"notifyInViber"}
+              />
+            </div>
+            {watch("notifyInViber") === "Viber" && (
+              <div className={styles.formModal__Viber_status}>
+                {!hasViber && (
+                  <Button
+                    type="button"
+                    style={{ borderRadius: 26 }}
+                    onClick={() =>
+                      window.open(
+                        `viber://pa?chatURI=shyrokebot&context=${userId}`,
+                        "_blank"
+                      )
+                    }
+                  >
+                    Додати помічник
+                  </Button>
+                )}
+                {hasViber && (
+                  <>
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      width="20"
+                      height="20"
+                      viewBox="0 0 20 20"
+                      fill="none"
+                    >
+                      <path
+                        d="M5 10.8335L8.5 13.8335L15 5.8335"
+                        stroke="white"
+                        strokeLinecap="round"
+                      />
+                    </svg>
+                    <span>Viber-помічник успішно підключено</span>
+                  </>
+                )}
+              </div>
+            )}
+          </div>
+        )}
         <>
           {isLoading && <Loader />}
           {!isLoading && (

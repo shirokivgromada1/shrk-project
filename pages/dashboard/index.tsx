@@ -218,8 +218,9 @@ export default function Dashboard(
             </motion.div>
           )}
         {isEmpty(
-          chats.filter((chat) => {
-            if (type) return chat.type === type;
+          sortedCombined.filter((chat) => {
+            if (type && isAdmin && "latest_message_created" in chat)
+              return chat.type === type;
             else return chat;
           })
         ) && (
