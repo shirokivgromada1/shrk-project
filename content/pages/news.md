@@ -42,6 +42,10 @@ components:
         variantNews: '1'
       - category: content/newsCategories/social_sphere.md
         variantNews: '2'
+      - category: content/newsCategories/fire_safety.md
+        variantNews: '3'
+      - category: content/newsCategories/department_social_protection_population.md
+        variantNews: '4'
     _template: newsSections
 ---
 
