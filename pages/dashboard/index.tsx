@@ -69,9 +69,7 @@ export default function Dashboard(
       .then((response) => {
         onChangeChats(chats.filter((chat) => chat.id !== activeIndex));
       })
-      .catch((error) => {
-        console.log(error);
-      })
+      .catch((error) => {})
       .finally(() => cancelRemove());
   };
 
@@ -90,9 +88,7 @@ export default function Dashboard(
           .then((response) => {
             onChangeChats(response.data);
           })
-          .catch((error) => {
-            toast.error(error);
-          })
+          .catch((error) => {})
           .finally(() => {
             onChangeLoading(false);
           });

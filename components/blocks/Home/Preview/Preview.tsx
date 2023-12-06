@@ -16,14 +16,18 @@ import "swiper/css";
 import styles from "./Preview.module.scss";
 import client from "@/tina/__generated__/client";
 import { LangContext } from "@/helpers/LangSwitcher/LangSwitcher";
+import { useRouter } from "next/router";
+import { format } from "date-fns";
 
 export const Preview = ({
-                          data,
-                        }: {
+  data,
+}: {
   data: PageComponentsPreview | DepartmentPeopleComponentsPreview;
 }) => {
   const [loaded, setLoaded] = useState(false);
   const [isLoading, setLoading] = useState(false);
+
+  const router = useRouter();
 
   const {
     previewImage,
@@ -32,6 +36,7 @@ export const Preview = ({
     descriptionEng,
     description,
     freshNews,
+    readMoreLink,
   } = data;
   const [news, setNews] = useState<any[] | null | undefined>(null);
 
@@ -40,14 +45,28 @@ export const Preview = ({
   useEffect(() => {
     const fetchContent = async () => {
       setLoading(true);
-      const newsResponse = await client.queries.newsConnection();
+      const newsResponse = await client.queries.newsConnection({
+        first: 10,
+        sort: "pubDate",
+        last: 1,
+        filter: {
+          pubDate: {
+            before: format(new Date(), "yyyy-MM-dd HH:mm:ss"),
+          },
+          hideNews: {
+            eq: false,
+          },
+        },
+      });
       setNews(newsResponse.data.newsConnection.edges);
       setLoading(false);
     };
     if (!freshNews || freshNews?.length === 0) fetchContent();
     else setNews(freshNews);
   }, [freshNews]);
+
   const { lang } = useContext(LangContext);
+
   return (
     <div className={styles.preview}>
       <div className="container-fluid">
@@ -84,7 +103,11 @@ export const Preview = ({
               )}
             </div>
             <div className={styles.preview__block_headline_inner}>
-              <button type="button">
+              <button
+                type="button"
+                onClick={() => router.push(readMoreLink || "/")}
+                data-tina-field={tinaField(data, "readMoreLink")}
+              >
                 {lang === "ua" ? "Читати більше" : "Read more"}
               </button>
               <div className={styles.preview__block_headline_inner_mobile}>
@@ -135,8 +158,8 @@ export const Preview = ({
                               ? "... "
                               : " "
                             : news[index]?.node?.title?.length > 180
-                              ? "... "
-                              : " "}
+                            ? "... "
+                            : " "}
                         </span>
                       </div>
                     )}

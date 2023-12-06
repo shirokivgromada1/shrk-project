@@ -26,7 +26,6 @@ const MessageItem = ({ message, fileUrls }: Props) => {
 
   useEffect(() => {
     if (inView && !message.seen && userId !== message.sender) {
-      console.log("seen message");
       axiosInstance
         .post(
           `${process.env.NEXT_PUBLIC_APP_BASE_URL}${CHAT_ENDPOINTS.SEEN}/`,
@@ -37,8 +36,6 @@ const MessageItem = ({ message, fileUrls }: Props) => {
         });
     }
   }, [inView]);
-
-  console.log("message.files", message.files);
 
   return (
     <motion.div

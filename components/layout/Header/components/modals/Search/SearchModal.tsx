@@ -106,9 +106,7 @@ const SearchModal: FC<Props> = ({ searchView, setSearchView }) => {
     }
   }, [keyword]);
 
-  useEffect(() => {
-    console.log("data", data);
-  }, [data]);
+  useEffect(() => {}, [data]);
 
   return (
     <Modal

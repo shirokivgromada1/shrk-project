@@ -62,9 +62,7 @@ const DashboardChatCard = ({ chat, setActiveIndex, setView }: Props) => {
           status: selectedOption?.value,
         }
       )
-      .catch(() => {
-        console.log("Error updating");
-      });
+      .catch(() => {});
   };
 
   const removeGroup = (
@@ -93,9 +91,7 @@ const DashboardChatCard = ({ chat, setActiveIndex, setView }: Props) => {
         const user: User = response.data;
         setUser(user);
       })
-      .catch((err) => {
-        console.log("err", err);
-      })
+      .catch((err) => {})
       .finally(() => {
         setLoading(false);
       });

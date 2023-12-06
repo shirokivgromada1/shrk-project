@@ -65,7 +65,6 @@ const Base = ({ setUpdate }: Props) => {
           const { message } = error.response.data;
           setError(message);
         }
-        console.log("error", error);
       })
       .finally(() => {
         setLoading(false);

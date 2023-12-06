@@ -134,9 +134,7 @@ const FormModal = ({
         else onChangeChats([chat]);
         closeModal();
       })
-      .catch((error) => {
-        console.log("error: ", error);
-      })
+      .catch((error) => {})
       .finally(() => {
         setLoading(false);
       });

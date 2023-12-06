@@ -275,30 +275,58 @@ export const Sections = ({
     if (y >= 0.9 && hasNextPage) getContent();
   }, [y]);
 
+  const [count, setCount] = useState(5);
+  const [isPaginate, setPaginate] = useState(false);
+  const [yContainer, setYContainer] = useState(0);
+  const carouselRef = useRef(null);
+  const { scrollYProgress: scrollY } = useScroll({
+    container: carouselRef,
+  });
+
   const { newsSection } = data;
+
+  useEffect(() => {
+    scrollY.onChange((v) => setYContainer(v));
+  }, [scrollY]);
+
+  useEffect(() => {
+    if (yContainer > 0.9) {
+      setPaginate(true);
+    }
+  }, [yContainer]);
+
+  useEffect(() => {
+    isPaginate && setCount((prev) => prev + 5);
+  }, [isPaginate]);
 
   useEffect(() => {
     const getContent = async () => {
       if (newsSection) {
         const arrayNews: AsyncReturnType<typeof getNewsByCategory>[] = [];
         setLoading(true);
-        for (const news of newsSection) {
+        for (const news of newsSection.slice(count - 5, count)) {
           const newsResponse = await getNewsByCategory(
             news?.category?.category
           );
           if (newsResponse) arrayNews.push(newsResponse);
         }
         setLoading(false);
-        setNews(arrayNews);
+        if (news) {
+          setNews([...news, ...arrayNews] as AsyncReturnType<
+            typeof getNewsByCategory
+          >[]);
+        } else {
+          setNews(arrayNews);
+        }
+        setPaginate(false);
       }
     };
     !isFiltered && getContent();
-  }, [isFiltered, newsSection]);
+  }, [isFiltered, newsSection, count]);
 
   useEffect(() => {
     if (!date.startDate && !date.endDate && !category && !search) {
       setFiltered(false);
-      setNews(null);
       setFilterNews(null);
     } else {
       setFiltered(true);
@@ -357,7 +385,7 @@ export const Sections = ({
 
   return (
     <motion.section className={styles.freshNews}>
-      {isLoading ? (
+      {!news && isLoading && (
         <motion.section
           className={styles.indentContainer}
           initial={{ opacity: 0 }}
@@ -367,8 +395,22 @@ export const Sections = ({
         >
           <motion.div className={cn("container", styles.filterContainer)}>
             <motion.div>
-              {!isFiltered && <NewsSectionLoading />}
-              {isFiltered &&
+              <NewsSectionLoading />
+            </motion.div>
+          </motion.div>
+        </motion.section>
+      )}
+      <motion.div
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        exit={{ opacity: 0 }}
+        key={"freshNewsContainer"}
+        className="container"
+      >
+        {isFiltered && (
+          <motion.section className={styles.indentContainer} ref={containerRef}>
+            <div className={cn(styles.filterContainer)}>
+              {isLoading &&
                 Array.from(new Array(3)).map((number, idx) => (
                   <motion.div
                     key={"filterSkeleton" + idx}
@@ -404,23 +446,7 @@ export const Sections = ({
                     </div>
                   </motion.div>
                 ))}
-            </motion.div>
-          </motion.div>
-        </motion.section>
-      ) : (
-        <motion.div
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          exit={{ opacity: 0 }}
-          key={"freshNewsContainer"}
-          className="container"
-        >
-          {isFiltered && (
-            <motion.section
-              className={styles.indentContainer}
-              ref={containerRef}
-            >
-              <div className={cn(styles.filterContainer)}>
+              {!isLoading && filterNews && (
                 <AnimatePresence mode="wait">
                   <motion.div
                     initial={{ opacity: 0 }}
@@ -563,12 +589,13 @@ export const Sections = ({
                       )}
                   </motion.div>
                 </AnimatePresence>
-              </div>
-            </motion.section>
-          )}
-          {!isFiltered &&
-            news &&
-            news.map((section, sIdx) => {
+              )}
+            </div>
+          </motion.section>
+        )}
+        {!isFiltered && news && (
+          <motion.div ref={carouselRef}>
+            {news.map((section, sIdx) => {
               if (newsSection)
                 switch (newsSection[sIdx]?.variantNews) {
                   case "1":
@@ -633,8 +660,26 @@ export const Sections = ({
                     return <></>;
                 }
             })}
-        </motion.div>
-      )}
+            {isLoading && (
+              <motion.section
+                className={styles.indentContainer}
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                exit={{ opacity: 0 }}
+                key={"freshNewsContainerSkeleton"}
+              >
+                <motion.div className={cn(styles.filterContainer)}>
+                  {Array.from(new Array(5)).map((number, idx) => (
+                    <motion.div key={"loading" + idx}>
+                      <NewsSectionLoading />
+                    </motion.div>
+                  ))}
+                </motion.div>
+              </motion.section>
+            )}
+          </motion.div>
+        )}
+      </motion.div>
     </motion.section>
   );
 };

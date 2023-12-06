@@ -36,6 +36,11 @@ export const previewComponentSchema: Template = {
       name: "previewImage",
     },
     {
+      type: "string",
+      label: "Read more",
+      name: "readMoreLink",
+    },
+    {
       type: "object",
       label: "News",
       name: "freshNews",
