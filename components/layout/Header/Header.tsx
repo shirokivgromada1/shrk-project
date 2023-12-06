@@ -81,7 +81,12 @@ const Header: FC<IHeader> = ({ setMenuOpen, menuOpen, data }) => {
           )}
           {!isLoading && data && (
             <Link href="/">
-              <a onClick={handleMenuClick}>
+              <a
+                onClick={() => {
+                  window.scrollTo(0, 0);
+                  setMenuOpen(false);
+                }}
+              >
                 {data.icon && (
                   <img
                     data-tina-field={tinaField(data, "icon")}
