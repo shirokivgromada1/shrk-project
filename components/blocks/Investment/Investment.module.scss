@@ -74,10 +74,11 @@
     button {
       padding: 18px 32px;
       border-radius: 48px;
+      background-color: #309c54;
       width: fit-content;
-      border: 1px solid var(--themeColor, #000);
+      border: 1px solid  #309c54;
       a {
-        color: var(--themeColor, #000);
+        color: var(--themeColor, #fff);
         font-family: Inter;
         font-size: calc(var(--themeFontSize) * 16px);
         font-style: normal;
