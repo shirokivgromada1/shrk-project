@@ -596,7 +596,7 @@ export const Sections = ({
         {!isFiltered && news && (
           <motion.div ref={carouselRef}>
             {news.map((section, sIdx) => {
-              if (newsSection)
+              if (newsSection && section && section.length > 0)
                 switch (newsSection[sIdx]?.variantNews) {
                   case "1":
                     return (
