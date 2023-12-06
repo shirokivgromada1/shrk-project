@@ -6,6 +6,7 @@ components:
     description: Знайдіть усі послуги та інформацію онлайн
     descriptionEng: Find all services and information online
     previewImage: /uploads/home/photo.png
+    readMoreLink: /head-of-the-community
     freshNews: []
     _template: preview
   - title: Ми надаємо такі послуги
@@ -37,7 +38,6 @@ components:
         page: content/pages/announcements.md
         pageImage: /uploads/home/ann.png
         pageText: Очільник МАГАТЕ Гроссі прибув на ЗАЕС
-        pageLink: ''
       - pageTitle: газета
         pageImage: /uploads/home/gaz.png
         pageText: Названо успіхи ЗСУ на Бердянському напрямку
@@ -68,4 +68,5 @@ components:
         sourceLink: 'https://zor.gov.ua/'
     _template: sources
 ---
+
 

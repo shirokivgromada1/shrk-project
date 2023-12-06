@@ -86,30 +86,8 @@ const Status = ({
       )
       .then((response) => {
         setStatusOptions(response.data.statuses);
-
-        toast.success(response.data.message, {
-          position: "top-right",
-          autoClose: 5000,
-          hideProgressBar: false,
-          closeOnClick: true,
-          pauseOnHover: true,
-          draggable: true,
-          progress: undefined,
-          theme: "light",
-        });
       })
-      .catch((error) => {
-        toast.error(error.data.message, {
-          position: "top-right",
-          autoClose: 5000,
-          hideProgressBar: false,
-          closeOnClick: true,
-          pauseOnHover: true,
-          draggable: true,
-          progress: undefined,
-          theme: "light",
-        });
-      });
+      .catch((error) => {});
   }, []);
 
   const handleClick = () => {

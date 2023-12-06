@@ -17,7 +17,6 @@ export const VacancyCard = ({
 }) => {
   const [dimensions] = useImageSize(data.image as string);
 
-  console.log("data.contactsInfo", data.contactsInfo);
   return (
     <>
       <main className={styles.vacanciesCard}>
@@ -94,7 +93,6 @@ export const VacancyCard = ({
             >
               {data.description.children.map(
                 (descItem: any, descIndex: number) => {
-                  console.log("descItem", descItem);
                   if (descItem.type.startsWith("h")) {
                     return descItem.children.map((text: any) => (
                       <descItem.type

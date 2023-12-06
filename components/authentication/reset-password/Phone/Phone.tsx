@@ -100,31 +100,13 @@ export const Phone = ({
         const { userId, message } = response.data;
         onChangeUserId(userId);
         setPhoneNumbers([...phoneNumbers, phoneNumber]);
-        toast.success(message, {
-          position: "top-right",
-          autoClose: 5000,
-          hideProgressBar: false,
-          closeOnClick: true,
-          pauseOnHover: true,
-          draggable: true,
-          progress: undefined,
-          theme: "light",
-        });
+
       })
       .catch(function (error) {
         setError(true);
         setMessage(error.response.data.message);
         setUsedPhoneNumbers([...usedPhoneNumbers, phoneNumber]);
-        toast.error(error.response.data.message, {
-          position: "top-right",
-          autoClose: 5000,
-          hideProgressBar: false,
-          closeOnClick: true,
-          pauseOnHover: true,
-          draggable: true,
-          progress: undefined,
-          theme: "light",
-        });
+
       });
   };
 

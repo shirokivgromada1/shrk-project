@@ -81,7 +81,7 @@ const Header: FC<IHeader> = ({ setMenuOpen, menuOpen, data }) => {
           )}
           {!isLoading && data && (
             <Link href="/">
-              <a>
+              <a onClick={handleMenuClick}>
                 {data.icon && (
                   <img
                     data-tina-field={tinaField(data, "icon")}
@@ -161,7 +161,7 @@ const Header: FC<IHeader> = ({ setMenuOpen, menuOpen, data }) => {
                 searchView={searchView}
               />
             </>
-            <LangSwitcher/>
+            <LangSwitcher />
             <Link href={"/dashboard/messages"}>
               <a className={styles.header__options_controllers_link}>
                 <>

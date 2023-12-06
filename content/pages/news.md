@@ -8,6 +8,7 @@ components:
     _template: controllers
   - newsSection:
       - category: content/newsCategories/information_techology.md
+        variantNews: '1'
       - category: content/newsCategories/no_topic.md
         variantNews: '2'
       - category: content/newsCategories/security.md
@@ -50,4 +51,5 @@ components:
         variantNews: '1'
     _template: newsSections
 ---
+
 

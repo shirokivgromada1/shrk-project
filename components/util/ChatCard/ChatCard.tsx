@@ -68,9 +68,7 @@ const ChatCard = ({ chat, setView, setActiveIndex }: Props) => {
           status: selectedOption?.value,
         }
       )
-      .catch(() => {
-        console.log("Error updating");
-      });
+      .catch(() => {});
   };
 
   useEffect(() => {
@@ -89,9 +87,7 @@ const ChatCard = ({ chat, setView, setActiveIndex }: Props) => {
         const user: User = response.data;
         setUser(user);
       })
-      .catch((err) => {
-        console.log("err", err);
-      })
+      .catch((err) => {})
       .finally(() => {
         setLoading(false);
       });

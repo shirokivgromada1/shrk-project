@@ -2,11 +2,13 @@
   margin-top: 30px;
   margin-bottom: 170px;
   & > div {
-    display: flex;
-    flex-direction: column;
-    gap: 80px;
+    & > div {
+      display: flex;
+      flex-direction: column;
+      gap: 80px;
+    }
     & > p {
-      color: var(--themeColor, #000);
+      color: var(--themeColor, #309c54);
       font-family: Inter;
       font-size: calc(var(--themeFontSize) * 24px);
       font-style: normal;

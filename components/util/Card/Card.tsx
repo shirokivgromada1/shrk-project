@@ -149,7 +149,6 @@ const Card: FC<ICard> = ({
                     url: url,
                     title: title,
                   }}
-                  onClick={() => console.log("shared successfully!")}
                   sites={[
                     "facebook",
                     "twitter",

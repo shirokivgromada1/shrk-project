@@ -146,9 +146,6 @@ export const EnterprisesDesc = ({
                         {text.text}
                       </annItem.type>
                     ));
-                  {
-                    console.log(annItem);
-                  }
                   if (annItem.type.startsWith("p"))
                     return annItem.children.map((text: any) => (
                       <p

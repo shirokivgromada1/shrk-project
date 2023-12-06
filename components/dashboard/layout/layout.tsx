@@ -179,16 +179,6 @@ const DashboardLayout = ({
             onChangeViberModal(true);
           }
 
-          toast.success(message, {
-            position: "top-right",
-            autoClose: 5000,
-            hideProgressBar: false,
-            closeOnClick: true,
-            pauseOnHover: true,
-            draggable: true,
-            progress: undefined,
-            theme: "light",
-          });
           onChangeAuth(true);
         })
         .catch((err) => {
@@ -211,31 +201,11 @@ const DashboardLayout = ({
         )
         .then((response) => {
           const { message } = response.data;
-          toast.success(message, {
-            position: "top-right",
-            autoClose: 5000,
-            hideProgressBar: false,
-            closeOnClick: true,
-            pauseOnHover: true,
-            draggable: true,
-            progress: undefined,
-            theme: "light",
-          });
+
           logOut();
           router.push("/sign-in");
         })
-        .catch((err) => {
-          toast.error(err.response.data.message, {
-            position: "top-right",
-            autoClose: 5000,
-            hideProgressBar: false,
-            closeOnClick: true,
-            pauseOnHover: true,
-            draggable: true,
-            progress: undefined,
-            theme: "light",
-          });
-        });
+        .catch((err) => {});
     }
   }, [isIdle, isAuth]);
 
@@ -254,7 +224,6 @@ const DashboardLayout = ({
   useEffect(() => {
     chats.forEach((chat: Chat) => {
       if (!socketRefs[chat.id]) {
-        console.log("setting socket connection");
         socketRefs[chat.id] = new WebSocket(
           `ws://127.0.0.1:8000/ws/chat/${chat.id}/`,
           "echo-protocol"
@@ -268,8 +237,6 @@ const DashboardLayout = ({
                 `${process.env.NEXT_PUBLIC_APP_BASE_URL}${CHAT_ENDPOINTS.CHAT_BY_ID}/${chat.id}/`
               )
               .then((response) => {
-                console.log("response", response);
-
                 const chat: Chat = response.data;
                 const currentChats = chatsRef.current;
                 if (!isEmpty(chat)) {
@@ -281,9 +248,7 @@ const DashboardLayout = ({
                   onChangeChats([...chats.filter((c) => c.id !== +chat_id)]);
                 }
               })
-              .catch((error) => {
-                toast.error(error);
-              });
+              .catch((error) => {});
           }
         };
         return () => {
@@ -306,12 +271,9 @@ const DashboardLayout = ({
         }
       )
       .then((response) => {
-        console.log("data", response.data);
         onChangeChats(response.data);
       })
-      .catch((error) => {
-        toast.error(error);
-      })
+      .catch((error) => {})
       .finally(() => {
         onChangeChatLoading(false);
       });
@@ -330,9 +292,7 @@ const DashboardLayout = ({
         .then((response) => {
           onChangeGroups(response.data);
         })
-        .catch((error) => {
-          console.log(error);
-        })
+        .catch((error) => {})
         .finally(() => {
           onChangeChatLoading(false);
         });
@@ -466,12 +426,9 @@ const DashboardLayout = ({
         },
       })
       .then((response) => {
-        console.log(response);
         onChangeGroups(response.data);
       })
-      .catch((err) => {
-        console.log(err);
-      })
+      .catch((err) => {})
       .finally(() => {
         onChangeLoading(false);
       });

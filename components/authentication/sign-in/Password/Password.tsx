@@ -78,16 +78,7 @@ const Password = ({
       .then((response) => {
         const { refresh, access } = response.data;
         setActiveStep(2);
-        toast.success("Авторизація виконана успішно", {
-          position: "top-right",
-          autoClose: 5000,
-          hideProgressBar: false,
-          closeOnClick: true,
-          pauseOnHover: true,
-          draggable: true,
-          progress: undefined,
-          theme: "light",
-        });
+
         onChangeAuth(true);
 
         localStorage.clear();
@@ -107,16 +98,6 @@ const Password = ({
           message = "Проблеми з сервером";
           setPhoneMessage(message);
         }
-        toast.error(message, {
-          position: "top-right",
-          autoClose: 5000,
-          hideProgressBar: false,
-          closeOnClick: true,
-          pauseOnHover: true,
-          draggable: true,
-          progress: undefined,
-          theme: "light",
-        });
       });
   };
 

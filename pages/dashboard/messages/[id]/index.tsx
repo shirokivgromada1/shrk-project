@@ -207,9 +207,7 @@ const Chat = (props: AsyncReturnType<typeof getServerSideProps>["props"]) => {
         setSize(0);
         reset();
       })
-      .catch((error) => {
-        console.log("error", error);
-      });
+      .catch((error) => {});
   };
 
   return (

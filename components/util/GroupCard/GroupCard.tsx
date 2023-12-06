@@ -63,7 +63,6 @@ const GroupCard = ({ group, isLarge }: Props) => {
           `${process.env.NEXT_PUBLIC_APP_BASE_URL}${CHAT_ENDPOINTS.GROUP_READ}/${id}/`
         )
         .then((response) => {
-          console.log(response);
           onChangeGroups([
             ...groups.filter((group) => group.id !== id),
             {

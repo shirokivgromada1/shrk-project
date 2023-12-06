@@ -27,7 +27,6 @@ const Viber = (props: Props) => {
 
     socket.onmessage = (event) => {
       const data = JSON.parse(event.data);
-      console.log("data", data);
       if (!!data.viber_id && data.viber_id !== "None") {
         onChangeViber(!!data.viber_id);
       } else {

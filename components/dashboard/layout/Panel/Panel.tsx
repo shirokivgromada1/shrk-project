@@ -60,9 +60,7 @@ const Panel = ({ handleClick, handleClose, open }: Props) => {
         logOut();
         clear();
       })
-      .catch((error) => {
-        console.log(error);
-      });
+      .catch((error) => {});
   };
 
   return (
