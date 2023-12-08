@@ -6,7 +6,7 @@ components:
     titleEng: About community
     people: '14,9'
     year: Населення (2021 рік)
-    yearEng: Population (2021)
+    yearEng: Population (2021)ttree
     towns: '35'
     townsTitle: Населених пунктів
     townsTitleEng: Population centers
