@@ -142,7 +142,7 @@ const FormModal = ({
 
   useEffect(() => {
     const socket = new WebSocket(
-      `ws://site.shtg.gov.ua/ws/notify_viber_id/${userId}/`,
+      `wss://site.shtg.gov.ua/ws/notify_viber_id/${userId}/`,
       "echo-protocol"
     );
 

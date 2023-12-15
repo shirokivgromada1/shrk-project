@@ -225,7 +225,7 @@ const DashboardLayout = ({
     chats.forEach((chat: Chat) => {
       if (!socketRefs[chat.id]) {
         socketRefs[chat.id] = new WebSocket(
-          `ws://site.shtg.gov.ua/ws/chat/${chat.id}/`,
+          `wss://site.shtg.gov.ua/ws/chat/${chat.id}/`,
           "echo-protocol"
         );
         socketRefs[chat.id].onmessage = (event) => {
@@ -281,7 +281,7 @@ const DashboardLayout = ({
 
   useEffect(() => {
     const socket = new WebSocket(
-      `ws://site.shtg.gov.ua/ws/groups/`,
+      `wss://site.shtg.gov.ua/ws/groups/`,
       "echo-protocol"
     );
 
