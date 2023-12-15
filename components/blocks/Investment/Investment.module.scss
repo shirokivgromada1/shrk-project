@@ -74,14 +74,18 @@
     button {
       padding: 18px 32px;
       border-radius: 48px;
-      background: var(--themeBgColor, #309c54);
-      color: var(--themeColor, #000);
-      font-family: Inter;
-      font-size: calc(var(--themeFontSize) * 16px);
-      font-style: normal;
-      font-weight: 500;
-      line-height: 115.023%;
+      background-color: #309c54;
       width: fit-content;
+      border: 1px solid  #309c54;
+      a {
+        color: var(--themeColor, #fff);
+        font-family: Inter;
+        font-size: calc(var(--themeFontSize) * 16px);
+        font-style: normal;
+        font-weight: 500;
+        line-height: 115.023%;
+        text-decoration: none;
+      }
     }
   }
 }

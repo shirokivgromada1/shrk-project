@@ -23,6 +23,7 @@ const Footer = ({ data }: { data: Maybe<GlobalFooter> | undefined }) => {
       locationEng,
       workTimeEng,
       headlineEng,
+      link,
     } = data;
     const { lang } = useContext(LangContext);
     return (
@@ -44,9 +45,10 @@ const Footer = ({ data }: { data: Maybe<GlobalFooter> | undefined }) => {
             </h5>
             <div>
               <button type="button" className={styles.footer__site_button}>
-                {lang === "ua"
+                {link &&  <a href={link} data-tina-field={tinaField(data, "link")} target="_blank"
+                             rel="noreferrer">{lang === "ua"
                   ? "Наш інвестиційний сайт"
-                  : "Our investment site"}
+                  : "Our investment site"}</a>}
               </button>
             </div>
           </div>
@@ -123,9 +125,10 @@ const Footer = ({ data }: { data: Maybe<GlobalFooter> | undefined }) => {
             </div>
             <div className={styles.mobile__block}>
               <button type="button" className={styles.footer__site_button}>
-                {lang === "ua"
+                {link &&  <a href={link} data-tina-field={tinaField(data, "link")} target="_blank"
+                             rel="noreferrer">{lang === "ua"
                   ? "Наш інвестиційний сайт"
-                  : "Our investment site"}
+                  : "Our investment site"}</a>}
               </button>
             </div>
           </div>
