@@ -76,7 +76,7 @@ export default function Dashboard(
   useEffect(() => {
     if (isAdmin) {
       const socket = new WebSocket(
-        `ws://127.0.0.1:8000/ws/chats/`,
+        `ws://site.shtg.gov.ua/ws/chats/`,
         "echo-protocol"
       );
       socket.onmessage = (event) => {
