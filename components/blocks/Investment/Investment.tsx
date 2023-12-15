@@ -178,11 +178,11 @@ export const Investment = ({ data }: { data: PageComponentsInvestment }) => {
               {lang === "ua" ? investTitle : investTitleEng}
             </h2>
             {button?.url && (
-              <a href={button?.url} target="_blank" rel="noopener noreferrer">
                 <button data-tina-field={tinaField(data, "button")}>
+                  <a href={button?.url} target="_blank" rel="noopener noreferrer">
                   {lang === "ua" ? button?.text : button?.textEng}
+                  </a>
                 </button>
-              </a>
             )}
           </div>
         </div>

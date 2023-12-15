@@ -60,6 +60,11 @@ export const footer: TinaField = {
       ],
     },
     {
+      type: "string",
+      label: "Button link",
+      name: "link",
+    },
+    {
       type: "image",
       label: "Logo",
       name: "logo",
