@@ -4,7 +4,6 @@ import axios from "axios";
 const baseURL = process.env.NEXT_PUBLIC_APP_BASE_URL;
 
 const axiosInstance = axios.create({
-  baseURL: baseURL,
   timeout: 5000,
   headers: {
     Authorization:
