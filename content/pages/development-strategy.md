@@ -77,7 +77,7 @@ components:
       You can familiarize yourself with the Sustainable Development Strategy of
       the Shirokiv community for the period 2021-2028 via 
     url: >-
-      https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/about-community/development-strategy//Strategia_Shyrokivska_2021-2028-1.pdf
+      https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/about-community/development-strategy/Strategia_Shyrokivska_2021-2028-1.pdf
     urlText: 'посиланням '
     urlTextEng: link
     firstText: >
