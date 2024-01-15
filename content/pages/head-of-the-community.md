@@ -63,8 +63,8 @@ components:
     contacts:
       title: 'Контакти:'
       titleEng: 'Contacts:'
-      phone1: +38 (067) 612 66 06
-      phone2: +38 (061) 286 21 21
+      phone1: ''
+      phone2: +38 (061) 286 21 20
       place: '69089, Запоріжжя, вул. Розенталь, 7.'
       placeEng: '69089, Zaporizhzhia, str. Rosenthal, 7.'
       email: shyroke.otg@gmail.com
