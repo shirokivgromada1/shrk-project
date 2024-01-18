@@ -46,7 +46,7 @@ components:
     button:
       text: Наш інвестиційний сайт
       textEng: Our investment site
-      url: 'https://test.shtg.gov.ua/'
+      url: 'https://invest.shtg.gov.ua/'
     _template: Investment
 ---
 
