@@ -68,8 +68,9 @@ components:
       place: '69089, Запоріжжя, вул. Розенталь, 7.'
       placeEng: '69089, Zaporizhzhia, str. Rosenthal, 7.'
       email: shyroke.otg@gmail.com
-      facebook: 'null'
-      telegram: 'null'
+      facebook: 'https://www.facebook.com/denis.korotenko.92'
+      inst: 'https://www.instagram.com/denys_korotenko?igsh=NTc4MTIwNjQ2YQ=='
+      telegram: 'https://t.me/denyskorotenko'
     _template: CommunityHeadDesc
   - title: ЗАСТУПНИКИ ГОЛОВИ
     titleEng: DEPUTY CHAIRMEN
