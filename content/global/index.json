@@ -281,9 +281,9 @@
     "location": "м. Запоріжжя, вул. Розенталь, 7",
     "locationEng": "Zaporizhzhia, st. Rosenthal, 7",
     "googleUrl": "https://www.google.com/maps/place/Rozental+St,+7,+Zaporizhzhia,+Zaporiz'ka+oblast,+Ukraine,+69000/@47.8602722,35.0099899,17z/data=!3m1!4b1!4m6!3m5!1s0x40dc63eafbf",
-    "workTime": "пн-пт, з 8 до 20 години",
-    "workTimeEng": "Mon-Fri, from 8 to 20",
-    "phone": "(061) 286-21-21"
+    "workTime": "пн-пт, з 8:00 до 16:30 ",
+    "workTimeEng": "Mon-Fri, from 8:00 am to 4:30 pm",
+    "phone": "+ 38 (061) 286-21-21"
   },
   "theme": {
     "font": "sans",
