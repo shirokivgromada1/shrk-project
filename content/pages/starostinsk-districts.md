@@ -76,8 +76,8 @@ components:
         image: /uploads/about-community/starostinsk-districts/5.png
         contactsTitle: Контакти
         contactsTitleEng: Contacts
-        contactsPhone: '+380969872487'
-        contactsPhoneEng: '+380969872487'
+        contactsPhone: +38 (066) 777 68 25
+        contactsPhoneEng: +38 (066) 777 68 25
         contactsAddress: 'адреса: с. Лукашеве, вул. Центральна, 18'
         contactsAddressEng: 'address: v. Lukasheve, str. Tsentralna, 18'
         scheduleTitle: 'Дні прийому: '
