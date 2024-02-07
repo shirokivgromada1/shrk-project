@@ -108,8 +108,8 @@ components:
         image: /uploads/about-community/starostinsk-districts/7.png
         contactsTitle: Контакти
         contactsTitleEng: Contacts
-        contactsPhone: 'тел: +38 (063) 573 23 73'
-        contactsPhoneEng: 'phone: +38 (063) 573 23 73'
+        contactsPhone: 'тел: +38 (063) 573 32 73'
+        contactsPhoneEng: 'phone: +38 (063) 573 32 73'
         contactsAddress: 'адреса: с. Петропіль, вул. Шкільна, 1б'
         contactsAddressEng: 'address: v. Petropil, str. Shkilna, 1b'
         scheduleTitle: 'Дні прийому: '
