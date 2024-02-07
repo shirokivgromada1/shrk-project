@@ -149,7 +149,7 @@ components:
         scheduleDate: "понеділок - п’ятниця\_з 8:00 до 16:30"
         scheduleDateEng: 'Monday - Friday from 8:00 a.m. to 4:30 p.m'
       - id: 10
-        name: Відраднівський округ
+        name: Миколай-Пільский округ
         nameEng: Vidradniv district
         captain: "Староста: Наталія Єременко\_"
         captainEng: 'Mayor: Natalia Eremenko'
