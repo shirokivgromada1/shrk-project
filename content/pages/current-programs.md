@@ -289,7 +289,7 @@ components:
           Цільова програма з оздоровлення та відпочинку дітей Широківської
           територіальної громади Запорізького району Запорізької області на
           2022-2024 роки
-        date: Рішення № 12 від
+        date: Рішення № 12 від 21 грудня 2021 року
         link: >-
           /uploads/officially/current-programs/TSil-ova-prohrama-z-ozdorovl-ta-vidpochyn-ditey-na-2022-2024-roky-rish-vid-21.12.2021-12.docx
       - name: >-
