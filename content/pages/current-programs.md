@@ -235,7 +235,7 @@ components:
           5 (1).docx
         buttonText: 'Завантажити '
       - name: Програма безоплатної первинної правової допомоги
-        date: Рішення № 07 від 12.10.2020
+        date: Рішення № 07 від 12 жовтня 2020 року
         link: /uploads/Рішення № 7.docx
         url: >-
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Рішення №
