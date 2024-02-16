@@ -148,7 +148,7 @@ components:
           Комплексної програми соціального захисту населення Широківської
           об’єднаної територіальної громади «Назустріч людям» на 2020 – 2022
           роки
-        date: 4 від 03 лютого 2022 року
+        date: Рішення №4 від 03 лютого 2022 року
         link: >-
           /uploads/officially/current-programs/Prohrama-Nazustrich-liudiam-zminy-rish-vid-03.02.2022-4.docx
       - name: >-
