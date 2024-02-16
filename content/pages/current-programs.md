@@ -279,7 +279,7 @@ components:
         link: >-
           /uploads/officially/current-programs/PLAN-VDOSKONALENNYA-NADANNYA-POSLUHY-Z-VODOPOSTACHANNYA_SHyrokivs-ka-hromada_zatverdzhenyy.docx
       - name: Програма Місцевого Економічного Розвитку
-        date: Рішення №4 від 16.08.2021
+        date: 'Рішення №4 від 16 січня 2021 року '
         link: /uploads/officially/current-programs/Prohrama-MER.docx
       - name: Програми з підвищення ефективності управління активами
         date: Рішення №3 від 03.11.2021
