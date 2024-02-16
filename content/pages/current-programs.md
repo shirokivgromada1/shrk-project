@@ -130,7 +130,7 @@ components:
           підтримки матеріально – технічної бази Василівського міжрайонного
           відділу Управління Служби безпеки України в Запорізькій області на
           2022 рік 
-        date: Рішення № 09 від 20.12.2019
+        date: Рішення № 09 від 20 грудня 2019 року
         link: >-
           /uploads/officially/current-programs/Prohrama-zabezp-derzhbezpeky-SBU-na-2022-rik-rish-vid-03.02.2022-5-3.docx
       - name: >-
