@@ -208,7 +208,7 @@ components:
       - name: >-
           Програма навколишнього природного середовища Широківської сільської
           ради Запорізького району Запорізької області на 2021-2023 роки
-        date: Рішення № 05 від 24.12.2020
+        date: Рішення № 05 від 24 грудня 2020 року
         link: >-
           /uploads/officially/current-programs/Prohrama-okhorony-navkolyshn-oho-pryrodnoho-seredovyshcha-SHyrokivs-koi-sil-s-koi-rady-Zaporiz-koho-rayonu-Zaporiz-koi-oblasti-na-2021-2023-roky.doc
       - name: >-
