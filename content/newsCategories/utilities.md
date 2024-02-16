@@ -1,4 +1,4 @@
 ---
-category: ЖГК
+category: ЖКГ
 ---
 
