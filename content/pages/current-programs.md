@@ -262,7 +262,7 @@ components:
       - name: >-
           Програма інвентаризації земель під об’єктами комунальної власності
           Широківської сільської ради на 2021 – 2025 роки
-        date: Рішення №02 від 10.03.2021
+        date: Рішення №02 від 10 березня 2021 року
         link: >-
           /uploads/officially/current-programs/Rishennia-INVENTARYZATSIYA-ZEMEL-PID-OBYEKTAMY-KOM.VLASNOSTI-1.doc
       - name: >-
