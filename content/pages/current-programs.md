@@ -282,7 +282,7 @@ components:
         date: 'Рішення №4 від 16 січня 2021 року '
         link: /uploads/officially/current-programs/Prohrama-MER.docx
       - name: Програми з підвищення ефективності управління активами
-        date: Рішення №3 від 03.11.2021
+        date: Рішення №3 від 03 листопада 2021 року
         link: >-
           /uploads/officially/current-programs/Prohramy-z-pidvyshchennia-efektyvnosti-upravlinnia-aktyvamy.docx
       - name: >-
