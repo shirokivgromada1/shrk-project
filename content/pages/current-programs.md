@@ -275,7 +275,7 @@ components:
           План удосконалення послуги з водопостачання в Широківській
           територіальній громаді Запорізького району Запорізької області на
           2021-2025 рр.
-        date: Рішення №2 від 03.11.2021
+        date: 'Рішення №2 від 03 листопада 2021 року '
         link: >-
           /uploads/officially/current-programs/PLAN-VDOSKONALENNYA-NADANNYA-POSLUHY-Z-VODOPOSTACHANNYA_SHyrokivs-ka-hromada_zatverdzhenyy.docx
       - name: Програма Місцевого Економічного Розвитку
