@@ -12,7 +12,7 @@ components:
       - fullname: Дідик Тетяна Володимирівна
         district: Веселівський і Петропільський округи
         photo: /uploads/all-services/administrative-services-center/2.png
-        phone: '(061)239-95-2, (098)282-29-33'
+        phone: '(061)239-95-25, (098)282-29-33'
         address: 'с. Веселе, вул. Центральна, 48-а'
         email: vesele.sotg@gmail.com
       - fullname: Мілейко Юлія Олександрівна
