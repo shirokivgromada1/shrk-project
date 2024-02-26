@@ -34,13 +34,14 @@ components:
         address: 'с.Миколай-Поле, вул.Центральна, 76'
         email: lukasheve.sotg@gmail.com
       - fullname: Шаповалов Олександр Євгенович
-        district: 'с. Лукашеве, вул. Центральна, 18'
+        district: Державний реєстратор
         photo: /uploads/all-services/administrative-services-center/2.png
         phone: (050)243-84-88
         address: 'м. Запоріжжя, вул. Героїв 37 батальйону, 12'
-      - fullname: Лагно Марина Юріївна державний реєстратор
+      - fullname: 'Лагно Марина Юріївна '
+        district: Сонячний округ
         photo: /uploads/all-services/administrative-services-center/1.png
-        phone: (067)386-2963
+        phone: (067)386-29-63
         address: 'м. Запоріжжя, вул. Героїв 37 батальйону, 12'
     _template: AdministrativeServicesEmployees
   - title: Послуги
