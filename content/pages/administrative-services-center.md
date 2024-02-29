@@ -17,7 +17,7 @@ components:
         email: vesele.sotg@gmail.com
       - fullname: Мілейко Юлія Олександрівна
         district: Зеленопільський і Лукашівський округи
-        photo: /uploads/all-services/administrative-services-center/2.png
+        photo: /uploads/msg648825169-512781.jpg
         phone: (097) 183-61-60
         address: ' с.Широке, вул.Центральна, 1, с.Лукашеве, вул.Центральна, 18'
         email: shirockoe.sotg@gmail.com
@@ -35,7 +35,7 @@ components:
         email: lukasheve.sotg@gmail.com
       - fullname: Шаповалов Олександр Євгенович
         district: Державний реєстратор
-        photo: /uploads/all-services/administrative-services-center/2.png
+        photo: /uploads/e8a3c342-6da3-440b-ab7f-6e5a6c81e93d.png
         phone: (050)243-84-88
         address: 'м. Запоріжжя, вул. Героїв 37 батальйону, 12'
       - fullname: 'Лагно Марина Юріївна '
