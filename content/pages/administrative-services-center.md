@@ -38,11 +38,6 @@ components:
         photo: /uploads/e8a3c342-6da3-440b-ab7f-6e5a6c81e93d.png
         phone: (050)243-84-88
         address: 'м. Запоріжжя, вул. Героїв 37 батальйону, 12'
-      - fullname: 'Лагно Марина Юріївна '
-        district: Сонячний округ
-        photo: /uploads/all-services/administrative-services-center/1.png
-        phone: (067)386-29-63
-        address: 'м. Запоріжжя, вул. Героїв 37 батальйону, 12'
     _template: AdministrativeServicesEmployees
   - title: Послуги
     favor:
