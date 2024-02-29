@@ -5,13 +5,13 @@ components:
     employee:
       - fullname: Гур’янова Наталія Олександрівна
         district: Володимирівський округ
-        photo: /uploads/all-services/administrative-services-center/1.png
+        photo: /uploads/e77c17f2-fd9a-4b88-ab8f-5f9ef3e7743b.jpg
         phone: '(061)239-95-26, (097)321-96-43'
         address: 'с. Володимирівське, вул. Шкільна, 2'
         email: volodimirivske.sotg@gmail.com
       - fullname: Дідик Тетяна Володимирівна
         district: Веселівський і Петропільський округи
-        photo: /uploads/all-services/administrative-services-center/2.png
+        photo: /uploads/msg648825169-512776.jpg
         phone: '(061)239-95-25, (098)282-29-33'
         address: 'с. Веселе, вул. Центральна, 48-а'
         email: vesele.sotg@gmail.com
@@ -23,13 +23,13 @@ components:
         email: shirockoe.sotg@gmail.com
       - fullname: Нелуш Олена Сергіївна
         district: Августинівський і Відраднівський округи
-        photo: /uploads/all-services/administrative-services-center/1.png
+        photo: /uploads/msg648825169-512778.jpg
         phone: '(061)239-95-24, (098) 205-33-92'
         address: ' с.Августинівка, вул.Молодіжна, 63'
         email: augustinovka.sotg@gmail.com
       - fullname: Тімченко Наталія Іванівна
         district: Микола-Пільський і Новопетрівський округи
-        photo: /uploads/all-services/administrative-services-center/2.png
+        photo: /uploads/a6fc8038-2086-4f43-a894-cbf44f5f593a.png
         phone: ' (099)490-92-07'
         address: 'с.Миколай-Поле, вул.Центральна, 76'
         email: lukasheve.sotg@gmail.com
