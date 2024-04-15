@@ -31,6 +31,11 @@ components:
     subtitle: ''
     notMain: true
     order:
+      - title: Про взяття на квартирний облік від 04.04.2024 року №102
+        link: /uploads/рішення №102 від 04.04.2024 року.docx
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
+          №102 від 04.04.2024 року.docx
       - title: Про взяття на квартирний облік від 04.04.2024 року №101
         link: /uploads/рішення №101 від 04.04.2024 року.docx
         url: >-
