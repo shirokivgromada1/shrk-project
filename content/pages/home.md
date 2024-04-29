@@ -7,7 +7,8 @@ components:
     descriptionEng: Find all services and information online
     previewImage: /uploads/home/photo.png
     readMoreLink: /head-of-the-community
-    freshNews: []
+    freshNews:
+      - news: content/news/02ab44f4a5b38770e8c686b727149f5d2abc18b8.mdx
     _template: preview
   - title: Ми надаємо такі послуги
     titleEng: We provide the following services
@@ -68,5 +69,4 @@ components:
         sourceLink: 'https://zor.gov.ua/'
     _template: sources
 ---
-
 
