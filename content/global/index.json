@@ -5,10 +5,6 @@
     "nameEng": "Shirokiv community",
     "nav": [
       {
-        "href": "Новая рубрика",
-        "label": "Home"
-      },
-      {
         "href": "about-community",
         "label": "Про громаду",
         "labelEng": "About community",
