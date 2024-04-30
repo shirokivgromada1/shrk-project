@@ -78,19 +78,6 @@ export const getNewsByFilter = async ({
 
   const filter: TFilter = {};
 
-  if (category) {
-    filter.templates = {
-      category: {
-        category: {
-          newsCategories: {
-            category: {
-              in: [category],
-            },
-          },
-        },
-      },
-    };
-  }
 
   if (startDate) {
     if (endDate && startDate.getTime() !== endDate.getTime()) {
@@ -138,8 +125,6 @@ export const getNewsByFilter = async ({
     _cursor = newsConnection.pageInfo.endCursor;
 
     if (search) {
-      console.log('search:', search);
-      console.log('news: ', newsConnection.edges)
       newsConnection.edges?.forEach((n) => {
 
         const titleMatch = n?.node?.title
@@ -157,6 +142,24 @@ export const getNewsByFilter = async ({
         }
       });
     }
+
+    if (category) {
+      newsConnection.edges?.forEach((n) => {
+        n?.node?.templates?.forEach((t: any) => {
+          // console.log(t.category?.category+ ' = '+ category);
+          if (t.category?.category === category) {
+            news.push(n as NewsConnectionEdges);
+            totalCount++;
+          }
+        } )
+        // const categoryMatch = n?.node?.templates[0]?.category?.category === category;
+        
+        // if (categoryMatch) {
+        //   news.push(n as NewsConnectionEdges);
+        //   totalCount++;
+        // }
+      });
+    }
   } while (
     newsConnection.edges?.length &&
     totalCount < Math.min(PAGINATION_COUNT, newsConnection.edges?.length) &&
@@ -168,7 +171,7 @@ export const getNewsByFilter = async ({
     ? setLoading(false)
     : setPaginationLoading && setPaginationLoading(false);
 
-  if (search) {
+  if (search || category) {
     return news || null;
   } else {
     return newsConnection?.edges || null;
