@@ -93,7 +93,7 @@ export const Info = ({
                                     page?.pageImage
                                   }
                                   alt="picture1"
-                                  width={385}
+                                  width={408}
                                   height={242}
                                   blurDataURL={
                                     viewData[index]?.node?.image ||

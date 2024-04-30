@@ -45,7 +45,7 @@ const NewsSection: FC<INewsSection> = ({
 					(matches && headline && styles.newsSectionTablet)
 				}>
 				{_news &&
-					_news.slice(0, isDoublyPreview ? 5 : 4).map((n, index) => {
+					_news.slice(0, isDoublyPreview ? 4 : 4).map((n, index) => {
 						let count = 0
 						if (n)
 							return (

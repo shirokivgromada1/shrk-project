@@ -35,7 +35,7 @@
     & > div {
       & > a {
         display: grid;
-        grid-template-columns: 190px auto;
+        grid-template-columns: 340px auto;
         gap: 20px;
         &:hover {
           & h1 {
@@ -54,7 +54,7 @@
   }
   &__skeletonContainer {
     display: grid !important;
-    grid-template-columns: 190px auto;
+    grid-template-columns: 340px auto;
     gap: 20px !important;
   }
   &__details {

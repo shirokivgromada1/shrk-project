@@ -79,9 +79,10 @@
     overflow: hidden !important;
 
     & > div > div {
+      max-width: 408px;
       height: auto;
       width: fit-content;
-      margin-right: 72px;
+      margin-right: 38px;
       &:last-child {
         margin-right: 0px;
       }
@@ -89,7 +90,7 @@
   }
   &__page {
     height: 100%;
-    width: 385px;
+    max-width: 408px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -110,12 +111,11 @@
         color: var(--themeColor, #000);
       }
       & img {
-        max-width: 385px;
-        min-width: 219px;
-        object-fit: cover;
-        object-position: top;
-        width: 100%;
+        width: 408px;
         height: 242px;
+        object-fit: cover;
+        // object-position: top;
+        // width: 100%;
         border-radius: 2px;
         margin-bottom: 11px;
       }
@@ -143,6 +143,7 @@
     }
   }
 }
+
 
 @media screen and (max-width: 1080px) {
   .info {
