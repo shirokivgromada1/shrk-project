@@ -148,16 +148,11 @@ export const getNewsByFilter = async ({
         n?.node?.templates?.forEach((t: any) => {
           // console.log(t.category?.category+ ' = '+ category);
           if (t.category?.category === category) {
+            // console.log('yes\n')
             news.push(n as NewsConnectionEdges);
             totalCount++;
           }
         } )
-        // const categoryMatch = n?.node?.templates[0]?.category?.category === category;
-        
-        // if (categoryMatch) {
-        //   news.push(n as NewsConnectionEdges);
-        //   totalCount++;
-        // }
       });
     }
   } while (
@@ -347,7 +342,10 @@ export const Sections = ({
           setCursor,
           setNextPage,
         });
-        if (newsResponse) setFilterNews(newsResponse);
+        if (newsResponse) {
+
+          setFilterNews(newsResponse)
+        };
       };
       getContent();
     }
@@ -460,6 +458,7 @@ export const Sections = ({
                     exit={{ opacity: 0 }}
                   >
                     {filterNews?.map((n, nIdx) => {
+                      // console.log('news: ', n)
                       let count = 0;
                       return (
                         <motion.div
@@ -602,13 +601,13 @@ export const Sections = ({
         {!isFiltered && news && (
           <motion.div ref={carouselRef}>
             {news.map((section, sIdx) => {
-              if (newsSection && section && section.length > 0)
+              if ( newsSection && section && section[0] && section[0].node && section[0].node.templates && section.length > 0)
                 switch (newsSection[sIdx]?.variantNews) {
                   case "1":
                     return (
                       <NewsSection
                         _news={section}
-                        headline={newsSection[sIdx]?.category?.category}
+                        headline={section[0]?.node?.templates[0]?.category?.category}
                         key={"section" + sIdx}
                         data-tina-field={tinaField(
                           newsSection[
@@ -621,7 +620,7 @@ export const Sections = ({
                     return (
                       <NewsSection
                         _news={section}
-                        headline={newsSection[sIdx]?.category?.category}
+                        headline={section[0]?.node?.templates[0]?.category?.category}
                         isReversed={true}
                         hasDescription={false}
                         key={"section" + sIdx}
@@ -636,7 +635,7 @@ export const Sections = ({
                     return (
                       <NewsSection
                         _news={section}
-                        headline={newsSection[sIdx]?.category?.category}
+                        headline={section[0]?.node?.templates[0]?.category?.category}
                         hasLine={false}
                         key={"section" + sIdx}
                         data-tina-field={tinaField(
@@ -650,7 +649,7 @@ export const Sections = ({
                     return (
                       <NewsSection
                         _news={section}
-                        headline={newsSection[sIdx]?.category?.category}
+                        headline={section[0]?.node?.templates[0]?.category?.category}
                         isReversed={true}
                         hasDescription={false}
                         isDoublyPreview={true}
