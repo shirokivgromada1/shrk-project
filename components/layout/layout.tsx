@@ -60,6 +60,7 @@ export const Layout = ({
             name="description"
             content="Широківська об'єднана територіальна громада"
           />
+          <meta name="google-site-verification" content="BtNoBo6VDG3qZgTAKlHNsPIcxrAm9TBjavDwtpv1maU" />
           <link rel="icon" href="./../../public/favicon.ico" sizes="32x32" />
         </Head>
         <Header
