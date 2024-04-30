@@ -25,7 +25,7 @@ import useBetterMediaQuery from "@/hooks/useBetterMediaQuery";
 import { addOneDay, minusOneDay } from "../../Announcements/Sections/Sections";
 import Link from "next/link";
 
-const PAGINATION_COUNT = 5;
+const PAGINATION_COUNT = 10000;
 
 type TFilter = {
   templates?: any;
@@ -138,7 +138,10 @@ export const getNewsByFilter = async ({
     _cursor = newsConnection.pageInfo.endCursor;
 
     if (search) {
+      console.log('search:', search);
+      console.log('news: ', newsConnection.edges)
       newsConnection.edges?.forEach((n) => {
+
         const titleMatch = n?.node?.title
           .toLowerCase()
           .includes(search.toLowerCase());
