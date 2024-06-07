@@ -12,19 +12,19 @@ components:
         position: >-
           Заступник сільського голови з питань діяльності виконавчих органів
           ради
-        phone: 'тел: +38 (066) 286 54 07'
+        phone: 'тел: +38 (061) 286 21 20'
         email: shyroke.otg@gmail.com
       - fullname: Ставицька Ольга Сергіївна
         position: "Заступник сільського\_ голови з питань діяльності виконавчих органів ради"
-        phone: 'тел: +38 (066) 286 54 07'
+        phone: +38 (050) 733 18 78
         email: shyroke.otg@gmail.com
       - fullname: Головань Лариса Семенівна
         position: Керуючий справами (секретар) виконавчого комітету
-        phone: 'тел: +38 (066) 286 54 07'
+        phone: 'тел: +38 (061) 286 21 26'
         email: shyroke.otg@gmail.com
       - fullname: Правдюк Олена Анатоліївна
         position: Член виконавчого комітету
-        phone: 'тел: +38 (066) 286 54 07'
+        phone: 'тел: +38 (095) 064 32 93'
         email: shyroke.otg@gmail.com
     _template: DeputyCorpsTable
   - title: Документи
