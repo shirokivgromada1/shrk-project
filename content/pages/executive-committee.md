@@ -6,7 +6,7 @@ components:
     deputy:
       - fullname: Коротенко Денис Олександрович
         position: Голова виконкому
-        phone: 'тел: +38 (066) 286 54 07'
+        phone: 'тел: +38 (061) 286 21 20'
         email: shyroke.otg@gmail.com
       - fullname: Свіркін Дмитро Олександрович
         position: >-
