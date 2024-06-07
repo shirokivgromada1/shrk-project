@@ -10,7 +10,7 @@ components:
     contacts:
       title: Контакти
       email: shyroke.kultura@gmail.com
-      phone: +38 (095) 870 64 34
+      phone: +38 (095) 870 63 34
       place: +38 (098) 996 91 19
     position:
       title: Посада
