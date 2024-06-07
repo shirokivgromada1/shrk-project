@@ -2,14 +2,14 @@
 title: fiscal-department
 components:
   - title: Фінансовий відділ
-    image: /uploads/silrada-department-desc/photo-6.png
+    image: /uploads/Людмила Нічіпорчук.PNG
     fullname: Нічіпорчук Людмила Анатоліївна
     schedule:
       title: Графік роботи
       time: 'пн - пт з 8:00 по 16:30'
     contacts:
       title: Контакти
-      phone: 'тел: +38 (099) 098 57 03'
+      phone: 'тел: +38 (061) 286 21 35'
       email: shyroke.otg@gmail.com
     workplace:
       title: Місце прийому
@@ -59,6 +59,4 @@ components:
       - title: Паспорти бюджетних програм міського бюджету за 2023 рік
     _template: HeadOrders
 ---
-
-
 
