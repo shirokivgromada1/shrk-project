@@ -148,7 +148,7 @@ export const getNewsByFilter = async ({
         n?.node?.templates?.forEach((t: any) => {
           // console.log(t.category?.category+ ' = '+ category);
           if (t.category?.category === category) {
-            // console.log('yes\n')
+            // console.log('yes\n') 
             news.push(n as NewsConnectionEdges);
             totalCount++;
           }
