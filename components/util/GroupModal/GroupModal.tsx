@@ -306,20 +306,20 @@ const GroupModal = ({ setIsOpen, handleClose, modalIsOpen }: Props) => {
                             primary: "transparent",
                           },
                         })}
-                        styles={{
-                          ...statusStyles,
-                          ...{
-                            container: (style) => ({
-                              ...style,
-                              width: "fit-content",
-                            }),
-                            valueContainer: (styles) => ({
-                              ...styles,
-                              padding: "0 35px 0 20px",
-                              width: "100%",
-                            }),
-                          },
-                        }}
+                        // styles={{
+                        //   ...statusStyles,
+                        //   ...{
+                        //     container: (style) => ({
+                        //       ...style,
+                        //       width: "fit-content",
+                        //     }),
+                        //     valueContainer: (styles) => ({
+                        //       ...styles,
+                        //       padding: "0 35px 0 20px",
+                        //       width: "100%",
+                        //     }),
+                        //   },
+                        // }}
                       />
                       {selectedStatus && (
                         <button
@@ -392,19 +392,19 @@ const GroupModal = ({ setIsOpen, handleClose, modalIsOpen }: Props) => {
                             primary: "transparent",
                           },
                         })}
-                        styles={{
-                          ...localityStyles,
-                          ...{
-                            control: (styles) => ({
-                              ...styles,
-                              color: "var(--themeColor)",
-                              fontFamily: "Inter",
-                              fontSize: "16px",
-                              lineHeight: "normal",
-                              textAlign: "left",
-                            }),
-                          },
-                        }}
+                        // styles={{
+                        //   ...localityStyles,
+                        //   ...{
+                        //     control: (styles) => ({
+                        //       ...styles,
+                        //       color: "var(--themeColor)",
+                        //       fontFamily: "Inter",
+                        //       fontSize: "16px",
+                        //       lineHeight: "normal",
+                        //       textAlign: "left",
+                        //     }),
+                        //   },
+                        // }}
                       />
                       {selectedLocality && (
                         <button

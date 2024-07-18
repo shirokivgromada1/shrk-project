@@ -42,33 +42,33 @@ export const stylesSelect: StylesConfig<status, false> = {
       background: "#555",
     },
   }),
-  option: (styles, { isDisabled, isFocused, isSelected }) => {
-    return {
-      ...styles,
-      backgroundColor: isDisabled ? undefined : isFocused ? "#eee" : undefined,
-      " p, b": {
-        fontWeight: isSelected ? 600 : 400,
-      },
-    };
-  },
-  control: (styles) => ({
-    ...styles,
-    color: "var(--themeColor)",
-    fontFamily: "Inter",
-    fontSize: "16px",
-    fontStyle: "normal",
-    fontWeight: "400",
-    lineHeight: "normal",
-    textAlign: "center",
-  }),
-  dropdownIndicator: (styles) => ({
-    ...styles,
-    display: "none",
-  }),
-  indicatorSeparator: (styles) => ({
-    ...styles,
-    display: "none",
-  }),
+  // option: (styles, { isDisabled, isFocused, isSelected }) => {
+  //   return {
+  //     ...styles,
+  //     backgroundColor: isDisabled ? undefined : isFocused ? "#eee" : undefined,
+  //     " p, b": {
+  //       fontWeight: isSelected ? 600 : 400,
+  //     },
+  //   };
+  // },
+  // control: (styles) => ({
+  //   ...styles,
+  //   color: "var(--themeColor)",
+  //   fontFamily: "Inter",
+  //   fontSize: "16px",
+  //   fontStyle: "normal",
+  //   fontWeight: "400",
+  //   lineHeight: "normal",
+  //   textAlign: "center",
+  // }),
+  // dropdownIndicator: (styles) => ({
+  //   ...styles,
+  //   display: "none",
+  // }),
+  // indicatorSeparator: (styles) => ({
+  //   ...styles,
+  //   display: "none",
+  // }),
 };
 
 type Props = {

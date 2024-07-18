@@ -143,97 +143,97 @@ const ChatCard = ({ chat, setView, setActiveIndex }: Props) => {
                   [styles.select__progress]: chat.status === "inProgress",
                   [styles.select__rejected]: chat.status === "rejected",
                 })}
-                styles={{
-                  control: (styles) => ({
-                    ...styles,
-                    backgroundColor: "transparent",
-                    border: "none !important",
-                    borderColor: "transparent !important",
-                    boxShadow: "none !important",
-                    minHeight: "27px !important",
-                  }),
-                  valueContainer: (styles) => ({
-                    ...styles,
-                    padding: "5px 0px 5px 38px",
-                    width: "100%",
-                  }),
-                  container: (styles) => ({
-                    ...styles,
-                    width: "148px",
-                  }),
-                  singleValue: (styles) => ({
-                    ...styles,
-                    color:
-                      selectedOption?.value === "completed"
-                        ? "#309C54"
-                        : selectedOption?.value === "inProgress"
-                        ? "#FF7A00"
-                        : "#F33A3A",
-                  }),
+                // styles={{
+                //   control: (styles) => ({
+                //     ...styles,
+                //     backgroundColor: "transparent",
+                //     border: "none !important",
+                //     borderColor: "transparent !important",
+                //     boxShadow: "none !important",
+                //     minHeight: "27px !important",
+                //   }),
+                //   valueContainer: (styles) => ({
+                //     ...styles,
+                //     padding: "5px 0px 5px 38px",
+                //     width: "100%",
+                //   }),
+                //   container: (styles) => ({
+                //     ...styles,
+                //     width: "148px",
+                //   }),
+                //   singleValue: (styles) => ({
+                //     ...styles,
+                //     color:
+                //       selectedOption?.value === "completed"
+                //         ? "#309C54"
+                //         : selectedOption?.value === "inProgress"
+                //         ? "#FF7A00"
+                //         : "#F33A3A",
+                //   }),
 
-                  dropdownIndicator: () => ({
-                    display: "none",
-                  }),
-                  indicatorSeparator: () => ({
-                    display: "none",
-                  }),
-                  menu: (styles) => ({
-                    ...styles,
-                    borderRadius: "10px !important",
-                    opacity: "1 !important",
-                  }),
-                  menuList: (styles) => ({
-                    padding: "15px 20px",
-                    display: "flex",
-                    flexDirection: "column",
-                    gap: "20px",
-                    backgroundColor: "var(--themeBgColor, #fff)",
-                  }),
-                  option: (
-                    styles,
-                    { data, isDisabled, isFocused, isSelected }
-                  ) => {
-                    return {
-                      padding: 0,
-                      paddingBottom: "11px",
-                      fontWeight: isSelected ? "600" : "400",
-                      ":first-child": {
-                        color: "var(--themeColor, rgba(48, 156, 84, 1))",
-                        borderBottom: isSelected
-                          ? "1px solid rgba(48, 156, 84, 1)"
-                          : "1px solid rgba(48, 156, 84, 0.25)",
-                      },
-                      ":nth-child(2)": {
-                        color: "var(--themeColor, rgba(255, 122, 0, 1))",
-                        borderBottom: isSelected
-                          ? "1px solid rgba(255, 122, 0, 1)"
-                          : "1px solid rgba(255, 122, 0, 0.25)",
-                      },
-                      ":last-child": {
-                        color: "var(--themeColor, rgba(243, 58, 58, 1))",
-                        borderBottom: isSelected
-                          ? "1px solid rgba(243, 58, 58, 1)"
-                          : "1px solid rgba(243, 58, 58, 0.25)",
-                      },
-                      cursor: isDisabled ? "not-allowed" : "default",
-                      ":hover": {
-                        cursor: "pointer",
-                        ":first-child": {
-                          color: "rgba(48, 156, 84, 0.70)",
-                          borderBottom: "1px solid rgba(48, 156, 84, 0.5)",
-                        },
-                        ":nth-child(2)": {
-                          color: "rgba(255, 122, 0, 0.7)",
-                          borderBottom: "1px solid rgba(255, 122, 0, 0.5)",
-                        },
-                        ":last-child": {
-                          color: "rgba(243, 58, 58, 0.7)",
-                          borderBottom: "1px solid rgba(243, 58, 58, 0.5)",
-                        },
-                      },
-                    };
-                  },
-                }}
+                //   dropdownIndicator: () => ({
+                //     display: "none",
+                //   }),
+                //   indicatorSeparator: () => ({
+                //     display: "none",
+                //   }),
+                //   menu: (styles) => ({
+                //     ...styles,
+                //     borderRadius: "10px !important",
+                //     opacity: "1 !important",
+                //   }),
+                //   menuList: (styles) => ({
+                //     padding: "15px 20px",
+                //     display: "flex",
+                //     flexDirection: "column",
+                //     gap: "20px",
+                //     backgroundColor: "var(--themeBgColor, #fff)",
+                //   }),
+                //   option: (
+                //     styles,
+                //     { data, isDisabled, isFocused, isSelected }
+                //   ) => {
+                //     return {
+                //       padding: 0,
+                //       paddingBottom: "11px",
+                //       fontWeight: isSelected ? "600" : "400",
+                //       ":first-child": {
+                //         color: "var(--themeColor, rgba(48, 156, 84, 1))",
+                //         borderBottom: isSelected
+                //           ? "1px solid rgba(48, 156, 84, 1)"
+                //           : "1px solid rgba(48, 156, 84, 0.25)",
+                //       },
+                //       ":nth-child(2)": {
+                //         color: "var(--themeColor, rgba(255, 122, 0, 1))",
+                //         borderBottom: isSelected
+                //           ? "1px solid rgba(255, 122, 0, 1)"
+                //           : "1px solid rgba(255, 122, 0, 0.25)",
+                //       },
+                //       ":last-child": {
+                //         color: "var(--themeColor, rgba(243, 58, 58, 1))",
+                //         borderBottom: isSelected
+                //           ? "1px solid rgba(243, 58, 58, 1)"
+                //           : "1px solid rgba(243, 58, 58, 0.25)",
+                //       },
+                //       cursor: isDisabled ? "not-allowed" : "default",
+                //       ":hover": {
+                //         cursor: "pointer",
+                //         ":first-child": {
+                //           color: "rgba(48, 156, 84, 0.70)",
+                //           borderBottom: "1px solid rgba(48, 156, 84, 0.5)",
+                //         },
+                //         ":nth-child(2)": {
+                //           color: "rgba(255, 122, 0, 0.7)",
+                //           borderBottom: "1px solid rgba(255, 122, 0, 0.5)",
+                //         },
+                //         ":last-child": {
+                //           color: "rgba(243, 58, 58, 0.7)",
+                //           borderBottom: "1px solid rgba(243, 58, 58, 0.5)",
+                //         },
+                //       },
+                //     };
+                //   },
+                // }}
               />
               <svg
                 xmlns="http://www.w3.org/2000/svg"
