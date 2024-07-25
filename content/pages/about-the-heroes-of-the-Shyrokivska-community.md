@@ -7,6 +7,9 @@ components:
       ### *На цій сторінці ми зібрали всіх жителів громади, які віддали своє
       життя, боронячи Україну від російської агресії*
     links:
+      - title: 'Кирило Кошовий, Миколай-Поле'
+        url: >-
+          https://www.facebook.com/shtg.gov.ua/posts/pfbid0ky8GYZGt47dyBggLTnHEoVHkyNYAYatBcqYXYBSpgJhEmMQF7j4qWkrhTJiVHE3ol
       - title: 'Пуц Денис Сергійович, Новодніпровка'
         url: >-
           https://www.facebook.com/shtg.gov.ua/posts/pfbid02SzH3EpmhnNd8DBHfMt8DA2TfyrnMUvLXEVkzninigAY68fKg3fRxvMYKpVhae3Tvl
