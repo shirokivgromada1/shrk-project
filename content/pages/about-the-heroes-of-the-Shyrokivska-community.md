@@ -3,7 +3,7 @@ title: about-the-heroes-of-the-Shyrokivska-community
 components:
   - title: Герої Широківської громади
     links:
-      - title: Сабіров Данило Володимирович
+      - title: 'Сабіров Данило Володимирович, Новопетрівка'
         url: >-
           https://www.facebook.com/shtg.gov.ua/posts/pfbid02vPwUn6LGyJHJRXiDmrxCri2ULFmCrrxhWbEfM2TribS3jmpRY6MMyPDev493JjiGl
       - title: 'Патраш Юрій Васильович, Новопетрівка'
