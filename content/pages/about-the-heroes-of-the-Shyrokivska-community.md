@@ -3,6 +3,9 @@ title: about-the-heroes-of-the-Shyrokivska-community
 components:
   - title: Герої Широківської громади
     links:
+      - title: 'Патраш Юрій Васильович, Новопетрівка'
+        url: >-
+          https://www.facebook.com/shtg.gov.ua/posts/pfbid0yH99tN6HtsikDJHdbMfwnee9bQbRKkbAeaVdWnrauTDR8Jojif6eucMGjNKJedrDl
       - title: 'Лихолат Ігор Васильович, Дніпрельстан'
         url: >-
           https://www.facebook.com/shtg.gov.ua/posts/pfbid0vLtA6QTeZyofHBgxfGcBog53dA4vLzajg9TAijRUj1zppig3Gh19FPPvaQUPzAzLl
