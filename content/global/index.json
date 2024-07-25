@@ -219,6 +219,19 @@
         ]
       },
       {
+        "href": "heroes",
+        "label": "Ми пам'ятаємо",
+        "labelEng": "We remember",
+        "isModal": true,
+        "links": [
+          {
+            "label": "Герої Широківської громади",
+            "labelEng": "The heroes of the Shyrokivska community",
+            "href": "about-the-heroes-of-the-Shyrokivska-community"
+          }
+        ]
+      },
+      {
         "label": "Корисна інформація",
         "labelEng": "Useful Information",
         "isModal": true,
@@ -232,19 +245,6 @@
             "label": "Заклади освіти",
             "labelEng": "Educational institutions",
             "href": "education-institutions"
-          }
-        ]
-      },
-      {
-        "href": "heroes",
-        "label": "Ми пам'ятаємо",
-        "labelEng": "We remember",
-        "isModal": true,
-        "links": [
-          {
-            "label": "Герої Широківської громади",
-            "labelEng": "The heroes of the Shyrokivska community",
-            "href": "about-the-heroes-of-the-Shyrokivska-community"
           }
         ]
       }
