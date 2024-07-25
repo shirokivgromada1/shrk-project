@@ -236,7 +236,7 @@
         ]
       },
       {
-        "href": "Heroes",
+        "href": "heroes",
         "label": "Ми пам'ятаємо",
         "isModal": true,
         "links": [
