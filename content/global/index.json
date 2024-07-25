@@ -222,7 +222,7 @@
         "href": "heroes",
         "label": "Ми пам'ятаємо",
         "labelEng": "We remember",
-        "isModal": true,
+        "isModal": false,
         "links": [
           {
             "label": "Герої Широківської громади",
