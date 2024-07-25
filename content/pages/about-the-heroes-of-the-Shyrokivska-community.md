@@ -7,6 +7,9 @@ components:
       ### *На цій сторінці ми зібрали всіх жителів громади, які віддали своє
       життя, боронячи Україну від російської агресії*
     links:
+      - title: 'Сабіров Данило Володимирович, Новопетрівка'
+        url: >-
+          https://www.facebook.com/shtg.gov.ua/posts/pfbid02vPwUn6LGyJHJRXiDmrxCri2ULFmCrrxhWbEfM2TribS3jmpRY6MMyPDev493JjiGl
       - title: 'Лихолат Ігор Васильович, Дніпрельстан'
         url: >-
           https://www.facebook.com/shtg.gov.ua/posts/pfbid0vLtA6QTeZyofHBgxfGcBog53dA4vLzajg9TAijRUj1zppig3Gh19FPPvaQUPzAzLl
