@@ -2,6 +2,11 @@
 title: about-the-heroes-of-the-Shyrokivska-community
 components:
   - title: Герої Широківської громади
+    desc: >
+      # На цій сторінці ми зібрали всіх жителів громади, які віддали своє життя,
+      боронячи Україну від навали росіян
+    _template: DepartmentSocialProtectionSub
+  - title: ''
     links:
       - title: 'Сабіров Данило Володимирович, Новопетрівка'
         url: >-
