@@ -238,6 +238,7 @@
       {
         "href": "heroes",
         "label": "Ми пам'ятаємо",
+        "labelEng": "We remember",
         "isModal": true,
         "links": [
           {
