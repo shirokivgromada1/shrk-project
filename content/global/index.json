@@ -242,6 +242,7 @@
         "links": [
           {
             "label": "Герої Широківської громади",
+            "labelEng": "The heroes of the Shyrokivska community",
             "href": "heroes"
           }
         ]
