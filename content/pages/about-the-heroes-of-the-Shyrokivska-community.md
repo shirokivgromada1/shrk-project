@@ -10,7 +10,7 @@ components:
       - title: 'Кирило Кошовий, Миколай-Поле'
         url: >-
           https://www.facebook.com/shtg.gov.ua/posts/pfbid0ky8GYZGt47dyBggLTnHEoVHkyNYAYatBcqYXYBSpgJhEmMQF7j4qWkrhTJiVHE3ol
-      - title: 'Пуц Денис Сергійович, Новодніпровка'
+      - title: 'Денис Пуц, Новодніпровка'
         url: >-
           https://www.facebook.com/shtg.gov.ua/posts/pfbid02SzH3EpmhnNd8DBHfMt8DA2TfyrnMUvLXEVkzninigAY68fKg3fRxvMYKpVhae3Tvl
       - title: 'Сабіров Данило Володимирович, Новопетрівка'
