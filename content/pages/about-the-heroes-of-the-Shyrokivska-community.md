@@ -16,7 +16,7 @@ components:
       - title: 'Данило Сабіров, Новопетрівка'
         url: >-
           https://www.facebook.com/shtg.gov.ua/posts/pfbid02vPwUn6LGyJHJRXiDmrxCri2ULFmCrrxhWbEfM2TribS3jmpRY6MMyPDev493JjiGl
-      - title: 'Лихолат Ігор Васильович, Дніпрельстан'
+      - title: 'Ігор Лихолат, Дніпрельстан'
         url: >-
           https://www.facebook.com/shtg.gov.ua/posts/pfbid0vLtA6QTeZyofHBgxfGcBog53dA4vLzajg9TAijRUj1zppig3Gh19FPPvaQUPzAzLl
     _template: SocialProtection
