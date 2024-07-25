@@ -13,7 +13,7 @@ components:
       - title: 'Денис Пуц, Новодніпровка'
         url: >-
           https://www.facebook.com/shtg.gov.ua/posts/pfbid02SzH3EpmhnNd8DBHfMt8DA2TfyrnMUvLXEVkzninigAY68fKg3fRxvMYKpVhae3Tvl
-      - title: 'Сабіров Данило Володимирович, Новопетрівка'
+      - title: 'Данило Сабіров, Новопетрівка'
         url: >-
           https://www.facebook.com/shtg.gov.ua/posts/pfbid02vPwUn6LGyJHJRXiDmrxCri2ULFmCrrxhWbEfM2TribS3jmpRY6MMyPDev493JjiGl
       - title: 'Лихолат Ігор Васильович, Дніпрельстан'
