@@ -4,6 +4,11 @@ components:
   - title: ЗМІ про Широківську громаду
     gender:
       - genderTitle: >-
+          «У громаді на Запоріжжі підтримують захисників України», — МИГ
+          ЗАПОРІЖЖЯ
+        genderLink: >-
+          https://mig.com.ua/u-hromadi-na-zaporizhzhi-pidtrymuiut-zakhysnykiv-ukrainy/
+      - genderTitle: >-
           «Як діяти в разі небезпечних ситуацій в житті дізнались на тренінгу
           жителі Широківської громади», — ПОРТАЛ ГУРТ
         genderLink: 'https://gurt.org.ua/news/informator/98441/'
