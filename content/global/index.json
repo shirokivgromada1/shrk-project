@@ -8,7 +8,14 @@
         "href": "mass-media-about-us",
         "label": "ЗМІ про Широківську громаду",
         "labelEng": "Mass media about us",
-        "isModal": true
+        "isModal": true,
+        "links": [
+          {
+            "label": "ЗМІ ПРО Широківську громаду",
+            "labelEng": "Mass media about us",
+            "href": "mass-media-about-us"
+          }
+        ]
       },
       {
         "href": "about-community",
