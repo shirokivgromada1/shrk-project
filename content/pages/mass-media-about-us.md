@@ -3,6 +3,9 @@ title: mass-media-about-us
 components:
   - title: ЗМІ про Широківську громаду
     gender:
+      - genderTitle: '«Воєнні жнива на Запоріжжі: і піт, і сльози», — УКРІНФОРМ'
+        genderLink: >-
+          https://www.ukrinform.ua/rubric-regions/3881191-voenni-zniva-na-zaporizzi-i-pit-i-slozi.html
       - genderTitle: '«У громаді на Запоріжжі будують Безпековий центр», — НОВИНИ ЗАПОРІЖЖЯ'
         genderLink: 'https://uanews.zp.ua/economy/2024/07/09/249349.html'
       - genderTitle: >-
