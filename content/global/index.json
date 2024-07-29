@@ -5,6 +5,12 @@
     "nameEng": "Shirokiv community",
     "nav": [
       {
+        "href": "mass-media-about-us",
+        "label": "ЗМІ про Широківську громаду",
+        "labelEng": "Mass media about us",
+        "isModal": true
+      },
+      {
         "href": "about-community",
         "label": "Про громаду",
         "labelEng": "About community",
