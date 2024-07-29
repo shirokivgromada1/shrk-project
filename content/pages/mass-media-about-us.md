@@ -4,6 +4,11 @@ components:
   - title: ЗМІ про Широківську громаду
     gender:
       - genderTitle: >-
+          «Як Широківська громада шукає баланс між економікою, демографією та
+          фронтом», — МИГ ЗАПОРІЖЖЯ
+        genderLink: >-
+          https://mig.com.ua/iak-shyrokivska-hromada-shukaie-balans-mizh-ekonomikoiu-demohrafiieiu-ta-frontom/?utm_source=rss&utm_medium=rss&utm_campaign=iak-shyrokivska-hromada-shukaie-balans-mizh-ekonomikoiu-demohrafiieiu-ta-frontom
+      - genderTitle: >-
           «Як прифронтова громада на Запоріжжі розвиває медичні послуги», — МИГ
           ЗАПОРІЖЖЯ
         genderLink: 'https://mig.com.ua/iak-pryfrontova-hromada-rozvyvaie-medychni-posluhy/'
