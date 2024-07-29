@@ -5,19 +5,6 @@
     "nameEng": "Shirokiv community",
     "nav": [
       {
-        "href": "mass-media-about-us",
-        "label": "ЗМІ про Широківську громаду",
-        "labelEng": "Mass media about us",
-        "isModal": true,
-        "links": [
-          {
-            "label": "ЗМІ про Широківську громаду",
-            "labelEng": "Mass media about us",
-            "href": "mass-media-about-us"
-          }
-        ]
-      },
-      {
         "href": "about-community",
         "label": "Про громаду",
         "labelEng": "About community",
@@ -241,6 +228,19 @@
             "label": "Герої Широківської громади",
             "labelEng": "The heroes of the Shyrokivska community",
             "href": "about-the-heroes-of-the-Shyrokivska-community"
+          }
+        ]
+      },
+      {
+        "href": "mass-media-about-us",
+        "label": "ЗМІ про Широківську громаду",
+        "labelEng": "Mass media about us",
+        "isModal": true,
+        "links": [
+          {
+            "label": "ЗМІ про Широківську громаду",
+            "labelEng": "Mass media about us",
+            "href": "mass-media-about-us"
           }
         ]
       },
