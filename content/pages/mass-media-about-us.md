@@ -4,6 +4,10 @@ components:
   - title: ЗМІ про Широківську громаду
     gender:
       - genderTitle: >-
+          «Як прифронтова громада на Запоріжжі розвиває медичні послуги», — МИГ
+          ЗАПОРІЖЖЯ
+        genderLink: 'https://mig.com.ua/iak-pryfrontova-hromada-rozvyvaie-medychni-posluhy/'
+      - genderTitle: >-
           «У Запорізькій області почалися жнива: на який врожай очікують
           аграрії», — СУСПІЛЬНЕ ЗАПОРІЖЖЯ
         genderLink: >-
