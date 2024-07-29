@@ -4,6 +4,11 @@ components:
   - title: ЗМІ про Широківську громаду
     gender:
       - genderTitle: >-
+          «Зцілення громад» — навчальний проєкт, який змінює Україну», —
+          УКРАЇНСЬКА ГРЕКО-КАТОЛИЦЬКА ЦЕРКВА
+        genderLink: >-
+          https://ugcc.ua/data/ztsilennya-gromad-navchalnyy-proekt-yakyy-zminyue-ukraynu-4937/
+      - genderTitle: >-
           «У громаді на Запоріжжі підтримують захисників України», — МИГ
           ЗАПОРІЖЖЯ
         genderLink: >-
