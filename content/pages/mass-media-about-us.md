@@ -3,6 +3,9 @@ title: mass-media-about-us
 components:
   - title: ЗМІ про Широківську громаду
     gender:
+      - genderTitle: Програма DOBRE про Широківську громаду
+        genderLink: >-
+          https://www.facebook.com/decentralizationisdobre/posts/pfbid069xzcP1g4nwfoCBRGNpEcqMHHDhS5MqqSrT5ZQGC7Goif5UC31YQrAzU1syv8Sgvl
       - genderTitle: '«Воєнні жнива на Запоріжжі: і піт, і сльози», — УКРІНФОРМ'
         genderLink: >-
           https://www.ukrinform.ua/rubric-regions/3881191-voenni-zniva-na-zaporizzi-i-pit-i-slozi.html
