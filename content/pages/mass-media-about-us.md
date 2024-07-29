@@ -1,7 +1,7 @@
 ---
 title: mass-media-about-us
 components:
-  - title: Гендерна рівність
+  - title: ЗМІ про Широківську громаду
     _template: GenderEquality
 ---
 
