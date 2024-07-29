@@ -4,6 +4,11 @@ components:
   - title: ЗМІ про Широківську громаду
     gender:
       - genderTitle: >-
+          «Життя на новому місці: адаптація ВПО у Широківській громаді», —
+          ТЕЛЕКАНАЛ МТМ
+        genderLink: >-
+          https://tvmtm.online/zhyttya-na-novomu-misczi-adaptacziya-vpo-u-shyrokivskij-gromadi/
+      - genderTitle: >-
           «Прифронтова Широківська громада: розвиток під час війни», — ТЕЛЕКАНАЛ
           МТМ 
         genderLink: >-
