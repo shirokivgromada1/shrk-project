@@ -3,6 +3,11 @@ title: mass-media-about-us
 components:
   - title: ЗМІ про Широківську громаду
     gender:
+      - genderTitle: >-
+          «У Запорізькій області почалися жнива: на який врожай очікують
+          аграрії», — СУСПІЛЬНЕ ЗАПОРІЖЖЯ
+        genderLink: >-
+          https://suspilne.media/zaporizhzhia/781533-u-zaporizkij-oblasti-pocalisa-zniva-na-akij-vrozaj-ocikuut-agrarii/
       - genderTitle: Програма DOBRE про Широківську громаду
         genderLink: >-
           https://www.facebook.com/decentralizationisdobre/posts/pfbid069xzcP1g4nwfoCBRGNpEcqMHHDhS5MqqSrT5ZQGC7Goif5UC31YQrAzU1syv8Sgvl
