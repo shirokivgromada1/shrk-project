@@ -4,6 +4,11 @@ components:
   - title: ЗМІ про Широківську громаду
     gender:
       - genderTitle: >-
+          «Прифронтова Широківська громада: розвиток під час війни», — ТЕЛЕКАНАЛ
+          МТМ 
+        genderLink: >-
+          https://tvmtm.online/pryfrontova-shyrokivska-gromada-rozvytok-pid-chas-vijny/
+      - genderTitle: >-
           «Зцілення громад» — навчальний проєкт, який змінює Україну», —
           УКРАЇНСЬКА ГРЕКО-КАТОЛИЦЬКА ЦЕРКВА
         genderLink: >-
