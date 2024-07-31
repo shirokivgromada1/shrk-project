@@ -4,6 +4,12 @@ components:
   - title: ЗМІ про Широківську громаду
     gender:
       - genderTitle: >-
+          «В яких умовах живуть переселенці з прифронтових регіонів? Гуртожитки
+          та приватні будинки для ВПО у Сумській та Запорізькій областях», —
+          КОРДОН.МЕДІА
+        genderLink: >-
+          https://kordon.media/v-yakyh-umovah-zhyvut-pereselenczi-pryfrontovyh-regioniv-gurtozhytky-ta-pryvatni-budynky-dlya-vpo-u-sumskij-ta-zaporizkij-oblastyah/
+      - genderTitle: >-
           «Життя на новому місці: адаптація ВПО у Широківській громаді», —
           ТЕЛЕКАНАЛ МТМ
         genderLink: >-
