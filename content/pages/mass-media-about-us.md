@@ -4,6 +4,11 @@ components:
   - title: ЗМІ про Широківську громаду
     gender:
       - genderTitle: >-
+          «Найкращі практики з надання адмінпослуг: керівники ЦНАП обмінялись
+          досвідом», — ЗАПОРІЗЬКА ОБЛАСНА ДЕРЖАВНА АДМІНІСТРАЦІЯ
+        genderLink: >-
+          https://www.zoda.gov.ua/news/70405/naykrashi-praktiki-z-nadannya-adminposlug-kerivniki-tsnap-obminyalis-dosvidom.html
+      - genderTitle: >-
           «Адаптація та допомога: помічник ветерана у Широківській громаді», —
           телеканал МТМ
         genderLink: >-
