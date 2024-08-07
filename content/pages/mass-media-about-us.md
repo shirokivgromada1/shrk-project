@@ -4,6 +4,11 @@ components:
   - title: ЗМІ про Широківську громаду
     gender:
       - genderTitle: >-
+          «Адаптація та допомога: помічник ветерана у Широківській громаді», —
+          телеканал МТМ
+        genderLink: >-
+          https://tvmtm.online/adaptacziya-ta-dopomoga-pomichnyk-veterana-u-shyrokivskij-gromadi/
+      - genderTitle: >-
           «В яких умовах живуть переселенці з прифронтових регіонів? Гуртожитки
           та приватні будинки для ВПО у Сумській та Запорізькій областях», —
           КОРДОН.МЕДІА
