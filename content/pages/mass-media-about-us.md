@@ -3,6 +3,9 @@ title: mass-media-about-us
 components:
   - title: ЗМІ про Широківську громаду
     gender:
+      - genderTitle: '«Ohne Waffen für die Ukraine», — DOMRADIO.DE (стаття німецькою)'
+        genderLink: >-
+          https://www.domradio.de/artikel/wie-die-mennoniten-widerstand-und-pazifismus-vereinen
       - genderTitle: >-
           «Найкращі практики з надання адмінпослуг: керівники ЦНАП обмінялись
           досвідом», — ЗАПОРІЗЬКА ОБЛАСНА ДЕРЖАВНА АДМІНІСТРАЦІЯ
