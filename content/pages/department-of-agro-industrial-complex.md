@@ -6,7 +6,7 @@ components:
     fullname: Блинова Людмила Юріївна
     schedule:
       title: Графік роботи
-      time: 'пн - п’т з 8:00 по 16:30'
+      time: 'пн - пт з 8:00 по 16:30'
     contacts:
       title: Контакти
       phone: 'тел: +38 (050) 577 22 98'
