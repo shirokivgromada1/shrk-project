@@ -2,7 +2,7 @@
 title: department-of-agro-industrial-complex
 components:
   - title: Відділ агропромислового комплексу  та земельних відносин
-    image: /uploads/silrada/departments/agr.png
+    image: ''
     fullname: Блинова Людмила Юріївна
     schedule:
       title: Графік роботи
@@ -50,9 +50,6 @@ components:
   - title: Документи
     notMain: true
     order:
-      - title: Генеральний план селища Світанок
-        url: 'https://shtg.gov.ua/gen-plan-svitanok'
-        buttonText: Детально
       - title: >-
           Звіти про виконання паспортів бюджетних програм міського бюджету за
           2017 рік
