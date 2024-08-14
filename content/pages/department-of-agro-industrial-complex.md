@@ -2,7 +2,7 @@
 title: department-of-agro-industrial-complex
 components:
   - title: Відділ агропромислового комплексу  та земельних відносин
-    image: /uploads/silrada/departments/agr.png
+    image: ''
     fullname: Блинова Людмила Юріївна
     schedule:
       title: Графік роботи
