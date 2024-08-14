@@ -3,17 +3,17 @@ title: department-of-agro-industrial-complex
 components:
   - title: Відділ агропромислового комплексу  та земельних відносин
     image: /uploads/silrada/departments/agr.png
-    fullname: Шахов Андрій Михайлович
+    fullname: Блинова Людмила Юріївна
     schedule:
       title: Графік роботи
       time: 'пн - п’т з 8:00 по 16:30'
     contacts:
       title: Контакти
-      phone: 'тел: +38 (095) 075 60 74'
+      phone: 'тел: +38 (050) 577 22 98'
       email: shyroke.otg@gmail.com
     workplace:
       title: Місце прийому
-      place: 'м. Запоріжжя, вул. Розенталь, 7'
+      place: 'м. Запоріжжя, вул. Героїв 37 батальйону, 12'
     powers:
       title: 'Повноваження відділу:'
       desc: >-
