@@ -3,6 +3,8 @@ title: gen-plan-svitanok
 components:
   - title: ГЕНЕРАЛЬНИЙ ПЛАН СЕЛИЩА СВІТАНОК
     order:
+      - title: СХЕМА ОРГАНІЗАЦІЇ РУХУ ТРАНСПОРТУ ТА ПІШОХОДІВ
+        link: /uploads/04_транспорт.pdf
       - title: СХЕМА №3
         link: /uploads/03_проект.pdf
       - title: 'СХЕМА №1 '
