@@ -7,8 +7,6 @@ components:
     descriptionEng: Find all services and information online
     previewImage: /uploads/home/photo.png
     readMoreLink: /head-of-the-community
-    freshNews:
-      - news: content/news/6fe6565b43007bfcf15db1579416c091a6859fdf.mdx
     _template: preview
   - title: Ми надаємо такі послуги
     titleEng: We provide the following services
