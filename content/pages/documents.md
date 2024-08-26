@@ -3,7 +3,6 @@ title: documents
 components:
   - title: Документи
     document:
-      - title: Рішення
       - title: Постійні комісії
         link: regular-checks
       - title: Регуляторні акти
@@ -14,6 +13,7 @@ components:
         link: competitions
       - title: Бюджет
         link: budget
+      - title: Рішення
       - title: Різне
         link: various
     _template: Documents
