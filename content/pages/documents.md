@@ -14,7 +14,7 @@ components:
       - title: Бюджет
         link: budget
       - title: Рішення
-        link: solution
+        link: 'https://shtg.gov.ua/community_solutions'
       - title: Різне
         link: various
     _template: Documents
