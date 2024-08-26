@@ -14,6 +14,7 @@ components:
       - title: Бюджет
         link: budget
       - title: Рішення
+        link: solution
       - title: Різне
         link: various
     _template: Documents
