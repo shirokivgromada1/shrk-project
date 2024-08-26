@@ -3,6 +3,7 @@ title: documents
 components:
   - title: Документи
     document:
+      - title: Рішення
       - title: Постійні комісії
         link: regular-checks
       - title: Регуляторні акти
@@ -17,9 +18,4 @@ components:
         link: various
     _template: Documents
 ---
-
-
-
-
-
 
