@@ -3,6 +3,8 @@ title: officially
 components:
   - title: Офіційно
     official:
+      - title: Сесійні засідання Широківської сільської ради
+        link: 'https://shtg.gov.ua/shyroke-session'
       - title: Документи
         link: documents
       - title: Громадські слухання
