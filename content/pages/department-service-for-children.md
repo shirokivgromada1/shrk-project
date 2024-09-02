@@ -9,7 +9,7 @@ components:
       time: 'пн-пт з 08:00 до 16:30 обідня перерва з 12:00 до 12:30'
     contacts:
       title: Контакти
-      phone: 'тел: +38 (099) 012 61 19 '
+      phone: 'тел: +38 (099) 012-61-19 '
       email: ssdshyroke@gmail.com
     workplace:
       title: 'Місце прийому '
