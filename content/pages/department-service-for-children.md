@@ -67,10 +67,6 @@ components:
           дитиною
       - name: "Готує акти та проводить перевірку\_ умов проживання дітей.\_"
     _template: SilradaDepartmentFunctions
-  - notMain: true
-    headline:
-      text: Новини
-    _template: news
   - title: Документи
     notMain: true
     order:
