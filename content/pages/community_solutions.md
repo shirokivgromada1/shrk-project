@@ -3,6 +3,12 @@ title: solutions
 components:
   - title: Рішення
     addition:
+      - additionTitle: Рішення №2
+        additionDescription: >-
+          Про перерахування чистого прибутку, отриманого від реалізації проекту
+          за договором державно-приватного партнерства
+        additionDownload:
+          file: /uploads/Рішення № 2( 1).docx
       - additionTitle: Рішення №1
         additionDescription: >-
           Про передачу майна комунальної власності у державну власність та
