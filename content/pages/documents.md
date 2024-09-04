@@ -13,7 +13,7 @@ components:
         link: competitions
       - title: Бюджет
         link: budget
-      - title: Рішення
+      - title: 'Рішення та проєкти рішень Широківської сільської ради '
         link: 'https://shtg.gov.ua/decision-of-the-shyrokyvska-village-counci'
       - title: Різне
         link: various
