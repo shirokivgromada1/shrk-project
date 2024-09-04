@@ -77,12 +77,6 @@ components:
           виконавчих органів Широківської сільської ради на 2024 рік»
         additionDownload:
           file: /uploads/Рішення № 7(01000100010).docx
-      - additionTitle: Проєкт рішення
-        additionDescription: >-
-          Про перерахування чистого прибутку, отриманого від реалізації проекту
-          за договором державно-приватного партнерства
-        additionDownload:
-          file: /uploads/Проєкт рішення ДПП.docx
     _template: leadership
 ---
 
