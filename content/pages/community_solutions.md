@@ -3,6 +3,13 @@ title: solutions
 components:
   - title: Рішення
     addition:
+      - additionTitle: Рішення №6
+        additionDescription: >-
+          Про розроблення технічної документації із землеустрою щодо поділу
+          земельної ділянки комунальної власності кадастровий номер
+          2322189000:05:001:5000
+        additionDownload:
+          file: /uploads/Рішення № 6(00001001).docx
       - additionTitle: Рішення №5
         additionDescription: >-
           Про внесення змін до рішення № 31 від 04.04.2024 року «Про
