@@ -14,7 +14,7 @@ components:
       - title: Бюджет
         link: budget
       - title: Рішення
-        link: 'https://shtg.gov.ua/community_solutions'
+        link: 'https://shtg.gov.ua/decision-of-the-shyrokyvska-village-counci'
       - title: Різне
         link: various
     _template: Documents
