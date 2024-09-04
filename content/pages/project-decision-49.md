@@ -3,6 +3,12 @@ title: project-decision-49
 components:
   - title: 'Проєкти рішень 49 позачергової сесії Широківської сільської ради '
     addition:
+      - additionTitle: ПРОЕКТ РІШЕННЯ
+        additionDescription: >-
+          Про перерахування чистого прибутку, отриманого від реалізації проекту
+          за договором державно-приватного партнерства
+        additionDownload:
+          file: /uploads/1200299302.docx
       - additionTitle: ПРОЄКТ РІШЕННЯ
         additionDescription: >-
           Про затвердження технічної документації щодо поділу та об’єднання
