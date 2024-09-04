@@ -1,7 +1,7 @@
 ---
 title: decision-of-the-shyrokyvska-village-counci
 components:
-  - title: sdfasdfsdf
+  - title: ''
     _template: vacanciesSections
 ---
 
