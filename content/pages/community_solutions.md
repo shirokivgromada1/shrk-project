@@ -1,7 +1,10 @@
 ---
 title: solutions
 components:
-  - title: Рішення
+  - title: >-
+      Рішення сорок дев’ятої позачергової сесії VIII скликання  Широківської
+      сільської ради Запорізького району Запорізької області «27» серпня 2024
+      року
     addition:
       - additionTitle: ''
         additionDescription: >-
