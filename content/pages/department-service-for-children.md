@@ -2,7 +2,7 @@
 title: department-service-for-children
 components:
   - title: Відділ «Служба у справах дітей»
-    image: /uploads/non.png
+    image: /uploads/влад рак.jpg
     fullname: Рак Владислав Валерійович
     schedule:
       title: Графік роботи
