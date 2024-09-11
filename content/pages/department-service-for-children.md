@@ -6,7 +6,7 @@ components:
     fullname: Рак Владислав Валерійович
     fullnameEng: Vladislav Rak
     employment:
-      title: 'Діяльність відділу '
+      title: 'ДІЯЛЬНІСТЬ ВІДДІЛУ '
       titleEng: Department's Activities
       item:
         - desc: >-
