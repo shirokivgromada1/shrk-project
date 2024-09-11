@@ -23,6 +23,7 @@ components:
       place: 'Місце прийому: м. Запоріжжя, вул. Розенталь, 7'
       placeEng: 'Reception Location: Zaporizhzhia, Rozental Street, 7'
       email: 'Пошта: shyroke.otg@gmail.com'
+      emailEng: 'Email: shyroke.otg@gmail.com'
     _template: CouncilSecretaryDesc
   - title: Відділ бухгалтерського обліку
     image: /uploads/silrada/departments/buh.png
