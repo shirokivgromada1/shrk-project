@@ -2,6 +2,20 @@
 title: accounting-department
 components:
   - title: Відділ бухгалтерського обліку
+    titleEng: Accounting Department
+    fullname: Свіріна Одарка Олександрівна
+    fullnameEng: Svirina Odarka
+    employment:
+      title: 'ПОВНОВАЖЕННЯ ВІДДІЛУ: '
+      titleEng: 'Departmental Authority:'
+      item:
+        - desc: >-
+            Бухгалтерія призначена для ведення бухгалтерського обліку. Вона
+            забезпечує сільську раду повною та неупередженою інформацією про
+            фінансове становище, результати діяльності та грошових коштів
+            підприємства.
+    _template: CouncilSecretaryDesc
+  - title: Відділ бухгалтерського обліку
     image: /uploads/silrada/departments/buh.png
     fullname: Свіріна Одарка Олександрівна
     schedule:
