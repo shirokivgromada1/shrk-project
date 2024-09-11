@@ -19,8 +19,8 @@ components:
       time: 'пн - пт з 8:00 до 16:30'
     contacts:
       title: Контакти
-      phone1: 'тел: +38 (068) 446 46 65'
-      phone1Eng: 'тел: +38 (068) 446 46 65'
+      phone1: 'тел: +38 (068) 446-46-65'
+      phone1Eng: +38 (068) 446-46-65
       place: 'Місце прийому: м. Запоріжжя, вул. Розенталь, 7'
       placeEng: 'Reception Location: Zaporizhzhia, Rozental Street, 7'
       email: 'Пошта: shyroke.otg@gmail.com'
