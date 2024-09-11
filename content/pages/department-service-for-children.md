@@ -1,6 +1,20 @@
 ---
 title: department-service-for-children
 components:
+  - title: відділ «Служба у справах дітей Широківської громади»
+    image: /uploads/влад рак1111.jpg
+    fullname: Рак Владислав Валерійович
+    fullnameEng: Vladislav Rak
+    employment:
+      title: Начальник відділу
+      titleEng: Head of Department
+    schedule:
+      title: Графік роботи
+      titleEng: Work Schedule
+      time: >-
+        пн-пт з 08:00 до 16:30 обідня перерва з 12:00 до 12:30 Графік особистого
+        прийому громадян чт з 09:00 до 12:00 та з 13:00 до 16:00
+    _template: CouncilSecretaryDesc
   - title: Відділ «Служба у справах дітей»
     image: /uploads/влад рак.jpg
     fullname: Рак Владислав Валерійович
