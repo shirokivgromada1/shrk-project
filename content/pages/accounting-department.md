@@ -20,32 +20,12 @@ components:
     contacts:
       title: Контакти
       phone1: 'тел: +38 (068) 446 46 65'
+      phone1Eng: 'тел: +38 (068) 446 46 65'
       place: 'Місце прийому: м. Запоріжжя, вул. Розенталь, 7'
       placeEng: 'Reception Location: Zaporizhzhia, Rozental Street, 7'
       email: 'Пошта: shyroke.otg@gmail.com'
       emailEng: 'Email: shyroke.otg@gmail.com'
     _template: CouncilSecretaryDesc
-  - title: Відділ бухгалтерського обліку
-    image: /uploads/silrada/departments/buh.png
-    fullname: Свіріна Одарка Олександрівна
-    schedule:
-      title: Графік роботи
-      time: 'пн - пт з 8:00 по 16:30'
-    contacts:
-      title: Контакти
-      phone: 'тел: +38 (068) 446 46 65'
-      email: shyroke.otg@gmail.com
-    workplace:
-      title: Місце прийому
-      place: 'м. Запоріжжя, вул. Розенталь, 7'
-    powers:
-      title: 'Повноваження відділу:'
-      desc: >-
-        Бухгалтерія призначена для ведення бухгалтерського обліку. Вона
-        забезпечує сільську раду повною та неупередженою інформацією про
-        фінансове становище, результати діяльності та грошових коштів
-        підприємства.
-    _template: SilradaDepartmentDesc
   - title: 'Основні функції відділу:'
     function:
       - name: Ведення бухгалтерського обліку
