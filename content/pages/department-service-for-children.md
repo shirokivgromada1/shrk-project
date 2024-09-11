@@ -28,7 +28,7 @@ components:
       phone1: 'тел: +38 (099) 012-61-19 '
       phone1Eng: '+38 (099) 012-61-19 '
       place: 'місто Запоріжжя, вулиця Героїв 37 батальйону, буд.12'
-      email: ssdshyroke@gmail.com
+      email: 'Пошта: ssdshyroke@gmail.com'
       emailEng: ssdshyroke@gmail.com
     _template: CouncilSecretaryDesc
   - title: Відділ «Служба у справах дітей»
