@@ -14,6 +14,9 @@ components:
             забезпечує сільську раду повною та неупередженою інформацією про
             фінансове становище, результати діяльності та грошових коштів
             підприємства.
+    schedule:
+      title: Графік роботи
+      time: 'пн - пт з 8:00 по 16:30'
     _template: CouncilSecretaryDesc
   - title: Відділ бухгалтерського обліку
     image: /uploads/silrada/departments/buh.png
