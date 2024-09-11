@@ -16,7 +16,7 @@ components:
             підприємства.
     schedule:
       title: Графік роботи
-      time: 'пн - пт з 8:00 по 16:30'
+      time: 'пн - пт з 8:00 до 16:30'
     _template: CouncilSecretaryDesc
   - title: Відділ бухгалтерського обліку
     image: /uploads/silrada/departments/buh.png
