@@ -17,6 +17,11 @@ components:
     schedule:
       title: Графік роботи
       time: 'пн - пт з 8:00 до 16:30'
+    contacts:
+      title: Контакти
+      phone1: 'тел: +38 (068) 446 46 65'
+      place: 'Місце прийому: м. Запоріжжя, вул. Розенталь, 7'
+      email: 'Пошта: shyroke.otg@gmail.com'
     _template: CouncilSecretaryDesc
   - title: Відділ бухгалтерського обліку
     image: /uploads/silrada/departments/buh.png
