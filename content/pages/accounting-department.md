@@ -21,6 +21,7 @@ components:
       title: Контакти
       phone1: 'тел: +38 (068) 446 46 65'
       place: 'Місце прийому: м. Запоріжжя, вул. Розенталь, 7'
+      placeEng: 'Reception Location: Zaporizhzhia, Rozental Street, 7'
       email: 'Пошта: shyroke.otg@gmail.com'
     _template: CouncilSecretaryDesc
   - title: Відділ бухгалтерського обліку
