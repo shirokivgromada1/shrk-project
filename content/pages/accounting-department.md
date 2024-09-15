@@ -3,6 +3,7 @@ title: accounting-department
 components:
   - title: Відділ бухгалтерського обліку
     titleEng: Accounting Department
+    image: /uploads/Дизайн без назви (2).png
     fullname: Свіріна Одарка Олександрівна
     fullnameEng: Svirina Odarka
     employment:
