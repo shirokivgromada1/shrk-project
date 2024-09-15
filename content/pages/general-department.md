@@ -19,6 +19,11 @@ components:
             village council, other structural units of the executive committee
             of the council, enterprises, institutions, organizations, and
             citizens
+    schedule:
+      title: Графік роботи
+      titleEng: Working Hours
+      time: 'пн - пт з 8:00 по 16:30'
+      timeEng: 'Monday to Friday, from 8:00 AM to 4:30 PM'
     _template: CouncilSecretaryDesc
   - title: Загальний відділ
     image: /uploads/silrada/departments/gen.png
