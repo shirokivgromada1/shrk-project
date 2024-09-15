@@ -34,26 +34,6 @@ components:
       email: 'Пошта: shyroke.otg@gmail.com'
       emailEng: 'Email: shyroke.otg@gmail.com'
     _template: CouncilSecretaryDesc
-  - title: Загальний відділ
-    image: /uploads/silrada/departments/gen.png
-    fullname: Захарченко Наталія Іванівна
-    schedule:
-      title: Графік роботи
-      time: 'пн - пт з 8:00 по 16:30'
-    contacts:
-      title: Контакти
-      phone: 'тел: +38 (098) 596 01 75'
-      email: shyroke.otg@gmail.com
-    workplace:
-      title: Місце прийому
-      place: 'м. Запоріжжя, вул. Розенталь, 7'
-    powers:
-      title: 'Повноваження відділу:'
-      desc: >-
-        Загальний відділ взаємодіє з відділами ради та іншими структурними
-        підрозділами виконавчого комітету ради, підприємствами, установами,
-        організаціями і громадянами.
-    _template: SilradaDepartmentDesc
   - title: 'Основні функції відділу:'
     function:
       - name: >-
