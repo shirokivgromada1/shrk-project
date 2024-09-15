@@ -7,7 +7,7 @@ components:
     fullname: Свіріна Одарка Олександрівна
     fullnameEng: Svirina Odarka
     employment:
-      title: 'ПОВНОВАЖЕННЯ ВІДДІЛУ: '
+      title: 'ДІЯЛЬНІСТЬ ВІДДІЛУ '
       titleEng: 'Departmental Authority:'
       item:
         - desc: >-
