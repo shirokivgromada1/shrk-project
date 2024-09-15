@@ -1,6 +1,31 @@
 ---
 title: department-of-education-of-shirokivska-hromada
 components:
+  - title: ВІДДІЛ ОСВІТИ
+    titleEng: Department of Education
+    image: /uploads/IMG_1036 (1).PNG
+    fullname: Іваніченко Денис Костянтинович
+    fullnameEng: Denis Ivanychenco
+    employment:
+      title: 'ДІЯЛЬНІСТЬ ВІДДІЛУ '
+      titleEng: Department Activities
+      item:
+        - desc: >-
+            Реалізація державної політики у сфері освіти та забезпечення якості
+            освіти на відповідній території, забезпечення доступності та
+            безоплатне здобуття дошкільної, повної загальної середньої освіти на
+            кожному її рівні, сприяння отриманню державних гарантій та
+            забезпечення соціального захисту, охорони життя, здоров'я та захист
+            прав працівників та здобувачів освіти.
+          descEng: >-
+            Implementation of state policy in the field of education and
+            ensuring the quality of education in the relevant territory,
+            ensuring accessibility and free acquisition of preschool and
+            complete general secondary education at each level, facilitating the
+            provision of state guarantees, and ensuring social protection,
+            protection of life, health, and the rights of both education
+            employees and learners.
+    _template: CouncilSecretaryDesc
   - title: Відділ освіти Широківської громади
     image: /uploads/silrada/departments/osv.png
     fullname: Іваніченко Денис Константинович
