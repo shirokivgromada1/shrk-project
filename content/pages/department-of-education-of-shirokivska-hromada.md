@@ -25,6 +25,11 @@ components:
             provision of state guarantees, and ensuring social protection,
             protection of life, health, and the rights of both education
             employees and learners.
+    schedule:
+      title: Графік роботи
+      titleEng: Working Hours
+      time: 'пн - пт з 8:00 до 16:30'
+      timeEng: 'Monday to Friday, from 8:00 AM to 4:30 PM'
     _template: CouncilSecretaryDesc
   - title: Відділ освіти Широківської громади
     image: /uploads/silrada/departments/osv.png
