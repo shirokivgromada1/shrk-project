@@ -27,7 +27,8 @@ components:
       titleEng: 'Contacts '
       phone1: 'тел: +38 (099) 012-61-19 '
       phone1Eng: '+38 (099) 012-61-19 '
-      place: 'місто Запоріжжя, вулиця Героїв 37 батальйону, буд.12'
+      place: 'Місце прийому: м. Запоріжжя, вул. Розенталь, 7'
+      placeEng: 'Reception Location: Zaporizhzhia, Rozental Street, 7'
       email: 'Пошта: ssdshyroke@gmail.com'
       emailEng: ssdshyroke@gmail.com
     _template: CouncilSecretaryDesc
