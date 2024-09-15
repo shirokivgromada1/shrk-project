@@ -9,6 +9,16 @@ components:
     employment:
       title: 'ДІЯЛЬНІСТЬ ВІДДІЛУ '
       titleEng: Department Activities
+      item:
+        - desc: >-
+            Загальний відділ взаємодіє з різними відділами сільської ради та
+            іншими структурними підрозділами виконавчого комітету ради,
+            підприємствами, установами, організаціями і громадянами.
+          descEng: >-
+            The General Department interacts with various departments of the
+            village council, other structural units of the executive committee
+            of the council, enterprises, institutions, organizations, and
+            citizens
     _template: CouncilSecretaryDesc
   - title: Загальний відділ
     image: /uploads/silrada/departments/gen.png
