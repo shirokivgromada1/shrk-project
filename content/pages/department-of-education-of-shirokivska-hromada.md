@@ -40,29 +40,6 @@ components:
       email: 'Пошта: shyroke.otg@gmail.com'
       emailEng: 'Email: shyroke.otg@gmail.com'
     _template: CouncilSecretaryDesc
-  - title: Відділ освіти Широківської громади
-    image: /uploads/silrada/departments/osv.png
-    fullname: Іваніченко Денис Константинович
-    schedule:
-      title: Графік роботи
-      time: 'пн - пт з 8:00 по 16:30'
-    contacts:
-      title: Контакти
-      phone: 'тел: +38 (066) 286 54 07'
-      email: shyroke.otg@gmail.com
-    workplace:
-      title: Місце прийому
-      place: 'м. Запоріжжя, вул. Розенталь, 7'
-    powers:
-      title: 'Повноваження відділу:'
-      desc: >-
-        Реалізація державної політики у сфері освіти та забезпечення якості
-        освіти на відповідній території, забезпечення доступності та безоплатне
-        здобуття дошкільної, повної загальної середньої освіти на кожному її
-        рівні, сприяння отриманню державних гарантій та забезпечення соціального
-        захисту, охорони життя, здоров'я та захист прав працівників та
-        здобувачів освіти.
-    _template: SilradaDepartmentDesc
   - title: 'Основні функції відділу:'
     function:
       - name: >-
