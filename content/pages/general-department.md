@@ -1,6 +1,15 @@
 ---
 title: general-department
 components:
+  - title: загальний відділ
+    titleEng: General Department
+    image: /uploads/загальний відділ.PNG
+    fullname: Захарченко Наталія Іванівна
+    fullnameEng: Natalia Zakharchenko
+    employment:
+      title: 'ДІЯЛЬНІСТЬ ВІДДІЛУ '
+      titleEng: Department Activities
+    _template: CouncilSecretaryDesc
   - title: Загальний відділ
     image: /uploads/silrada/departments/gen.png
     fullname: Захарченко Наталія Іванівна
