@@ -24,6 +24,15 @@ components:
       titleEng: Working Hours
       time: 'пн - пт з 8:00 по 16:30'
       timeEng: 'Monday to Friday, from 8:00 AM to 4:30 PM'
+    contacts:
+      title: Контакти
+      titleEng: Contacts
+      phone1: 'тел: +38 (098) 596-01-75'
+      phone1Eng: +38 (098) 596-01-75
+      place: 'Місце прийому: м. Запоріжжя, вул. Розенталь, 7'
+      placeEng: 'Reception Location: Zaporizhzhia, Rozental Street, 7'
+      email: 'Пошта: shyroke.otg@gmail.com'
+      emailEng: 'Email: shyroke.otg@gmail.com'
     _template: CouncilSecretaryDesc
   - title: Загальний відділ
     image: /uploads/silrada/departments/gen.png
