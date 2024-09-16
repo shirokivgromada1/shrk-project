@@ -35,27 +35,6 @@ components:
       email: 'Пошта: shyroke.otg@gmail.com'
       emailEng: 'Email: shyroke.otg@gmail.com'
     _template: CouncilSecretaryDesc
-  - title: Відділ агропромислового комплексу  та земельних відносин
-    image: ''
-    fullname: Блинова Людмила Юріївна
-    schedule:
-      title: Графік роботи
-      time: 'пн - пт з 8:00 по 16:30'
-    contacts:
-      title: Контакти
-      phone: 'тел: +38 (050) 577 22 98'
-      email: shyroke.otg@gmail.com
-    workplace:
-      title: Місце прийому
-      place: 'м. Запоріжжя, вул. Героїв 37 батальйону, 12'
-    powers:
-      title: 'Повноваження відділу:'
-      desc: >-
-        Відділ АПК та земельних відносин забезпечує реалізацію державної
-        аграрної політики, розроблення та виконання регіональних
-        інноваційно-інвестиційних та інших програм та прогнозів агропромислового
-        виробництва.
-    _template: SilradaDepartmentDesc
   - title: 'Основні функції відділу:'
     function:
       - name: >-
