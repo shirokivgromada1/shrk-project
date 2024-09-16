@@ -2,6 +2,40 @@
 title: department-of-agro-industrial-complex
 components:
   - title: Відділ агропромислового комплексу  та земельних відносин
+    titleEng: Department of Agro-Industrial Complex and Land Relations
+    image: /uploads/Блінова.png
+    fullname: Блинова Людмила Юріївна
+    fullnameEng: 'Ludmila Blinova '
+    employment:
+      title: 'ДІЯЛЬНІСТЬ ВІДДІЛУ '
+      titleEng: Department Activities
+      item:
+        - desc: >-
+            Відділ АПК та земельних відносин забезпечує реалізацію державної
+            аграрної політики, розроблення та виконання регіональних
+            інноваційно-інвестиційних та інших програм та прогнозів
+            агропромислового виробництва.
+          descEng: >-
+            The Department of Agro-Industrial Complex and Land Relations is
+            responsible for implementing state agrarian policy, developing and
+            executing regional innovation-investment and other programs and
+            forecasts for agro-industrial production.
+    schedule:
+      title: 'Графік роботи '
+      titleEng: Working Hours
+      time: 'пн - пт з 8:00 по 16:30'
+      timeEng: 'Monday to Friday, from 8:00 AM to 4:30 PM'
+    contacts:
+      title: 'Контакти '
+      titleEng: 'Contacts '
+      phone1: 'тел: +38 (050) 577-22-98'
+      phone1Eng: +38 (050) 577-22-98
+      place: 'Місце прийому: м. Запоріжжя, вул. Розенталь, 7'
+      placeEng: 'Reception Location: Zaporizhzhia, Rozental Street, 7'
+      email: 'Пошта: shyroke.otg@gmail.com'
+      emailEng: 'Email: shyroke.otg@gmail.com'
+    _template: CouncilSecretaryDesc
+  - title: Відділ агропромислового комплексу  та земельних відносин
     image: ''
     fullname: Блинова Людмила Юріївна
     schedule:
