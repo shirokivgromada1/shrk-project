@@ -4,6 +4,28 @@ components:
   - title: >-
       Відділ з питань контролю та інспектування,  взаємодії з правоохоронними
       органами,  цивільного захисту та військового обліку
+    titleEng: >-
+      Department of Control and Inspection, Interaction with Law Enforcement
+      Agencies, Civil Protection, and Military Registration
+    image: /uploads/IMG_1048.PNG
+    fullname: Кіслухін Євген Олександрович
+    fullnameEng: Yevhen Kislyukhin
+    employment:
+      title: 'ДІЯЛЬНІСТЬ ВІДДІЛУ '
+      titleEng: Department Activities
+      item:
+        - desc: "Відділ з питань контролю та інспектування забезпечує захист прав і законних жителів громади, установ та підприємств. Взаємодіє з правоохоронними органами, цивільного захисту та військового обліку. Забезпечує дотримання правил\_охорони праці, екологічної безпеки і благоустрою."
+          descEng: >-
+            The Department of Control and Inspection ensures the protection of
+            the rights and legal interests of the community's residents,
+            institutions, and businesses. It interacts with law enforcement
+            agencies, civil protection services, and military registration
+            authorities. It ensures compliance with occupational safety
+            regulations, environmental safety standards, and public amenities.
+    _template: CouncilSecretaryDesc
+  - title: >-
+      Відділ з питань контролю та інспектування,  взаємодії з правоохоронними
+      органами,  цивільного захисту та військового обліку
     image: /uploads/silrada/departments/ins.png
     fullname: Кіслухін Євген Олександрович
     schedule:
@@ -18,7 +40,7 @@ components:
       place: 'м. Запоріжжя, вул. Розенталь, 7'
     powers:
       title: 'Повноваження відділу:'
-      desc: "Відділ з питань контролю та інспектування забезпечує захист прав і законних жителів громади, установ та підприємств. Взаємодіє з правоохоронними органами, цивільного захисту та військового обліку. Забезпечує дотримання правил\_ охорони ПРАЦі, екологічної безпеки і благоустрою."
+      desc: "Відділ з питань контролю та інспектування забезпечує захист прав і законних жителів громади, установ та підприємств. Взаємодіє з правоохоронними органами, цивільного захисту та військового обліку. Забезпечує дотримання правил\_охорони праці, екологічної безпеки і благоустрою."
     _template: SilradaDepartmentDesc
   - title: 'Основні функції відділу:'
     function:
