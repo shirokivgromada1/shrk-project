@@ -37,25 +37,6 @@ components:
       email: 'Пошта: shyroke.otg@gmail.com'
       emailEng: 'Email: shyroke.otg@gmail.com'
     _template: CouncilSecretaryDesc
-  - title: >-
-      Відділ з питань контролю та інспектування,  взаємодії з правоохоронними
-      органами,  цивільного захисту та військового обліку
-    image: /uploads/silrada/departments/ins.png
-    fullname: Кіслухін Євген Олександрович
-    schedule:
-      title: Графік роботи
-      time: 'пн - пт з 8:00 по 16:30'
-    contacts:
-      title: Контакти
-      phone: 'тел: +38 (067) 707 72 06'
-      email: shyroke.otg@gmail.com
-    workplace:
-      title: Місце прийому
-      place: 'м. Запоріжжя, вул. Розенталь, 7'
-    powers:
-      title: 'Повноваження відділу:'
-      desc: "Відділ з питань контролю та інспектування забезпечує захист прав і законних жителів громади, установ та підприємств. Взаємодіє з правоохоронними органами, цивільного захисту та військового обліку. Забезпечує дотримання правил\_охорони праці, екологічної безпеки і благоустрою."
-    _template: SilradaDepartmentDesc
   - title: 'Основні функції відділу:'
     function:
       - name: >-
