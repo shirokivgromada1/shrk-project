@@ -1,6 +1,26 @@
 ---
 title: fiscal-department
 components:
+  - title: фінансовий відділ
+    titleEng: Finance Department
+    image: /uploads/IMG_1049 (1).PNG
+    fullname: Нічіпорчук Людмила Анатоліївна
+    fullnameEng: Ludmila Nichiporchuk
+    employment:
+      title: 'ДІЯЛЬНІСТЬ ВІДДІЛУ '
+      titleEng: Department Activities
+      item:
+        - desc: >-
+            Відділ утворено для здійснення організаційно-функціональних
+            повноважень у фінансовій сфері з метою забезпечення збалансованого
+            економічного та соціального розвитку громади, ефективного
+            використання її фінансових ресурсів.
+          descEng: >-
+            The department was established to carry out organizational and
+            functional responsibilities in the financial sphere with the aim of
+            ensuring balanced economic and social development of the community
+            and the effective use of its financial resources.
+    _template: CouncilSecretaryDesc
   - title: Фінансовий відділ
     image: /uploads/Людмила Нічіпорчук.PNG
     fullname: Нічіпорчук Людмила Анатоліївна
