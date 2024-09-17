@@ -35,27 +35,6 @@ components:
       email: 'Пошта: shyroke.otg@gmail.com'
       emailEng: Emai
     _template: CouncilSecretaryDesc
-  - title: Юридичний відділ
-    image: /uploads/silrada/departments/jur.png
-    fullname: "Литвиненко Жанна Миколаївна\_"
-    schedule:
-      title: Графік роботи
-      time: 'пн - пт з 8:00 по 16:30'
-    contacts:
-      title: Контакти
-      phone: 'тел: +38 (097) 364 70 16'
-      email: shyroke.otg@gmail.com
-    workplace:
-      title: Місце прийому
-      place: 'м. Запоріжжя, вул. Розенталь, 7'
-    powers:
-      title: 'Повноваження відділу:'
-      desc: >-
-        Основним завданням юридичного відділу є організація правової роботи,
-        спрямованої на правильне застосування, неухильне дотримання та
-        запобігання невиконанню вимог актів законодавства, а також представлення
-        інтересів в судах.
-    _template: SilradaDepartmentDesc
   - title: 'Основні функції відділу:'
     function:
       - name: >-
