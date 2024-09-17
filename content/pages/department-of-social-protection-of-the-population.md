@@ -20,6 +20,11 @@ components:
             and individuals in difficult life circumstances, orphans and
             children deprived of parental care, low-income individuals, and
             other vulnerable groups.
+    schedule:
+      title: 'Графік роботи '
+      titleEng: Working Hours
+      time: 'пн - пт з 8:00 до 16:30'
+      timeEng: 'Monday to Friday, from 8:00 AM to 4:30 PM'
     _template: CouncilSecretaryDesc
   - title: Відділ соціального захисту населення
     image: /uploads/silrada/departments/soc.png
