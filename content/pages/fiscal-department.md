@@ -20,6 +20,11 @@ components:
             functional responsibilities in the financial sphere with the aim of
             ensuring balanced economic and social development of the community
             and the effective use of its financial resources.
+    schedule:
+      title: 'Графік роботи '
+      titleEng: Working Hours
+      time: 'пн - пт з 8:00 до 16:30'
+      timeEng: 'Monday to Friday, from 8:00 AM to 4:30 PM'
     _template: CouncilSecretaryDesc
   - title: Фінансовий відділ
     image: /uploads/Людмила Нічіпорчук.PNG
