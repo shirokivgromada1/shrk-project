@@ -27,6 +27,15 @@ components:
       titleEng: Working Hours
       time: 'пн - пт з 8:00 до 16:30'
       timeEng: 'Monday to Friday, from 8:00 AM to 4:30 PM'
+    contacts:
+      title: 'Контакти '
+      titleEng: 'Contacts '
+      phone1: 'тел: +38 (067) 707-72-06'
+      phone1Eng: +38 (067) 707-72-06
+      place: 'Місце прийому: м. Запоріжжя, вул. Розенталь, 7'
+      placeEng: 'Reception Location: Zaporizhzhia, Rozental Street, 7'
+      email: 'Пошта: shyroke.otg@gmail.com'
+      emailEng: 'Email: shyroke.otg@gmail.com'
     _template: CouncilSecretaryDesc
   - title: >-
       Відділ з питань контролю та інспектування,  взаємодії з правоохоронними
