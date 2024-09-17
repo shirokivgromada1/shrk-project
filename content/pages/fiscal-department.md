@@ -35,27 +35,6 @@ components:
       email: 'Пошта: shyroke.otg@gmail.com'
       emailEng: 'Email: shyroke.otg@gmail.com'
     _template: CouncilSecretaryDesc
-  - title: Фінансовий відділ
-    image: /uploads/Людмила Нічіпорчук.PNG
-    fullname: Нічіпорчук Людмила Анатоліївна
-    schedule:
-      title: Графік роботи
-      time: 'пн - пт з 8:00 по 16:30'
-    contacts:
-      title: Контакти
-      phone: 'тел: +38 (061) 286 21 35'
-      email: shyroke.otg@gmail.com
-    workplace:
-      title: Місце прийому
-      place: 'м. Запоріжжя, вул. Розенталь, 7'
-    powers:
-      title: 'Повноваження відділу:'
-      desc: >-
-        Відділ утворено для здійснення організаційно-функціональних повноважень
-        у фінансовій сфері з метою забезпечення збалансованого економічного та
-        соціального розвитку громади, ефективного використання її фінансових
-        ресурсів.
-    _template: SilradaDepartmentDesc
   - title: 'Основні функції відділу:'
     function:
       - name: >-
