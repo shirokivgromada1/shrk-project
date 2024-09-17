@@ -22,6 +22,11 @@ components:
             agencies, civil protection services, and military registration
             authorities. It ensures compliance with occupational safety
             regulations, environmental safety standards, and public amenities.
+    schedule:
+      title: 'Графік роботи '
+      titleEng: Working Hours
+      time: 'пн - пт з 8:00 до 16:30'
+      timeEng: 'Monday to Friday, from 8:00 AM to 4:30 PM'
     _template: CouncilSecretaryDesc
   - title: >-
       Відділ з питань контролю та інспектування,  взаємодії з правоохоронними
