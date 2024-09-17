@@ -2,6 +2,26 @@
 title: department-of-social-protection-of-the-population
 components:
   - title: Відділ соціального захисту населення
+    titleEng: Department of Social Protection
+    image: /uploads/IMG_1043.PNG
+    fullname: Малишкіна Наталя Сергіївна
+    fullnameEng: Natalia Malishkina
+    employment:
+      title: 'ДІЯЛЬНІСТЬ ВІДДІЛУ '
+      titleEng: Department Activities
+      item:
+        - desc: "Відділ соціального захисту Широківської сільської ради реалізовує державну політику у сфері соціального захисту населення, забезпечує виконання на території Широківської територіальної громади повноважень у сфері: соціальної підтримки та надання соціальних послуг особам похилого віку, особам з інвалідністю, сім’ям та особам,\_ які перебувають у складних життєвих обставинах, дітям-сиротам та дітям позбавлених батьківського піклування, малозабезпеченим та іншим вразливим верствам населення."
+          descEng: >-
+            The Social Protection Department of the Shyrokyivka Village Council
+            implements state policy in the field of social protection, ensuring
+            the execution of responsibilities in the Shyrokyivka Territorial
+            Community in areas such as: social support and provision of social
+            services to elderly individuals, people with disabilities, families
+            and individuals in difficult life circumstances, orphans and
+            children deprived of parental care, low-income individuals, and
+            other vulnerable groups.
+    _template: CouncilSecretaryDesc
+  - title: Відділ соціального захисту населення
     image: /uploads/silrada/departments/soc.png
     fullname: Малишкіна Наталя Сергіївна
     schedule:
