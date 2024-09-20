@@ -44,8 +44,7 @@ components:
       - title: 'Денис Пуц, Новодніпровка'
         url: 'https://shtg.gov.ua/news/791c0eff4057f4415d96aba374a148400d6a1e5a'
       - title: 'Данило Сабіров, Новопетрівка'
-        url: >-
-          https://www.facebook.com/shtg.gov.ua/posts/pfbid02vPwUn6LGyJHJRXiDmrxCri2ULFmCrrxhWbEfM2TribS3jmpRY6MMyPDev493JjiGl
+        url: 'https://shtg.gov.ua/news/8f672a8c09d7e2203d458faa57347fc224ea281c'
       - title: 'Ігор Лихолат, Дніпрельстан'
         url: 'https://shtg.gov.ua/news/02b3a3ee524b793dd567520782633dfb5430c0af'
     _template: SocialProtection
