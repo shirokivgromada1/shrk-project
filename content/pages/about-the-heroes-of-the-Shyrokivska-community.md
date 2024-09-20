@@ -16,8 +16,7 @@ components:
       - title: 'Роман Топчій, Веселе'
         url: 'https://shtg.gov.ua/news/088ff4c8c0bda9d1a694a2e771411545d5b31612'
       - title: 'Кирило Кошовий, Миколай-Поле'
-        url: >-
-          https://www.facebook.com/shtg.gov.ua/posts/pfbid0ky8GYZGt47dyBggLTnHEoVHkyNYAYatBcqYXYBSpgJhEmMQF7j4qWkrhTJiVHE3ol
+        url: 'https://shtg.gov.ua/news/ffebfa691cea2337f377b85aeada566f72859531'
       - title: 'Денис Пуц, Новодніпровка'
         url: >-
           https://www.facebook.com/shtg.gov.ua/posts/pfbid02SzH3EpmhnNd8DBHfMt8DA2TfyrnMUvLXEVkzninigAY68fKg3fRxvMYKpVhae3Tvl
