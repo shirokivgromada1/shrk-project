@@ -8,6 +8,8 @@ components:
       життя, боронячи Україну від російської агресії*
     links:
       - title: 'Андрій Вовк, Долинівка'
+        url: >-
+          https://shtg.gov.ua/news/9935aed91a0e6ef592960a039c8d15a9cc5a9a69?category=
       - title: 'Віталій Мосієнко, Миколай-Поле'
         url: 'https://shtg.gov.ua/news/5466e09f413690002f499aeb8fa8ca050c8eb2f5'
       - title: 'Олександр Нестерук , Відрадне '
