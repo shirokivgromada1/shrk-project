@@ -7,6 +7,9 @@ components:
       ### *На цій сторінці ми зібрали всіх жителів громади, які віддали своє
       життя, боронячи Україну від російської агресії*
     links:
+      - title: 'Олександр Сонич, Августинівка'
+        url: >-
+          https://www.facebook.com/shtg.gov.ua/posts/pfbid02hHegTHZfx6XqYQNTTHaBgRTtTbpAyrU9foS5EJiv1ujbf4Davu5Jjk8W1fUsMcp8l
       - title: 'Юрій Патраш, Новопетрівка'
         url: >-
           https://www.facebook.com/shtg.gov.ua/posts/pfbid0333ozRX9V2UuUREHAzLQRW64UaZN1xAsDm89RhtM2axnBuTm48Fs6mY46SN3fH71ol
