@@ -23,8 +23,7 @@ components:
         url: >-
           https://www.facebook.com/shtg.gov.ua/posts/pfbid02vPwUn6LGyJHJRXiDmrxCri2ULFmCrrxhWbEfM2TribS3jmpRY6MMyPDev493JjiGl
       - title: 'Ігор Лихолат, Дніпрельстан'
-        url: >-
-          https://www.facebook.com/shtg.gov.ua/posts/pfbid0vLtA6QTeZyofHBgxfGcBog53dA4vLzajg9TAijRUj1zppig3Gh19FPPvaQUPzAzLl
+        url: 'https://shtg.gov.ua/news/02b3a3ee524b793dd567520782633dfb5430c0af'
     _template: SocialProtection
 ---
 
