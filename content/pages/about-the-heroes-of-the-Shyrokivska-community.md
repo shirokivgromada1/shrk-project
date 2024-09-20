@@ -8,6 +8,8 @@ components:
       життя, боронячи Україну від російської агресії*
     links:
       - title: 'Володимир Сташенко, Відрадне '
+        url: >-
+          https://shtg.gov.ua/admin/index.html#/~/news/ae65359607b7d8ff41989116a52d863da595a77b
       - title: 'Сергій Аніченко, Миколай-Поле'
         url: 'https://shtg.gov.ua/news/c7240a2248543543faea03781a91b84058d87cb4'
       - title: 'Максим Хмель, Надія'
