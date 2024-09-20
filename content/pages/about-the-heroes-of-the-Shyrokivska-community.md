@@ -8,6 +8,7 @@ components:
       життя, боронячи Україну від російської агресії*
     links:
       - title: 'Денис Левашов, Петропіль'
+        url: 'https://shtg.gov.ua/news/0868a25dd88bdacf275cffc67a6436aea27608dc'
       - title: 'Андрій Попов, Веселе'
         url: 'https://shtg.gov.ua/news/7405af9f2f3ad76adbe98f0cc2160d601a89c9c1'
       - title: 'Володимир Сташенко, Відрадне '
