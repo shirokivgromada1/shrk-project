@@ -14,8 +14,7 @@ components:
       - title: 'Юрій Патраш, Новопетрівка'
         url: 'https://shtg.gov.ua/news/792123ad7b7212feb1449209a382183359fb2d23'
       - title: 'Роман Топчій, Веселе'
-        url: >-
-          https://www.facebook.com/shtg.gov.ua/posts/pfbid02ntSaMFnWkytJrUUmkkwPuYPb5jWa3P942VHNmTiVtRQgLdgHVrkSxSn9WUuhWMQvl
+        url: 'https://shtg.gov.ua/news/088ff4c8c0bda9d1a694a2e771411545d5b31612'
       - title: 'Кирило Кошовий, Миколай-Поле'
         url: >-
           https://www.facebook.com/shtg.gov.ua/posts/pfbid0ky8GYZGt47dyBggLTnHEoVHkyNYAYatBcqYXYBSpgJhEmMQF7j4qWkrhTJiVHE3ol
