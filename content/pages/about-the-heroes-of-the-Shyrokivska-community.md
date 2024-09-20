@@ -8,6 +8,7 @@ components:
       життя, боронячи Україну від російської агресії*
     links:
       - title: 'Максим Хмель, Надія'
+        url: 'https://shtg.gov.ua/news/69997a0576dfd1dae4595c69657713cc8eee2d7e'
       - title: 'Андрій Авраменко, Лукашеве'
         url: 'https://shtg.gov.ua/news/a0ef8061a865b5bfd10ea13af9a501fb146d6db3'
       - title: 'Олександр Піскун, Ручаївка'
