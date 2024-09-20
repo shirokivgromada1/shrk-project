@@ -8,6 +8,7 @@ components:
       життя, боронячи Україну від російської агресії*
     links:
       - title: 'Олександр Піскун, Ручаївка'
+        url: 'https://shtg.gov.ua/news/ef3a77bacd9ace6c948361ceab80a4751f04ad05'
       - title: 'Володимир Федан, Новопетрівка '
         url: 'https://shtg.gov.ua/news/b77bcbeb7a5881120c98785e8fd250b0b83a7fde'
       - title: 'Олександр Сонич, Августинівка'
