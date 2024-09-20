@@ -2,7 +2,7 @@
 title: about-the-heroes-of-the-Shyrokivska-community
 components:
   - title: Герої Широківської громади
-    image: /uploads/герої сайт.png
+    image: /uploads/Вічна пам’ять та слава героям.png
     desc: >
       ### *На цій сторінці ми зібрали всіх жителів громади, які віддали своє
       життя, боронячи Україну від російської агресії*
