@@ -8,6 +8,7 @@ components:
       життя, боронячи Україну від російської агресії*
     links:
       - title: 'Андрій Попов, Веселе'
+        url: 'https://shtg.gov.ua/news/7405af9f2f3ad76adbe98f0cc2160d601a89c9c1'
       - title: 'Володимир Сташенко, Відрадне '
         url: >-
           https://shtg.gov.ua/admin/index.html#/~/news/ae65359607b7d8ff41989116a52d863da595a77b
