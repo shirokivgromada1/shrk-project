@@ -12,8 +12,7 @@ components:
       - title: 'Олександр Сонич, Августинівка'
         url: 'https://shtg.gov.ua/news/c85d4ae142bef84ee0113f1353fd87e15840d3a8'
       - title: 'Юрій Патраш, Новопетрівка'
-        url: >-
-          https://www.facebook.com/shtg.gov.ua/posts/pfbid0333ozRX9V2UuUREHAzLQRW64UaZN1xAsDm89RhtM2axnBuTm48Fs6mY46SN3fH71ol
+        url: 'https://shtg.gov.ua/news/792123ad7b7212feb1449209a382183359fb2d23'
       - title: 'Роман Топчій, Веселе'
         url: >-
           https://www.facebook.com/shtg.gov.ua/posts/pfbid02ntSaMFnWkytJrUUmkkwPuYPb5jWa3P942VHNmTiVtRQgLdgHVrkSxSn9WUuhWMQvl
