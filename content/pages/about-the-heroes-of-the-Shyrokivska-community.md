@@ -8,6 +8,7 @@ components:
       життя, боронячи Україну від російської агресії*
     links:
       - title: 'Андрій Авраменко, Лукашеве'
+        url: 'https://shtg.gov.ua/news/a0ef8061a865b5bfd10ea13af9a501fb146d6db3'
       - title: 'Олександр Піскун, Ручаївка'
         url: 'https://shtg.gov.ua/news/ef3a77bacd9ace6c948361ceab80a4751f04ad05'
       - title: 'Володимир Федан, Новопетрівка '
