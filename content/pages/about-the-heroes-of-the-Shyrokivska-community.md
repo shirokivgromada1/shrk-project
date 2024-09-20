@@ -18,8 +18,7 @@ components:
       - title: 'Кирило Кошовий, Миколай-Поле'
         url: 'https://shtg.gov.ua/news/ffebfa691cea2337f377b85aeada566f72859531'
       - title: 'Денис Пуц, Новодніпровка'
-        url: >-
-          https://www.facebook.com/shtg.gov.ua/posts/pfbid02SzH3EpmhnNd8DBHfMt8DA2TfyrnMUvLXEVkzninigAY68fKg3fRxvMYKpVhae3Tvl
+        url: 'https://shtg.gov.ua/news/791c0eff4057f4415d96aba374a148400d6a1e5a'
       - title: 'Данило Сабіров, Новопетрівка'
         url: >-
           https://www.facebook.com/shtg.gov.ua/posts/pfbid02vPwUn6LGyJHJRXiDmrxCri2ULFmCrrxhWbEfM2TribS3jmpRY6MMyPDev493JjiGl
