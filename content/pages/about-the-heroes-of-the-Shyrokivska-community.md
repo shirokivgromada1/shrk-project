@@ -8,6 +8,7 @@ components:
       життя, боронячи Україну від російської агресії*
     links:
       - title: 'Сергій Аніченко, Миколай-Поле'
+        url: 'https://shtg.gov.ua/news/c7240a2248543543faea03781a91b84058d87cb4'
       - title: 'Максим Хмель, Надія'
         url: 'https://shtg.gov.ua/news/69997a0576dfd1dae4595c69657713cc8eee2d7e'
       - title: 'Андрій Авраменко, Лукашеве'
