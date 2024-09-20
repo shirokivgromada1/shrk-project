@@ -7,6 +7,9 @@ components:
       ### *На цій сторінці ми зібрали всіх жителів громади, які віддали своє
       життя, боронячи Україну від російської агресії*
     links:
+      - title: 'Патраш Юрій Васильович, Новопетрівка'
+        url: >-
+          https://www.facebook.com/shtg.gov.ua/posts/pfbid0333ozRX9V2UuUREHAzLQRW64UaZN1xAsDm89RhtM2axnBuTm48Fs6mY46SN3fH71ol
       - title: 'Топчій Роман Миколайович, Веселе'
         url: >-
           https://www.facebook.com/shtg.gov.ua/posts/pfbid02ntSaMFnWkytJrUUmkkwPuYPb5jWa3P942VHNmTiVtRQgLdgHVrkSxSn9WUuhWMQvl
