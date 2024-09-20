@@ -10,8 +10,7 @@ components:
       - title: 'Федан Володимир, Новопетрівка '
         url: 'https://shtg.gov.ua/news/b77bcbeb7a5881120c98785e8fd250b0b83a7fde'
       - title: 'Олександр Сонич, Августинівка'
-        url: >-
-          https://www.facebook.com/shtg.gov.ua/posts/pfbid02hHegTHZfx6XqYQNTTHaBgRTtTbpAyrU9foS5EJiv1ujbf4Davu5Jjk8W1fUsMcp8l
+        url: 'https://shtg.gov.ua/news/c85d4ae142bef84ee0113f1353fd87e15840d3a8'
       - title: 'Юрій Патраш, Новопетрівка'
         url: >-
           https://www.facebook.com/shtg.gov.ua/posts/pfbid0333ozRX9V2UuUREHAzLQRW64UaZN1xAsDm89RhtM2axnBuTm48Fs6mY46SN3fH71ol
