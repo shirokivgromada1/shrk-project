@@ -8,8 +8,7 @@ components:
       життя, боронячи Україну від російської агресії*
     links:
       - title: 'Федан Володимир, Новопетрівка '
-        url: >-
-          https://shtg.gov.ua/admin/index.html#/~/news/b77bcbeb7a5881120c98785e8fd250b0b83a7fde
+        url: 'https://shtg.gov.ua/news/b77bcbeb7a5881120c98785e8fd250b0b83a7fde'
       - title: 'Олександр Сонич, Августинівка'
         url: >-
           https://www.facebook.com/shtg.gov.ua/posts/pfbid02hHegTHZfx6XqYQNTTHaBgRTtTbpAyrU9foS5EJiv1ujbf4Davu5Jjk8W1fUsMcp8l
