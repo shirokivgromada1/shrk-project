@@ -7,6 +7,9 @@ components:
       ### *На цій сторінці ми зібрали всіх жителів громади, які віддали своє
       життя, боронячи Україну від російської агресії*
     links:
+      - title: 'Федан Володимир, Новопетрівка'
+        url: >-
+          https://www.facebook.com/shtg.gov.ua/posts/pfbid02ftqQcYhYnzZYu988k4fr37Hff3b4Wfv5885AooiocrArUzQBSszHFxryQ9GXvELHl
       - title: 'Олександр Сонич, Августинівка'
         url: >-
           https://www.facebook.com/shtg.gov.ua/posts/pfbid02hHegTHZfx6XqYQNTTHaBgRTtTbpAyrU9foS5EJiv1ujbf4Davu5Jjk8W1fUsMcp8l
