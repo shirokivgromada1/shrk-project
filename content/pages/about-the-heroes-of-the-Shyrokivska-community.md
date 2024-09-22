@@ -21,8 +21,7 @@ components:
       - title: 'Андрій Попов, Веселе'
         url: 'https://shtg.gov.ua/news/7405af9f2f3ad76adbe98f0cc2160d601a89c9c1'
       - title: 'Володимир Сташенко, Відрадне '
-        url: >-
-          https://shtg.gov.ua/admin/index.html#/~/news/ae65359607b7d8ff41989116a52d863da595a77b
+        url: 'https://shtg.gov.ua/news/ae65359607b7d8ff41989116a52d863da595a77b'
       - title: 'Сергій Аніченко, Миколай-Поле'
         url: 'https://shtg.gov.ua/news/c7240a2248543543faea03781a91b84058d87cb4'
       - title: 'Максим Хмель, Надія'
