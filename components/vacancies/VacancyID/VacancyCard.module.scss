@@ -17,8 +17,8 @@
   &__backward {
     position: absolute;
     left: 4.86%;
+    display: block;
     & > a {
-      display: inline-block;
       height: 100%;
       & > svg {
         transform: scale(1.5);
@@ -49,6 +49,9 @@
       display: flex;
       justify-content: center;
       margin-bottom: 30px;
+      & > span{
+        width: 100% !important;
+      }
     }
     &_announceTitle {
       text-align: center;
