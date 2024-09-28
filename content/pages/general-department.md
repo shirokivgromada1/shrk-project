@@ -13,11 +13,7 @@ components:
         - desc: >-
             Загальний відділ здійснює взаємодію з усіма структурними
             підрозділами сільської ради, а також з зовнішніми партнерами.
-          descEng: >-
-            The General Department interacts with various departments of the
-            village council, other structural units of the executive committee
-            of the council, enterprises, institutions, organizations, and
-            citizens
+          descEng: ' The general department interacts with all structural units of the village council, as well as with external partners.'
     schedule:
       title: Графік роботи
       titleEng: Working Hours
