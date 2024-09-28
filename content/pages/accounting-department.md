@@ -11,10 +11,9 @@ components:
       titleEng: 'Departmental Authority:'
       item:
         - desc: >-
-            Бухгалтерія призначена для ведення бухгалтерського обліку. Вона
-            забезпечує сільську раду повною та неупередженою інформацією про
-            фінансове становище, результати діяльності та грошових коштів
-            підприємства.
+            Бухгалтерія веде фінансовий облік сільської ради і дає повну картину
+            її фінансового стану.
+          descEng: ' The accounting department maintains the financial records of the village council and provides a complete overview of its financial condition.'
     schedule:
       title: Графік роботи
       time: 'пн - пт з 8:00 до 16:30'
