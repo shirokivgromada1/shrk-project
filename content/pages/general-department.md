@@ -29,7 +29,7 @@ components:
       email: 'Пошта: shyroke.otg@gmail.com'
       emailEng: 'Email: shyroke.otg@gmail.com'
     _template: CouncilSecretaryDesc
-  - title: 'Основні функції відділу:'
+  - title: 'Повноваження відділу:'
     function:
       - name: >-
           Забезпечення єдиної системи діловодства в виконавчому комітеті
