@@ -11,9 +11,8 @@ components:
       titleEng: Department Activities
       item:
         - desc: >-
-            Загальний відділ взаємодіє з різними відділами сільської ради та
-            іншими структурними підрозділами виконавчого комітету ради,
-            підприємствами, установами, організаціями і громадянами.
+            Загальний відділ здійснює взаємодію з усіма структурними
+            підрозділами сільської ради, а також з зовнішніми партнерами.
           descEng: >-
             The General Department interacts with various departments of the
             village council, other structural units of the executive committee
