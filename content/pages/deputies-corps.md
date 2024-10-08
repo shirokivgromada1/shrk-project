@@ -94,6 +94,10 @@ components:
         name: Анонси сесійних засідань
         nameEng: Announcements of session meetings
         link: 'https://shtg.gov.ua/announcements'
+      - image: /uploads/Дизайн без назви (5).png
+        name: Відеофіксації сесійних засідань
+        nameEng: Video recordings of session meetings
+        link: 'https://shtg.gov.ua/shyroke-session'
     _template: CommunityHeadDepartments
 ---
 
