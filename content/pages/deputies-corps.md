@@ -93,8 +93,7 @@ components:
       - image: /uploads/Дизайн без назви (4).png
         name: Анонси сесійних засідань
         nameEng: Announcements of session meetings
-        link: >-
-          https://shtg.gov.ua/announcements/b890ded549f00efba8b888021cc42570d1a73b68
+        link: 'https://shtg.gov.ua/announcements'
     _template: CommunityHeadDepartments
 ---
 
