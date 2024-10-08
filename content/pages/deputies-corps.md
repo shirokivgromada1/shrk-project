@@ -98,6 +98,10 @@ components:
         name: Відеофіксації сесійних засідань
         nameEng: Video recordings of session meetings
         link: 'https://shtg.gov.ua/shyroke-session'
+      - image: /uploads/Дизайн без назви (6).png
+        name: 'Рішення та проєкти рішення '
+        nameEng: Decisions and draft decisions
+        link: 'https://shtg.gov.ua/decision-of-the-shyrokyvska-village-counci'
     _template: CommunityHeadDepartments
 ---
 
