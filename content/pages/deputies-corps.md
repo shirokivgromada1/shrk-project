@@ -1,6 +1,21 @@
 ---
 title: deputies-corps
 components:
+  - title: Головне
+    departments:
+      - image: /uploads/Дизайн без назви (4).png
+        name: Анонси сесійних засідань
+        nameEng: Announcements of session meetings
+        link: 'https://shtg.gov.ua/announcements'
+      - image: /uploads/Дизайн без назви (5).png
+        name: Відеофіксації сесійних засідань
+        nameEng: Video recordings of session meetings
+        link: 'https://shtg.gov.ua/shyroke-session'
+      - image: /uploads/Дизайн без назви (6).png
+        name: 'Рішення та проєкти рішення '
+        nameEng: Decisions and draft decisions
+        link: 'https://shtg.gov.ua/decision-of-the-shyrokyvska-village-counci'
+    _template: CommunityHeadDepartments
   - title: ДЕПУТАТСЬКИЙ КОРПУС
     subtitle: ''
     deputy:
@@ -88,20 +103,5 @@ components:
         position: ПП «Порядок»
         phone: ТВО № 2
     _template: DeputyCorpsTable
-  - title: ГОЛОВНЕ
-    departments:
-      - image: /uploads/Дизайн без назви (4).png
-        name: Анонси сесійних засідань
-        nameEng: Announcements of session meetings
-        link: 'https://shtg.gov.ua/announcements'
-      - image: /uploads/Дизайн без назви (5).png
-        name: Відеофіксації сесійних засідань
-        nameEng: Video recordings of session meetings
-        link: 'https://shtg.gov.ua/shyroke-session'
-      - image: /uploads/Дизайн без назви (6).png
-        name: 'Рішення та проєкти рішення '
-        nameEng: Decisions and draft decisions
-        link: 'https://shtg.gov.ua/decision-of-the-shyrokyvska-village-counci'
-    _template: CommunityHeadDepartments
 ---
 
