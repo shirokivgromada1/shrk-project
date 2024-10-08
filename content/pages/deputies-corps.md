@@ -24,6 +24,25 @@ components:
         position: ПП «ВО «СЛУГА НАРОДУ»
         phone: ЄВБО
         email: ''
+      - fullname: 'Зарудинський Олександр Іванович,'
+        position: ПП «ВО «СЛУГА НАРОДУ»
+        phone: ТВО № 3
+      - fullname: Зінченко Наталія Іонасівна
+        position: ПП «ВО «СЛУГА НАРОДУ»
+        phone: ТВО № 1
+      - fullname: Капленко Андрій Володимирович
+        position: ПП «ВО «СЛУГА НАРОДУ»
+        phone: ТВО № 2
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
     _template: DeputyCorpsTable
   - title: Документи
     notMain: true
