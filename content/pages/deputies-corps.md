@@ -4,28 +4,26 @@ components:
   - title: ДЕПУТАТСЬКИЙ КОРПУС
     subtitle: ''
     deputy:
-      - fullname: Коротенко Денис Олександрович
-        position: Голова виконкому
-        phone: 'тел: +38 (066) 286 54 07'
-        email: ' shyroke.otg@gmail.com'
-      - fullname: Свіркін Дмитро Олександрович
-        position: >-
-          Заступник сільського голови з питань діяльності виконавчих органів
-          ради
-        phone: "тел: +38 (066) 286 54 07\_"
-        email: shyroke.otg@gmail.com
-      - fullname: Ставицька Ольга Сергіївна
-        position: "Заступник сільського\_ голови з питань діяльності виконавчих органів ради"
-        phone: 'тел: +38 (066) 286 54 07'
-        email: shyroke.otg@gmail.com
-      - fullname: Головань Лариса Семенівна
-        position: Керуючий справами (секретар) виконавчого комітету
-        phone: 'тел: +38 (066) 286 54 07'
-        email: shyroke.otg@gmail.com
-      - fullname: Правдюк Олена Анатоліївна
-        position: Член виконавчого комітету
-        phone: "тел: +38 (066) 286 54 07\_"
-        email: shyroke.otg@gmail.com
+      - fullname: Бакум Оксана Дмитрівна
+        position: ПП «ОПОЗИЦІЙН А ПЛАТФОРМА – ЗА ЖИТТЯ»
+        phone: 'ЄВБО '
+        email: ''
+      - fullname: Богданов Юрій Вікторович
+        position: ПП «ВО «СЛУГА НАРОДУ»
+        phone: ТВО № 2
+        email: ''
+      - fullname: Васильєв Сергій Анатолійович
+        position: ПП «Партія Володимира Буряка «Єднання»
+        phone: ТВО № 2
+        email: ''
+      - fullname: Головань Роман Григорович
+        position: Безпартійний
+        phone: ТВО № 2
+        email: ''
+      - fullname: Дідченко Оксана Іванівна
+        position: ПП «ВО «СЛУГА НАРОДУ»
+        phone: ЄВБО
+        email: ''
     _template: DeputyCorpsTable
   - title: Документи
     notMain: true
@@ -39,7 +37,4 @@ components:
           доповнень до рішення сільської ради від ....
     _template: HeadOrders
 ---
-
-
-
 
