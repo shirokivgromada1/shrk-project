@@ -63,6 +63,30 @@ components:
       - fullname: Стогній Григорій Кирилович
         position: ПП «Бавтьківщина»
         phone: ЄВБО
+      - fullname: Суберляк Павло Павлович
+        position: ПП «Бавтьківщина»
+        phone: ТВО № 1
+      - fullname: Суткова Лариса Миколаївна
+        position: ПП «Партія Володимира Буряка «Єднання»
+        phone: ТВО № 1
+      - fullname: Ушакова Ірина Іванівна
+        position: Безпартійна
+        phone: ТВО № 3
+      - fullname: Хижняк Андрій Григорович
+        position: ПП «Бавтьківщина»
+        phone: ТВО № 3
+      - fullname: Хорошун Віктор Петрович
+        position: ПП «Порядок»
+        phone: ТВО № 1
+      - fullname: Шаповалов Тимофій Миколайович
+        position: ПП «ОПОЗИЦІЙН А ПЛАТФОРМА – ЗА ЖИТТЯ»
+        phone: ТВО № 1
+      - fullname: Шкабарня Ірина Валеріївна
+        position: ПП «Партія Володимира Буряка «Єднання»
+        phone: ТВО № 2
+      - fullname: Шкроботько Олег Вікторович
+        position: ПП «Порядок»
+        phone: ТВО № 2
     _template: DeputyCorpsTable
   - title: Документи
     notMain: true
