@@ -88,16 +88,13 @@ components:
         position: ПП «Порядок»
         phone: ТВО № 2
     _template: DeputyCorpsTable
-  - title: Документи
-    notMain: true
-    order:
-      - title: >-
-          Актуальний бюджет громади на 2023 рік (з усіма змінами та
-          доповненнями) станом на 01.06.2023 року
-      - title: Інформація про виконання місцевого бюджету за січень-травень 2023 року
-      - title: >-
-          Рішення сільської ради від 01.06.2023 № 13 “Про внесення змін та
-          доповнень до рішення сільської ради від ....
-    _template: HeadOrders
+  - title: ГОЛОВНЕ
+    departments:
+      - image: /uploads/Дизайн без назви (4).png
+        name: Анонси сесійних засідань
+        nameEng: Announcements of session meetings
+        link: >-
+          https://shtg.gov.ua/announcements/b890ded549f00efba8b888021cc42570d1a73b68
+    _template: CommunityHeadDepartments
 ---
 
