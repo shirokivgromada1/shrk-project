@@ -29,6 +29,7 @@ components:
       відхилити їх. 
     function:
       - name: 'Поштова адреса: '
+      - name: 'Електронна адресе: shyroke.otg@gmail.com'
     _template: GuardiansBoardDesc
 ---
 
