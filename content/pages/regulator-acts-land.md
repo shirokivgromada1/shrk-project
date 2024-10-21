@@ -21,6 +21,7 @@ components:
       - name: >-
           Поштова адреса: вул. Центральна, 1, с. Широке, Запорізький район,
           Запорізька область, 70413
+      - name: 'Електронна адресе: shyroke.otg@gmail.com'
     _template: GuardiansBoardDesc
 ---
 
