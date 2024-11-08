@@ -4,6 +4,9 @@ components:
   - title: Сесійні засідання Широківської сільської ради
     notMain: false
     order:
+      - title: 52 позачергова сесія VIII скликання Широківської сільської ради
+        url: 'https://www.youtube.com/watch?v=-7cggne-uRY'
+        buttonText: Дивитись
       - title: 51 позачергова сесія VIII скликання Широківської сільської ради
         url: 'https://youtu.be/LoXb2u2gezQ'
         buttonText: Дивитись
