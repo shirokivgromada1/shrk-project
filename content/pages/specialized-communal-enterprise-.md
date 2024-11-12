@@ -3,7 +3,7 @@ title: 'specialized-communal-enterprise '
 components:
   - title: >-
       Спеціалізоване комунальне підприємство «Об'єднана житлово-комунальна,
-      побутова та ритуальна служба»
+      побутова та ритуальна служба» (КОД ЄДРПОУ 38374080)
     image: /uploads/silrada/communual-institutions/spe.png
     fullname: Мамотенко Олег Миколайович
     schedule:
