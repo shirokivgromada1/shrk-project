@@ -1,7 +1,7 @@
 ---
 title: local-fire-and-rescue-service
 components:
-  - title: 'КНП “Місцева пожежно-рятувальна служба” '
+  - title: 'КНП “Місцева пожежно-рятувальна служба” (КОД ЄДРПОУ 42229146) '
     image: /uploads/silrada/communual-institutions/rat.png
     fullname: Чернов Юрій Володимирович
     schedule:
