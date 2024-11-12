@@ -1,7 +1,7 @@
 ---
 title: budget-program-passports
 components:
-  - title: Розпорядження голови
+  - title: ' Паспорти бюджетних програм'
     _template: HeadOrders
 ---
 
