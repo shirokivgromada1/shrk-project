@@ -1,7 +1,7 @@
 ---
 title: community-development-agency
 components:
-  - title: КУ “Агенція розвитку Широківської громади”
+  - title: КУ “Агенція розвитку Широківської громади” (Код ЄДРПОУ 41862213)
     image: /uploads/silrada/communual-institutions/nos.png
     fullname: Носкова Юлія Ігорівна
     schedule:
