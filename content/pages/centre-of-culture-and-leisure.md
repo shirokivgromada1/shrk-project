@@ -1,7 +1,9 @@
 ---
 title: centre-of-culture-and-leisure
 components:
-  - title: 'КУ “Центр культури та дозвілля, сім''ї, молоді, спорту та туризму”'
+  - title: >-
+      КУ “Центр культури та дозвілля, сім'ї, молоді, спорту та туризму” (Код
+      ЄДРПОУ 41841069)
     image: /uploads/silrada/communual-institutions/cul.png
     fullname: Марковська Ірина Олександрівна
     schedule:
