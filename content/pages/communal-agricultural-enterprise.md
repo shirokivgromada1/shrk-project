@@ -1,7 +1,9 @@
 ---
 title: 'communal-agricultural-enterprise '
 components:
-  - title: КП “КОМУНАЛЬНЕ СІЛЬСЬКОГОСПОДАРСЬКЕ ПІДПРИЄМСТВО “ШИРОКЕ”
+  - title: >-
+      КП “КОМУНАЛЬНЕ СІЛЬСЬКОГОСПОДАРСЬКЕ ПІДПРИЄМСТВО “ШИРОКЕ” (КОД ЄДРПОУ
+      42075733)
     image: /uploads/non.png
     fullname: Ступак Олег Григорович
     schedule:
