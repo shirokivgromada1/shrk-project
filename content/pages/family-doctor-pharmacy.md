@@ -1,7 +1,7 @@
 ---
 title: family-doctor-pharmacy
 components:
-  - title: КП “Аптека “Сімейний лікар”
+  - title: КП “Аптека “Сімейний лікар” (КОД ЄДРПОУ 44143459)
     image: /uploads/silrada/communual-institutions/apt.png
     fullname: Баранова Ганна Володимирівна
     schedule:
