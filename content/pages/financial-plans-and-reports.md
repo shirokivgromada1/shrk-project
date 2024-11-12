@@ -3,10 +3,6 @@ title: financial-plans-and-reports
 components:
   - title: Фінансові плани КП та звіти
     order:
-      - title: Звіт про виконання фінплану СКП ОЖКП та РС за 2023 рік
-        link: >-
-          /uploads/Звіт про виконання фінплану СКП ОЖКП та РС за 2023
-          рік(10201).pdf
       - title: Звіт про виконання фінплану КП БВС за 1 півріччя 2024 року
         link: >-
           /uploads/Звіт про виконання фінплану КП БВС за 1 півріччя 2024
@@ -88,6 +84,10 @@ components:
       - title: Фінансовий план КП “Аптека “Сімейний лікар ” на 2022 рік
         link: >-
           /uploads/officially/financial-plans-and-reports/Finansovyy-plan-KNP-KLINIKA-Simeynyy-likar-na-2022-rik.xls
+      - title: Звіт про виконання фінплану СКП ОЖКП та РС за 2023 рік
+        link: >-
+          /uploads/Звіт про виконання фінплану СКП ОЖКП та РС за 2023
+          рік(10201).pdf
       - title: Фінансовий план КСП “Широке” на 2022 рік
         link: >-
           /uploads/officially/financial-plans-and-reports/Finansovyy-plan-KSP-SHyroke-na-2022-rik.pdf
