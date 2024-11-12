@@ -1,10 +1,6 @@
 ---
 title: budget
 components:
-  - cards:
-      - name: Бюджетні запити та паспорти бюджетних програм
-        nameEng: Budget requests and budget program passports
-    _template: CommunityHeadCards
   - title: Бюджет
     subtitle: ''
     order:
@@ -345,5 +341,10 @@ components:
           /uploads/Проєкт рішення Про бюджет Широківської сільської
           територіальної громади на 2024 рік.pdf
     _template: HeadOrders
+  - cards:
+      - name: Бюджетні запити та паспорти бюджетних програм
+        nameEng: Budget requests and budget program passports
+        link: 'https://shtg.gov.ua/budget-request-'
+    _template: CommunityHeadCards
 ---
 
