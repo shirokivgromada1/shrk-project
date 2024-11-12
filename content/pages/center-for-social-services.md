@@ -1,7 +1,7 @@
 ---
 title: center-for-social-services
 components:
-  - title: КУ “Центр соціальних послуг Широківської громади”
+  - title: КУ “Центр соціальних послуг Широківської громади” (КОД ЄДРПОУ 41842497)
     image: /uploads/silrada/communual-institutions/soc.png
     fullname: Лук’яненко Дмитро Олександрович
     schedule:
