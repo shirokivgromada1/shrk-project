@@ -2,6 +2,8 @@
 title: budget
 components:
   - cards:
+      - name: ' Паспорти бюджетних програм'
+        nameEng: Budget Program Passports
       - name: 'Бюджетні запити '
         nameEng: 'Budget requests '
         link: 'https://shtg.gov.ua/budget-request-'
