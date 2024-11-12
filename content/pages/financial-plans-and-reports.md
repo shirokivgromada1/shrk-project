@@ -3,8 +3,6 @@ title: financial-plans-and-reports
 components:
   - title: Фінансові плани КП та звіти
     order:
-      - title: Звіт про виконання фінплану КП БВС за 2023 рік
-        link: /uploads/Звіт про виконання фінплану КП БВС за 2023 рік.pdf
       - title: Звіт про виконання фінплану КП БВС за 1 півріччя 2024 року
         link: >-
           /uploads/Звіт про виконання фінплану КП БВС за 1 півріччя 2024
@@ -66,6 +64,8 @@ components:
       - title: ФІНПЛАН КП АПТЕКА СІМЕЙНИЙ ЛІКАР на 2021 рік
         link: >-
           /uploads/officially/financial-plans-and-reports/FINPLAN-KP-APTEKA-SIMEYNYY-LIKAR-na-2021-rik.xlsx
+      - title: Звіт про виконання фінплану КП БВС за 2023 рік
+        link: /uploads/Звіт про виконання фінплану КП БВС за 2023 рік.pdf
       - title: Звіт про виконання фінплану КП Аптека Сімейний лікар за 2023 рік
         link: >-
           /uploads/Звіт про виконання фінплану КП Аптека Сімейний лікар за 2023
