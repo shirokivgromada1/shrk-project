@@ -53,8 +53,6 @@ components:
         link: /uploads/Фінансовий план КП КСП Широке на 2024 рік.pdf
       - title: ФІНПЛАН СКП “ОЖКП та РС” на 2024 рік
         link: /uploads/Фінансовий план СКП ОЖКПта РС на 2024 рік (1).pdf
-      - title: Звіт про виконання фінплану КСП ШИРОКЕ за 2023 рік
-        link: /uploads/Звіт про виконання фінплану КП КСП Широке за 2023 рік.pdf
       - title: ФІНПЛАН КП КП “БВС  ШИРОКІВСЬКОЇ ГРОМАДИ” на 2024 рік
         link: /uploads/Фінансовий план КП БВС на 2024 рік (1).pdf
       - title: ФІНПЛАН КП АПТЕКА СІМЕЙНИЙ ЛІКАР на 2024 рік
@@ -66,18 +64,20 @@ components:
       - title: ФІНПЛАН КП АПТЕКА СІМЕЙНИЙ ЛІКАР на 2021 рік
         link: >-
           /uploads/officially/financial-plans-and-reports/FINPLAN-KP-APTEKA-SIMEYNYY-LIKAR-na-2021-rik.xlsx
+      - title: Звіт про виконання фінплану КСП ШИРОКЕ за 2023 рік
+        link: /uploads/Звіт про виконання фінплану КП КСП Широке за 2023 рік.pdf
       - title: ФІНПЛАН КП КСП ШИРОКЕ на 2021 рік
         link: >-
           /uploads/officially/financial-plans-and-reports/FINPLAN-KP-KSP-SHYROKE-na-2021-rik.xls
       - title: ФІНПЛАН КП ЦПМСД СІМЕЙНИЙ ЛІКАР на 2021 рік
         link: >-
           /uploads/officially/financial-plans-and-reports/FINPLAN-KP-TSPMSD-SIMEYNYY-LIKAR-na-2021-rik.xlsx
-      - title: ФІНПЛАН СКП ОЖКП та РС на 2021 рік
-        link: >-
-          /uploads/officially/financial-plans-and-reports/FINPLAN-SKP-OZHKP-ta-RS-na-2021-rik.xlsx
       - title: ЗВІТ про виконання фінплану СКП ОЖКП та РС за 2020 рік
         link: >-
           /uploads/officially/financial-plans-and-reports/ZVIT-pro-vykonannia-finplanu-SKP-OZHKP-ta-RS-za-2020-rik.pdf
+      - title: ФІНПЛАН СКП ОЖКП та РС на 2021 рік
+        link: >-
+          /uploads/officially/financial-plans-and-reports/FINPLAN-SKP-OZHKP-ta-RS-na-2021-rik.xlsx
       - title: Фінансовий план КНП “Запорізька ЦРЛ” Широківської с/р на 2022 рік
         link: >-
           /uploads/officially/financial-plans-and-reports/Finansovyy-plan-na-2022-rik-TSRL-1-2.pdf
