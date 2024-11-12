@@ -3,10 +3,6 @@ title: financial-plans-and-reports
 components:
   - title: Фінансові плани КП та звіти
     order:
-      - title: Звіт про виконання фінплану КНП Клініка Сімейний лікар за 2023 рік
-        link: >-
-          /uploads/Звіт про виконання фінплану КНП Клініка Сімейний лікар за
-          2023 рік.pdf
       - title: Звіт про виконання фінплану КП БВС за 1 півріччя 2024 року
         link: >-
           /uploads/Звіт про виконання фінплану КП БВС за 1 півріччя 2024
@@ -82,6 +78,10 @@ components:
       - title: ФІНПЛАН СКП ОЖКП та РС на 2021 рік
         link: >-
           /uploads/officially/financial-plans-and-reports/FINPLAN-SKP-OZHKP-ta-RS-na-2021-rik.xlsx
+      - title: Звіт про виконання фінплану КНП Клініка Сімейний лікар за 2023 рік
+        link: >-
+          /uploads/Звіт про виконання фінплану КНП Клініка Сімейний лікар за
+          2023 рік.pdf
       - title: Фінансовий план КНП “Запорізька ЦРЛ” Широківської с/р на 2022 рік
         link: >-
           /uploads/officially/financial-plans-and-reports/Finansovyy-plan-na-2022-rik-TSRL-1-2.pdf
