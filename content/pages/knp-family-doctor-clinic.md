@@ -1,7 +1,7 @@
 ---
 title: knp-family-doctor-clinic
 components:
-  - title: КНП “Клініка “Сімейний лікар”
+  - title: КНП “Клініка “Сімейний лікар” (КОД ЄДРПОУ 02006722)
     image: /uploads/silrada/communual-institutions/cli.png
     fullname: Шкабарня Ірина Валеріївна
     schedule:
