@@ -1,7 +1,7 @@
 ---
 title: 'budget-request '
 components:
-  - title: Розпорядження голови
+  - title: Бюджетні запити та паспорти бюджетних програм
     _template: HeadOrders
 ---
 
