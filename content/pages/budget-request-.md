@@ -1,7 +1,7 @@
 ---
 title: 'budget-request '
 components:
-  - title: Бюджетні запити та паспорти бюджетних програм
+  - title: 'Бюджетні запити '
     _template: HeadOrders
 ---
 
