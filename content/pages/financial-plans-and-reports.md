@@ -3,6 +3,8 @@ title: financial-plans-and-reports
 components:
   - title: Фінансові плани КП та звіти
     order:
+      - title: ФІНПЛАН КП ЦПМСД СІМЕЙНИЙ ЛІКАР на 2024 рік
+        link: /uploads/Фінансовий план КНП Клініка Сімейний лікар на 2024 рік.pdf
       - title: ФІНПЛАН КП АПТЕКА СІМЕЙНИЙ ЛІКАР на 2021 рік
         link: >-
           /uploads/officially/financial-plans-and-reports/FINPLAN-KP-APTEKA-SIMEYNYY-LIKAR-na-2021-rik.xlsx
