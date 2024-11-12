@@ -1,6 +1,10 @@
 ---
 title: budget
 components:
+  - cards:
+      - name: Бюджетні запити та паспорти бюджетних програм
+        nameEng: Budget requests and budget program passports
+    _template: CommunityHeadCards
   - title: Бюджет
     subtitle: ''
     order:
