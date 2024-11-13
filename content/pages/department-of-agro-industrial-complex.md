@@ -59,6 +59,9 @@ components:
   - title: Документи
     notMain: true
     order:
+      - title: 'Генеральний план селища Володимирівське '
+        url: 'https://shtg.gov.ua/genplan-Volodymyrivske'
+        buttonText: Детально
       - title: Генеральний план селища Світанок
         url: 'https://shtg.gov.ua/gen-plan-svitanok'
         buttonText: Детально
