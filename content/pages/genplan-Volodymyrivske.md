@@ -3,6 +3,8 @@ title: genplan-Volodymyrivske
 components:
   - title: 'Генеральний план селища Володимирівське '
     order:
+      - title: ПЛАН ІСНУЮЧОГО ВИОКРИСТАННЯ ТЕРИТОРІЇ
+        link: /uploads/ІСНУЮЧИЙ.pdf
       - title: СХЕМА ІНЖЕНЕРНОЇ ПІДГОТОВКИ
         link: /uploads/СХЕМА ІНЖЕНЕРНОЇ ПІДГОТОВКИ.pdf
       - title: СХЕМА ІНЖЕНЕРНОГО ОБЛАДНАННЯ ТЕРИТОРІЇ
