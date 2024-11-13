@@ -3,6 +3,8 @@ title: genplan-Volodymyrivske
 components:
   - title: 'Генеральний план селища Володимирівське '
     order:
+      - title: СХЕМА ВУЛИЧНОЇ МЕРЕЖІ
+        link: /uploads/СХЕМА ВУЛИЧНОЇ МЕРЕЖІ.pdf
       - title: ОСНОВНЕ КРЕСЛЕННЯ
         link: /uploads/ОСНОВНЕ КРЕСЛЕННЯ22.pdf
       - title: Пояснювальна записка до генерального плану
