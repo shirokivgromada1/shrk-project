@@ -3,6 +3,8 @@ title: genplan-Prydniprovske
 components:
   - title: 'Генеральний план села Придніпровське '
     order:
+      - title: План існуючого використання території
+        link: /uploads/02_исн.pdf
       - title: Схема розташування населеного пункту
         link: /uploads/01_схема общая.pdf
       - title: 'Пояснювальна записка до генерального плану, СЄО'
