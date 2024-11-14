@@ -35,6 +35,12 @@ components:
           матеріальних ресурсів
       - name: "Складання фінансової та бюджетної звітності.\_"
     _template: SilradaDepartmentFunctions
+  - title: План закупівель Широківської громади
+    document:
+      - title: План закупівель Широківської громади
+        link: >-
+          https://www.dzo.com.ua/plans?organizer%5B%5D=26013402&page=1&perPage=10&sortOrder=dateCreated.desc
+    _template: Documents
   - notMain: true
     headline:
       text: Новини
