@@ -41,10 +41,6 @@ components:
         link: >-
           https://www.dzo.com.ua/plans?organizer%5B%5D=26013402&page=1&perPage=10&sortOrder=dateCreated.desc
     _template: Documents
-  - notMain: true
-    headline:
-      text: Новини
-    _template: news
   - title: Документи
     notMain: true
     order:
