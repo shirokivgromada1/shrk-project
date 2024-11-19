@@ -3,6 +3,8 @@ title: documents
 components:
   - title: Документи
     document:
+      - title: Стратегія розвитку Широківської громади на 2024-2027 роки
+        link: 'https://shtg.gov.ua/development-strategy-2024-2027'
       - title: Постійні комісії
         link: regular-checks
       - title: Регуляторні акти
