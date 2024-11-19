@@ -15,8 +15,7 @@ components:
           період до 2027 року та збір проєктних пропозицій до Плану заходів з
           реалізації Стратегії
         link: ''
-        url: >-
-          https://shtg.gov.ua/admin/index.html#/~/news/cfc91e072580cc29708787d3229ee523f0016618
+        url: 'https://shtg.gov.ua/news/cfc91e072580cc29708787d3229ee523f0016618'
         buttonText: 'Читати '
     _template: HeadOrders
 ---
