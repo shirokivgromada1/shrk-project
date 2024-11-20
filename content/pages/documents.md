@@ -15,7 +15,7 @@ components:
         link: budget
       - title: 'Рішення та проєкти рішень Широківської сільської ради '
         link: 'https://shtg.gov.ua/decision-of-the-shyrokyvska-village-counci'
-      - title: Стратегія розвитку Широківської громади на 2024-2027 роки
+      - title: Стратегія розвитку Широківської громади на період до 2027 року
         link: 'https://shtg.gov.ua/development-strategy-2024-2027'
       - title: Різне
         link: various
