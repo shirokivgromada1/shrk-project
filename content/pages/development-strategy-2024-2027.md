@@ -1,7 +1,7 @@
 ---
 title: development-strategy
 components:
-  - title: Стратегія розвитку Широківської громади на 2024-2027 роки
+  - title: Стратегія розвитку Широківської громади на на період до 2027 року
     notMain: false
     order:
       - title: >-
