@@ -17,6 +17,8 @@ components:
         link: ''
         url: 'https://shtg.gov.ua/news/cfc91e072580cc29708787d3229ee523f0016618'
         buttonText: 'Читати '
+      - title: Форма для заповнення пропозицій
+        link: /uploads/Форма для заповнення пропозицій.docx
     _template: HeadOrders
 ---
 
