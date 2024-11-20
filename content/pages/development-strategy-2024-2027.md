@@ -19,6 +19,8 @@ components:
         buttonText: 'Читати '
       - title: Форма для заповнення пропозицій
         link: /uploads/Форма для заповнення пропозицій.docx
+      - title: 'План заходів з реалізації стратегії розвитку '
+        link: /uploads/План_заходів_з_реалізації_Стратегії_розвитку_docx_.pdf
     _template: HeadOrders
 ---
 
