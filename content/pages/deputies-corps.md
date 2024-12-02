@@ -5,7 +5,7 @@ components:
     subtitle: ''
     deputy:
       - fullname: Бакум Оксана Дмитрівна
-        position: ПП «ОПОЗИЦІЙН А ПЛАТФОРМА – ЗА ЖИТТЯ»
+        position: ПП «ОПОЗИЦІЙНА ПЛАТФОРМА – ЗА ЖИТТЯ»
         phone: 'ЄВБО '
         email: ''
       - fullname: Богданов Юрій Вікторович
