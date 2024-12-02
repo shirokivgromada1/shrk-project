@@ -61,7 +61,7 @@ components:
         position: ПП «Батьківщина»
         phone: ТВО № 1
       - fullname: Стогній Григорій Кирилович
-        position: ПП «Бавтьківщина»
+        position: ПП «Батьківщина»
         phone: ЄВБО
       - fullname: Суберляк Павло Павлович
         position: ПП «Бавтьківщина»
