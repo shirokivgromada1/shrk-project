@@ -58,7 +58,7 @@ components:
         position: ПП «Батьківщина»
         phone: ТВО № 2
       - fullname: Прокоф'єв Сергій Олександрович
-        position: ПП «Бавтьківщина»
+        position: ПП «Батьківщина»
         phone: ТВО № 1
       - fullname: Стогній Григорій Кирилович
         position: ПП «Бавтьківщина»
