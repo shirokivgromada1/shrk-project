@@ -7,6 +7,8 @@ components:
       ### *На цій сторінці ми зібрали всіх жителів громади, які віддали своє
       життя, боронячи Україну від російської агресії*
     links:
+      - title: "Віктор Кравченко\U0001F56F"
+        url: 'https://shtg.gov.ua/news/91aba7c8686b94d2c423afc548ff67c6694eddb1'
       - title: 'Євген Пащенко, Малишівка'
         url: >-
           https://shtg.gov.ua/news/a157e1c4d9469727876ed2cf3400b40c0ede7f7Pashenko
