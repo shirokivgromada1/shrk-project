@@ -2,6 +2,9 @@
 title: budget
 components:
   - cards:
+      - name: Проєкти рішень
+        nameEng: Draft Resolutions
+        link: 'https://shtg.gov.ua/draft-resolutions'
       - name: 'Бюджетні запити '
         nameEng: 'Budget requests '
         link: 'https://shtg.gov.ua/budget-request-'
