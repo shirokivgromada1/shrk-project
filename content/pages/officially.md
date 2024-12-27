@@ -34,6 +34,7 @@ components:
         link: financial-department
       - title: Накази про присвоєння адреси закінченим об’єкту будівництва
         link: orders-assigning-address-to-completed-construction-project
+      - title: Запобігання та протидія насильству
     _template: Officially
 ---
 
