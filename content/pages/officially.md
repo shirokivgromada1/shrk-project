@@ -35,6 +35,7 @@ components:
       - title: Накази про присвоєння адреси закінченим об’єкту будівництва
         link: orders-assigning-address-to-completed-construction-project
       - title: Запобігання та протидія насильству
+        link: 'https://shtg.gov.ua/prevention-and-counteraction-to-violence'
     _template: Officially
 ---
 
