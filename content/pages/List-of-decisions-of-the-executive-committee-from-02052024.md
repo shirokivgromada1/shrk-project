@@ -41,7 +41,8 @@ components:
         link: /uploads/рішення №146 від 02.05.2024 року.docx
       - title: Рішення №147 від 02.05.2024 року
         link: /uploads/Рішення №147 від 02.05.2024 року.docx
-      - {}
+      - title: Рішення №148 від 02.05.2024 року
+        link: /uploads/рішення №148 від 02.05.2024 року.docx
     _template: HeadOrders
 ---
 
