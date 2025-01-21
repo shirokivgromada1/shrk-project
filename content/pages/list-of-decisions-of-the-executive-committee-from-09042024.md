@@ -13,7 +13,8 @@ components:
         link: /uploads/рішення №119 від 09.04.2024 року.docx
       - title: Рішення №121 від 09.04.2024 року
         link: /uploads/рішення №121 від 09.04.2024 року.docx
-      - {}
+      - title: Рішення №122 від 09.04.2024 року
+        link: /uploads/рішення №122 від 09.04.2024 року.docx
     _template: HeadOrders
 ---
 
