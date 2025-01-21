@@ -9,7 +9,8 @@ components:
           року.docx
       - title: Рішення №163 від 08.05.2024 року
         link: /uploads/рішення №163 від 08.05.2024 року.docx
-      - {}
+      - title: Рішення №164 від 08.05.2024 року
+        link: /uploads/рішення №164 від 08.05.2024 року.docx
     _template: HeadOrders
 ---
 
