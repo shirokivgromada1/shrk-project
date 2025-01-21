@@ -1,7 +1,16 @@
 ---
 title: List of decisions of the executive committee from 02.05.2024
 components:
-  - title: Розпорядження голови
+  - title: Виконавчийкомітет від 02.05.2024 року № 13
+    order:
+      - title: Перелік рішень виконавочго комітету №13 від 02.05.2024 року
+        link: >-
+          /uploads/Перелік рішень виконавочго комітету №13 від 02.05.2024
+          року.docx
+      - title: Рішення №131 від 02.05.2024 року
+        link: /uploads/рішення №131 від 02.05.2024 року.docx
+      - {}
+      - {}
     _template: HeadOrders
 ---
 
