@@ -21,7 +21,8 @@ components:
         link: /uploads/рішення №136 від 02.05.2024 року.docx
       - title: рішення №137 від 02.05.2024 року
         link: /uploads/рішення №137 від 02.05.2024 року.docx
-      - {}
+      - title: рішення №138 від 02.05.2024 року
+        link: /uploads/рішення №138 від 02.05.2024 року.docx
     _template: HeadOrders
 ---
 
