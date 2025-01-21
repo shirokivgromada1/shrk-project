@@ -31,6 +31,10 @@ components:
     subtitle: ''
     notMain: true
     order:
+      - title: Виконавчийкомітет від 02.05.2024 року № 13
+        url: >-
+          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-02052024
+        buttonText: Перейти
       - title: Виконавчий комітет від 29.04.2024 року № 12
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-29042024-12
