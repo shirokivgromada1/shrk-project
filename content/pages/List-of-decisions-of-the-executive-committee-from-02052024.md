@@ -67,7 +67,8 @@ components:
         link: /uploads/рішення №159 від 02.05.2024 року.docx
       - title: Рішення №160 від 02.05.2024 року
         link: /uploads/рішення №160 від 02.05.2024 року.docx
-      - {}
+      - title: Рішення №161 від 02.05.2024 року
+        link: /uploads/рішення №161 від 02.05.2024 року.docx
       - {}
     _template: HeadOrders
 ---
