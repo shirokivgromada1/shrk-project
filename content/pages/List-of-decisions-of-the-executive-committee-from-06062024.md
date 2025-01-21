@@ -53,7 +53,8 @@ components:
         link: /uploads/рішення №190 від 06.06.2024 року.docx
       - title: Рішення №191 від 06.06.2024 року
         link: /uploads/рішення №191 від 06.06.2024 року.docx
-      - {}
+      - title: Рішення №192 від 06.06.2024 року
+        link: /uploads/рішення №192 від 06.06.2024 року.docx
       - {}
       - {}
     _template: HeadOrders
