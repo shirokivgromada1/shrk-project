@@ -34,6 +34,7 @@ components:
       - title: Виконавчий комітет від 09.04.2024 року № 09
         url: >-
           https://shtg.gov.ua/list-of-decisions-of-the-executive-committee-from-09042024
+        buttonText: Перейти
       - title: Про взяття на квартирний облік від 04.04.2024 року №102
         link: /uploads/рішення №102 від 04.04.2024 року.docx
         url: >-
