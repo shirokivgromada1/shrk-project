@@ -15,7 +15,8 @@ components:
         link: /uploads/рішення №167 від 22.05.2024 року.docx
       - title: Рішення № 168 від 22.05.2024 року
         link: /uploads/рішення №168 від 22.05.2024 року.docx
-      - {}
+      - title: Рішення № 169 від 22.05.2024 року
+        link: /uploads/рішення №169 від 22.05.2024 року.docx
     _template: HeadOrders
 ---
 
