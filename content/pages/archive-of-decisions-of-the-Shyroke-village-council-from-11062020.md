@@ -115,6 +115,9 @@ components:
           /uploads/Додаток №1 до рішення № 7 Про затвердження ставок
           туристичного збору на території сіл, селищ Широківської сільської ради
           на 2021 рік.docx
+      - title: ДРС України
+        url: >-
+          https://www.drs.gov.ua/wp-content/uploads/2020/06/4458-SHyrokivska-SR.pdf
     _template: HeadOrders
 ---
 
