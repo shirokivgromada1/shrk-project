@@ -41,9 +41,6 @@ components:
         link: /uploads/рішення №259 від 01.08.2024 року.docx
       - title: Рішення №260 від 01.08.2024 року
         link: /uploads/рішення №260 від 01.08.2024 року.docx
-      - {}
-      - {}
-      - {}
     _template: HeadOrders
 ---
 
