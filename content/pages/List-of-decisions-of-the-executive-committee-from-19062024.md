@@ -9,7 +9,8 @@ components:
           року.docx
       - title: Рішення №207 від 19.06.2024 року
         link: /uploads/рішення №207 від 19.06.2024 року.docx
-      - {}
+      - title: Рішення №208 від 19.06.2024 року
+        link: /uploads/рішення №208 від 19.06.2024 року.docx
       - {}
     _template: HeadOrders
 ---
