@@ -43,7 +43,8 @@ components:
         link: /uploads/рішення №226 від 04.07.2024 року.docx
       - title: Рішення №227 від 04.07.2024 року
         link: /uploads/рішення №227 від 04.07.2024 року.docx
-      - {}
+      - title: Рішення №228 від 04.07.2024 року
+        link: /uploads/рішення №228 від 04.07.2024 року.docx
       - {}
       - {}
     _template: HeadOrders
