@@ -55,7 +55,8 @@ components:
         link: /uploads/рішення №232 від 04.07.2024 року.docx
       - title: Рішення №233 від 04.07.2024 року
         link: /uploads/рішення №233 від 04.07.2024 року.docx
-      - {}
+      - title: Рішення №234 від 04.07.2024 року
+        link: /uploads/рішення №234 від 04.07.2024 року.docx
       - {}
       - {}
     _template: HeadOrders
