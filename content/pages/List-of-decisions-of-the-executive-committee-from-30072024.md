@@ -7,7 +7,8 @@ components:
         link: >-
           /uploads/Перелік рішень виконавочго комітету №21 від 30.07.2024
           року.docx
-      - {}
+      - title: Рішення №244 від 30.07.2024 року
+        link: /uploads/рішення №244 від 30.07.2024 року.docx
     _template: HeadOrders
 ---
 
