@@ -19,7 +19,8 @@ components:
         link: /uploads/рішення №241 від 18.07.2024 року.docx
       - title: Рішення №242 від 18.07.2024 року
         link: /uploads/рішення №242 від 18.07.2024 року.docx
-      - {}
+      - title: Рішення №243 від 18.07.2024 року
+        link: /uploads/рішення №243 від 18.07.2024 року.docx
     _template: HeadOrders
 ---
 
