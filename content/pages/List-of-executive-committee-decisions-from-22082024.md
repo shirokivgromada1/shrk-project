@@ -13,7 +13,8 @@ components:
         link: /uploads/рішення №264 від 22.08.2024 року.docx
       - title: рішення №265 від 22.08.2024 року
         link: /uploads/рішення №265 від 22.08.2024 року.docx
-      - {}
+      - title: рішення №266 від 22.08.2024 року
+        link: /uploads/рішення №266 від 22.08.2024 року.docx
       - {}
       - {}
     _template: HeadOrders
