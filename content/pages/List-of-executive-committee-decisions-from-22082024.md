@@ -1,7 +1,7 @@
 ---
 title: List of executive committee decisions from 22.08.2024
 components:
-  - title: Виконавчий комітет від 22.08.2024
+  - title: Виконавчий комітет від 22.08.2024 №23
     order:
       - title: Перелік рішень виконавчого комітету  №24 від 22.08.2024 року
         link: >-
