@@ -1,7 +1,18 @@
 ---
 title: List of executive committee decisions from 22.08.2024
 components:
-  - title: Розпорядження голови
+  - title: Виконавчий комітет від 22.08.2024
+    order:
+      - title: Перелік рішень виконавчого комітету  №24 від 22.08.2024 року
+        link: >-
+          /uploads/Перелік рішень виконавчого комітету  №24 від 22.08.2024
+          року.docx
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
     _template: HeadOrders
 ---
 
