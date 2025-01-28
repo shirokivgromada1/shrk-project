@@ -16,6 +16,9 @@ components:
   - title: Бюджет
     subtitle: ''
     order:
+      - title: БЮДЖЕТ ШИРОКІВСЬКОЇ ГРОМАДИ - 2025
+        url: 'https://shtg.gov.ua/Community-budget-2025'
+        buttonText: Перейти
       - title: >-
           Рішення від 19.12.2024 № 24 Про внесення змін до бюджету на 2024 рік
           (оприлюднено 24.12.2024)
