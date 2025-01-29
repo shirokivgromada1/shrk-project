@@ -3,10 +3,6 @@ title: current-programs
 components:
   - title: Діючі програми Широківської громади
     program:
-      - name: 'Програма розвитку ЖКГ на 2022-2024рр - зміни '
-        date: Рішення №3 від 07 травня 2024 року
-        url: >-
-          https://shtg.gov.ua/Housing-and-Utilities-Development-Program-for-2022-2024---changes07052024
       - name: >-
           Програма місцевого економічного розвитку Широківської територіальної
           громади Запорізького району Запорізької області  Широківської
@@ -24,6 +20,14 @@ components:
         link: >-
           /uploads/ріш від 07.05.2024 № 4 Програма  сприяння обороноздатності,
           теробороні... на 2024 рік - зміни () 1121234.docx
+      - name: 'Програма розвитку ЖКГ на 2022-2024рр - зміни '
+        date: Рішення №3 від 07 жовтня 2024 року
+        url: >-
+          https://shtg.gov.ua/Housing-and-Utilities-Development-Program-for-2022-2024---changes07102024
+      - name: 'Програма розвитку ЖКГ на 2022-2024рр - зміни '
+        date: Рішення №3 від 07 травня 2024 року
+        url: >-
+          https://shtg.gov.ua/Housing-and-Utilities-Development-Program-for-2022-2024---changes07052024
       - name: 'Програма розвитку ЖКГ на 2022-2024рр - зміни '
         date: Рішення №3 від 04 квітня 2024 року
         url: >-
