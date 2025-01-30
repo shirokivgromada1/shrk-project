@@ -1,7 +1,7 @@
 ---
 title: administrative-services-center
 components:
-  - _template: newspapersInfo
+  - _template: MonitoringEnsuringAccess
   - title: Послуги
     favor:
       - title: >-
