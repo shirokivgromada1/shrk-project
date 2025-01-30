@@ -1,7 +1,17 @@
 ---
 title: administrative-services-center
 components:
-  - _template: MonitoringEnsuringAccess
+  - title: центр надання адміністративних послуг
+    desc: |+
+      Відділ ЦНАП Широківської громади надає 262 послуги. 
+
+
+
+
+
+
+
+    _template: MonitoringEnsuringAccess
   - title: Послуги
     favor:
       - title: >-
