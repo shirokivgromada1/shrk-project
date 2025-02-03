@@ -3,6 +3,8 @@ title: 'budget-request '
 components:
   - title: 'Бюджетні запити '
     order:
+      - title: КПКВК 0113140 на 2025 рік
+        link: /uploads/КПКВК 0113140 на 2025 рік.xlsx
       - title: КПКВК 0113160 на 2025 рік
         link: /uploads/КПКВК 0113160 на 2025 рік.xlsx
       - title: КПКВК 0113241 на 2025 рік
