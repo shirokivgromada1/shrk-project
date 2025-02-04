@@ -26,7 +26,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №23 від 09.01.2025 року
+        link: /uploads/рішення №23 від 09.01.2025 року.docx
       - title: Рішення №24 від 09.01.2025 року
         link: /uploads/рішення №24 від 09.01.2025 року.docx
     _template: HeadOrders
