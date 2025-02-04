@@ -3,7 +3,10 @@ title: List of decisions of the executive committee from 05.12.2024
 components:
   - title: Виконавчий комітет від 05.12.2024 №34
     order:
-      - {}
+      - title: Перелік рішень виконавчого комітету №34 від 05.12.2024 року
+        link: >-
+          /uploads/Перелік рішень виконавчого комітету №34 від 05.12.2024
+          року.docx
       - title: Рішення №384 від 05.12.2024 року
         url: >-
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
