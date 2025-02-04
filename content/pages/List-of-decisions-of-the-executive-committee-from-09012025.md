@@ -6,7 +6,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: ' Рішення №3 від 09.01.2025 року'
+        link: /uploads/рішення №03 від 09.01.2025 року.docx
       - title: ' Рішення №4 від 09.01.2025 року'
         url: >-
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
