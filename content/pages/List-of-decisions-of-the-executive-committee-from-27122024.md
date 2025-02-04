@@ -21,7 +21,8 @@ components:
         url: >-
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
           №424 від 27.12.2024 року.docx
-      - {}
+      - title: Рішення №425 від 27.12.2024 року
+        link: /uploads/рішення №425 від 27.12.2024 року.docx
       - {}
       - {}
       - {}
