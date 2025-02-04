@@ -18,7 +18,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №15 від 09.01.2025 року
+        link: /uploads/рішення №15 від 09.01.2025 року.docx
       - title: Рішення №16 від 09.01.2025 року
         url: >-
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
