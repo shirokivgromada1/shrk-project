@@ -24,7 +24,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №21 від 09.01.2025 року
+        link: /uploads/рішення №21 від 09.01.2025 року.docx
       - title: Рішення №22 від 09.01.2025 року
         url: >-
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
