@@ -3,7 +3,8 @@ title: List of decisions of the executive committee from 07.11.2024
 components:
   - title: Виконавчий комітет від 07.11.2024 №30
     order:
-      - {}
+      - title: Рішення №369 від 07.11.2024 року
+        link: /uploads/рішення №369 від 07.11.2024 року.docx
       - title: Рішення №370 від 07.11.2024 року
         link: /uploads/рішення №370 від 07.11.2024 року.docx
       - title: Рішення №371 від 07.11.2024 року
