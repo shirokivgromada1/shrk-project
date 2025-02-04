@@ -11,7 +11,8 @@ components:
         link: /uploads/рішення №376 від 22.11.2024 року.docx
       - title: Рішення №377 від 22.11.2024 року
         link: /uploads/рішення №377 від 22.11.2024 року.docx
-      - {}
+      - title: Рішення №378 від 22.11.2024 року
+        link: /uploads/рішення №378 від 22.11.2024 року.docx
       - {}
       - {}
     _template: HeadOrders
