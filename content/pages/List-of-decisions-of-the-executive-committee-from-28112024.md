@@ -7,7 +7,8 @@ components:
         link: >-
           /uploads/Перелік рішень виконавчого комітету №33 від 28.11.2024
           року.docx
-      - {}
+      - title: Рішення №383 від 28.11.2024 року
+        link: /uploads/рішення №383 від 28.11.2024 року.docx
     _template: HeadOrders
 ---
 
