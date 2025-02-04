@@ -8,7 +8,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №374 від 07.11.2024 року
+        link: /uploads/рішення №374 від 07.11.2024 року.docx
       - title: Рішення №375 від 07.11.2024 року
         link: /uploads/рішення №375 від 07.11.2024 року.docx
     _template: HeadOrders
