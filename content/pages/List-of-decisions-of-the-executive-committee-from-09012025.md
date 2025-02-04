@@ -1,7 +1,34 @@
 ---
 title: List of decisions of the executive committee from 09.01.2025
 components:
-  - title: Розпорядження голови
+  - title: Виконавчий комітет від 09.01.2025 №01
+    order:
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - title: Рішення №24 від 09.01.2025 року
+        link: /uploads/рішення №24 від 09.01.2025 року.docx
     _template: HeadOrders
 ---
 
