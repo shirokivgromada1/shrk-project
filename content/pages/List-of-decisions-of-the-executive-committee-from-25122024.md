@@ -1,7 +1,14 @@
 ---
 title: List of decisions of the executive committee from 25.12.2024
 components:
-  - title: Розпорядження голови
+  - title: Виконавчий комітет від 25.12.2024 №37
+    order:
+      - title: Перелік рішень виконавчого комітету №37 від 25.12.2024 року
+        link: >-
+          /uploads/Перелік рішень виконавчого комітету №37 від 25.12.2024
+          року.docx
+      - {}
+      - {}
     _template: HeadOrders
 ---
 
