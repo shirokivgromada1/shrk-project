@@ -9,7 +9,8 @@ components:
           року.docx
       - title: Рішення №411 від 09.12.2024 року
         link: /uploads/рішення №411 від 09.12.2024 року.docx
-      - {}
+      - title: Рішення №412 від 09.12.2024 року
+        link: /uploads/рішення №412 від 09.12.2024 року.docx
     _template: HeadOrders
 ---
 
