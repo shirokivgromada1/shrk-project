@@ -3,6 +3,16 @@ title: List of decisions of the executive committee from 07.11.2024
 components:
   - title: Виконавчий комітет від 07.11.2024 №30
     order:
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - title: Рішення №352 від 07.11.2024 року
+        link: /uploads/рішення №352 від 07.11.2024 року.docx
       - title: Рішення №353 від 07.11.2024 року
         link: /uploads/рішення №353 від 07.11.2024 року (1).docx
       - title: Рішення №354 від 07.11.2024 року
