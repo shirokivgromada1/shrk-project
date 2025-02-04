@@ -15,7 +15,8 @@ components:
         link: /uploads/рішення №415 від 16.12.2024 року.docx
       - title: Рішення №416 від 16.12.2024 року
         link: /uploads/рішення №416 від 16.12.2024 року.docx
-      - {}
+      - title: Рішення №417 від 16.12.2024 року
+        link: /uploads/рішення №417 від 16.12.2024 року.docx
     _template: HeadOrders
 ---
 
