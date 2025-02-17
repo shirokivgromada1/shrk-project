@@ -12,7 +12,7 @@ export const DeputyCorpsTable = ({
 }: {
   data: PageComponentsDeputyCorpsTable;
 }) => {
-  const { title, subtitle, deputy: deputies } = data;
+  const { title, subtitle, deputy: deputies, nameHeader = "ПІБ", positionHeader = "Посада", contactsHeader = "Контакти" } = data;
   const match = useBetterMediaQuery("(max-width:800px)");
   const isMobile = useBetterMediaQuery("(max-width: 470px)");
   return (
@@ -39,9 +39,9 @@ export const DeputyCorpsTable = ({
           <table className={styles.corps__inner}>
             <thead>
               <tr>
-                <th>ПІБ</th>
-                <th>Посада</th>
-                <th>Контакти</th>
+                <th data-tina-field={tinaField(data, "nameHeader")}>{nameHeader}</th>
+                <th data-tina-field={tinaField(data, "positionHeader")}>{positionHeader}</th>
+                <th data-tina-field={tinaField(data, "contactsHeader")}>{contactsHeader}</th>
               </tr>
             </thead>
             <tbody>

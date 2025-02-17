@@ -144,7 +144,12 @@ export const Preview = ({
                     key={"loaded" + index}
                   >
                     {!isLoading && news && news?.length > 0 && (
-                      <div data-tina-field={tinaField(news[index], "news")}>
+                      <a 
+                        href={`/news/${(freshNews && freshNews?.length > 0 
+                          ? news[index]?.news?.id 
+                          : news[index]?.node?.id)?.replace('content/news/', '').replace('.mdx', '')}`}
+                        data-tina-field={tinaField(news[index], "news")}
+                      >
                         <SanitizeHTML
                           html={
                             freshNews && freshNews?.length > 0
@@ -161,7 +166,7 @@ export const Preview = ({
                             ? "... "
                             : " "}
                         </span>
-                      </div>
+                      </a>
                     )}
                   </motion.div>
                   <motion.div

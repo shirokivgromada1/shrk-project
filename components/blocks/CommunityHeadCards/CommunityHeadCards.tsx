@@ -16,7 +16,6 @@ export const CommunityHeadCards = ({
   const { lang } = useContext(LangContext);
   return (
     <>
-      {!isMobile ? (
         <main className={styles.cards}>
           <div className="container">
             <ul className={styles.cards__list}>
@@ -42,7 +41,6 @@ export const CommunityHeadCards = ({
             </ul>
           </div>
         </main>
-      ) : null}
     </>
   );
 };

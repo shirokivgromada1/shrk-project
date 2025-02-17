@@ -2,28 +2,25 @@
 title: deputies-corps
 components:
   - title: ДЕПУТАТСЬКИЙ КОРПУС
-    subtitle: ''
+    nameHeader: ПІБ
+    positionHeader: Посада
+    contactsHeader: Контакти
     deputy:
       - fullname: Бакум Оксана Дмитрівна
         position: ПП «ОПОЗИЦІЙНА ПЛАТФОРМА – ЗА ЖИТТЯ»
         phone: 'ЄВБО '
-        email: ''
       - fullname: Богданов Юрій Вікторович
         position: ПП «ВО «СЛУГА НАРОДУ»
         phone: ТВО № 2
-        email: ''
       - fullname: Васильєв Сергій Анатолійович
         position: ПП «Партія Володимира Буряка «Єднання»
         phone: ТВО № 2
-        email: ''
       - fullname: Головань Роман Григорович
         position: Безпартійний
         phone: ТВО № 2
-        email: ''
       - fullname: Дідченко Оксана Іванівна
         position: ПП «ВО «СЛУГА НАРОДУ»
         phone: ЄВБО
-        email: ''
       - fullname: 'Зарудинський Олександр Іванович,'
         position: ПП «ВО «СЛУГА НАРОДУ»
         phone: ТВО № 3
@@ -104,4 +101,5 @@ components:
         link: 'https://shtg.gov.ua/decision-of-the-shyrokyvska-village-counci'
     _template: CommunityHeadDepartments
 ---
+
 

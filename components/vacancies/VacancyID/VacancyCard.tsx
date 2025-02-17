@@ -202,14 +202,14 @@ export const VacancyCard = ({
               }
             )}
           </div>
-          {data.pubDate && (
+          {/* {data.pubDate && (
             <div
               className={styles.vacanciesCard__wrapper_pubDate}
               data-tina-field={tinaField(data, "pubDate")}
             >
               {format(new Date(data.pubDate), "dd.MM.yyyy HH:mm")}
             </div>
-          )}
+          )} */}
         </div>
       </main>
       <ScrollToTop

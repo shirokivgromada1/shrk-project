@@ -51,6 +51,10 @@
       margin-bottom: 30px;
       & > span{
         width: 100% !important;
+        img {
+          object-fit: cover;
+          object-position: center;
+        }
       }
     }
     &_announceTitle {
@@ -142,6 +146,20 @@
     }
   }
 }
+@media screen and (max-width: 850px){
+  .vacanciesCard{
+    &__wrapper{
+      &_image {
+        & > span{
+          img {
+            object-fit: contain;
+            object-position: center;
+          }
+        }
+      }
+    }
+  }
+}
 
 @media screen and (max-width: 600px) {
   .vacanciesCard {
@@ -178,7 +196,6 @@
       &_image {
         & img {
           width: 350px !important;
-          height: 250px !important;
         }
       }
     }

@@ -7,6 +7,9 @@ export const deputyCorpsTableComponentSchema: Template = {
     previewSrc: "/blocks/DeputyCorpsTable/corps-image.jpg",
     defaultItem: {
       title: "ДЕПУТАТСЬКИЙ КОРПУС",
+      nameHeader: "ПІБ",
+      positionHeader: "Посада",
+      contactsHeader: "Контакти"
     },
   },
   fields: [
@@ -19,6 +22,21 @@ export const deputyCorpsTableComponentSchema: Template = {
       type: "string",
       label: "Subtitle",
       name: "subtitle",
+    },
+    {
+      type: "string",
+      label: "Name Column Header",
+      name: "nameHeader",
+    },
+    {
+      type: "string",
+      label: "Position Column Header",
+      name: "positionHeader",
+    },
+    {
+      type: "string",
+      label: "Contacts Column Header",
+      name: "contactsHeader",
     },
     {
       type: "object",
