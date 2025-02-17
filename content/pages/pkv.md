@@ -10,6 +10,9 @@ components:
         link: /uploads/РІШЕННЯ ПКВ (01221).pdf
         buttonText: ''
       - title: Програма комплексного відновлення
+        link: >-
+          /uploads/Програма комплексного відновлення Широківської громади
+          (012).pdf
     _template: HeadOrders
 ---
 
