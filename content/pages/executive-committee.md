@@ -48,7 +48,8 @@ components:
         position: член виконавчого комітету
       - fullname: Мазур Людмила Анатоліївна
         position: член виконавчого комітету
-      - {}
+      - fullname: Мотренко Олександр Володимирович
+        position: член виконавчого комітету
     _template: DeputyCorpsTable
   - title: Документи
     subtitle: ''
