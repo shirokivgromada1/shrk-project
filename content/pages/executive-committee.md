@@ -54,7 +54,8 @@ components:
         position: член виконавчого комітету
       - fullname: Підлісна Ярослава Василівна
         position: член виконавчого комітету
-      - {}
+      - fullname: Стукало Леонід Леонідович
+        position: член виконавчого комітету
     _template: DeputyCorpsTable
   - title: Документи
     subtitle: ''
