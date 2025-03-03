@@ -33,7 +33,8 @@ components:
         link: /uploads/рішення №39 від 06.02.2025 року.docx
       - title: Рішення №40 від 06.02.2025 року
         link: /uploads/рішення №40 від 06.02.2025 року.docx
-      - {}
+      - title: Рішення №41 від 06.02.2025 року
+        link: /uploads/рішення №41 від 06.02.2025 року.docx
       - {}
     _template: HeadOrders
 ---
