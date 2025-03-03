@@ -7,7 +7,8 @@ components:
         link: >-
           /uploads/Перелік рішень виконавчого комітету №02 від 28.01.2025
           року.docx
-      - {}
+      - title: Рішення №26 від 28.01.2025 року
+        link: /uploads/рішення №26 від 28.01.2025 року.docx
       - {}
     _template: HeadOrders
 ---
