@@ -51,7 +51,8 @@ components:
         link: /uploads/рішення №48 від 06.02.2025 року.docx
       - title: Рішення №49 від 06.02.2025 року
         link: /uploads/рішення №49 від 06.02.2025 року.docx
-      - {}
+      - title: Рішення №50 від 06.02.2025 року
+        link: /uploads/рішення №50 від 06.02.2025 року.docx
     _template: HeadOrders
 ---
 
