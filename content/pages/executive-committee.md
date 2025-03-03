@@ -80,9 +80,10 @@ components:
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-06022025
         buttonText: Перейти
-      - title: Виконавчий комітет від 28.01.2024 року № 02
+      - title: Виконавчий комітет від 28.01.2025 року № 02
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-28012025
+        buttonText: Перейти
       - title: Виконавчий комітет від 09.01.2025 №01
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-09012025
