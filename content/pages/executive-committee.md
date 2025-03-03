@@ -34,6 +34,15 @@ components:
         position: Член виконавчого комітету
         phone: 'тел: +38 (095) 064 32 93'
         email: shyroke.otg@gmail.com
+      - fullname: Бєлогурова Олена Василівна
+        position: член виконавчого комітету
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
     _template: DeputyCorpsTable
   - title: Документи
     subtitle: ''
