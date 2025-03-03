@@ -40,6 +40,7 @@ components:
         email: shyroke.otg@gmail.com
       - fullname: Бєлогурова Олена Василівна
         position: член виконавчого комітету
+        phone: +38 (067) 680-49-04
       - fullname: Вакулінський Дмитро Іванович
         position: член виконавчого комітету
       - fullname: Іваніченко Денис Костянтинович
