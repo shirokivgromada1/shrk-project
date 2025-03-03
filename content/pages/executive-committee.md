@@ -44,7 +44,8 @@ components:
         position: член виконавчого комітету
       - fullname: Крамаренко Леонід Олександрович
         position: член виконавчого комітету
-      - {}
+      - fullname: Литвиненко Жанна Миколаївна
+        position: член виконавчого комітету
       - {}
       - {}
     _template: DeputyCorpsTable
