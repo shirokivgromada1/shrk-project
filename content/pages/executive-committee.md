@@ -68,6 +68,7 @@ components:
         position: член виконавчого комітету
       - fullname: Шевчук Ася Петрівна
         position: член виконавчого комітету
+        phone: +38 (097) 274-39-76
     _template: DeputyCorpsTable
   - title: Документи
     subtitle: ''
