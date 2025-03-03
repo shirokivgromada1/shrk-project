@@ -31,7 +31,8 @@ components:
         link: /uploads/рішення №38 від 06.02.2025 року.docx
       - title: Рішення №39 від 06.02.2025 року
         link: /uploads/рішення №39 від 06.02.2025 року.docx
-      - {}
+      - title: Рішення №40 від 06.02.2025 року
+        link: /uploads/рішення №40 від 06.02.2025 року.docx
       - {}
       - {}
     _template: HeadOrders
