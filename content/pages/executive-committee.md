@@ -103,6 +103,7 @@ components:
       - title: Виконавчий комітет від 05.12.2024 №34
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-05122024
+        buttonText: Перейти
       - title: Виконавчий комітет від 28.11.2024 №33
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-28112024
