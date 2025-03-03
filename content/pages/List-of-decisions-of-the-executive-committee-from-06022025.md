@@ -9,7 +9,8 @@ components:
           року.docx
       - title: Рішення №28 від 06.02.2025 року
         link: /uploads/рішення №28 від 06.02.2025 року.docx
-      - {}
+      - title: Рішення №29 від 06.02.2025 року
+        link: /uploads/рішення №29 від 06.02.2025 року.docx
       - {}
       - {}
     _template: HeadOrders
