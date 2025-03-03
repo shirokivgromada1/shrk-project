@@ -13,7 +13,8 @@ components:
         link: /uploads/рішення №29 від 06.02.2025 року.docx
       - title: Рішення №30 від 06.02.2025 року
         link: /uploads/рішення №30 від 06.02.2025 року.docx
-      - {}
+      - title: Рішення №31 від 06.02.2025 року
+        link: /uploads/рішення №31 від 06.02.2025 року.docx
     _template: HeadOrders
 ---
 
