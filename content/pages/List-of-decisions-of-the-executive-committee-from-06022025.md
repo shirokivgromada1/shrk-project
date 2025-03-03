@@ -63,7 +63,8 @@ components:
         link: /uploads/рішення №54 від 06.02.2025 року.docx
       - title: Рішення №55 від 06.02.2025 року
         link: /uploads/рішення №55 від 06.02.2025 року.docx
-      - {}
+      - title: Рішення №56 від 06.02.2025 року
+        link: /uploads/рішення №56 від 06.02.2025 року.docx
       - {}
       - {}
     _template: HeadOrders
