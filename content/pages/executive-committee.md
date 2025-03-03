@@ -26,6 +26,10 @@ components:
         position: Член виконавчого комітету
         phone: 'тел: +38 (095) 064 32 93'
         email: shyroke.otg@gmail.com
+      - fullname: Юдіна Марина Дмитрівна
+        position: >-
+          заступник сільського голови  з питань діяльності виконавчих органів
+          ради
     _template: DeputyCorpsTable
   - title: Документи
     subtitle: ''
