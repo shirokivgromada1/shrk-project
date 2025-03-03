@@ -47,7 +47,8 @@ components:
         link: /uploads/рішення №46 від 06.02.2025 року.docx
       - title: Рішення №47 від 06.02.2025 року
         link: /uploads/рішення №47 від 06.02.2025 року.docx
-      - {}
+      - title: Рішення №48 від 06.02.2025 року
+        link: /uploads/рішення №48 від 06.02.2025 року.docx
       - {}
       - {}
     _template: HeadOrders
