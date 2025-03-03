@@ -46,7 +46,8 @@ components:
         position: член виконавчого комітету
       - fullname: Литвиненко Жанна Миколаївна
         position: член виконавчого комітету
-      - {}
+      - fullname: Мазур Людмила Анатоліївна
+        position: член виконавчого комітету
       - {}
     _template: DeputyCorpsTable
   - title: Документи
