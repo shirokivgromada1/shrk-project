@@ -52,7 +52,8 @@ components:
         position: член виконавчого комітету
       - fullname: Нічіпорчук Людмила Анатоліївна
         position: член виконавчого комітету
-      - {}
+      - fullname: Підлісна Ярослава Василівна
+        position: член виконавчого комітету
       - {}
     _template: DeputyCorpsTable
   - title: Документи
