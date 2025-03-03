@@ -56,6 +56,8 @@ components:
         position: член виконавчого комітету
       - fullname: Стукало Леонід Леонідович
         position: член виконавчого комітету
+      - fullname: Чухрай Олексій Володимирович
+        position: член виконавчого комітету
     _template: DeputyCorpsTable
   - title: Документи
     subtitle: ''
