@@ -58,6 +58,8 @@ components:
         position: член виконавчого комітету
       - fullname: Чухрай Олексій Володимирович
         position: член виконавчого комітету
+      - fullname: Шевчук Ася Петрівна
+        position: член виконавчого комітету
     _template: DeputyCorpsTable
   - title: Документи
     subtitle: ''
