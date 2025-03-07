@@ -1,7 +1,11 @@
 ---
 title: 57th-session-meeting
 components:
-  - title: Розпорядження голови
+  - title: 57 сесія VIII скликання широківської сільської ради
+    order:
+      - title: 57 сесія VIII скликання Широківської сільської ради (частина 1)
+        url: 'https://youtu.be/MSwepKrNWuI'
+        buttonText: Дивитись
     _template: HeadOrders
 ---
 
