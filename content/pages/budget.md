@@ -2,6 +2,9 @@
 title: budget
 components:
   - cards:
+      - name: тест
+        nameEng: Test
+        link: 'https://shtg.gov.ua/budget-request-'
       - name: Виконання бюджету
       - name: 'Бюджетні запити '
         nameEng: 'Budget requests '
