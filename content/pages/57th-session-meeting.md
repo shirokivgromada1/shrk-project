@@ -12,6 +12,9 @@ components:
       - title: '57 сесія VIII скликання Широківської сільської ради (частина 3) '
         url: 'https://youtu.be/3iEdZPaPYFo'
         buttonText: 'Дивитись '
+      - title: 57 сесія VIII скликання Широківської сільської ради (частина 4)
+        url: 'https://youtu.be/ttpg5z_9mkc'
+        buttonText: 'Дивитись '
     _template: HeadOrders
 ---
 
