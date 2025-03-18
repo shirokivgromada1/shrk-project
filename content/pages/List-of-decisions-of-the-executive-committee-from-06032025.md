@@ -85,7 +85,8 @@ components:
         link: /uploads/рішення №97 від 06.03.2025 року.docx
       - title: Рішення №98 від 06.03.2025 року
         link: /uploads/рішення №98 від 06.03.2025 року.docx
-      - {}
+      - title: Рішення №99 від 06.03.2025 року
+        link: /uploads/рішення №99 від 06.03.2025 року.docx
       - {}
       - {}
     _template: HeadOrders
