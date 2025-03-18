@@ -1,7 +1,14 @@
 ---
 title: List of decisions of the executive committee from 06.03.2025
 components:
-  - title: Розпорядження голови
+  - title: Виконавчий комітет від 06.03.2025 року №05
+    order:
+      - title: Перелік рішень виконавчого комітету №05 від 06.03.2025 року
+        link: >-
+          /uploads/Перелік рішень виконавчого комітету №05 від 06.03.2025
+          року.docx
+      - {}
+      - {}
     _template: HeadOrders
 ---
 
