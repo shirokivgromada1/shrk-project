@@ -47,7 +47,8 @@ components:
         link: /uploads/рішення №78 від 06.03.2025 року.docx
       - title: Рішення №79 від 06.03.2025 року
         link: /uploads/рішення №79 від 06.03.2025 року.docx
-      - {}
+      - title: Рішення №80 від 06.03.2025 року
+        link: /uploads/рішення №80 від 06.03.2025 року.docx
     _template: HeadOrders
 ---
 
