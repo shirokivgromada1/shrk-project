@@ -76,6 +76,10 @@ components:
     subtitle: ''
     notMain: true
     order:
+      - title: Виконавчий комітет від 06.03.2025 року № 05
+        url: >-
+          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-06032025
+        buttonText: Перейти
       - title: Виконавчий комітет від 27.02.2025 року № 04
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-27022025
