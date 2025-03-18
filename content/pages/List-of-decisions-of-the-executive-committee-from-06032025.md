@@ -7,7 +7,8 @@ components:
         link: >-
           /uploads/Перелік рішень виконавчого комітету №05 від 06.03.2025
           року.docx
-      - {}
+      - title: Рішення №60 від 06.03.2025 року
+        link: /uploads/рішення №60 від 06.03.2025 року.docx
       - {}
     _template: HeadOrders
 ---
