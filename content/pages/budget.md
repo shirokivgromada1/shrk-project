@@ -2,7 +2,7 @@
 title: budget
 components:
   - cards:
-      - name: Виконання бюджету
+      - name: Виконання бюджету 2025 рік
       - name: 'Бюджетні запити '
         nameEng: 'Budget requests '
         link: 'https://shtg.gov.ua/budget-request-'
