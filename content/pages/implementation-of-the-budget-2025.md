@@ -1,7 +1,13 @@
 ---
 title: implementation of the budget 2025
 components:
-  - title: Розпорядження голови
+  - title: Виконання бюджету 2025
+    order:
+      - {}
+      - title: Інформація про виконання місцевого бюджету за січень 2025 року
+        link: >-
+          /uploads/інформація про виконання місцевого бюджету за січень 2025
+          року.xlsx
     _template: HeadOrders
 ---
 
