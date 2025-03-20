@@ -2,6 +2,8 @@
 title: budget
 components:
   - cards:
+      - name: БЮДЖЕТ ШИРОКІВСЬКОЇ ГРОМАДИ - 2025
+        link: 'https://shtg.gov.ua/Community-budget-2025'
       - name: Виконання бюджету 2025 рік
         nameEng: implementation of the budget 2025
         link: 'https://shtg.gov.ua/implementation-of-the-budget-2025'
