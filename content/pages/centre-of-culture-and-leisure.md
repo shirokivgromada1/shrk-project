@@ -4,21 +4,21 @@ components:
   - title: >-
       КУ “Центр культури та дозвілля, сім'ї, молоді, спорту та туризму” (Код
       ЄДРПОУ 41841069)
-    image: /uploads/silrada/communual-institutions/cul.png
-    fullname: Марковська Ірина Олександрівна
+    image: /uploads/IMG_1031 (1).PNG
+    fullname: 'Якубіна Анастасія Олександрівна '
     schedule:
       title: Графік роботи
       time: 'Пн - Пт з 8:00 до 16:30'
     contacts:
       title: Контакти
       email: shyroke.kultura@gmail.com
-      phone: +38 (095) 870 63 34
-      place: +38 (098) 996 91 19
+      phone: +38 (096) 539-28-24
+      place: +38 (096) 539-28-24
     position:
       title: Посада
       name: Керівник
     desc: >
-      ### Ценр має 17 структурних підрозділів&#xA;
+      ### Центр має 17 структурних підрозділів&#xA;
 
 
       7 центрів дозвілля (у т.ч. Молодіжний Хаб «Space»)
