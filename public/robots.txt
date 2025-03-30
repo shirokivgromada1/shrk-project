@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /cgi-bin/
+Disallow: /search
+Allow: /
+
+Sitemap: https://shtg.gov.ua/sitemap.xml
