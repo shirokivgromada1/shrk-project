@@ -91,6 +91,7 @@ components:
         nameEng: 'Mykolay-Pilski leisure center, Mykolaiv-Pilsk Library'
       - name: Новопетрівська бібліотека
         nameEng: Novopetriv library
+      - name: Зеленопільська сільська бібліотека
     educTitle: Освітні заклади
     educTitleEng: Educational institutions
     educationals:
