@@ -1,6 +1,11 @@
 ---
 title: development-strategy
 components:
+  - title: ''
+    document:
+      - title: Стратегічна екологічна оцінка
+        link: 'https://shtg.gov.ua/admin/index.html#/~/seo'
+    _template: Documents
   - title: Стратегія розвитку Широківської громади на період до 2027 року
     notMain: false
     order:
