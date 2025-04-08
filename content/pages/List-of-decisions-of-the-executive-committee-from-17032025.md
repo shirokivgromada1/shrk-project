@@ -23,7 +23,8 @@ components:
         link: /uploads/рішення №107 від 17.03.2025 року.docx
       - title: Рішення №108 від 17.03.2025 року
         link: /uploads/рішення №108 від 17.03.2025 року.docx
-      - {}
+      - title: Рішення №109 від 17.03.2025 року
+        link: /uploads/рішення №109 від 17.03.2025 року.docx
     _template: HeadOrders
 ---
 
