@@ -19,7 +19,8 @@ components:
         url: >-
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
           №106 від 17.03.2025 року.docx
-      - {}
+      - title: Рішення №107 від 17.03.2025 року
+        link: /uploads/рішення №107 від 17.03.2025 року.docx
       - {}
       - {}
     _template: HeadOrders
