@@ -97,7 +97,7 @@ components:
     educationals:
       - name: Володимирівський ліцей «Успіх»
         nameEng: Augustynivska elementary school
-      - name: Відраднівська гімназія
+      - name: Лукашівська гімназія «Мрія»
         nameEng: Vidradniv Gymnasium
       - name: Володимирівський ліцей «Успіх»
         nameEng: Volodymyriv Lyceum "Success"
