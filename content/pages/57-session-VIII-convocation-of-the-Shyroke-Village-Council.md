@@ -5,7 +5,8 @@ components:
     order:
       - title: Порядок денний 57 сесії
         link: /uploads/Порядок денний 57 сесії.docx
-      - {}
+      - title: 57 сесія Протокол сумісного засідання від 06.03.2025
+        link: /uploads/57 сесія Протокол сумісного засідання від 06.03.2025.docx
     _template: HeadOrders
 ---
 
