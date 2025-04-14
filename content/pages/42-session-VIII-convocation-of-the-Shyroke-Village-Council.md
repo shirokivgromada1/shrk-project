@@ -1,7 +1,9 @@
 ---
 title: 42 session VIII convocation of the Shyroke Village Council
 components:
-  - title: Розпорядження голови
+  - title: >-
+      42 позачергова сесія VIII скликання Широківської сільської ради від
+      07.03.2024
     order:
       - title: Порядок денний 42 сесії VIII скликання
         url: >-
