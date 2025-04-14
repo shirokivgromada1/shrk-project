@@ -49,6 +49,7 @@ components:
   - notMain: true
     headline:
       text: Новини
+    positionText: center
     _template: news
 ---
 
