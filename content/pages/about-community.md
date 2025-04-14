@@ -4,8 +4,8 @@ components:
   - image: /uploads/about-community/about-community/banner1.png
     title: Про громаду
     titleEng: About community
-    people: '14,9'
-    year: Населення (2021 рік)
+    people: '13,7'
+    year: Населення (2025 рік)
     yearEng: Population (2021)ttree
     towns: '35'
     townsTitle: Населених пунктів
