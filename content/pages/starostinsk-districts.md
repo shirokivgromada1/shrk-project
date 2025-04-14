@@ -5,7 +5,7 @@ components:
     titleEng: Starostinsk districts
     districts:
       - id: 1
-        name: Сонячний округ
+        name: 'Сонячний, Володимирівський,'
         nameEng: Sonyachiy district
         captain: 'Староста: Дар’я Ішкова'
         captainEng: 'Mayor: Darya Ishkova'
@@ -53,7 +53,7 @@ components:
         scheduleDate: "понеділок - п’ятниця\_з 8:00 до 16:30"
         scheduleDateEng: 'Monday - Friday from 8:00 a.m. to 4:30 p.m'
       - id: 4
-        name: Володимирівський округ
+        name: 'Володимирівський, Сонячний, Зеленопільский округи'
         nameEng: Volodymyrivsky district
         captain: 'Староста: Леонід Стукало'
         captainEng: 'Mayor: Leonid Stukalo'
