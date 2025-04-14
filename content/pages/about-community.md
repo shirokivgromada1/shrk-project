@@ -116,11 +116,11 @@ components:
     pharmacies:
       - name: «Аптека №1» у Володимирівському
         nameEng: «Pharmacy №1» in Volodymyrivskyi
-      - name: Лукашівська філія «Аптеки №1»
+      - name: «Аптека №2» у Миколай-Полі
         nameEng: Lukashiv branch of «Pharmacies  №1»
-      - name: Широківська філія «Аптеки №1»
+      - name: Аптечний пункт №1 у Миколай-Полі
         nameEng: Shirokiv branch of «Pharmacies №1»
-      - name: "Петропільська філія «Аптеки №1»\_"
+      - name: 'Аптечний пункт № 2, с-ще. Сонячне'
         nameEng: Petropolis branch of «Pharmacies №1»
       - name: «Аптека №2» у Миколай-Полі
         nameEng: «Pharmacy №2» in Mykolay-Pola
