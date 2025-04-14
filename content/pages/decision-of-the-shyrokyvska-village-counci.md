@@ -7,7 +7,7 @@ components:
           47 позачергова сесія VIII скликання Широківської сільської ради від
           16.07.2024
         link: >-
-          https://shtg.gov.ua/admin/47-session-VIII-convocation-of-the-Shyroke-Village-Council
+          https://shtg.gov.ua/47-session-VIII-convocation-of-the-Shyroke-Village-Council
       - title: 46 сесія VIII скликання Широківської сільської ради від 04.07.2024
         richText: ''
         link: >-
