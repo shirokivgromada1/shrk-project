@@ -1,7 +1,7 @@
 ---
 title: department-of-social-protection-of-the-population
 components:
-  - title: Відділ соціального захисту населення
+  - title: Відділ з питань ветеранської політики
     titleEng: Department of Social Protection
     image: /uploads/IMG_1043.PNG
     fullname: Малишкіна Наталя Сергіївна
