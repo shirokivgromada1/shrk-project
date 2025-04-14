@@ -148,7 +148,7 @@ components:
         nameEng: Department for control and inspection
         link: control-and-inspection-department
       - image: /uploads/silrada/head-of-the-community/9.svg
-        name: Відділ соціального захисту населення
+        name: Відділ з питань ветеранської політики
         nameEng: Department of social protection of the population
         link: department-of-social-protection-of-the-population
       - image: /uploads/silrada/head-of-the-community/10.svg
