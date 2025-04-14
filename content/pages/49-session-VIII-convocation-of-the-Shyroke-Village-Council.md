@@ -7,7 +7,7 @@ components:
     order:
       - title: Порядок денний 49 сесії VIII скликання
         link: /uploads/Порядок_денний_49_сесії_VIII_скликання.docx
-      - {}
+      - title: 49 сесія Протокол сумісного засідання від 27.08.2024
     _template: HeadOrders
 ---
 
