@@ -118,7 +118,7 @@ components:
         nameEng: «Pharmacy №1» in Volodymyrivskyi
       - name: «Аптека №2» у Миколай-Полі
         nameEng: Lukashiv branch of «Pharmacies  №1»
-      - name: Аптечний пункт №1 у Миколай-Полі
+      - name: 'Аптечний пункт №1, м. Запоріжжя'
         nameEng: Shirokiv branch of «Pharmacies №1»
       - name: 'Аптечний пункт № 2, с-ще. Сонячне'
         nameEng: Petropolis branch of «Pharmacies №1»
