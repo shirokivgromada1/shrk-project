@@ -3,8 +3,8 @@ title: deputies-corps
 components:
   - title: ДЕПУТАТСЬКИЙ КОРПУС
     nameHeader: ПІБ
-    positionHeader: Посада
-    contactsHeader: Контакти
+    positionHeader: Партійна приналежність
+    contactsHeader: Виборчий округ
     deputy:
       - fullname: Бакум Оксана Дмитрівна
         position: ПП «ОПОЗИЦІЙНА ПЛАТФОРМА – ЗА ЖИТТЯ»
@@ -101,5 +101,4 @@ components:
         link: 'https://shtg.gov.ua/decision-of-the-shyrokyvska-village-counci'
     _template: CommunityHeadDepartments
 ---
-
 
