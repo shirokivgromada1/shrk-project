@@ -107,10 +107,6 @@ components:
         nameEng: Petropolis Lyceum
       - name: Новопетрівська філія Петропільського ліцею
         nameEng: Shirokiv gymnasium
-      - name: Миколай-Пільська філія Петропільського ліцею
-        nameEng: Mykolay-Pilska branch of the Petropolis Lyceum
-      - name: Новопетрівська філія Петропільського ліцею
-        nameEng: Novopetrivsk branch of the Petropolis Lyceum
     pharTitle: Аптеки громади
     pharTitleEng: Community pharmacies
     pharmacies:
