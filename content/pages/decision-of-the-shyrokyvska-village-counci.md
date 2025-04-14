@@ -3,6 +3,11 @@ title: decision-of-the-shyrokyvska-village-counci
 components:
   - title: 'Рішення та проєкти рішень Широківської сільської ради '
     official:
+      - title: >-
+          47 позачергова сесія VIII скликання Широківської сільської ради від
+          16.07.2024
+        link: >-
+          https://shtg.gov.ua/admin/47-session-VIII-convocation-of-the-Shyroke-Village-Council
       - title: 46 сесія VIII скликання Широківської сільської ради від 04.07.2024
         richText: ''
         link: >-
