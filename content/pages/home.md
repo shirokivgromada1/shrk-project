@@ -2,7 +2,7 @@
 title: home
 components:
   - title: Широківська громада
-    titleEng: Shirokiv community
+    titleEng: Shiroke community
     description: Знайдіть усі послуги та інформацію онлайн
     descriptionEng: Find all services and information online
     previewImage: /uploads/home/photo.png
@@ -57,9 +57,4 @@ components:
         sourceLink: 'https://zor.gov.ua/'
     _template: sources
 ---
-
-
-
-
-
 
