@@ -101,11 +101,11 @@ components:
         nameEng: Vidradniv Gymnasium
       - name: Петропільський ліцей
         nameEng: Volodymyriv Lyceum "Success"
-      - name: Лукашівська гімназія «Мрія»
+      - name: Відраднівська філія Петропільського ліцею
         nameEng: Lukashiv Gymnasium "Dream"
-      - name: Петропільський ліцей
+      - name: Миколай-Пільська філія Петропільського ліцею
         nameEng: Petropolis Lyceum
-      - name: Широківська гімназія
+      - name: Новопетрівська філія Петропільського ліцею
         nameEng: Shirokiv gymnasium
       - name: Миколай-Пільська філія Петропільського ліцею
         nameEng: Mykolay-Pilska branch of the Petropolis Lyceum
