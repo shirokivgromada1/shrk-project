@@ -9,6 +9,8 @@ components:
         url: >-
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Порядок
           денний 42 сесії VIII скликання.docx
+      - title: 42 сесія Протокол сумісного засідання від 07.03.2024
+        link: /uploads/42 сесія Протокол сумісного засідання від 07.03.2024.docx
     _template: HeadOrders
 ---
 
