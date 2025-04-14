@@ -2,7 +2,7 @@
 title: home
 components:
   - title: Широківська громада
-    titleEng: Shiroke community
+    titleEng: Shyroke community
     description: Знайдіть усі послуги та інформацію онлайн
     descriptionEng: Find all services and information online
     previewImage: /uploads/home/photo.png
