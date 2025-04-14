@@ -73,7 +73,7 @@ components:
     cultTitle: Заклади культури
     cultTitleEng: Cultural institutions
     culturals:
-      - name: 'Августинівський центр дозвілля, Августинівська бібліотека'
+      - name: Володимирівський ліцей «Успіх»
         nameEng: 'Augustinivski leisure center, Augustinivski library'
       - name: "Відрадненський центр дозвілля, Відрадненська бібліотека\_"
         nameEng: 'Vidradny leisure center, Vidradny library'
@@ -95,7 +95,7 @@ components:
     educTitle: Освітні заклади
     educTitleEng: Educational institutions
     educationals:
-      - name: Августинівська початкова школа
+      - name: Володимирівський ліцей «Успіх»
         nameEng: Augustynivska elementary school
       - name: Відраднівська гімназія
         nameEng: Vidradniv Gymnasium
