@@ -14,7 +14,7 @@ components:
     squareTitle: Площа громади
     squareTitleEng: Area of ​​the community
     _template: AboutDesc
-  - desc: "### Адміністративний центр — село Широке.&#xA;\n\nНаразі Широківської громади складається з 10 старостинських округів в які входять 33 села і 2 селища.\_\n"
+  - desc: "### Адміністративний центр — село Широке.&#xA;\n\nНаразі Широківська громада складається з 10 старостинських округів в які входять 33 села і 2 селища.\_\n"
     descEng: >
       ### The administrative center is the village of Shiroke.
 
