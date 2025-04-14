@@ -21,7 +21,7 @@ components:
         scheduleDate: "понеділок - п’ятниця\_з 8:00 до 16:30"
         scheduleDateEng: 'Monday - Friday from 8:00 a.m. to 4:30 p.m'
       - id: 2
-        name: Августинівський округ
+        name: Августинівськийокруг
         nameEng: Augustynivsky district
         captain: 'Староста: Ася Шевчук'
         captainEng: 'Mayor: Asya Shevchuk'
@@ -37,7 +37,7 @@ components:
         scheduleDate: "понеділок - п’ятниця\_з 8:00 до 16:30"
         scheduleDateEng: 'Monday - Friday from 8:00 a.m. to 4:30 p.m'
       - id: 3
-        name: Лукашівський округ
+        name: 'Лукашівський, Відраднівський округи'
         nameEng: Lukashiv district
         captain: 'Староста: Олена Бєлогурова'
         captainEng: 'Mayor: Olena Belogurova'
