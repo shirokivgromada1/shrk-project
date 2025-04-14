@@ -99,7 +99,7 @@ components:
         nameEng: Augustynivska elementary school
       - name: Лукашівська гімназія «Мрія»
         nameEng: Vidradniv Gymnasium
-      - name: Володимирівський ліцей «Успіх»
+      - name: Петропільський ліцей
         nameEng: Volodymyriv Lyceum "Success"
       - name: Лукашівська гімназія «Мрія»
         nameEng: Lukashiv Gymnasium "Dream"
