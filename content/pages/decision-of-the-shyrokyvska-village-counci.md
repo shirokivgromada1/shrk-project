@@ -4,6 +4,11 @@ components:
   - title: 'Рішення та проєкти рішень Широківської сільської ради '
     official:
       - title: >-
+          52 позачергова сесія VIII скликання Широківської сільської ради від
+          07.11.2024
+        link: >-
+          https://shtg.gov.ua/52-session-VIII-convocation-of-the-Shyroke-Village-Council
+      - title: >-
           51 позачергова сесія VIII скликання Широківської сільської ради від
           07.10.2024
         link: >-
