@@ -45,7 +45,6 @@ components:
       - name: Інформування ветеранів
       - name: Моніторинг та вдосконалення ветеранської політики
       - name: 'Захист прав ветеранів '
-      - name: Організація оздоровлення та відпочинку дітей
     _template: SilradaDepartmentFunctions
   - notMain: true
     headline:
