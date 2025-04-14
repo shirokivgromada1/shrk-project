@@ -73,7 +73,7 @@ components:
     cultTitle: Заклади культури
     cultTitleEng: Cultural institutions
     culturals:
-      - name: Володимирівський ліцей «Успіх»
+      - name: 'Августинівський центр дозвілля, Августинівська бібліотека'
         nameEng: 'Augustinivski leisure center, Augustinivski library'
       - name: "Відрадненський центр дозвілля, Відрадненська бібліотека\_"
         nameEng: 'Vidradny leisure center, Vidradny library'
