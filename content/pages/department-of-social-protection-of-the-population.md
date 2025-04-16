@@ -1,5 +1,5 @@
 ---
-title: department-of-social-protection-of-the-population
+title: Veterans-Policy-Department
 components:
   - title: Відділ з питань ветеранської політики
     titleEng: Department of Social Protection
