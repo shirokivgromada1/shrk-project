@@ -4,7 +4,7 @@ components:
   - title: Відділ соціального захисту
     titleEng: Відділ соціального захисту
     image: /uploads/IMG_6682.JPG
-    fullname: 'Любов Біла '
+    fullname: Біла Любов Мколаївна
     fullnameEng: 'Любов Біла '
     employment:
       title: 'ДІЯЛЬНІСТЬ ВІДДІЛУ '
