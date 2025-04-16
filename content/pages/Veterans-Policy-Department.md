@@ -35,8 +35,8 @@ components:
       phone1Eng: +38 (067) 322-60-97
       place: 'Місце прийому: м. Запоріжжя, вул. Героїв  37 батальйону, 12'
       placeEng: 'Reception Location: Zaporizhzhia, Rozental Street, 7'
-      email: 'Пошта: shyroke.otg@gmail.com'
-      emailEng: 'Email: shyroke.otg@gmail.com'
+      email: 'Пошта: shyroke.vet.polityka@gmail.com'
+      emailEng: 'Email: shyroke.vet.polityka@gmail.com'
     _template: CouncilSecretaryDesc
   - title: 'Основні функції відділу:'
     function:
