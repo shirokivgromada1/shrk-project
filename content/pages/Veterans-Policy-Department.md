@@ -33,7 +33,7 @@ components:
       titleEng: 'Contacts '
       phone1: 'тел: +38 (097) 161-18-16'
       phone1Eng: +38 (067) 322-60-97
-      place: 'Місце прийому: м. Запоріжжя, вул. Розенталь, 7'
+      place: 'Місце прийому: м. Запоріжжя, вул. Героїв  37 батальйону, 12'
       placeEng: 'Reception Location: Zaporizhzhia, Rozental Street, 7'
       email: 'Пошта: shyroke.otg@gmail.com'
       emailEng: 'Email: shyroke.otg@gmail.com'
@@ -52,5 +52,4 @@ components:
     positionText: center
     _template: news
 ---
-
 
