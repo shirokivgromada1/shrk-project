@@ -155,6 +155,10 @@ components:
         name: Відділ  “Служба у справах дітей”
         nameEng: Department "Service for Children"
         link: department-service-for-children
+      - image: /uploads/соц.png
+        name: Відділ соціального захисту
+        nameEng: Відділ соціального захисту
+        link: 'https://shtg.gov.ua/social'
     _template: CommunityHeadDepartments
   - title: КОМУНАЛЬНІ УСТАНОВИ/ПІДПРИЄМСТВА
     titleEng: MUNICIPAL INSTITUTIONS/ENTREPRENEURS
