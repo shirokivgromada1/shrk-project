@@ -21,6 +21,8 @@ components:
       titleEng: 'Контакти '
       phone1: +38 (067) 322-60-97
       phone1Eng: +38 (067) 322-60-97
+      place: 'Місце прийому: м. Запоріжжя, вул. Героїв 37 бригади, 12'
+      placeEng: 'Місце прийому: м. Запоріжжя, вул. Героїв 37 бригади, 12'
     _template: CouncilSecretaryDesc
   - title: 'Основні функції відділу:'
     function:
