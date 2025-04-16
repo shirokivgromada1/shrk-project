@@ -4,8 +4,8 @@ components:
   - title: >-
       Спеціалізоване комунальне підприємство «Об'єднана житлово-комунальна,
       побутова та ритуальна служба» (КОД ЄДРПОУ 38374080)
-    image: /uploads/silrada/communual-institutions/spe.png
-    fullname: Мамотенко Олег Миколайович
+    image: /uploads/photo_2025-04-16_11-48-00.jpg
+    fullname: Сірик Катерина Сергіївна
     schedule:
       title: Графік роботи
       time: 'Пн - Пт з 8:00 до 17:00'
