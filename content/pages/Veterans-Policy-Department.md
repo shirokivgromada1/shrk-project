@@ -45,6 +45,7 @@ components:
       - name: Інформування ветеранів
       - name: Моніторинг та вдосконалення ветеранської політики
       - name: 'Захист прав ветеранів '
+      - name: Організація заходів щодо гідного вшанування пам’яті ветеранів
     _template: SilradaDepartmentFunctions
   - notMain: true
     headline:
