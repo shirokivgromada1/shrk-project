@@ -24,6 +24,15 @@ components:
         contactsPhoneEng: +38 (067) 322-60-97
         contactsAddress: 'вул. Героїв 37 батальйону, 12'
         contactsAddressEng: 'вул. Героїв 37 батальйону, 12'
+      - id: 4
+        name: КУ «Центр соціальних послуг»
+        nameEng: КУ «Центр соціальних послуг»
+        contactsTitle: 'Дзвоніть '
+        contactsTitleEng: 'Дзвоніть '
+        contactsPhone: +38 (096) 513-20-30
+        contactsPhoneEng: +38 (096) 513-20-30
+        scheduleTitle: 'Будні дні, з 8:00 до 16:30'
+        scheduleTitleEng: 'Будні дні, з 8:00 до 16:30'
     _template: StarostinskDistricts
 ---
 
