@@ -2,7 +2,7 @@
   "header": {
     "icon": "/uploads/header/lodo.svg",
     "name": "Широківська громада",
-    "nameEng": "Shirokiv community",
+    "nameEng": "Shiroke community",
     "nav": [
       {
         "href": "about-community",
@@ -215,24 +215,39 @@
             "label": "Новини",
             "labelEng": "News",
             "href": "news"
-          },
+          }
+        ]
+      },
+      {
+        "href": "heroes",
+        "label": "Ми пам'ятаємо",
+        "labelEng": "We remember",
+        "isModal": true,
+        "links": [
           {
-            "label": "Ми пам'ятаємо",
-            "labelEng": "Ми пам'ятаємо",
+            "label": "Герої Широківської громади",
+            "labelEng": "The heroes of the Shyrokivska community",
             "href": "about-the-heroes-of-the-Shyrokivska-community"
-          },
+          }
+        ]
+      },
+      {
+        "href": "mass-media-about-us",
+        "label": "ЗМІ про Широківську громаду",
+        "labelEng": "Mass media about us",
+        "isModal": true,
+        "links": [
           {
-            "label": "Медія про Широківську громаду",
-            "labelEng": "Медія про Широківську громаду",
+            "label": "ЗМІ про Широківську громаду",
+            "labelEng": "Mass media about us",
             "href": "mass-media-about-us"
           }
         ]
       },
       {
-        "href": "contacts",
         "label": "Контакти",
         "labelEng": "Useful Information",
-        "isModal": false
+        "isModal": true
       }
     ]
   },
