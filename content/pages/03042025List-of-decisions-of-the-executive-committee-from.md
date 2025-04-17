@@ -19,7 +19,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №152 від 03.04.2025 року
+        link: /uploads/рішення №152 від 03.04.2025 року.docx
       - title: Рішення №153 від 03.04.2025 року
         link: /uploads/рішення №153 від 03.04.2025 року.docx
     _template: HeadOrders
