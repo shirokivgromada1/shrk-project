@@ -215,6 +215,11 @@
             "label": "Новини",
             "labelEng": "News",
             "href": "news"
+          },
+          {
+            "label": "Медія про Широківську громаду",
+            "labelEng": "Медія про Широківську громаду",
+            "href": "mass-media-about-us"
           }
         ]
       },
