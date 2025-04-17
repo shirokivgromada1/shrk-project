@@ -62,8 +62,9 @@ components:
     positionHeader: Округи
     contactsHeader: Контакти
     deputy:
-      - fullname: Польський Євген Володимирович
+      - fullname: Євген Польський
         phone: +38 (096) 558-26-07
+      - fullname: 'Роман Бадло '
     _template: DeputyCorpsTable
 ---
 
