@@ -248,7 +248,7 @@
         "href": "contacts",
         "label": "Контакти",
         "labelEng": "Useful Information",
-        "isModal": true,
+        "isModal": false,
         "links": [
           {
             "label": "Контакти",
