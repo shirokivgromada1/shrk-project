@@ -2,7 +2,7 @@
 title: administrative-services-center
 components:
   - title: центр надання адміністративних послуг
-    desc: >+
+    desc: >
       Відділ ЦНАП Широківської громади надає 262 послуги. \
 
       \
@@ -20,22 +20,7 @@ components:
 
       прийом, на зручний для вас час до адміністратора відділу ЦНАП вашого
 
-      старостинського округу. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+      старостинського округу.
     _template: MonitoringEnsuringAccess
   - title: ПОСЛУГИ
     favor:
@@ -98,7 +83,7 @@ components:
     employee:
       - fullname: Гур’янова Наталія Олександрівна
         district: Володимирівський округ
-        photo: /uploads/e77c17f2-fd9a-4b88-ab8f-5f9ef3e7743b.jpg
+        photo: /uploads/IMG_6695.JPG
         phone: '(061)239-95-26, (097)321-96-43'
         address: 'с. Володимирівське, вул. Шкільна, 2'
         email: volodimirivske.sotg@gmail.com
