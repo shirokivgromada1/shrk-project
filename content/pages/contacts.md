@@ -6,6 +6,8 @@ components:
       - id: 1
         name: 'Гаряча лінія '
         nameEng: 'Гаряча лінія  '
+        contactsPhone: '+38 (061) 286-21-21, +38 (067) 612-66-06 (Для повідомлень у Viber)'
+        contactsPhoneEng: '+38 (061) 286-21-21, +38 (067) 612-66-06 (Для повідомлень у Viber)'
     _template: StarostinskDistricts
 ---
 
