@@ -109,10 +109,5 @@ components:
       - title: Паспорти бюджетних програм міського бюджету за 2023 рік
         url: 'null'
     _template: HeadOrders
-  - notMain: true
-    headline:
-      text: Новини
-      positionHeadline: center
-    _template: news
 ---
 
