@@ -31,8 +31,10 @@ components:
         contactsTitleEng: 'Дзвоніть '
         contactsPhone: +38 (096) 513-20-30
         contactsPhoneEng: +38 (096) 513-20-30
-        scheduleTitle: 'Будні дні, з 8:00 до 16:30'
-        scheduleTitleEng: 'Будні дні, з 8:00 до 16:30'
+        scheduleTitle: 'Графік роботи:'
+        scheduleTitleEng: 'Графік роботи:'
+        scheduleDate: 'ПН.-ПТ., з 8:00 до 16:30'
+        scheduleDateEng: 'Будні дні, з 8:00 до 16:30'
     _template: StarostinskDistricts
 ---
 
