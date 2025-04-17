@@ -3,6 +3,12 @@ title: 03042025_List of decisions of the executive committee from
 components:
   - title: Виконавчий комітет від 03.04.2025 року №07
     order:
+      - {}
+      - {}
+      - {}
+      - {}
+      - title: Рішення №131 від 03.04.2025 року
+        link: /uploads/рішення №131 від 03.04.2025 року.docx
       - title: Рішення №132 від 03.04.2025 року
         link: /uploads/рішення №132 від 03.04.2025 року.docx
       - title: Рішення №133 від 03.04.2025 року
