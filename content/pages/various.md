@@ -4,6 +4,9 @@ components:
   - title: Різне
     notMain: false
     order:
+      - title: Проєкти PMCІ
+        url: 'https://shtg.gov.ua/projects-rmsi'
+        buttonText: Перейти
       - title: Маршрут послуг з ментального здоров’я в Широківській громаді
         link: >-
           /uploads/Маршрут послуг з ментального здоров’я в Широківській
