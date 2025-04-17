@@ -247,14 +247,7 @@
       {
         "label": "Корисна інформація",
         "labelEng": "Useful Information",
-        "isModal": true,
-        "links": [
-          {
-            "label": "Заклади освіти",
-            "labelEng": "Educational institutions",
-            "href": "education-institutions"
-          }
-        ]
+        "isModal": true
       }
     ]
   },
