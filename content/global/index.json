@@ -245,6 +245,7 @@
         ]
       },
       {
+        "href": "contacts",
         "label": "Контакти",
         "labelEng": "Useful Information",
         "isModal": true
