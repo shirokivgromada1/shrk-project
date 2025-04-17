@@ -99,5 +99,19 @@ components:
         functions:
           - singleFunction: Веселівський округ
     _template: SocialServicesCenter
+  - title: Клініка «Сімейний лікар»
+    schedule:
+      scheduleTitle: 'ГРАФІК РОБОТИ '
+      schedulePhones: 'ПН.-ПТ. з 8:00 до 16:30'
+    address:
+      title: АДРЕСА
+      street: 'вул. Лікарняна, 18'
+    socials:
+      title: Телефони
+      socialList:
+        - name: +38 (073) 188-80-03
+        - name: +38 (099) 188-80-03
+        - name: +38 (096) 188-80-03
+    _template: ClinicContact
 ---
 
