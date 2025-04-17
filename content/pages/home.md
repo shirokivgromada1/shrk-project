@@ -36,10 +36,10 @@ components:
         serviceIcon: /uploads/home/social.svg
         serviceLink: social-protection
     _template: services
-  - headline:
-      text: Новини
-    positionText: left
-    _template: news
+  - newsSection:
+      - category: content/newsCategories/no_topic.md
+        variantNews: ''
+    _template: newsSections
   - title: Офіційні джерела інформації
     titleEng: Official information sources
     source:
