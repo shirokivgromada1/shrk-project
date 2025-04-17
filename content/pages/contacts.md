@@ -6,6 +6,8 @@ components:
       - id: 1
         name: Гаряча лінія Широківської громади
         nameEng: 'Гаряча лінія  '
+        contactsTitle: 'Дзвоніть '
+        contactsTitleEng: 'Дзвоніть '
         contactsPhone: '+38 (061) 286-21-21, +38 (067) 612-66-06 (Для повідомлень у Viber)'
         contactsPhoneEng: '+38 (061) 286-21-21, +38 (067) 612-66-06 (Для повідомлень у Viber)'
       - id: 2
@@ -13,8 +15,8 @@ components:
         nameEng: КП «Благводсервіс»
         captain: ''
         captainEng: ''
-        contactsTitle: ''
-        contactsTitleEng: ''
+        contactsTitle: 'Дзвоніть '
+        contactsTitleEng: 'Дзвоніть '
         contactsPhone: +38 (067) 612-34-44
         contactsPhoneEng: +38 (067) 612-34-44
       - id: 3
