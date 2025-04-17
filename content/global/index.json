@@ -222,7 +222,7 @@
         "href": "heroes",
         "label": "Ми пам'ятаємо",
         "labelEng": "We remember",
-        "isModal": true,
+        "isModal": false,
         "links": [
           {
             "label": "Герої Широківської громади",
@@ -235,7 +235,7 @@
         "href": "mass-media-about-us",
         "label": "ЗМІ про Широківську громаду",
         "labelEng": "Mass media about us",
-        "isModal": true,
+        "isModal": false,
         "links": [
           {
             "label": "ЗМІ про Широківську громаду",
