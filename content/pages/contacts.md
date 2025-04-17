@@ -41,6 +41,19 @@ components:
         scheduleTitleEng: 'Графік роботи:'
         scheduleDate: 'ПН.-ПТ., з 8:00 до 16:30'
         scheduleDateEng: 'Будні дні, з 8:00 до 16:30'
+      - id: 5
+        name: Відділ «Служба у справах дітей»
+        nameEng: Відділ «Служба у справах дітей»
+        contactsTitle: 'Дзвоніть '
+        contactsTitleEng: 'Дзвоніть '
+        contactsPhone: +38 (099) 012-61-19
+        contactsPhoneEng: +38 (099) 012-61-19
+        contactsAddress: 'вул. Героїв 37 батальйону, 12'
+        contactsAddressEng: 'вул. Героїв 37 батальйону, 12'
+        scheduleTitle: Графік роботи
+        scheduleTitleEng: Графік роботи
+        scheduleDate: 'ПН.-ПТ., з 8:00 до 16:30'
+        scheduleDateEng: 'ПН.-ПТ., з 8:00 до 16:30'
     _template: StarostinskDistricts
 ---
 
