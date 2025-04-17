@@ -11,6 +11,12 @@ components:
       - id: 2
         name: КП «Благводсервіс»
         nameEng: КП «Благводсервіс»
+        captain: 'Директор: Олександр Полумієнко'
+        captainEng: 'Директор: Олександр Полумієнко'
+        contactsTitle: ''
+        contactsTitleEng: ''
+        contactsPhone: +38 (067) 612-34-44
+        contactsPhoneEng: +38 (067) 612-34-44
     _template: StarostinskDistricts
 ---
 
