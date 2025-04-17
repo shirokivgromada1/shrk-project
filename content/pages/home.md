@@ -15,6 +15,10 @@ components:
   - title: Ми надаємо такі послуги
     titleEng: We provide the following services
     service:
+      - serviceTitle: Центр надання адміністративних послуг
+        serviceTitleEng: Центр надання адміністративних послуг
+        serviceIcon: /uploads/Дизайн без назви.svg
+        serviceLink: 'https://shtg.gov.ua/administrative-services-center'
       - serviceTitle: Комунальне майно
         serviceTitleEng: Communal property
         serviceIcon: /uploads/home/comm.svg
