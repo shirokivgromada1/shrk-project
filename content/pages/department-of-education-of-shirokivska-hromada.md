@@ -68,11 +68,15 @@ components:
           прав учасників освітнього процесу в навчальних закладах громади
       - name: Розробка та організація виконання програми розвитку освіти громади
     _template: SilradaDepartmentFunctions
-  - notMain: true
-    headline:
-      text: Новини
-      positionHeadline: center
-    _template: news
+  - title: Заклади освіти Широківської громади
+    function:
+      - name: Володимирівський ліцей «Успіх»
+      - name: Лукашівська гімназія «Мрія»
+      - name: Петропільський ліцей
+      - name: Відраднівська філія Петропільського ліцею
+      - name: Миколай-Пільська філія Петропільського ліцею
+      - name: Новопетрівська філія Петропільського ліцею
+    _template: SilradaDepartmentFunctions
   - title: Документи
     notMain: true
     order:
@@ -105,5 +109,10 @@ components:
       - title: Паспорти бюджетних програм міського бюджету за 2023 рік
         url: 'null'
     _template: HeadOrders
+  - notMain: true
+    headline:
+      text: Новини
+      positionHeadline: center
+    _template: news
 ---
 
