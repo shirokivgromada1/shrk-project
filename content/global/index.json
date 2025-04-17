@@ -235,7 +235,7 @@
         "href": "mass-media-about-us",
         "label": "ЗМІ про Широківську громаду",
         "labelEng": "Mass media about us",
-        "isModal": false,
+        "isModal": true,
         "links": [
           {
             "label": "ЗМІ про Широківську громаду",
@@ -248,14 +248,7 @@
         "href": "contacts",
         "label": "Контакти",
         "labelEng": "Useful Information",
-        "isModal": false,
-        "links": [
-          {
-            "label": "Контакти",
-            "labelEng": "Контакти",
-            "href": "contacts"
-          }
-        ]
+        "isModal": true
       }
     ]
   },
