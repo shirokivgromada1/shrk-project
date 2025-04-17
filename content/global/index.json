@@ -250,11 +250,6 @@
         "isModal": true,
         "links": [
           {
-            "label": "Проект PMCI",
-            "labelEng": "Project PMCI",
-            "href": "projects-rmsi"
-          },
-          {
             "label": "Заклади освіти",
             "labelEng": "Educational institutions",
             "href": "education-institutions"
