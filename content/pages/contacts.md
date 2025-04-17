@@ -71,5 +71,12 @@ components:
       - fullname: Наталя Лубяна
         phone: +38 (096) 677-32-85
     _template: DeputyCorpsTable
+  - title: Старости Широківської громади
+    service:
+      - title: Леонід Стукло
+        desc: 'Телефон: +38 (095) 774-36-05'
+        functions:
+          - singleFunction: 'Володимирівський, Сонячний, Зеленопільський округи'
+    _template: SocialServicesCenter
 ---
 
