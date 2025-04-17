@@ -217,6 +217,11 @@
             "href": "news"
           },
           {
+            "label": "Ми пам'ятаємо",
+            "labelEng": "Ми пам'ятаємо",
+            "href": "about-the-heroes-of-the-Shyrokivska-community"
+          },
+          {
             "label": "Медія про Широківську громаду",
             "labelEng": "Медія про Широківську громаду",
             "href": "mass-media-about-us"
