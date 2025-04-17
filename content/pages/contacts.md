@@ -20,10 +20,16 @@ components:
       - id: 3
         name: Відділ соціального захисту
         nameEng: Відділ соціального захисту
+        contactsTitle: Дзвоніть
+        contactsTitleEng: Дзвоніть
         contactsPhone: +38 (067) 322-60-97
         contactsPhoneEng: +38 (067) 322-60-97
         contactsAddress: 'вул. Героїв 37 батальйону, 12'
         contactsAddressEng: 'вул. Героїв 37 батальйону, 12'
+        scheduleTitle: Графік роботи
+        scheduleTitleEng: 'Графік роботи:'
+        scheduleDate: 'ПН.-ПТ., з 8:00 до 16:30'
+        scheduleDateEng: 'ПН.-ПТ., з 8:00 до 16:30'
       - id: 4
         name: КУ «Центр соціальних послуг»
         nameEng: КУ «Центр соціальних послуг»
