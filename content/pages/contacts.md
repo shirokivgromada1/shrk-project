@@ -76,7 +76,28 @@ components:
       - title: Леонід Стукло
         desc: 'Телефон: +38 (095) 774-36-05'
         functions:
-          - singleFunction: 'Володимирівський, Сонячний, Зеленопільський округи'
+          - singleFunction: Володимирівський округ
+          - singleFunction: Сонячний округ
+          - singleFunction: Зеленопільський округ
+      - title: Олена Бєлогурова
+        desc: +38 (067) 680-49-04
+        functions:
+          - singleFunction: Лукашівський округ
+          - singleFunction: Відранівський округ
+      - title: Ася Шевчук
+        desc: '+38 (097) 274-39-76,  +38 (073) 483-77-50'
+        functions:
+          - singleFunction: Августинівський округ
+          - singleFunction: Новопетрівський округ
+      - title: Людмила Мазур
+        desc: '+38 (063) 573-32-73, +38 (066) 288-15-35'
+        functions:
+          - singleFunction: Петропільський округ
+          - singleFunction: Миколай-Пільський округ
+      - title: Леся Карпенко
+        desc: '+38 (097) 279-77-03, +38 (095) 056-97- 67'
+        functions:
+          - singleFunction: Веселівський округ
     _template: SocialServicesCenter
 ---
 
