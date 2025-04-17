@@ -245,7 +245,7 @@
         ]
       },
       {
-        "href": "https://shtg.gov.ua/contacts",
+        "href": "contacts",
         "label": "Контакти",
         "labelEng": "Useful Information",
         "isModal": true,
