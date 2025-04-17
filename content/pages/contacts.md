@@ -11,8 +11,8 @@ components:
       - id: 2
         name: КП «Благводсервіс»
         nameEng: КП «Благводсервіс»
-        captain: 'Директор: Олександр Полумієнко'
-        captainEng: 'Директор: Олександр Полумієнко'
+        captain: ''
+        captainEng: ''
         contactsTitle: ''
         contactsTitleEng: ''
         contactsPhone: +38 (067) 612-34-44
