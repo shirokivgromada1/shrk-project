@@ -61,6 +61,17 @@ components:
         scheduleTitleEng: Графік роботи
         scheduleDate: 'ПН.-ПТ., з 8:00 до 16:30'
         scheduleDateEng: 'ПН.-ПТ., з 8:00 до 16:30'
+      - id: 6
+        name: Центр надання адміністративних послуг
+        nameEng: Центр надання адміністративних послуг
+        contactsTitle: 'Дзвоніть '
+        contactsTitleEng: 'Дзвоніть '
+        contactsPhone: +38 (093) 958-44-73
+        contactsPhoneEng: +38 (093) 958-44-73
+        contactsAddress: 'вул. Героїв 37 батальйону, 12'
+        contactsAddressEng: 'вул. Героїв 37 батальйону, 12'
+        scheduleTitle: 'ПН.-ПТ. з 8:00 до 16:30'
+        scheduleTitleEng: 'ПН.-ПТ. з 8:00 до 16:30'
     _template: StarostinskDistricts
   - title: 'Поліцейські офіцери громади '
     nameHeader: ПІБ
