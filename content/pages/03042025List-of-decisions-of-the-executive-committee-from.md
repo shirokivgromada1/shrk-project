@@ -3,6 +3,11 @@ title: 03042025_List of decisions of the executive committee from
 components:
   - title: Виконавчий комітет від 03.04.2025 року №07
     order:
+      - {}
+      - {}
+      - {}
+      - title: Рішення №118 від 03.04.2025 року
+        link: /uploads/рішення №118 від 03.04.2025 року.docx
       - title: Рішення №119 від 03.04.2025 року
         link: /uploads/рішення №119 від 03.04.2025 року.docx
       - title: Рішення №120 від 03.04.2025 року
