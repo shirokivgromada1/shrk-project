@@ -251,6 +251,8 @@
         "isModal": true,
         "links": [
           {
+            "label": "Контакти",
+            "labelEng": "Контакти",
             "href": "https://shtg.gov.ua/contacts",
             "href1": "https://shtg.gov.ua/contacts"
           }
