@@ -17,6 +17,13 @@ components:
         contactsTitleEng: ''
         contactsPhone: +38 (067) 612-34-44
         contactsPhoneEng: +38 (067) 612-34-44
+      - id: 3
+        name: Відділ соціального захисту
+        nameEng: Відділ соціального захисту
+        contactsPhone: +38 (067) 322-60-97
+        contactsPhoneEng: +38 (067) 322-60-97
+        contactsAddress: 'вул. Героїв 37 батальйону, 12'
+        contactsAddressEng: 'вул. Героїв 37 батальйону, 12'
     _template: StarostinskDistricts
 ---
 
