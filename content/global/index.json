@@ -229,19 +229,6 @@
         ]
       },
       {
-        "href": "about-the-heroes-of-the-Shyrokivska-community",
-        "label": "Ми пам'ятаємо",
-        "labelEng": "We remember",
-        "isModal": false,
-        "links": [
-          {
-            "label": "Герої Широківської громади",
-            "labelEng": "The heroes of the Shyrokivska community",
-            "href": "about-the-heroes-of-the-Shyrokivska-community"
-          }
-        ]
-      },
-      {
         "href": "contacts",
         "label": "Контакти",
         "labelEng": "Useful Information",
