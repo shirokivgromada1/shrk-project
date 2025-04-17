@@ -65,6 +65,11 @@ components:
       - fullname: Євген Польський
         phone: +38 (096) 558-26-07
       - fullname: 'Роман Бадло '
+        phone: +38 (099) 315-53-46
+      - fullname: 'Владислав Зайцев '
+        phone: '+38 (093) 468-14-97, +38 (068) 051-18-63'
+      - fullname: Наталя Лубяна
+        phone: +38 (096) 677-32-85
     _template: DeputyCorpsTable
 ---
 
