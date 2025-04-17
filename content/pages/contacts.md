@@ -57,5 +57,13 @@ components:
         scheduleDate: 'ПН.-ПТ., з 8:00 до 16:30'
         scheduleDateEng: 'ПН.-ПТ., з 8:00 до 16:30'
     _template: StarostinskDistricts
+  - title: 'Поліцейські офіцери громади '
+    nameHeader: ПІБ
+    positionHeader: Округи
+    contactsHeader: Контакти
+    deputy:
+      - fullname: Польський Євген Володимирович
+        phone: +38 (096) 558-26-07
+    _template: DeputyCorpsTable
 ---
 
