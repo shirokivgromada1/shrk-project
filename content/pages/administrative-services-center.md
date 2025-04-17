@@ -113,7 +113,7 @@ components:
         email: lukasheve.sotg@gmail.com
       - fullname: Шаповалов Олександр Євгенович
         district: Державний реєстратор
-        photo: /uploads/e8a3c342-6da3-440b-ab7f-6e5a6c81e93d.png
+        photo: /uploads/IMG_6725.JPG
         phone: (050)243-84-88
         address: 'м. Запоріжжя, вул. Героїв 37 батальйону, 12'
     _template: AdministrativeServicesEmployees
