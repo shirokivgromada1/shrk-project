@@ -1,6 +1,11 @@
 ---
 title: contacts
 components:
+  - title: КОРИСНІ КОНТАКТИ ШИРОКІВСЬКОЇ ГРОМАДИ
+    image: /uploads/контакти.jpg
+    desc: |
+      На цій сторінці ми зібрали всі корисні контакти. 
+    _template: SocialProtection
   - title: ''
     districts:
       - id: 1
