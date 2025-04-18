@@ -56,5 +56,9 @@ components:
         sourceIcon: /uploads/home/zap.svg
         sourceLink: 'https://zor.gov.ua/'
     _template: sources
+  - newsSection:
+      - category: content/newsCategories/education.md
+        variantNews: '1'
+    _template: newsSections
 ---
 
