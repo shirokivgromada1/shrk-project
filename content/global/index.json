@@ -197,19 +197,14 @@
         "isModal": true,
         "links": [
           {
-            "label": "Медія про нас ",
-            "labelEng": "Медія про нас ",
-            "href": "mass-media-about-us"
-          },
-          {
             "label": "Анонси",
             "labelEng": "Announcements",
             "href": "announcements"
           },
           {
-            "label": "Вакансії",
-            "labelEng": "Vacancies",
-            "href": "vacancies"
+            "label": "Новини",
+            "labelEng": "News",
+            "href": "news"
           },
           {
             "label": "Газета",
@@ -217,9 +212,14 @@
             "href": "newspapers"
           },
           {
-            "label": "Новини",
-            "labelEng": "News",
-            "href": "news"
+            "label": "Медія про нас ",
+            "labelEng": "Медія про нас ",
+            "href": "mass-media-about-us"
+          },
+          {
+            "label": "Вакансії",
+            "labelEng": "Vacancies",
+            "href": "vacancies"
           }
         ]
       },
