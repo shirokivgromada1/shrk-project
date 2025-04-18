@@ -232,7 +232,14 @@
         "href": "contacts",
         "label": "Контакти",
         "labelEng": "Useful Information",
-        "isModal": false
+        "isModal": false,
+        "links": [
+          {
+            "label": "Контакти ",
+            "labelEng": "Contacts",
+            "href": "contacts"
+          }
+        ]
       }
     ]
   },
