@@ -4,7 +4,7 @@ components:
   - title: КОРИСНІ КОНТАКТИ ШИРОКІВСЬКОЇ ГРОМАДИ
     image: /uploads/контакти.jpg
     desc: |
-      На цій сторінці ми зібрали всі корисні контакти. 
+      На цій сторінці ми зібрали всі корисні контакти.
     _template: SocialProtection
   - title: ''
     districts:
@@ -123,7 +123,7 @@ components:
       title: АДРЕСА
       street: 'вул. Лікарняна, 18'
     socials:
-      title: Телефони
+      title: Телефони для запису на прийом
       socialList:
         - name: +38 (073) 188-80-03
         - name: +38 (099) 188-80-03
