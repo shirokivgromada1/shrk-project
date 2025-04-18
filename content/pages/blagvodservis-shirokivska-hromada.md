@@ -2,7 +2,7 @@
 title: blagvodservis-shirokivska-hromada
 components:
   - title: КП “Благводсервіс Широківської громади” (КОД ЄДРПОУ 41477040)
-    image: /uploads/silrada/communual-institutions/pru.png
+    image: /uploads/Полумієнко.png
     fullname: 'Полумієнко Олександр '
     schedule:
       title: Графік роботи
