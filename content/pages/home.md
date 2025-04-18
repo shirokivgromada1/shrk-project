@@ -17,7 +17,7 @@ components:
     service:
       - serviceTitle: ЦНАП
         serviceTitleEng: Центр надання адміністративних послуг
-        serviceIcon: /uploads/Дизайн без назви.svg
+        serviceIcon: /uploads/цнап.svg
         serviceLink: 'https://shtg.gov.ua/administrative-services-center'
       - serviceTitle: Комунальне майно
         serviceTitleEng: Communal property
