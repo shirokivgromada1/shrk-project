@@ -212,6 +212,11 @@
             "href": "newspapers"
           },
           {
+            "label": "Ми пам'ятаємо",
+            "labelEng": "Ми пам'ятаємо",
+            "href": "about-the-heroes-of-the-Shyrokivska-community"
+          },
+          {
             "label": "Медія про нас ",
             "labelEng": "Медія про нас ",
             "href": "mass-media-about-us"
