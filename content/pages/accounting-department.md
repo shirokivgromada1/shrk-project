@@ -3,7 +3,7 @@ title: accounting-department
 components:
   - title: Відділ бухгалтерського обліку
     titleEng: Accounting Department
-    image: ''
+    image: /uploads/Бухгалтер.JPG
     fullname: Хотюн Наталія Євгенієвна
     fullnameEng: Хотюн Наталія Євгенієвна
     employment:
