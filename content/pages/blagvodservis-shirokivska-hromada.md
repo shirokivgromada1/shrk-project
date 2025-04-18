@@ -3,7 +3,7 @@ title: blagvodservis-shirokivska-hromada
 components:
   - title: КП “Благводсервіс Широківської громади” (КОД ЄДРПОУ 41477040)
     image: /uploads/silrada/communual-institutions/pru.png
-    fullname: Прус Інна Миколаївна
+    fullname: 'Полумієнко Олександр '
     schedule:
       title: Графік роботи
       time: 'Пн - Пт з 8:00 до 17:00'
