@@ -197,6 +197,11 @@
         "isModal": true,
         "links": [
           {
+            "label": "Медія про нас ",
+            "labelEng": "Медія про нас ",
+            "href": "mass-media-about-us"
+          },
+          {
             "label": "Анонси",
             "labelEng": "Announcements",
             "href": "announcements"
