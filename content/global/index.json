@@ -83,43 +83,6 @@
         ]
       },
       {
-        "href": "all-services",
-        "label": "Послуги",
-        "labelEng": "Services",
-        "links": [
-          {
-            "label": "Клініка \"Сімейний лікар\"",
-            "labelEng": "Clinic \"Family Doctor\"",
-            "href": "family-doctor-clinic"
-          },
-          {
-            "label": "Комунальне майно",
-            "labelEng": "Communal property",
-            "href": "communal-property"
-          },
-          {
-            "label": "Первинна правова допомога",
-            "labelEng": "Primary legal aid",
-            "href": "primary-legal-aid"
-          },
-          {
-            "label": "Соціальний захист",
-            "labelEng": "Social Protection",
-            "href": "social-protection"
-          },
-          {
-            "label": "ЦНАП",
-            "labelEng": "Tsnap",
-            "href": "administrative-services-center"
-          },
-          {
-            "label": "Опитування щодо якості послуг",
-            "labelEng": "Service quality survey",
-            "href": "service-quality-survey"
-          }
-        ]
-      },
-      {
         "href": "officially",
         "label": "Офіційно",
         "labelEng": "Officially",
@@ -188,6 +151,43 @@
             "label": "Накази про присвоєння адреси закінченим об’єкту будівництва",
             "labelEng": "Orders on assigning an address to a completed construction site",
             "href": "orders-assigning-address-to-completed-construction-project"
+          }
+        ]
+      },
+      {
+        "href": "all-services",
+        "label": "Послуги",
+        "labelEng": "Services",
+        "links": [
+          {
+            "label": "Клініка \"Сімейний лікар\"",
+            "labelEng": "Clinic \"Family Doctor\"",
+            "href": "family-doctor-clinic"
+          },
+          {
+            "label": "Комунальне майно",
+            "labelEng": "Communal property",
+            "href": "communal-property"
+          },
+          {
+            "label": "Первинна правова допомога",
+            "labelEng": "Primary legal aid",
+            "href": "primary-legal-aid"
+          },
+          {
+            "label": "Соціальний захист",
+            "labelEng": "Social Protection",
+            "href": "social-protection"
+          },
+          {
+            "label": "ЦНАП",
+            "labelEng": "Tsnap",
+            "href": "administrative-services-center"
+          },
+          {
+            "label": "Опитування щодо якості послуг",
+            "labelEng": "Service quality survey",
+            "href": "service-quality-survey"
           }
         ]
       },
