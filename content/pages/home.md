@@ -36,6 +36,10 @@ components:
         serviceIcon: /uploads/home/social.svg
         serviceLink: social-protection
     _template: services
+  - newsSection:
+      - category: content/newsCategories/important.md
+        variantNews: '1'
+    _template: newsSections
   - title: Офіційні джерела інформації
     titleEng: Official information sources
     source:
@@ -56,9 +60,5 @@ components:
         sourceIcon: /uploads/home/zap.svg
         sourceLink: 'https://zor.gov.ua/'
     _template: sources
-  - newsSection:
-      - category: content/newsCategories/education.md
-        variantNews: '1'
-    _template: newsSections
 ---
 
