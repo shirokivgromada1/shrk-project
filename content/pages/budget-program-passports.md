@@ -3,6 +3,10 @@ title: budget-program-passports
 components:
   - title: ' Паспорти бюджетних програм'
     order:
+      - title: Розпорядження від 10.03.2025 № 52
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/розпорядження
+          від 10.03.2025 № 52.docx
       - title: >-
           Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни
           18.02.2025
