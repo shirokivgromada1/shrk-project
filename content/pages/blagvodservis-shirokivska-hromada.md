@@ -21,6 +21,12 @@ components:
       - name: Надання послуг з централізованого питного водопостачання
       - name: Надання послуги з вивезення ТПВ
     _template: SilradaDepartmentFunctions
+  - title: КП «Благводсервіс» інформує
+    official:
+      - title: Тарифи на послуги КП «Благводсервіс»
+        richText: ''
+        link: 'https://shtg.gov.ua/pricing-plans'
+    _template: Officially
   - notMain: true
     headline:
       text: Новини
