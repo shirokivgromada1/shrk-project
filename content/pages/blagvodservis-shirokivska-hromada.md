@@ -26,6 +26,9 @@ components:
       - title: Тарифи на послуги КП «Благводсервіс»
         richText: ''
         link: 'https://shtg.gov.ua/pricing-plans'
+      - title: 'Публічні договори '
+        richText: ''
+        link: 'https://shtg.gov.ua/public-agreements-'
     _template: Officially
   - notMain: true
     headline:
