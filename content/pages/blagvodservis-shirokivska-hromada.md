@@ -36,7 +36,7 @@ components:
     _template: EnterprisesDesc
   - title: Основні функції
     function:
-      - {}
+      - name: Відновлення якісного водопостачання після аварій на водних мережах
       - name: Надання послуг з централізованого питного водопостачання
       - name: Надання послуги з вивезення твердих побутових відходів
     _template: SilradaDepartmentFunctions
