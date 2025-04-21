@@ -270,9 +270,9 @@
         "label": "Прес-центр"
       },
       {
-        "href": "projects-rmsi",
-        "label": "Корисна інформація",
-        "labelEng": "Useful information"
+        "href": "contacts",
+        "label": "Контакти ",
+        "labelEng": "Contacts"
       }
     ],
     "social": {
