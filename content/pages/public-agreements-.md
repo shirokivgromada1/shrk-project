@@ -1,7 +1,7 @@
 ---
 title: 'public-agreements '
 components:
-  - title: Розпорядження голови
+  - title: 'Публічні договори '
     _template: HeadOrders
 ---
 
