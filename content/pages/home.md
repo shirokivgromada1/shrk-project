@@ -17,8 +17,12 @@ components:
     service:
       - serviceTitle: ЦНАП
         serviceTitleEng: Центр надання адміністративних послуг
-        serviceIcon: /uploads/цнап.svg
+        serviceIcon: /uploads/цнап 2.svg
         serviceLink: 'https://shtg.gov.ua/administrative-services-center'
+      - serviceTitle: КП «Благводсервіс»
+        serviceTitleEng: KP 'Blahvodservis'
+        serviceIcon: /uploads/вода бвс.svg
+        serviceLink: 'https://shtg.gov.ua/blagvodservis-shirokivska-hromada'
       - serviceTitle: Комунальне майно
         serviceTitleEng: Communal property
         serviceIcon: /uploads/home/comm.svg
