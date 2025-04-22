@@ -58,9 +58,5 @@ components:
         link: >-
           https://www.dzo.com.ua/?gad_source=1&gbraid=0AAAAA-PJhKxjAOwVAyQfkoMWemrsxY8tj&gclid=Cj0KCQjw_JzABhC2ARIsAPe3ynrLhK6T1kHdvcI2jAnbRka-8yGDrZ9kxgYSj41cIbnN5pgc363UlzYaAoZKEALw_wcB
     _template: Officially
-  - notMain: true
-    headline:
-      text: Новини
-    _template: news
 ---
 
