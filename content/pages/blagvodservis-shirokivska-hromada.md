@@ -50,6 +50,11 @@ components:
       - category: content/newsCategories/1237392-10.md
         variantNews: '3'
     _template: newsSections
+  - title: 'Про комунальне підприємство '
+    official:
+      - title: 'Нормативна база '
+        link: 'https://shtg.gov.ua/news/ee1fefa6cf6b4c4f16ad914b45dadea4a7e9d1fb'
+    _template: Officially
   - notMain: true
     headline:
       text: Новини
