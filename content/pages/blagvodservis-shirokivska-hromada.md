@@ -14,7 +14,7 @@ components:
     position:
       title: Посада
       name: Керівник
-    desc: >+
+    desc: >
       Комунальне підприємство «Благводсервіс» забезпечує мешканців якісними та
       необхідними щоденними послугами. Основними напрямами діяльності
       підприємства є водопостачання та вивіз твердих побутових відходів. Завдяки
@@ -30,9 +30,6 @@ components:
 
       Підприємство працює заради комфорту громади та стабільного функціонування
       інфраструктури.
-
-
-
     _template: EnterprisesDesc
   - title: Основні функції
     function:
@@ -49,6 +46,9 @@ components:
         richText: ''
         link: 'https://shtg.gov.ua/public-agreements-'
     _template: Officially
+  - newsSection:
+      - category: content/newsCategories/1237392-10.md
+    _template: newsSections
   - notMain: true
     headline:
       text: Новини
