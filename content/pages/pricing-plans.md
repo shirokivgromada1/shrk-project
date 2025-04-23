@@ -14,6 +14,9 @@ components:
       внесок у комфорт і порядок у нашому щоденному житті.
     links:
       - title: Тарифи на послугу з водопостачання
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Scan
+          ришення вода тариф.pdf
     _template: SocialProtection
 ---
 
