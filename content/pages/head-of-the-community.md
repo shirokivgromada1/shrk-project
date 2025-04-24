@@ -149,8 +149,8 @@ components:
         link: control-and-inspection-department
       - image: /uploads/кулон.png
         name: Відділ з питань ветеранської політики
-        nameEng: Department of social protection of the population
-        link: department-of-social-protection-of-the-population
+        nameEng: Veterans Policy Department
+        link: Veterans-Policy-Department
       - image: /uploads/silrada/head-of-the-community/10.svg
         name: Відділ  “Служба у справах дітей”
         nameEng: Department "Service for Children"
