@@ -11,7 +11,8 @@ components:
         link: /uploads/рішення №154 від 15.04.2025 року.docx
       - title: Рішення №155 від 15.04.2025 року
         link: /uploads/рішення №155 від 15.04.2025 року.docx
-      - {}
+      - title: Рішення №156 від 15.04.2025 року
+        link: /uploads/рішення №156 від 15.04.2025 року.docx
     _template: HeadOrders
 ---
 
