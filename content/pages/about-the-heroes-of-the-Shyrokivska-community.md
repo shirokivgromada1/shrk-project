@@ -7,6 +7,9 @@ components:
       ### *На цій сторінці ми зібрали всіх жителів громади, які віддали своє
       життя, боронячи Україну від російської агресії*
     links:
+      - title: 'Євгеній Івахненко, Відрадне '
+        url: >-
+          https://shtg.gov.ua/admin/index.html#/~/news/e0b5bcf05590b8a3984c0dfd6b3de6c5387aa890
       - title: 'Сергій Діденко, Широке'
         url: 'https://shtg.gov.ua/news/ad8ad91fdacb75bd1d4732cc63ec00574a1db067'
       - title: 'Володимир Піхотенко, Новопетрівка'
