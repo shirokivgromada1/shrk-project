@@ -7,6 +7,8 @@ components:
       ### *На цій сторінці ми зібрали всіх жителів громади, які віддали своє
       життя, боронячи Україну від російської агресії*
     links:
+      - title: 'Сергій Лозенко, Петропіль '
+        url: 'https://shtg.gov.ua/news/364e808a383d2ce03a0582a1825c78b1bde1ea00'
       - title: 'Євгеній Івахненко, Відрадне '
         url: >-
           https://shtg.gov.ua/admin/index.html#/~/news/e0b5bcf05590b8a3984c0dfd6b3de6c5387aa890
