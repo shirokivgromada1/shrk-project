@@ -3,7 +3,7 @@ title: Veterans-Policy-Department
 components:
   - title: Відділ з питань ветеранської політики
     titleEng: Department of Social Protection
-    image: /uploads/IMG_1043.PNG
+    image: /uploads/photo_2025-04-24_09-48-30.jpg
     fullname: Малишкіна Наталя Сергіївна
     fullnameEng: Natalia Malishkina
     employment:
