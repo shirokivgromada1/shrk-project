@@ -48,7 +48,7 @@ components:
     _template: Officially
   - newsSection:
       - category: content/newsCategories/1237392-10.md
-        variantNews: '4'
+        variantNews: '2'
     _template: newsSections
   - title: 'Про комунальне підприємство '
     official:
