@@ -53,7 +53,7 @@ components:
   - title: 'Про комунальне підприємство '
     official:
       - title: 'Нормативна база '
-        link: 'https://shtg.gov.ua/news/ee1fefa6cf6b4c4f16ad914b45dadea4a7e9d1fb'
+        link: 'https://shtg.gov.ua/regulatory-framework'
       - title: 'Публічні закупівлі '
         link: >-
           https://www.dzo.com.ua/?gad_source=1&gbraid=0AAAAA-PJhKxjAOwVAyQfkoMWemrsxY8tj&gclid=Cj0KCQjw_JzABhC2ARIsAPe3ynrLhK6T1kHdvcI2jAnbRka-8yGDrZ9kxgYSj41cIbnN5pgc363UlzYaAoZKEALw_wcB
