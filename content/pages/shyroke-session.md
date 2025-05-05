@@ -5,7 +5,7 @@ components:
     notMain: false
     order:
       - title: '58 позачергова сесія VIII скликання Широківської  сільської ради '
-        url: 'https://youtu.be/9YQoKIdTTo0'
+        url: 'https://youtu.be/wulmKsQBQPE'
         buttonText: Дивитись
       - title: 57 сесія VIII скликання Широківської сільської ради
         url: 'https://shtg.gov.ua/57th-session-meeting'
