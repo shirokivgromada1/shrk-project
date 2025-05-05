@@ -3,6 +3,8 @@ title: mass-media-about-us
 components:
   - title: Медія про Широківську громаду
     gender:
+      - genderTitle: '«Shyroke Territorial Community», — ReBuild Ukraine'
+        genderLink: 'https://cities4cities.eu/community/shyroke-territorial-community/'
       - genderTitle: >-
           ADDRESS OF THE HEAD OF THE COMMUNITY DENYS KOROTENKO TO THE
           PARTICIPANTS OF REBUILD UKRAINE 2024
