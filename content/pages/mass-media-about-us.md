@@ -6,8 +6,8 @@ components:
       - genderTitle: '«Shyroke Territorial Community», — ReBuild Ukraine'
         genderLink: 'https://cities4cities.eu/community/shyroke-territorial-community/'
       - genderTitle: >-
-          ADDRESS OF THE HEAD OF THE COMMUNITY DENYS KOROTENKO TO THE
-          PARTICIPANTS OF REBUILD UKRAINE 2024
+          «ADDRESS OF THE HEAD OF THE COMMUNITY DENYS KOROTENKO TO THE
+          PARTICIPANTS OF REBUILD UKRAINE 2024»? — The Cities4Cities
         genderLink: 'https://rebuildukraine.in.ua/en/shyrokivska-hromada'
       - genderTitle: '«Ohne Waffen für die Ukraine», — DOMRADIO.DE (стаття німецькою)'
         genderLink: >-
