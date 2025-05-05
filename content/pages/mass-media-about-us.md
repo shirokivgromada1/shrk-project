@@ -3,6 +3,11 @@ title: mass-media-about-us
 components:
   - title: Медія про Широківську громаду
     gender:
+      - genderTitle: >-
+          «Strength lies in unity. How Shyrokivska community of Zaporizhzhia
+          region helps neighbouring communities during the war»? —Український
+          кризовий медіа-центр
+        genderLink: 'https://uacrisis.org/en/strength-lies-in-unity'
       - genderTitle: '«Shyroke Territorial Community», — ReBuild Ukraine'
         genderLink: 'https://cities4cities.eu/community/shyroke-territorial-community/'
       - genderTitle: >-
