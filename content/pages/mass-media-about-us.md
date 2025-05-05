@@ -1,8 +1,12 @@
 ---
 title: mass-media-about-us
 components:
-  - title: ЗМІ про Широківську громаду
+  - title: Медія про Широківську громаду
     gender:
+      - genderTitle: >-
+          ADDRESS OF THE HEAD OF THE COMMUNITY DENYS KOROTENKO TO THE
+          PARTICIPANTS OF REBUILD UKRAINE 2024
+        genderLink: 'https://rebuildukraine.in.ua/en/shyrokivska-hromada'
       - genderTitle: '«Ohne Waffen für die Ukraine», — DOMRADIO.DE (стаття німецькою)'
         genderLink: >-
           https://www.domradio.de/artikel/wie-die-mennoniten-widerstand-und-pazifismus-vereinen
