@@ -35,7 +35,7 @@ components:
     links:
       - title: 'Євгеній Скрипник, Івангород'
         url: 'https://shtg.gov.ua/news/9f291f350d4c2d022935982ab83c88ba5466e186'
-      - title: 'Ігор Кудренко, Івангород'
+      - title: 'Ігор Кудренко, Августинівка'
         url: 'https://shtg.gov.ua/news/2cdf5a74082ed84f5ba0660e19c9c4f66db8aac7'
       - title: 'Геннадій Кудінов, Августинівка'
         url: 'https://shtg.gov.ua/news/0bf58cf2458f2bbe8ad1e74c2bbe587d1f49444e'
