@@ -33,6 +33,9 @@ components:
       гаряча лінія Широківської громади: +38 (067) 612-66-06 (Viber); графік
       роботи: пн.-пт. з 8:00 до 16:30
     links:
+      - title: 'Степан Мазур, Петропіль'
+        url: >-
+          https://shtg.gov.ua/admin/index.html#/~/news/2076471adc3df3ed4cfd8590fcd06363db26a184
       - title: 'Роман Мельниченко, Новопетрівка '
         url: >-
           https://shtg.gov.ua/admin/index.html#/~/news/e8549575a94b24944a62e945fc256f2da6ad6b77
