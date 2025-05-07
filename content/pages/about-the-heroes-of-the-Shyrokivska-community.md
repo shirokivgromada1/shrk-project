@@ -33,6 +33,8 @@ components:
       гаряча лінія Широківської громади: +38 (067) 612-66-06 (Viber); графік
       роботи: пн.-пт. з 8:00 до 16:30
     links:
+      - title: 'Олександр Деденко, Миколай-Поле'
+        url: 'https://shtg.gov.ua/news/3d8d49c57e7f6187ee87974ee1dbae4276a93148'
       - title: 'Юрій Буря, Лукашеве '
         url: 'https://shtg.gov.ua/news/32f9dd4a2bc5f4f470a839d7a3f4d0badbcb264b'
       - title: 'Валерій Педенко, Лукашеве'
