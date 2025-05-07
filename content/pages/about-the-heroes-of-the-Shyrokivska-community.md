@@ -33,6 +33,8 @@ components:
       гаряча лінія Широківської громади: +38 (067) 612-66-06 (Viber); графік
       роботи: пн.-пт. з 8:00 до 16:30
     links:
+      - title: 'Сергій Кулагін, Володимирівське '
+        url: 'https://shtg.gov.ua/news/a3c0f242bab1de053ff76b258ce35b07c8d5d1e2'
       - title: 'Олександр Котов, Веселе'
         url: 'https://shtg.gov.ua/news/d3f3cd5e265272eafd7245e42debbd3446168f6a'
       - title: 'Сергій Яхонтов, Світанок'
