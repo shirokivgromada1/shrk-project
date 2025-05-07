@@ -33,6 +33,9 @@ components:
       гаряча лінія Широківської громади: +38 (067) 612-66-06 (Viber); графік
       роботи: пн.-пт. з 8:00 до 16:30
     links:
+      - title: 'Роман Мельниченко, Новопетрівка '
+        url: >-
+          https://shtg.gov.ua/admin/index.html#/~/news/e8549575a94b24944a62e945fc256f2da6ad6b77
       - title: 'Станіслав Нестерук, Новопетрівка '
         url: >-
           https://shtg.gov.ua/admin/index.html#/~/news/dc0f191758dcf04c96543d7c3049a1ffed16c36e
