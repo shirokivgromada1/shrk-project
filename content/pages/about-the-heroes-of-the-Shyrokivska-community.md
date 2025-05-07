@@ -34,8 +34,7 @@ components:
       роботи: пн.-пт. з 8:00 до 16:30
     links:
       - title: 'Костянтин Жуков, Відрадне '
-        url: >-
-          https://shtg.gov.ua/admin/index.html#/~/news/cc7a195c883114bd1b7fde7f9d248ce490d4968b
+        url: 'https://shtg.gov.ua/news/cc7a195c883114bd1b7fde7f9d248ce490d4968b'
       - title: 'Валерій Чокелеу, Надія'
         url: 'https://shtg.gov.ua/news/65d0d714820cadd9a1e25a82da8e33e8d847397f'
       - title: Сергій Дементьєв
