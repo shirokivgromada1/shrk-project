@@ -3,6 +3,8 @@ title: list-knp-zoh
 components:
   - title: Перелік КНП ЗОЗ
     order:
+      - title: Перелік КНП ЗОЗ на 2025 рік
+        link: /uploads/Перелік КНП ЗОЗ на 2025 рік.xlsx
       - title: Перелік КНП ЗОЗ на 2024 рік
         link: /uploads/Перелік КНП ЗОЗ на 2024 рік.xlsx
       - title: Перелік КНП ЗОЗ на 2022 рік
