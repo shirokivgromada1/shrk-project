@@ -3,7 +3,10 @@ title: implementation of the budget 2025
 components:
   - title: Виконання бюджету 2025
     order:
-      - {}
+      - title: Додатки до інформації про виконання бюджету за 1 квартал 2025 року
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/додатки до
+          інформації про виконання бюджету за 1 кв 2025 року.xlsx
       - title: Звіт про виконання бюджету за 1 квартал 2025 року
         url: >-
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/звіт про
