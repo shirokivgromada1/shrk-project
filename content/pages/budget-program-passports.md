@@ -3,6 +3,8 @@ title: budget-program-passports
 components:
   - title: ' Паспорти бюджетних програм'
     order:
+      - title: Наказ від 04.04.2025  №10од
+        link: /uploads/наказ від 04.04.2025  №10од.pdf
       - title: Розпорядження від 14.04.2025 № 74
         link: /uploads/розпорядження від 14.04.2025 № 74.docx
       - title: >-
