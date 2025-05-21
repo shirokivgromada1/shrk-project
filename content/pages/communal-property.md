@@ -58,9 +58,10 @@ components:
           ОРГАНІЗАЦІЙ, ЯКІ УТВОРЕНІ ЗА РІШЕННЯМ РАДИ, АЛЕ ПРАВО ВЛАСНОСТІ НА ЯКЕ
           НЕ БУЛО ЗАРЕЄСТРОВАНЕ ДО 01.01.2013 РОКУ (ДОДАТОК)
         link: /uploads/all-services/communal-property/dobre-3.3.-1.docx
-      - title: ЗВІТ ЩОДО ВИКОНАННЯ ЗАХОДІВ ПО РОБОТІ З БЕЗХАЗЯЙНИМ МАЙНОМ
-        link: >-
-          /uploads/all-services/communal-property/ZVIT-vykonannia-zakhodiv-bezkhaziayne-mayno.docx
+      - title: 'ЗВІТ ЩОДО ВИКОНАННЯ ЗАХОДІВ ПО РОБОТІ З БЕЗХАЗЯЙНИМ МАЙНОМ '
+        link: ''
+        url: 'https://shtg.gov.ua/ownerless-property'
+        buttonText: 'Перейти '
       - title: ЗВІТ З ВИКОНАННЯ ЗАХОДІВ ЩОДО ПРИВАТИЗАЦІЇ КОМУНАЛЬНОГО МАЙНА
         link: >-
           /uploads/all-services/communal-property/ZVIT-shchodo-pryvatyzatsii.docx
