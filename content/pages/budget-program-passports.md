@@ -3,7 +3,8 @@ title: budget-program-passports
 components:
   - title: ' Паспорти бюджетних програм'
     order:
-      - {}
+      - title: Розпорядження від 07.05.2025 № 90
+        link: /uploads/розпорядження від 07.05.2025 № 90.docx
       - title: Наказ 11 Про затвердження паспортів від 09.05.25
         link: /uploads/Наказ 11 Про затвердження паспортів від 09.05.25.docx
       - title: >-
