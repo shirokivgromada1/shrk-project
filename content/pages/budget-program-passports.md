@@ -3,7 +3,6 @@ title: budget-program-passports
 components:
   - title: ' Паспорти бюджетних програм'
     order:
-      - {}
       - title: >-
           Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни
           02.05.2025
