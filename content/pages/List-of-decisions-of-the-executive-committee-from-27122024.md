@@ -27,6 +27,8 @@ components:
         link: /uploads/рішення №427 від 27.12.2024 року.docx
       - title: Рішення №428 від 27.12.2024 року
         link: /uploads/рішення №428 від 27.12.2024 року.docx
+      - title: Рішення №429 від 27.12.2024 року
+        link: /uploads/рішення №429 від 27.12.2024 року.docx
     _template: HeadOrders
 ---
 
