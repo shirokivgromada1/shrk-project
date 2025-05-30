@@ -3,6 +3,7 @@ title: decision-of-the-shyrokyvska-village-counci
 components:
   - title: 'Рішення та проєкти рішень Широківської сільської ради '
     official:
+      - {}
       - title: >-
           58 позачергова сесія VIII скликання Широківської сільської ради від
           03.04.2025
