@@ -26,6 +26,14 @@ components:
               +38 (061) 286-21-21.
             url: 'https://shtg.gov.ua/contacts'
             buttonText: Корисні контакти
+      - title: Підсумки роботи зі зверненнями громадян
+        list:
+          - title: >-
+              Звернення жителів — це дзеркало життя громади. Саме тому регулярне
+              підбиття підсумків допомагає не лише побачити загальну картину, а
+              й вчасно реагувати на проблеми, що турбують людей.
+            url: 'https://shtg.gov.ua/summary-of-work-with-citizens-appeals'
+            buttonText: 'Ознайомитися '
     _template: AdministrativeServicesFavors
 ---
 
