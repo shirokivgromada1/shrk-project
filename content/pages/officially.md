@@ -13,10 +13,10 @@ components:
         link: power-purification
       - title: Конкурси
         link: competitions
-      - title: Звернення громадян
-        link: 'https://shtg.gov.ua/citizens-requests'
       - title: Оголошення
         link: advertisements
+      - title: Звернення громадян
+        link: 'https://shtg.gov.ua/citizens-requests'
       - title: Петиціі
         richText: online
         link: 'https://petition.e-dem.ua/shyroke'
