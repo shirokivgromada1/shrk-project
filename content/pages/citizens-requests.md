@@ -16,7 +16,7 @@ components:
               А для органів місцевого самоврядування — це зобов’язання діяти
               відповідно до закону.
             url: 'https://shtg.gov.ua/news/d06136ec8d696439f6089097c301eacc174e34ed'
-            buttonText: 'Ознаймитися '
+            buttonText: 'Ознайомитися '
     _template: AdministrativeServicesFavors
 ---
 
