@@ -13,6 +13,8 @@ components:
         link: power-purification
       - title: Конкурси
         link: competitions
+      - title: Звернення громадян
+        link: 'https://shtg.gov.ua/citizens-requests'
       - title: Оголошення
         link: advertisements
       - title: Петиціі
