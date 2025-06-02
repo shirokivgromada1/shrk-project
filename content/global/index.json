@@ -118,6 +118,11 @@
             "href": "advertisements"
           },
           {
+            "label": "Звернення громадян ",
+            "labelEng": "Citizens requests",
+            "href": "citizens-requests"
+          },
+          {
             "label": "Петиціі ONLINE",
             "labelEng": "ONLINE petitions",
             "href": "https://petition.e-dem.ua/shyroke"
