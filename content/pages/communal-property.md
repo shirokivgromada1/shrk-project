@@ -5,8 +5,6 @@ components:
     subtitle: Оренда
     notMain: false
     order:
-      - title: Дорожня карта для потенційних орендарів
-        link: /uploads/Дорожня карта для потенційних орендарів.pdf
       - title: РІШЕННЯ № 77 ПРО НАМІР ПЕРЕДАЧІ МАЙНА В ОРЕНДУ
         link: >-
           /uploads/all-services/communal-property/Rishennia-pro-vkliuchennia-do-pereliku-1-typu-1.pdf
@@ -24,6 +22,8 @@ components:
         link: /uploads/all-services/communal-property/Rishennia-pro-namir-3.pdf
       - title: РЕЕСТР
         link: /uploads/all-services/communal-property/REESTR.docx
+      - title: Дорожня карта для потенційних орендарів
+        link: /uploads/Дорожня карта для потенційних орендарів.pdf
       - title: >-
           Рішення №10 Про внесення змін до рішення Широківської сільської ради
           Запорізького району Запорізької області від 29.09.2020 № 108«Про
