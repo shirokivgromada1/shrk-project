@@ -142,8 +142,6 @@ components:
         link: /uploads/Фін план Клініка_проєкт.doc
       - title: Проєкт рішення матеріальна допомога
         link: /uploads/Проєкт рішення матеріальна допомога.docx
-      - {}
-      - {}
     _template: HeadOrders
 ---
 
