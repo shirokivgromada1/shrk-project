@@ -35,7 +35,7 @@ components:
           High quality of public services, adapted to the growing needs of
           various, particularly vulnerable, groups of community residents. An
           active community that uses high-quality public services.
-        image: /uploads/about-community/development-strategy/goal1.png
+        image: /uploads/goal_05062025_1.jpg
       - title: 'Стратегічна ціль 2 '
         titleEng: Strategic goal 2
         desc: >-
@@ -46,7 +46,7 @@ components:
           Competitive and innovative local economy based on local resources,
           traditions and specializations and entrepreneurial initiatives of
           residents. Here the economy spreads its wings.
-        image: /uploads/about-community/development-strategy/goal2.png
+        image: /uploads/goal_05062025_2.jpg
       - title: Стратегічна ціль 3
         titleEng: Strategic goal 3
         desc: >-
@@ -56,7 +56,7 @@ components:
           High-quality specialized tourism of regional importance, which is
           developed on the basis of local resources and traditions, with a
           careful attitude to nature. Free time - only in Shirokivska hromada.
-        image: /uploads/about-community/development-strategy/goal3.png
+        image: /uploads/goal_05062025_3.jpg
       - title: 'Стратегічна ціль 4 '
         titleEng: Strategic goal 4
         desc: >-
@@ -67,7 +67,7 @@ components:
           ensures increased living comfort and increased protection of life and
           health of residents. Shirokiv community is a place where you want to
           live.
-        image: /uploads/about-community/development-strategy/goal4.png
+        image: /uploads/goal_05062025_4.jpg
     _template: StrategyDesc
   - title: >-
       Ознайомитися зі Стратегією сталого розвитку Широківської громади на період
