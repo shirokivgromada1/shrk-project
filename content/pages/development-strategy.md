@@ -80,12 +80,10 @@ components:
     urlText: 'посиланням '
     urlTextEng: link
     firstText: >
-      “Загальний організаційний, інформаційний та методичний супровід процесу
-      підготовки проекту Стратегії здійснювали фахівці КУ «Агенція розвитку
-      Широківської громади».
-
-      обота над Стратегією тривала з листопада 2017 по жовтень 2018 рр. У цей
-      період були організовані зустрічі з
+      "Загальний організаційний, інформаційний та методичний супровід процесу
+      підготовки проєкту Стратегії здійснювали фахівці КУ «Агенція розвитку
+      Широківської громади». Робота над Стратегією тривала з липня 2024 по
+      червень 2025 рр. У цей період були організовані зустрічі з
     firstTextEng: >
       "General organizational, informational and methodical support of the
       process of preparing the draft Strategy was carried out by specialists of
@@ -95,11 +93,11 @@ components:
       consideration of the Strategy lasted from November 2017 to October 2018.
       During this period, meetings were organized with
     secondText: >
-      Мешканцями/каминайбільших населених пунктів, разом з ними визначені
+      найактивнішими жителями та жительками громади, разом з ними визначені
       актуальні проблеми та бажані напрями розвитку громади. Проведено
       SWOT-аналіз за участі членів робочої групи, соціологічні дослідження.
       Результати цих заходів та подані пропозиції враховані під час розробки
-      стратегічного плану розвитку Широківської ОТГ.”
+      Плану дій до Стратегії розвитку Широківської громади.”
     secondTextEng: >
       Residents/kami of the largest settlements, together with them, identified
       current problems and desired directions of development of the community. A
