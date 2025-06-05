@@ -106,7 +106,7 @@ components:
       the submitted proposals are taken into account during the development of
       the strategic plan for the development of Shirokivska OTG."
     _template: StrategyLink
-  - title: Офіційно
+  - title: ''
     official:
       - title: 'План заходів з реалізації Стратегії розвитку '
         link: >-
