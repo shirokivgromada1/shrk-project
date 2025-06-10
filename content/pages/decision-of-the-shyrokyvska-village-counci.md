@@ -7,6 +7,11 @@ components:
         link: >-
           https://shtg.gov.ua/60-session-VIII-convocation-of-the-Shyroke-Village-Council
       - title: >-
+          59 позачергова сесія VIII скликання Широківської сільської ради від
+          02.05.2025
+        link: >-
+          https://shtg.gov.ua/59-session-VIII-convocation-of-the-Shyroke-Village-Council
+      - title: >-
           58 позачергова сесія VIII скликання Широківської сільської ради від
           03.04.2025
         link: >-
