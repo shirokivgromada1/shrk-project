@@ -7,6 +7,12 @@ components:
     order:
       - title: Дорожня карта для потенційних орендарів
         link: /uploads/Dorozhnia karta dlia potentsiinykh orendariv.pdf
+      - title: >-
+          Рішення № 10 від 02.05.2025 Про внесення змін до Порядку розподілу
+          орендної плати за комунальне майно
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Рішення
+          від 02.05.2025 № 10.pdf
       - title: РІШЕННЯ № 77 ПРО НАМІР ПЕРЕДАЧІ МАЙНА В ОРЕНДУ
         link: >-
           /uploads/all-services/communal-property/Rishennia-pro-vkliuchennia-do-pereliku-1-typu-1.pdf
