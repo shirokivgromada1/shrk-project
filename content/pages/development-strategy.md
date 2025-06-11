@@ -3,7 +3,7 @@ title: development-strategy
 components:
   - title: Стратегія розвитку
     titleEng: Development strategy
-    text: >+
+    text: >
       Стратегію розвитку Широківської громади
 
       на період до 2027 року
@@ -15,7 +15,6 @@ components:
       голова, депутати, члени виконавчого комітету та представники структурних
       підрозділів Широківської сільської ради, працівники комунальних установ,
       закладів і підприємств.
-
     textEng: >
       The strategy of sustainable development of Shirokivska TG for **the period
       2021-2028** was adopted on December 3, 2021 at the plenary meeting of the
@@ -76,7 +75,8 @@ components:
       You can familiarize yourself with the Sustainable Development Strategy of
       the Shirokiv community for the period 2021-2028 via 
     url: >-
-      https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/I_Strategia_Shyrokivska_7_fin.docx.pdf
+      https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/I_Strategia_Shyrokivska_7_fin.docx
+      (1).pdf
     urlText: 'посиланням '
     urlTextEng: link
     firstText: >
