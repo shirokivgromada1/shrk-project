@@ -3,7 +3,7 @@ title: budget-program-passports
 components:
   - title: ' Паспорти бюджетних програм'
     order:
-      - title: Наказ від 06.06.2025 № 12од
+      - title: Наказ від 06.06.2025 № 12
         link: /uploads/наказ від 06.06.2025 № 12од.docx
       - title: Розпорядження від 09.06.2025 № 113
         link: /uploads/розпорядження від 09.06.2025 № 113.docx
