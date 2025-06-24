@@ -45,6 +45,8 @@ components:
       - title: 'Публічні договори '
         richText: ''
         link: 'https://shtg.gov.ua/public-agreements-'
+      - title: 'Норми питного водопостачання '
+        link: 'https://shtg.gov.ua/admin/index.html#/~/norms-for-water-supply'
     _template: Officially
   - newsSection:
       - category: content/newsCategories/1237392-10.md
