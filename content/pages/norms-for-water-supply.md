@@ -1,6 +1,16 @@
 ---
 title: norms-for-water-supply
 components:
-  - _template: SocialProtection
+  - title: Норми питного водопостачання
+    desc: ''
+    links:
+      - title: >-
+          Рішення виконавчого комітету Широківської сільської ради №236 «Про
+          затвердження норм питного водопостачанняу Широківській територіальній
+          громаді Запорізького району Запорізької області»
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Рішення
+          виконкому Про норми водопостачання 2025 (1).docx
+    _template: SocialProtection
 ---
 
