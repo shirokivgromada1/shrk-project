@@ -43,6 +43,10 @@ components:
           засідання, які проводяться за потребою, але не раніше ніж один раз на
           місяць
     _template: leadership
+  - newsSection:
+      - category: content/newsCategories/Announcement_of_the_Guardianship_Council.md
+        variantNews: '1'
+    _template: newsSections
   - title: Документи
     notMain: true
     order:
