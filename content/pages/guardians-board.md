@@ -59,7 +59,9 @@ components:
         url: 'https://shtg.gov.ua/news/134acfe25c906cfcf05c03bb5f44fccd68c9aae9'
         buttonText: Детальніше
       - title: Призначення опікуна
-        link: /uploads/Призначення опікуна.docx
+        link: ''
+        url: 'https://shtg.gov.ua/news/c7bab4dac4b568b68364828b8a02603d6af09337'
+        buttonText: Детальніше
       - title: Особливості здійснення опіки (піклування) спеціальним закладом
         link: >-
           /uploads/Особливості здійснення опіки (піклування) спеціальним
