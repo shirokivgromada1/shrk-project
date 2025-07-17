@@ -56,8 +56,7 @@ components:
           цивільна дієздатність яких обмежена.docx
       - title: Визнання особи недієздатною
         link: ''
-        url: >-
-          https://shtg.gov.ua/admin/index.html#/~/news/134acfe25c906cfcf05c03bb5f44fccd68c9aae9
+        url: 'https://shtg.gov.ua/news/134acfe25c906cfcf05c03bb5f44fccd68c9aae9'
         buttonText: Детальніше
       - title: Призначення опікуна
         link: /uploads/Призначення опікуна.docx
