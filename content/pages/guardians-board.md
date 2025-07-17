@@ -63,9 +63,9 @@ components:
         url: 'https://shtg.gov.ua/news/c7bab4dac4b568b68364828b8a02603d6af09337'
         buttonText: Детальніше
       - title: Особливості здійснення опіки (піклування) спеціальним закладом
-        link: >-
-          /uploads/Особливості здійснення опіки (піклування) спеціальним
-          закладом.docx
+        link: ''
+        url: 'https://shtg.gov.ua/news/2eeb234170e08006e2f92571f5e709871de14dcd'
+        buttonText: Детальніше
     _template: HeadOrders
 ---
 
