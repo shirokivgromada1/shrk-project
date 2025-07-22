@@ -4,7 +4,11 @@ components:
   - title: КОРИСНІ КОНТАКТИ ШИРОКІВСЬКОЇ ГРОМАДИ
     image: /uploads/контакти.jpg
     desc: |
-      На цій сторінці ми зібрали всі корисні контакти.
+      На цій сторінці ми зібрали всі корисні контакти.\
+      \
+      Електронна адреса: shyroke.otg\@gmail.com
+
+      \
     _template: SocialProtection
   - title: ''
     districts:
