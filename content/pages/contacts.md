@@ -6,9 +6,9 @@ components:
     desc: |
       На цій сторінці ми зібрали всі корисні контакти.\
       \
-      Електронна адреса: shyroke.otg\@gmail.com
+      Електронна адреса: [shyroke.otg@gmail.com](mailto:shyroke.otg@gmail.com)
 
-      \
+      \\
     _template: SocialProtection
   - title: ''
     districts:
@@ -79,7 +79,7 @@ components:
     _template: StarostinskDistricts
   - title: 'Поліцейські офіцери громади '
     nameHeader: ПІБ
-    positionHeader: Округи
+    positionHeader: Села
     contactsHeader: Контакти
     deputy:
       - fullname: Євген Польський
