@@ -79,7 +79,7 @@ components:
     _template: StarostinskDistricts
   - title: 'Поліцейські офіцери громади '
     nameHeader: ПІБ
-    positionHeader: Села
+    positionHeader: Населені пункти
     contactsHeader: Контакти
     deputy:
       - fullname: Євген Польський
