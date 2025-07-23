@@ -3,6 +3,8 @@ title: budget-program-passports
 components:
   - title: ' Паспорти бюджетних програм'
     order:
+      - title: Наказ від 14.07.2025 №23
+        link: /uploads/Наказ від 14.07.2025 №23.docx
       - title: Розпорядження від 07.07.2025 № 138
         link: /uploads/розпорядження від 07.07.2025 № 138.docx
       - title: >-
