@@ -7,8 +7,6 @@ components:
       На цій сторінці ми зібрали всі корисні контакти.\
       \
       Електронна адреса: [shyroke.otg@gmail.com](mailto:shyroke.otg@gmail.com)
-
-      \\
     _template: SocialProtection
   - title: ''
     districts:
