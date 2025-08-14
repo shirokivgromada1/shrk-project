@@ -4,6 +4,11 @@ components:
   - title: Медія про Широківську громаду
     gender:
       - genderTitle: >-
+          Війна не зупинила розвиток: як живе прифронтова Широківська громада на
+          Запоріжжі (ІНТЕРВ’Ю) — Перший Запорізький
+        genderLink: >-
+          https://1news.zp.ua/voina-ne-ostanovila-razvitie-kak-zhivet-prifrontovaya-shirokovskaya-gromada-pod-zaporozhem/
+      - genderTitle: >-
           «Strength lies in unity. How Shyrokivska community of Zaporizhzhia
           region helps neighbouring communities during the war»? —Український
           кризовий медіа-центр
