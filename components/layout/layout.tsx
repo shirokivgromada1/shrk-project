@@ -64,7 +64,7 @@ export const Layout = ({
             name="google-site-verification"
             content="NpwI4zB8WE9vLL8fRonI6tLDEyvx3A5daysl-f0FZiI"
           />
-          <link rel="icon" href="./../../public/favicon.ico" sizes="32x32" />
+          <link rel="icon" href="favicon.ico" sizes="32x32" />
         </Head>
         <Header
           data={data?.header}
