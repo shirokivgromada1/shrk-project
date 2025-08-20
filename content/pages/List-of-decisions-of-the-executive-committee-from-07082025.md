@@ -13,7 +13,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №307 від 07.08.2025 року
+        link: /uploads/decision №307 07.08.2025.docx
       - title: Рішення №308 від 07.08.2025 року
         link: /uploads/decision №308 07.08.2025.docx
       - title: Рішення №309 від 07.08.2025 року
