@@ -10,7 +10,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №246 від 25.06.2025 року
+        link: /uploads/decision №246 25.06.2025.docx
       - title: Рішення №247 від 25.06.2025 року
         link: /uploads/decision №247 25.06.2025.docx
       - title: Рішення №248 від 25.06.2025 року
