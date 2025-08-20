@@ -9,7 +9,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №245 від 25.06.2025 року
+        link: /uploads/decision №245 25.06.2025.docx
       - title: Рішення №246 від 25.06.2025 року
         link: /uploads/decision №246 25.06.2025.docx
       - title: Рішення №247 від 25.06.2025 року
