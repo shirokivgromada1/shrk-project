@@ -11,7 +11,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №305 від 07.08.2025 року
+        link: /uploads/decision №305 07.08.2025.docx
       - title: Рішення №306 від 07.08.2025 року
         link: /uploads/decision №306 07.08.2025.docx
       - title: Рішення №307 від 07.08.2025 року
