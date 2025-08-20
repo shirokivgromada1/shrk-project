@@ -3,7 +3,6 @@ title: List-of-decisions-of-the-executive-committee-from-11072025
 components:
   - title: Виконавчий комітет від 11.07.2025 року №17
     order:
-      - {}
       - title: Перелік рішень виконавчого комітету від 11.07.2025 року №17
         link: >-
           /uploads/List of decisions of the executive committee №17
