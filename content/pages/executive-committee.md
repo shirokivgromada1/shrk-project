@@ -88,6 +88,9 @@ components:
         link: >-
           /uploads/проєкт рішення про встановлення тарифу на послуги
           централізованого водопостачання.doc
+      - title: Виконавчий комітет від 07.08.2025 року №18
+        url: >-
+          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-07082025
       - title: Виконавчий комітет від 11.07.2025 року №17
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-11072025
