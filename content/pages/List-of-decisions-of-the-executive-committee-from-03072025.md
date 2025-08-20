@@ -4,7 +4,8 @@ components:
   - title: Виконавчий комітет від 03.07.2025 року №16
     order:
       - {}
-      - {}
+      - title: Рішення №258 від 03.07.2025
+        link: /uploads/decision №258 03.07.2025.docx
       - title: Рішення №259 від 03.07.2025
         link: /uploads/decision №259 03.07.2025.docx
       - title: Рішення №260 від 03.07.2025
