@@ -8,7 +8,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №282 від 11.07.2025 року
+        link: /uploads/decision №282 11.07.2025.docx
       - title: Рішення №283 від 11.07.2025 року
         link: /uploads/decision №283 11.07.2025.docx
       - title: Рішення №284 від 11.07.2025 року
