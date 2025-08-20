@@ -10,7 +10,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №256 від 03.07.2025
+        link: /uploads/decision №256 03.07.2025.docx
       - title: Рішення №257 від 03.07.2025
         link: /uploads/decision №257 03.07.2025.docx
       - title: Рішення №258 від 03.07.2025
