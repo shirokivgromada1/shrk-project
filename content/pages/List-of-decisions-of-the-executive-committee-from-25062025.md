@@ -3,7 +3,8 @@ title: List-of-decisions-of-the-executive-committee-from-25062025
 components:
   - title: Виконавчий комітет від 25.06.2025 року №15
     order:
-      - {}
+      - title: Рішення №239 від 25.06.2025 року
+        link: /uploads/decision №239 25.06.2025.docx
       - title: Рішення №240 від 25.06.2025 року
         link: /uploads/decision №240 25.06.2025.docx
       - title: Рішення №241 від 25.06.2025 року
