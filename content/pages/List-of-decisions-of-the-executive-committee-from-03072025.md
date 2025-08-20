@@ -13,7 +13,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №274 від 03.07.2025
+        link: /uploads/decision №274 03.07.2025.docx
       - title: Рішення №275 від 03.07.2025
         link: /uploads/decision №275  03.07.2025.docx
       - title: Рішення №276 від 03.07.2025
