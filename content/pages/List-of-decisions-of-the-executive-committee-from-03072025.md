@@ -14,7 +14,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №275 від 03.07.2025
+        link: /uploads/decision №275  03.07.2025.docx
       - title: Рішення №276 від 03.07.2025
         link: /uploads/decision №276 03.07.2025.docx
       - title: Рішення №277 від 03.07.2025
