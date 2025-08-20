@@ -5,7 +5,7 @@ components:
     order:
       - {}
       - {}
-      - title: decision №299 07.08.2025
+      - title: Рішення №299 07.08.2025
         link: /uploads/decision №299 07.08.2025.docx
       - title: Рішення №300 від 07.08.2025 року
         link: /uploads/decision №300 07.08.2025.docx
