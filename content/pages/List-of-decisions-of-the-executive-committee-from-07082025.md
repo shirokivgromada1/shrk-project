@@ -17,7 +17,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №311 від 07.08.2025 року
+        link: /uploads/decision №311 07.08.2025.docx
       - title: Рішення №312 від 07.08.2025 року
         link: /uploads/decision №312 07.08.2025.docx
     _template: HeadOrders
