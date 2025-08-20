@@ -11,7 +11,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №271 від 03.07.2025
+        link: /uploads/decision №271 03.07.2025.docx
       - title: Рішення №272 від 03.07.2025
         link: /uploads/decision №272 03.07.2025.docx
       - title: Рішення №274 від 03.07.2025
