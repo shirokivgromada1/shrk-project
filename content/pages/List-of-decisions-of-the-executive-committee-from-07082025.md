@@ -3,7 +3,8 @@ title: List-of-decisions-of-the-executive-committee-from-07082025
 components:
   - title: Виконавчий комітет від 07.08.2025 року №18
     order:
-      - {}
+      - title: Рішення від №289 07.08.2025 року
+        link: /uploads/decision №289 07.08.2025.docx
       - title: Рішення від №290 07.08.2025 року
         link: /uploads/decision №290 07.08.2025.docx
       - title: Рішення від №291 07.08.2025 року
