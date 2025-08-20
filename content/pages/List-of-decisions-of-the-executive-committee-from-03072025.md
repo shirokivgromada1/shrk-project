@@ -7,7 +7,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №267 від 03.07.2025
+        link: /uploads/decision №267 03.07.2025.docx
       - title: Рішення №268 від 03.07.2025
         link: /uploads/decision №268  03.07.2025.docx
       - title: Рішення №269 від 03.07.2025
