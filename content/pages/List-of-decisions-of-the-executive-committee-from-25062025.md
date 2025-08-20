@@ -11,7 +11,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №247 від 25.06.2025 року
+        link: /uploads/decision №247 25.06.2025.docx
       - title: Рішення №248 від 25.06.2025 року
         link: /uploads/decision №248 25.06.2025.docx
     _template: HeadOrders
