@@ -16,7 +16,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №277 від 03.07.2025
+        link: /uploads/decision №277 03.07.2025.docx
       - title: Рішення №278 від 03.07.2025
         link: /uploads/decision №278  03.07.2025.docx
     _template: HeadOrders
