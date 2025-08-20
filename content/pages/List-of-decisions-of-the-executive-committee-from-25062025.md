@@ -6,7 +6,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №242 від 25.06.2025 року
+        link: /uploads/decision №242 25.06.2025.docx
       - title: Рішення №243 від 25.06.2025 року
         link: /uploads/decision №243 25.06.2025.docx
       - title: Рішення №244 від 25.06.2025 року
