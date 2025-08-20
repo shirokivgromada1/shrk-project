@@ -8,7 +8,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення від №294 07.08.2025 року
+        link: /uploads/decision №294 07.08.2025.docx
       - title: Рішення від №295 07.08.2025 року
         link: /uploads/decision №295 07.08.2025.docx
       - title: Рішення від №296 07.08.2025 року
