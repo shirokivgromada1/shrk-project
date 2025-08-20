@@ -5,7 +5,8 @@ components:
     order:
       - {}
       - {}
-      - {}
+      - title: Рішення №259 від 03.07.2025
+        link: /uploads/decision №259 03.07.2025.docx
       - title: Рішення №260 від 03.07.2025
         link: /uploads/decision №260 03.07.2025.docx
       - title: Рішення №261 від 03.07.2025
