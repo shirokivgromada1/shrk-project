@@ -3,7 +3,8 @@ title: List-of-decisions-of-the-executive-committee-from-03072025
 components:
   - title: Виконавчий комітет від 03.07.2025 року №16
     order:
-      - {}
+      - title: Рішення №249 від 03.07.2025
+        link: /uploads/decision №249 03.07.2025.docx
       - title: Рішення №250 від 03.07.2025
         link: /uploads/decision №250 03.07.2025.docx
       - title: Рішення №251 від 03.07.2025
