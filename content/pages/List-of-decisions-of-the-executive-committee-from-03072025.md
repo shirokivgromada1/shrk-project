@@ -9,7 +9,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №269 від 03.07.2025
+        link: /uploads/decision №269 03.07.2025.docx
       - title: Рішення №270 від 03.07.2025
         link: /uploads/decision №270 03.07.2025.docx
       - title: Рішення №271 від 03.07.2025
