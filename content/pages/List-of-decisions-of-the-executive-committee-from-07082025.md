@@ -9,7 +9,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №303 від 07.08.2025 року
+        link: /uploads/decision №303 07.08.2025.docx
       - title: Рішення №304 від 07.08.2025 року
         link: /uploads/decision №304 07.082025.docx
       - title: Рішення №305 від 07.08.2025 року
