@@ -3,6 +3,9 @@ title: List-of-decisions-of-the-executive-committee-from-07082025
 components:
   - title: Виконавчий комітет від 07.08.2025 року №18
     order:
+      - url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/List of
+          decisions of the executive committee №18 07.08.2025.docx
       - title: Рішення від №285 07.08.2025 року
         link: /uploads/decision №285 07.08.2025.docx
       - title: Рішення від №286 07.08.2025 року
