@@ -5,7 +5,8 @@ components:
     order:
       - {}
       - {}
-      - {}
+      - title: Рішення №236 від 25.06.2025 року
+        link: /uploads/decision №236 25.06.2025.docx
       - title: Рішення №237 від 25.06.2025 року
         link: /uploads/decision №237 25.06.2025.docx
       - title: Рішення №238 від 25.06.2025 року
