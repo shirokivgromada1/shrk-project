@@ -16,7 +16,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №310 від 07.08.2025 року
+        link: /uploads/decision №310 07.08.2025.docx
       - title: Рішення №311 від 07.08.2025 року
         link: /uploads/decision №311 07.08.2025.docx
       - title: Рішення №312 від 07.08.2025 року
