@@ -5,7 +5,8 @@ components:
     order:
       - {}
       - {}
-      - {}
+      - title: Рішення №279 від 11.07.2025 року
+        link: /uploads/decision №279 11.07.2025.docx
       - title: Рішення №280 від 11.07.2025 року
         link: /uploads/decision №280 11.07.2025.docx
       - title: Рішення №281 від 11.07.2025 року
