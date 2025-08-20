@@ -5,7 +5,8 @@ components:
     order:
       - {}
       - {}
-      - {}
+      - title: Рішення від №287 07.08.2025 року
+        link: /uploads/decision №287 07.08.2025.docx
       - title: Рішення від №288 07.08.2025 року
         link: /uploads/decision №288 07.08.2025.docx
       - title: Рішення від №289 07.08.2025 року
