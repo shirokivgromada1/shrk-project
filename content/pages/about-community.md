@@ -10,7 +10,7 @@ components:
     towns: '35'
     townsTitle: Населених пунктів
     townsTitleEng: Population centers
-    square: '477,4'
+    square: '450'
     squareTitle: Площа громади
     squareTitleEng: Area of ​​the community
     _template: AboutDesc
