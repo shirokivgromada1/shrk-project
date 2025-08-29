@@ -3,8 +3,6 @@ title: 62-session-VIII-convocation-of-the-Shyroke-Village-Council
 components:
   - title: '62 сесія VIII скликання Широківської сільської ради '
     order:
-      - title: 'Додаток №2 до рішення №1 '
-        link: /uploads/62_session_Decision_№ 1_04.08.2025_adding_2.pdf
       - title: Порядок денний 62 позачергової сесії VIII скликання
         link: /uploads/62_session_poryadok_denniy.docx
       - title: Протокол 62 позачергової сесії VIII скликання
@@ -18,8 +16,10 @@ components:
           Рішення №1 Про затвердження звіту про виконання бюджету Широківської 
           сільської територіальної громади  за 1 півріччя 2025 року
         link: /uploads/62_session_Decision_№ 1_04.08.2025.docx
-      - title: Додаток до рішення №1
+      - title: Додаток №1 до рішення №1
         link: /uploads/62_session_Decision_№ 1_04.08.2025_adding.xlsx
+      - title: 'Додаток №2 до рішення №1 '
+        link: /uploads/62_session_Decision_№ 1_04.08.2025_adding_2.pdf
       - title: Звіт про виконання бюджету
         link: /uploads/62_session_Decision_№ 5_04.08.2025_report.doc
       - title: >-
