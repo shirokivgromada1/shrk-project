@@ -53,7 +53,10 @@ components:
         link: /uploads/62_session_Decision_№ 8_04.08.2025.docx
       - title: Рішення №9 Про затвердження меморандуму про співпрацю
         link: /uploads/62_session_Decision_№ 9_04.08.2025.docx
-      - title: Рішення №10
+      - title: >-
+          Рішення №10 Про затвердження проєкту меморандуму про співробітництво
+          територіальних громад у формі партнерства
+        link: /uploads/62_session_Decision_№ 10_04.08.2025.docx
       - title: Рішення №11
       - title: Рішення №12
       - title: Рішення №13
