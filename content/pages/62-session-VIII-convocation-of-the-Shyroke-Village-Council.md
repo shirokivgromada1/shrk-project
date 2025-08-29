@@ -3,6 +3,11 @@ title: 62-session-VIII-convocation-of-the-Shyroke-Village-Council
 components:
   - title: '62 сесія VIII скликання Широківської сільської ради '
     order:
+      - title: Додаток до рішення №1
+        link: /uploads/62_session_Decision_№ 1_04.08.2025_adding.xlsx
+      - {}
+      - {}
+      - {}
       - title: Порядок денний 62 позачергової сесії VIII скликання
         link: /uploads/62_session_poryadok_denniy.docx
       - title: Протокол 62 позачергової сесії VIII скликання
