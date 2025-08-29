@@ -59,6 +59,31 @@ components:
       - title: Рішення №22
       - title: Рішення №23
       - title: Рішення №24
+      - title: Рішення №25
+      - title: Рішення №26
+      - title: Рішення №27
+      - title: Рішення №28
+      - title: Рішення №29
+      - title: Рішення №30
+      - title: Рішення №31
+      - title: Рішення №32
+      - title: Рішення №33
+      - title: Рішення №34
+      - title: Рішення №35
+      - title: Рішення №36
+      - title: Рішення №37
+      - title: Рішення №38
+      - title: Рішення №39
+      - title: Рішення №40
+      - title: Рішення №41
+      - title: Рішення №42
+      - title: Рішення №43
+      - title: Рішення №44
+      - title: Рішення №45
+      - title: Рішення №46
+      - title: Рішення №47
+      - title: Рішення №48
+      - title: Рішення №49
     _template: HeadOrders
 ---
 
