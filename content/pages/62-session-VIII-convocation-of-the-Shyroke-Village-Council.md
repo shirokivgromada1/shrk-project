@@ -201,7 +201,8 @@ components:
         link: /uploads/62_session_Decision_№ 39_04.08.2025.docx
       - title: Рішення №40 Про погодження договору підряду
         link: /uploads/62_session_Decision_№ 40_04.08.2025.docx
-      - title: Рішення №41
+      - title: Рішення №41 Про прийняття майна у комунальну власність
+        link: /uploads/62_session_Decision_№ 41_04.08.2025.docx
       - title: Рішення №42
       - title: Рішення №43
       - title: Рішення №44
