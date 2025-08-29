@@ -156,7 +156,14 @@ components:
         url: >-
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/62_session_Decision_№
           30_04.08.2025.doc
-      - title: Рішення №31
+      - title: >-
+          Рішення №31 Про надання дозволу на розроблення проекту землеустрою
+          щодо відведення земельної ділянки в оренду для городництва гр. Фурсову
+          К.В.
+        link: /uploads/62_session_Decision_№ 31_04.08.2025.doc
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/62_session_Decision_№
+          31_04.08.2025.doc
       - title: Рішення №32
       - title: Рішення №33
       - title: Рішення №34
