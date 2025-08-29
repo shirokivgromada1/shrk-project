@@ -203,7 +203,8 @@ components:
         link: /uploads/62_session_Decision_№ 40_04.08.2025.docx
       - title: Рішення №41 Про прийняття майна у комунальну власність
         link: /uploads/62_session_Decision_№ 41_04.08.2025.docx
-      - title: Рішення №42
+      - title: Рішення №42 Про розподіл благодійної допомоги
+        link: /uploads/62_session_Decision_№ 42_04.08.2025.docx
       - title: Рішення №43
       - title: Рішення №44
       - title: Рішення №45
