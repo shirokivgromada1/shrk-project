@@ -10,7 +10,8 @@ components:
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/62_session_protocol.doc
       - title: 62 сесія Протокол сумісного засідання від 04.08.2025
         link: /uploads/62_іуіішщт_зкщещсщд_04.08.2025.docx
-      - {}
+      - title: Поіменне голосування 62 позачегової сесії VIIІ скликання
+        link: /uploads/62_session_voting_04.08.2025.docx
       - {}
       - {}
       - {}
