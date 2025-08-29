@@ -222,7 +222,8 @@ components:
         link: /uploads/62_session_Decision_№ 45_04.08.2025.docx
       - title: Рішення №46 Про затвердження Меморандумів про співпрацю
         link: /uploads/62_session_Decision_№ 46_04.08.2025.docx
-      - title: Рішення №47
+      - title: Рішення №47 Про затвердження Меморандумів про співпрацю
+        link: /uploads/62_session_Decision_№ 47_04.08.2025.docx
       - title: Рішення №48
       - title: Рішення №49
     _template: HeadOrders
