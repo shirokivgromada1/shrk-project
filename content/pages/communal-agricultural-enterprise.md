@@ -29,6 +29,8 @@ components:
       - title: Тарифи на послуги КП «Широке»
         richText: ''
         link: 'https://shtg.gov.ua/tariffs-shyroke-'
+      - title: Графіки вивозу сміття
+        link: 'https://shtg.gov.ua/garbage-pickup-schedule'
     _template: Officially
 ---
 
