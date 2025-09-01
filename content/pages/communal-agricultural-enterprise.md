@@ -24,9 +24,11 @@ components:
       - name: Виробництво сільськогосподарської продукції
       - name: Вирощування і переробка сільськогосподарської продукції
     _template: SilradaDepartmentFunctions
-  - notMain: true
-    headline:
-      text: Новини
-    _template: news
+  - title: КП «Широке» інформує
+    official:
+      - title: Тарифи на послуги КП «Широке»
+        richText: ''
+        link: 'https://shtg.gov.ua/tariffs-shyroke-'
+    _template: Officially
 ---
 
