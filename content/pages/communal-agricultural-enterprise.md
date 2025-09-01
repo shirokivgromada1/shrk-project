@@ -31,6 +31,11 @@ components:
         link: 'https://shtg.gov.ua/tariffs-shyroke-'
       - title: Графіки вивозу сміття
         link: 'https://shtg.gov.ua/garbage-pickup-schedule'
+      - title: Протокол конкурсної комісії від 27.08.2025 № 1
+        link: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Протокол
+          конкурсної комісії від 27.08.2025 № 1 відходи.pdf
+      - {}
     _template: Officially
 ---
 
