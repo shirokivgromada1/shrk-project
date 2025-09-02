@@ -18,7 +18,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №169 від 01.05.2025 року
+        link: /uploads/decision 169 of 05012025.docx
       - title: Рішення №170 від 01.05.2025 року
         link: /uploads/decision 170 of 05012025.docx
         url: >-
