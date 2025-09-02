@@ -7,7 +7,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №189 від 19.05.2025 року
+        link: /uploads/decision No. 189 of 05192025.docx
       - title: Рішення №190 від 19.05.2025 року
         link: /uploads/decision No. 190 of 05192025.docx
     _template: HeadOrders
