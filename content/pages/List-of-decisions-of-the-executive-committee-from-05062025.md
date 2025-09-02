@@ -33,7 +33,11 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №226 від 05.06.2025 року
+        link: /uploads/Decision No. 226 of 05.06.2025.docx
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision
+          No. 226 of 05.06.2025.docx
       - title: Рішення №227 від 05.06.2025 року
         link: /uploads/Decision No. 227 of 05.06.2025.docx
       - title: Рішення №228 від 05.06.2025 року
