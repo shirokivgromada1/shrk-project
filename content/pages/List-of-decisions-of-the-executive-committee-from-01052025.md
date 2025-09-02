@@ -12,7 +12,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №163 від 01.05.2025 року
+        link: /uploads/decision 163 of 05012025.docx
       - title: Рішення №164 від 01.05.2025 року
         link: /uploads/decision 164 of 05012025.docx
       - title: Рішення №165 від 01.05.2025 року
