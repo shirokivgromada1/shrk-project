@@ -3,9 +3,6 @@ title: List-of-decisions-of-the-executive-committee-from-01052025
 components:
   - title: Виконавчий комітет від 01.05.2025 року №10
     order:
-      - {}
-      - {}
-      - {}
       - title: Перелік рішень виконавчого комітету №10 від 01.05.2025 року
         link: >-
           /uploads/List of decisions of the executive committee No. 10 dated
