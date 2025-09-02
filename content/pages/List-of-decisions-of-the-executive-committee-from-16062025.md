@@ -4,7 +4,8 @@ components:
   - title: Виконавчий комітет від 16.06.2025 року №14
     order:
       - {}
-      - {}
+      - title: Рішення №230 від 16.06.2025 року
+        link: /uploads/Decision No. 230 of 16062025.docx
       - title: Рішення №231 від 16.06.2025 року
         link: /uploads/Decision No. 231 of 16062025.docx
       - title: Рішення №232 від 16.06.2025 року
