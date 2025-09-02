@@ -34,7 +34,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №227 від 05.06.2025 року
+        link: /uploads/Decision No. 227 of 05.06.2025.docx
       - title: Рішення №228 від 05.06.2025 року
         link: /uploads/Decision No. 228 of 05.06.2025.docx
       - title: Рішення №229 від 05.06.2025 року
