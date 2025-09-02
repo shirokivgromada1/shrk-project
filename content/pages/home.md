@@ -8,7 +8,7 @@ components:
     previewImage: /uploads/home/photo.png
     readMoreLink: /head-of-the-community
     freshNews:
-      - news: content/news/70cf799a7c2acff30ac75d7fc73f7534fcfdcae4.mdx
+      - news: content/news/63da54720d3c8e318ad3073801b71785a938ea6d.mdx
       - news: content/news/00ffc72c4567a9aa63cb19758e86137157f6eb5a.mdx
       - news: content/news/00d94c6ad382c89ad4759271140fb4d251cefb31.mdx
     _template: preview
