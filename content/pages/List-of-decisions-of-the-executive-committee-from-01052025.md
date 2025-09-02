@@ -8,7 +8,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №159 від 01.05.2025 року
+        link: /uploads/decision 159 of 05012025.docx
       - title: Рішення №160 від 01.05.2025 року
         link: /uploads/decision 160 of 05012025.docx
       - title: Рішення №161 від 01.05.2025 року
