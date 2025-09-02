@@ -14,7 +14,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №165 від 01.05.2025 року
+        link: /uploads/decision 165 of 05012025.docx
       - title: Рішення №166 від 01.05.2025 року
         link: /uploads/decision 166 of 05012025.docx
       - title: Рішення №167 від 01.05.2025 року
