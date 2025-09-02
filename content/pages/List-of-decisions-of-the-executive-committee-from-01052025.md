@@ -19,7 +19,11 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №170 від 01.05.2025 року
+        link: /uploads/decision 170 of 05012025.docx
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision
+          170 of 05012025.docx
       - title: Рішення №171 від 01.05.2025 року
         link: /uploads/decision 171 of 05012025.docx
       - title: Рішення №172 від 01.05.2025 року
