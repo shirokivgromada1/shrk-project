@@ -30,7 +30,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №223 від 05.06.2025 року
+        link: /uploads/Decision No. 223 of 05.06.2025.docx
       - title: Рішення №224 від 05.06.2025 року
         link: /uploads/Decision No. 224 of 05.06.2025.docx
       - title: Рішення №225 від 05.06.2025 року
