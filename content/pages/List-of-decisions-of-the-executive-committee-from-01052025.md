@@ -7,7 +7,11 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №158 від 01.05.2025 року
+        link: /uploads/decision 158 of 05012025.docx
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision
+          158 of 05012025.docx
       - title: Рішення №159 від 01.05.2025 року
         link: /uploads/decision 159 of 05012025.docx
       - title: Рішення №160 від 01.05.2025 року
