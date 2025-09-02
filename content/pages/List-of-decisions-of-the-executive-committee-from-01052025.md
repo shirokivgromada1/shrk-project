@@ -29,7 +29,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №180 від 01.05.2025 року
+        link: /uploads/decision 180 of 05012025.docx
       - title: Рішення №181 від 01.05.2025 року
         link: /uploads/decision 181 of 05012025.docx
       - title: Рішення №182 від 01.05.2025 року
