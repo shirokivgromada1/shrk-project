@@ -6,7 +6,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №232 від 16.06.2025 року
+        link: /uploads/Decision No. 232 of 16062025.docx
       - title: Рішення №233 від 16.06.2025 року
         link: /uploads/Decision No. 233 of 16062025.docx
       - title: Рішення №234 від 16.06.2025 року
