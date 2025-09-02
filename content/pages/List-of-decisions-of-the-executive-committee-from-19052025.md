@@ -6,7 +6,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №188 від 19.05.2025 року
+        link: /uploads/decision No. 188 of 05192025.docx
       - title: Рішення №189 від 19.05.2025 року
         link: /uploads/decision No. 189 of 05192025.docx
       - title: Рішення №190 від 19.05.2025 року
