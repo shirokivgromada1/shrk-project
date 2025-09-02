@@ -10,7 +10,7 @@ components:
     freshNews:
       - news: content/news/63da54720d3c8e318ad3073801b71785a938ea6d.mdx
       - news: content/news/27ded3f113ef234ca16bb334531cd3101c77adda.mdx
-      - news: content/news/00d94c6ad382c89ad4759271140fb4d251cefb31.mdx
+      - news: content/news/b78cfab278e08377b22d3b7bde59ac131a48c651.mdx
     _template: preview
   - title: Ми надаємо такі послуги
     titleEng: We provide the following services
