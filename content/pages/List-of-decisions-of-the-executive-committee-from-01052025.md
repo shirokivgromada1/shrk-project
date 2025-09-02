@@ -10,7 +10,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №161 від 01.05.2025 року
+        link: /uploads/decision 161 of 05012025.docx
       - title: Рішення №162 від 01.05.2025 року
         link: /uploads/decision 162 of 05012025.docx
       - title: Рішення №163 від 01.05.2025 року
