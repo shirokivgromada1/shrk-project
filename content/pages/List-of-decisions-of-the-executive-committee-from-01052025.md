@@ -27,7 +27,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №178 від 01.05.2025 року
+        link: /uploads/decision 178 of 05012025.docx
       - title: Рішення №179 від 01.05.2025 року
         link: /uploads/decision 179 of 05012025.docx
       - title: Рішення №180 від 01.05.2025 року
