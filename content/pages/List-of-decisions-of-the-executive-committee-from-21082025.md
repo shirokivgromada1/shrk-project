@@ -10,7 +10,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №322 від 21.08.2025 року
+        link: /uploads/decision No. 322 of 21082025.docx
       - title: Рішення №323 від 21.08.2025 року
         link: /uploads/decision No. 323 of 21082025.docx
         url: >-
