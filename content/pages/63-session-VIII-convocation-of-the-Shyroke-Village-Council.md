@@ -41,7 +41,13 @@ components:
         link: >-
           /uploads/Draft decision on approval of Markov's technical
           documentation_04092025.doc
-      - {}
+      - title: >-
+          Проєкт рішення Про надання дозволу на розроблення проекту землеустрою
+          шодо відведення зд Матвієнко
+        link: >-
+          /uploads/Draft decision On granting permission to develop a land
+          management project for the allocation of the Matvienko housing
+          estate_04092025.doc
       - {}
       - {}
       - {}
