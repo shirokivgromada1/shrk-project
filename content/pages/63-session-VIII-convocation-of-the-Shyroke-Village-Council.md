@@ -21,7 +21,10 @@ components:
         link: >-
           /uploads/Draft decision on amendments to the financial plan of the BVS
           for 2025.doc
-      - {}
+      - title: 'Проєкт рішення Про затвердження проектів землеустрою '
+        link: >-
+          /uploads/Draft decision on approval of land management
+          projects_04092025.doc
       - {}
       - {}
       - {}
