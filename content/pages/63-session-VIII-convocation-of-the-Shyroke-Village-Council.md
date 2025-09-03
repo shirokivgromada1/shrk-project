@@ -74,7 +74,12 @@ components:
           /uploads/Draft decision On granting permission to develop a land
           management project for the allocation of land Tovstyk
           V.M._04092025.doc
-      - {}
+      - title: >-
+          Проєкт рішення Про надання дозволу на розроблення проекту землеустрою
+          шодо відведення зд Товстик П.О.
+        link: >-
+          /uploads/Draft decision On granting permission to develop a land
+          management project for the allocation of the Tovstyk P.O._04092025.doc
       - {}
       - {}
       - {}
