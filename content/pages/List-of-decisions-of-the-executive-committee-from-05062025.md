@@ -4,7 +4,8 @@ components:
   - title: Виконавчий комітет від 05.06.2025 року №13
     order:
       - {}
-      - {}
+      - title: Рішення №191 від 05.06.2025 року
+        link: /uploads/Decision No. 191 of 05.06.2025.docx
       - title: Рішення №192 від 05.06.2025 року
         link: /uploads/Decision No. 192 of 05.06.2025.docx
       - title: Рішення №193 від 05.06.2025 року
