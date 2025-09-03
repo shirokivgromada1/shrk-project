@@ -86,11 +86,6 @@ components:
           Community_04092025.docx
       - title: Проєкт рішення структура Клініка
         link: /uploads/Project solution structure Clinic_04092025.doc
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
     _template: HeadOrders
 ---
 
