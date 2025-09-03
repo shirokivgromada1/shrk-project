@@ -80,7 +80,10 @@ components:
         link: >-
           /uploads/Draft decision On granting permission to develop a land
           management project for the allocation of the Tovstyk P.O._04092025.doc
-      - {}
+      - title: Проєкт рішення Програма Стань успішним в громаді
+        link: >-
+          /uploads/Project Solution Program Become Successful in the
+          Community_04092025.docx
       - {}
       - {}
       - {}
