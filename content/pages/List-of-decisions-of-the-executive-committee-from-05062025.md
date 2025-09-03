@@ -16,7 +16,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №209 від 05.06.2025 року
+        link: /uploads/Decision No. 209 of 05.06.2025.docx
       - title: Рішення №210 від 05.06.2025 року
         link: /uploads/Decision No. 210 of 05.06.2025.docx
       - title: Рішення №211 від 05.06.2025 року
