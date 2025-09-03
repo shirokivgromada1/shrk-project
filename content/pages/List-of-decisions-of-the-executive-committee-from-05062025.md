@@ -20,7 +20,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №213 від 05.06.2025 року
+        link: /uploads/Decision No. 213 of 05.06.2025.docx
       - title: Рішення №214 від 05.06.2025 року
         link: /uploads/Decision No. 214 of 05.06.2025.docx
       - title: Рішення №215 від 05.06.2025 року
