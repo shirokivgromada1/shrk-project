@@ -22,8 +22,10 @@ components:
       - {}
       - {}
       - {}
-      - {}
-      - {}
+      - title: Рішення №215 від 05.06.2025 року
+        link: /uploads/Decision No. 215 of 05.06.2025.docx
+      - title: Рішення №216 від 05.06.2025 року
+        link: /uploads/Decision No. 216 of 05.06.2025.docx
       - title: Рішення №217 від 05.06.2025 року
         link: /uploads/Decision No. 217 of 05.06.2025.docx
       - title: Рішення №218 від 05.06.2025 року
