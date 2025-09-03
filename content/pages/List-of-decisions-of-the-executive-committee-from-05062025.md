@@ -6,7 +6,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №193 від 05.06.2025 року
+        link: /uploads/Decision No. 193 of 05.06.2025.docx
       - title: Рішення №194 від 05.06.2025 року
         link: /uploads/Decision No. 194 of 05.06.2025.docx
       - title: Рішення №195 від 05.06.2025 року
