@@ -3,8 +3,6 @@ title: List-of-decisions-of-the-executive-committee-from-21082025
 components:
   - title: Виконавчий комітет від 21.08.2025 року №19
     order:
-      - {}
-      - {}
       - title: Перелік рішень виконавчого комітету №19 від 21.08.2025 року
         link: >-
           /uploads/List of decisions of the executive committee No. 19 of
