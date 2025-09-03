@@ -25,7 +25,10 @@ components:
         link: >-
           /uploads/Draft decision on approval of land management
           projects_04092025.doc
-      - {}
+      - title: Проєкт рішення Про затвердження технiчноi документації Гарбуз
+        link: >-
+          /uploads/Draft decision on the approval of the technical documentation
+          of Garbuz.doc
       - {}
       - {}
       - {}
