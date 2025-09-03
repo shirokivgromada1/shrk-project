@@ -84,7 +84,8 @@ components:
         link: >-
           /uploads/Project Solution Program Become Successful in the
           Community_04092025.docx
-      - {}
+      - title: Проєкт рішення структура Клініка
+        link: /uploads/Project solution structure Clinic_04092025.doc
       - {}
       - {}
       - {}
