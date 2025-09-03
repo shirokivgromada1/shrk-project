@@ -4,7 +4,8 @@ components:
   - title: Виконавчий комітет від 21.08.2025 року №19
     order:
       - {}
-      - {}
+      - title: Рішення №316 від 21.08.2025 року
+        link: /uploads/decision No. 316 of 21082025.docx
       - title: Рішення №317 від 21.08.2025 року
         link: /uploads/decision No. 317 of 21082025.docx
         url: >-
