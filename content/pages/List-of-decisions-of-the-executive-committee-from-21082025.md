@@ -6,7 +6,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №313 від 21.08.2025 року
+        link: /uploads/decision No. 313 of 21082025.docx
       - title: Рішення №314 від 21.08.2025 року
         link: /uploads/decision No. 314 of 21082025.docx
         url: >-
