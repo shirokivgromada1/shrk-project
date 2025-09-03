@@ -7,7 +7,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №319 від 21.08.2025 року
+        link: /uploads/decision No. 319 of 21082025.docx
       - title: Рішення №320 від 21.08.2025 року
         link: /uploads/decision No. 320 of 21082025.docx
       - title: Рішення №321 від 21.08.2025 року
