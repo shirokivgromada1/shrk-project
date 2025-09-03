@@ -25,11 +25,14 @@ components:
         link: >-
           /uploads/Draft decision on approval of land management
           projects_04092025.doc
-      - title: Проєкт рішення Про затвердження технiчноi документації Гарбуз
+      - title: Проєкт рішення Про затвердження технiчної документації Гарбуз
         link: >-
           /uploads/Draft decision on the approval of the technical documentation
           of Garbuz.doc
-      - {}
+      - title: Проєкт рішення Про затвердження технiчноi документації Коваль
+        link: >-
+          /uploads/Draft decision on approval of technical documentation
+          Koval_04092025.doc
       - {}
       - {}
       - {}
