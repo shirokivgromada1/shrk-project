@@ -17,7 +17,10 @@ components:
         link: >-
           /uploads/Draft decision memorandum of the NGO Defense of the
           State.docx
-      - {}
+      - title: Проєкт рішення про  внесення змін до фінплану БВС  на 2025 рік
+        link: >-
+          /uploads/Draft decision on amendments to the financial plan of the BVS
+          for 2025.doc
       - {}
       - {}
       - {}
