@@ -5,7 +5,10 @@ components:
     order:
       - {}
       - {}
-      - {}
+      - title: Перелік рішень виконавчого комітету №19 від 21.08.2025 року
+        link: >-
+          /uploads/List of decisions of the executive committee No. 19 of
+          08212025.docx
       - title: Рішення №313 від 21.08.2025 року
         link: /uploads/decision No. 313 of 21082025.docx
       - title: Рішення №314 від 21.08.2025 року
