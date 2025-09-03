@@ -33,7 +33,10 @@ components:
         link: >-
           /uploads/Draft decision on approval of technical documentation
           Koval_04092025.doc
-      - {}
+      - title: Проєкт рішення Про затвердження технiчноi документації Колеснік
+        link: >-
+          /uploads/Draft decision on approval of technical documentation
+          Kolesnik_04092025.doc
       - {}
       - {}
       - {}
