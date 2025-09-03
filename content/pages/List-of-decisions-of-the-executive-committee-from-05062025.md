@@ -26,7 +26,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №219 від 05.06.2025 року
+        link: /uploads/Decision No. 219 of 05.06.2025.docx
       - title: Рішення №220 від 05.06.2025 року
         link: /uploads/Decision No. 220 of 05.06.2025.docx
       - title: Рішення №221 від 05.06.2025 року
