@@ -3,7 +3,8 @@ title: List-of-decisions-of-the-executive-committee-from-05062025
 components:
   - title: Виконавчий комітет від 05.06.2025 року №13
     order:
-      - {}
+      - title: Рішення №196 від 05.06.2025 року
+        link: /uploads/Decision No. 196 of 05.06.2025.docx
       - title: Рішення №197 від 05.06.2025 року
         link: /uploads/Decision No. 197 of 05.06.2025.docx
       - title: Рішення №198 від 05.06.2025 року
