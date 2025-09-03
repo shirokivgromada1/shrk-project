@@ -5,7 +5,11 @@ components:
     order:
       - {}
       - {}
-      - {}
+      - title: Рішення №317 від 21.08.2025 року
+        link: /uploads/decision No. 317 of 21082025.docx
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision
+          No. 317 of 21082025.docx
       - title: Рішення №318 від 21.08.2025 року
         link: /uploads/decision No. 318 of 21082025.docx
       - title: Рішення №319 від 21.08.2025 року
