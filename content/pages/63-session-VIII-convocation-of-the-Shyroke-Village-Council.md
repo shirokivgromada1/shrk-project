@@ -37,7 +37,10 @@ components:
         link: >-
           /uploads/Draft decision on approval of technical documentation
           Kolesnik_04092025.doc
-      - {}
+      - title: Проєкт рішення Про затвердження технiчноi документації Маркова
+        link: >-
+          /uploads/Draft decision on approval of Markov's technical
+          documentation_04092025.doc
       - {}
       - {}
       - {}
