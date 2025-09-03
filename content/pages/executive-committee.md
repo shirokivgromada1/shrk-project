@@ -119,6 +119,7 @@ components:
       - title: Виконавчий комітет від 08.05.2025 року №11
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-08052025
+        buttonText: Перейти
       - title: Виконавчий комітет від 01.05.2025 року №10
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-01052025
