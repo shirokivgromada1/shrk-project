@@ -11,7 +11,8 @@ components:
         link: >-
           /uploads/Draft decision Report on the implementation of the financial
           plan of the BVS for the first half of 2025.doc
-      - {}
+      - title: Проєкт рішення матеріальна допомога
+        link: /uploads/Draft decision on material assistance.docx
       - {}
       - {}
       - {}
