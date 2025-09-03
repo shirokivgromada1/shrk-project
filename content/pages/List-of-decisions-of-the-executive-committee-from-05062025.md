@@ -6,7 +6,11 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №199 від 05.06.2025 року
+        link: /uploads/Decision No. 199 of 05.06.2025.docx
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision
+          No. 199 of 05.06.2025.docx
       - title: Рішення №200 від 05.06.2025 року
         link: /uploads/Decision No. 200 of 05.06.2025.docx
       - title: Рішення №201 від 05.06.2025 року
