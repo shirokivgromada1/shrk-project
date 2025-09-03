@@ -27,7 +27,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №220 від 05.06.2025 року
+        link: /uploads/Decision No. 220 of 05.06.2025.docx
       - title: Рішення №221 від 05.06.2025 року
         link: /uploads/Decision No. 221 of 05.06.2025.docx
         url: >-
