@@ -48,7 +48,18 @@ components:
           /uploads/Draft decision On granting permission to develop a land
           management project for the allocation of the Matvienko housing
           estate_04092025.doc
-      - {}
+      - title: >-
+          Проєкт рішення Про надання дозволу на розроблення проекту землеустрою
+          шодо відведення зд РГ СВА Петра і Павла
+        link: >-
+          /uploads/Draft decision On granting permission to develop a land
+          management project for the allocation of land for the Peter and Paul
+          Regional State Administrative Organization_04092025.doc
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Draft
+          decision On granting permission to develop a land management project
+          for the allocation of land for the Peter and Paul Regional State
+          Administrative Organization_04092025.doc
       - {}
       - {}
       - {}
