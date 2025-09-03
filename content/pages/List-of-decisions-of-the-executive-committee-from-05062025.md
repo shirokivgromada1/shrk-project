@@ -11,7 +11,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Рішення №204 від 05.06.2025 року
+        link: /uploads/Decision No. 204 of 05.06.2025.docx
       - title: Рішення №205 від 05.06.2025 року
         link: /uploads/Decision No. 205 of 05.06.2025.docx
       - title: Рішення №206 від 05.06.2025 року
