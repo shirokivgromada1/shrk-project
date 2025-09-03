@@ -60,7 +60,13 @@ components:
           decision On granting permission to develop a land management project
           for the allocation of land for the Peter and Paul Regional State
           Administrative Organization_04092025.doc
-      - {}
+      - title: >-
+          Проєкт рішення Про надання дозволу на розроблення проекту землеустрою
+          шодо відведення зд Товстик В.М. Новопетрівка
+        link: >-
+          /uploads/Draft decision On granting permission to develop a land
+          management project for the allocation of the Tovstyk V.M. Novopetrivka
+          housing estate_04092025.doc
       - {}
       - {}
       - {}
