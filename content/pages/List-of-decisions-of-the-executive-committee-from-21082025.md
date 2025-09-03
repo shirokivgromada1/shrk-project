@@ -1,7 +1,21 @@
 ---
 title: List-of-decisions-of-the-executive-committee-from-21082025
 components:
-  - title: Розпорядження голови
+  - title: Виконавчий комітет від 21.08.2025 року №19
+    order:
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - title: Рішення №323 від 21.08.2025 року
+        link: /uploads/decision No. 323 of 21082025.docx
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision
+          No. 323 of 21082025.docx
     _template: HeadOrders
 ---
 
