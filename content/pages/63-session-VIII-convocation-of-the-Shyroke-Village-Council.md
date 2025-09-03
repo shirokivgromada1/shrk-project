@@ -13,7 +13,10 @@ components:
           plan of the BVS for the first half of 2025.doc
       - title: Проєкт рішення матеріальна допомога
         link: /uploads/Draft decision on material assistance.docx
-      - {}
+      - title: Проєкт рішення меморандум ГО Захист Держави
+        link: >-
+          /uploads/Draft decision memorandum of the NGO Defense of the
+          State.docx
       - {}
       - {}
       - {}
