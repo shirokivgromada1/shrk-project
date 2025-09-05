@@ -3,6 +3,9 @@ title: budget-program-passports
 components:
   - title: ' Паспорти бюджетних програм'
     order:
+      - {}
+      - title: Розпорядження від 06.08.2025 № 151
+        link: /uploads/Order dated 06.08.2025 No. 151.docx
       - title: >-
           Паспорти бюджетних програм на 2025 рік КПКВК 1610160,1616030 - зміни
           03.07.2025
