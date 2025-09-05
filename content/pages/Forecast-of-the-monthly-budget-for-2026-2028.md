@@ -5,7 +5,12 @@ components:
     order:
       - {}
       - {}
-      - {}
+      - title: >-
+          Рішення від 04.09.2025 № 4 Про розгляд прогнозу бюджету на 2026-2028
+          роки
+        link: >-
+          /uploads/Resolution dated 09042025 No. 4 About the review of the
+          budget forecast for 2026-2028.doc
       - title: >-
           Рішення виконкому від 29.08.2025 № 326 Про схвалення прогнозу бюджету
           2026-2028 роки
