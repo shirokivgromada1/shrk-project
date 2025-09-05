@@ -9,7 +9,12 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: >-
+          Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни
+          04.08.2025
+        link: >-
+          /uploads/Passport of the budget program for 2025 rіk KPKVK 0112151 -
+          change 08042025.xlsx
       - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111031- зміни 04.08.2025
         link: >-
           /uploads/Passport of the budget program for 2025 rіk KPKVK 0111031-
