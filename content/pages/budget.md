@@ -18,6 +18,8 @@ components:
   - title: Бюджет
     subtitle: ''
     order:
+      - title: ' Прогноз місцевого бюджету на 2026-2028 роки'
+        url: 'https://shtg.gov.ua/Forecast-of-the-monthly-budget-for-2026-2028'
       - title: БЮДЖЕТ ШИРОКІВСЬКОЇ ГРОМАДИ - 2025
         url: 'https://shtg.gov.ua/Community-budget-2025'
         buttonText: Перейти
