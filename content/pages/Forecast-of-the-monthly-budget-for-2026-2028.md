@@ -3,7 +3,11 @@ title: Forecast of the monthly budget for 2026-2028
 components:
   - title: ' Прогноз місцевого бюджету на 2026-2028 роки'
     order:
-      - {}
+      - title: Додатки до прогнозу бюджету на 2026-2028 роки
+        link: /uploads/Additions to the budget forecast for 2026-2028.xlsx
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Additions
+          to the budget forecast for 2026-2028.xlsx
       - title: Прогноз місцевого бюджету на 2026-2028 роки (текстова частина)
         link: /uploads/Forecast of the monthly budget for 2026-2028 (text part).docx
       - title: >-
