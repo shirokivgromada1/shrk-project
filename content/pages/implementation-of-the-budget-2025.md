@@ -3,7 +3,10 @@ title: implementation of the budget 2025
 components:
   - title: Виконання бюджету 2025
     order:
-      - {}
+      - title: Інформація про виконання місцевого бюджету за січень-серпень 2025 року
+        link: >-
+          /uploads/Information about the finalization of the local budget
+          jan-aug 2025.xlsx
       - title: Інформація про виконання місцевого бюджету за січень-липень 2025 року
         link: >-
           /uploads/Information about the finalization of the local budget
