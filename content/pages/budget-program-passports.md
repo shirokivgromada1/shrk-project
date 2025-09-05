@@ -3,7 +3,8 @@ title: budget-program-passports
 components:
   - title: ' Паспорти бюджетних програм'
     order:
-      - {}
+      - title: Наказ від 13.08.2025 №24
+        link: /uploads/Order issued 08132025 No. 24.docx
       - title: Розпорядження від 06.08.2025 № 151
         link: /uploads/Order dated 06.08.2025 No. 151.docx
       - title: >-
