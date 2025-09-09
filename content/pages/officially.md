@@ -3,8 +3,6 @@ title: officially
 components:
   - title: Офіційно
     official:
-      - title: Попередня версія сайту
-        link: 'https://oldwebsite.shtg.gov.ua'
       - title: Документи
         link: documents
       - title: Громадські слухання
@@ -40,6 +38,8 @@ components:
         link: orders-assigning-address-to-completed-construction-project
       - title: Запобігання та протидія насильству
         link: 'https://shtg.gov.ua/prevention-and-counteraction-to-violence'
+      - title: Попередня версія сайту
+        link: 'https://oldwebsite.shtg.gov.ua'
     _template: Officially
 ---
 
