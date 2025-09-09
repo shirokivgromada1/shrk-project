@@ -41,10 +41,9 @@ components:
         link: 'https://shtg.gov.ua/garbage-pickup-schedule'
       - title: Норми надання послуг з вивезення твердих побутових відходів
         link: 'https://shtg.gov.ua/household-waste-standards'
-      - title: Протокол конкурсної комісії від 27.08.2025 № 1
+      - title: Офіційно
         link: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Протокол
-          конкурсної комісії від 27.08.2025 № 1 відходи.pdf
+          https://shtg.gov.ua/admin/index.html#/~/Official-statement-of-the-Municipal-Enterprise-Shyroke
       - title: >-
           Рішення виконкому від 29.08.2025 № 327 Про визначення виконавця послуг
           відходи
