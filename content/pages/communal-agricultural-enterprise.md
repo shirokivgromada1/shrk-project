@@ -29,7 +29,7 @@ components:
   - newsSection:
       - category: >-
           content/newsCategories/Announcement-of-the-Municipal-Enterprise-Shyroke.md
-        variantNews: '2'
+        variantNews: '1'
     _template: newsSections
   - title: КП «Широке» інформує
     official:
