@@ -1,7 +1,7 @@
 ---
 title: Standard Contracts of the Municipal Enterprise "Shyroke"
 components:
-  - title: Офіційно
+  - title: Типові договори
     _template: Officially
 ---
 
