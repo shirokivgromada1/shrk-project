@@ -21,6 +21,7 @@ components:
     _template: EnterprisesDesc
   - title: Основні функції
     function:
+      - name: 'Типові договори '
       - name: Збирання безпечних побутових відходів
       - name: Обробка та видалення безпечних побутових відходів
       - name: Відновлення відсортованих відходів
@@ -30,7 +31,9 @@ components:
       - title: Тарифи на послуги КП «Широке»
         richText: ''
         link: 'https://shtg.gov.ua/tariffs-shyroke-'
-      - title: Графіки вивозу сміття
+      - title: >-
+          Графік та час перевезення зібраних побутових відходів (З 09-00 до
+          16-00, раз на тиждень)
         link: 'https://shtg.gov.ua/garbage-pickup-schedule'
       - title: Протокол конкурсної комісії від 27.08.2025 № 1
         link: >-
