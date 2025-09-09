@@ -3,6 +3,8 @@ title: officially
 components:
   - title: Офіційно
     official:
+      - title: Попередня версія сайту
+        link: 'https://oldwebsite.shtg.gov.ua'
       - title: Документи
         link: documents
       - title: Громадські слухання
