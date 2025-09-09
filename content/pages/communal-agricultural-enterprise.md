@@ -40,15 +40,18 @@ components:
           16-00, раз на тиждень)
         link: 'https://shtg.gov.ua/garbage-pickup-schedule'
       - title: Норми надання послуг з вивезення твердих побутових відходів
+        link: 'https://shtg.gov.ua/household-waste-standards'
+      - title: Протокол конкурсної комісії від 27.08.2025 № 1
         link: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision
-          of the Executive Committee No. 89 dated 06.04.2023 on standards.pdf
-      - title: Типові договори
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Протокол
+          конкурсної комісії від 27.08.2025 № 1 відходи.pdf
+      - title: >-
+          Рішення виконкому від 29.08.2025 № 327 Про визначення виконавця послуг
+          відходи
         link: >-
-          https://shtg.gov.ua/Standard-Contracts-of-the-Municipal-Enterprise-Shyroke
-      - title: 'Офіційно '
-        link: >-
-          https://shtg.gov.ua/Official-statement-of-the-Municipal-Enterprise-Shyroke
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Рішення
+          виконкому від 29.08.2025 № 327 Про визначення виконавця послуг
+          відходи.pdf
     _template: Officially
 ---
 
