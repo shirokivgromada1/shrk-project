@@ -22,6 +22,15 @@ components:
           of the Shyrokivska Village Council No. 32 dated July 3, 2025 on Types
           of Activities.pdf
       - title: >-
+          Рішення Широківської сільської ради №32 від 03.07.205 року «Про
+          затвердження Програми поводження з побутовими відходами на території
+          Широківської сільської територіальної громади Запорізького району
+          Запорізької області на 2025-2027 роки»
+        link: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision
+          of the Shyrokivska Village Council No. 33 dated July 3, 2025 on the
+          Program.pdf
+      - title: >-
           Рішення виконкому від 29.08.2025 № 327 Про визначення виконавця послуг
           відходи
         link: >-
