@@ -26,7 +26,11 @@ components:
       - name: Обробка та видалення безпечних побутових відходів
       - name: Відновлення відсортованих відходів
     _template: SilradaDepartmentFunctions
-  - _template: newsSections
+  - newsSection:
+      - category: >-
+          content/newsCategories/Announcement-of-the-Municipal-Enterprise-Shyroke.md
+        variantNews: '2'
+    _template: newsSections
   - title: КП «Широке» інформує
     official:
       - title: Норми надання послуг з вивезення твердих побутових відходів
