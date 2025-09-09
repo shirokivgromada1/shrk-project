@@ -28,6 +28,10 @@ components:
     _template: SilradaDepartmentFunctions
   - title: КП «Широке» інформує
     official:
+      - title: Норми надання послуг з вивезення твердих побутових відходів
+        link: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision
+          of the Executive Committee No. 89 dated 06.04.2023 on standards.pdf
       - title: Тарифи на послуги КП «Широке»
         richText: ''
         link: 'https://shtg.gov.ua/tariffs-shyroke-'
