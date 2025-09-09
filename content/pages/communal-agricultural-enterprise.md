@@ -35,10 +35,8 @@ components:
       - title: Тарифи на послуги КП «Широке»
         richText: ''
         link: 'https://shtg.gov.ua/tariffs-shyroke-'
-      - title: >-
-          Графік та час перевезення зібраних побутових відходів (З 09-00 до
-          16-00, раз на тиждень)
-        link: 'https://shtg.gov.ua/garbage-pickup-schedule'
+      - title: 'Графік та час перевезення зібраних побутових відходів '
+        link: 'https://shtg.gov.ua/news/40c7e0766cb1fcb54e4f54722d23e486ca1a29d6'
       - title: Норми надання послуг з вивезення твердих побутових відходів
         link: 'https://shtg.gov.ua/household-waste-standards'
       - title: Офіційно
