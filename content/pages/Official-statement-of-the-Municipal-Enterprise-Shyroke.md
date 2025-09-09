@@ -11,6 +11,17 @@ components:
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision
           of the Shyrokivska Village Council No. 24 dated September 4, 2025
           (1).pdf
+      - title: >-
+          Рішення виконкому від 29.08.2025 № 327 Про визначення виконавця послуг
+          відходи
+        link: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Рішення
+          виконкому від 29.08.2025 № 327 Про визначення виконавця послуг
+          відходи.pdf
+      - title: Протокол конкурсної комісії від 27.08.2025 № 1
+        link: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Протокол
+          конкурсної комісії від 27.08.2025 № 1 відходи.pdf
     _template: Officially
 ---
 
