@@ -11,7 +11,7 @@ components:
       time: 'Пн - Пт з 8:00 до 17:00'
     contacts:
       title: Контакти
-      email: ''
+      email: shirokekp@ukr.net
       phone: ''
       place: 'Запорізька область, Запорізький район, с. Широке, вул. Центральна 1'
     position:
