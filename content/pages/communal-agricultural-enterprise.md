@@ -43,14 +43,7 @@ components:
         link: 'https://shtg.gov.ua/household-waste-standards'
       - title: Офіційно
         link: >-
-          https://shtg.gov.ua/admin/index.html#/~/Official-statement-of-the-Municipal-Enterprise-Shyroke
-      - title: >-
-          Рішення виконкому від 29.08.2025 № 327 Про визначення виконавця послуг
-          відходи
-        link: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Рішення
-          виконкому від 29.08.2025 № 327 Про визначення виконавця послуг
-          відходи.pdf
+          https://shtg.gov.ua/Official-statement-of-the-Municipal-Enterprise-Shyroke
     _template: Officially
 ---
 
