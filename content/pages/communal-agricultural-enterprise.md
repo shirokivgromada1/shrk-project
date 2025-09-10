@@ -32,6 +32,9 @@ components:
     _template: newsSections
   - title: КП «Широке» інформує
     official:
+      - title: Типові договори
+        link: >-
+          https://shtg.gov.ua/Standard-Contracts-of-the-Municipal-Enterprise-Shyroke
       - title: Тарифи на послуги КП «Широке»
         richText: ''
         link: 'https://shtg.gov.ua/tariffs-shyroke-'
