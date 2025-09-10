@@ -7,7 +7,7 @@ components:
         link: >-
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Individual
           Agreement (1).docx
-      - title: Заява приєднання до Договору вивіз побутових відходів
+      - title: 'Заява приєднання до Індивідуального договору '
         link: >-
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Application
           for Accession to the Household Waste Disposal Agreement.docx
