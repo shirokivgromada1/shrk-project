@@ -30,7 +30,9 @@ components:
           with an individual consumer.docx
       - title: >-
           ДОГОВІР  з колективним споживачем про надання послуги з управління
-          побутовими  відходами
+          побутовими  відходами (Для багатоквартирних будинків, ОСББ, ЖБК,
+          юридичних осіб, які мають приватну власність в багатоквартирному
+          будинку)
         link: >-
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Contract
           with a collective consumer.docx
