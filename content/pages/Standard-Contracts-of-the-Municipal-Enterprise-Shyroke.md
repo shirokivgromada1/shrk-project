@@ -3,7 +3,9 @@ title: Standard Contracts of the Municipal Enterprise "Shyroke"
 components:
   - title: Типові договори
     official:
-      - title: Індивідуальний договір
+      - title: >-
+          Індивідуальний договір (Для фізичних осіб, ФОП та юридичних осіб, що
+          не використовують власні або орендовані контейнери))
         link: >-
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Individual
           Agreement (1).docx
