@@ -11,6 +11,13 @@ components:
         link: >-
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Application
           for Accession to the Household Waste Disposal Agreement.docx
+      - title: >-
+          Істотні умови закупівлі послуги з управління побутовими відходами для
+          споживачів, на яких поширюється дія Закону України «Про публічні
+          закупівлі»
+        link: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Essential
+          terms.docx
     _template: Officially
 ---
 
