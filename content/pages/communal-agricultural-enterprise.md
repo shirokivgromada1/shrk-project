@@ -12,7 +12,7 @@ components:
     contacts:
       title: Контакти
       email: shirokekp@ukr.net
-      phone: ''
+      phone: +38 (096) 614-52-10
       place: 'Запорізька область, Запорізький район, с. Широке, вул. Центральна 1'
     position:
       title: Посада
