@@ -9,7 +9,7 @@ components:
       - title: 62 сесія VIII скликання Широківської сільської ради від 04.08.2025
         link: >-
           https://shtg.gov.ua/62-session-VIII-convocation-of-the-Shyroke-Village-Council
-      - title: ПРОЄКТ 61 сесії VIII скликання Широківської сільської ради
+      - title: 61 сесія VIII скликання Широківської сільської ради
         link: >-
           https://shtg.gov.ua/61-session-VIII-convocation-of-the-Shyroke-Village-Council
       - title: 60 сесія VIII скликання Широківської сільської ради від 05.06.2025
