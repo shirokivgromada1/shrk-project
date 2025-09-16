@@ -47,6 +47,8 @@ components:
         link: 'https://shtg.gov.ua/public-agreements-'
       - title: 'Норми питного водопостачання '
         link: 'https://shtg.gov.ua/norms-for-water-supply'
+      - title: Офіційно
+        link: 'https://shtg.gov.ua/admin/index.html#/~/officially-BVS'
     _template: Officially
   - newsSection:
       - category: content/newsCategories/1237392-10.md
