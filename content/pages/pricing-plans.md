@@ -25,8 +25,9 @@ components:
           №236 «Про встановлення тарифів на послуги з централізованого
           водопостачання»
         url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Додатки
-          2.docx
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Annex to
+          the Executive Committee Decision of 25.06.2025 No. 236 Tariff
+          Structure.pdf
       - title: >-
           Додаткова угода до договору з власником (користувачем) будівлі
           (приміщення у будівлі) про надання послуг з  централізованого
