@@ -8,6 +8,7 @@ components:
           /uploads/List of decisions of the executive committee No. 21 dated
           04.09.2025.docx
       - title: Рішення №328 від 04.09.2025 року
+        link: /uploads/decision No. 328 of 04.09.2025.docx
       - title: Рішення №329 від 04.09.2025 року
       - title: Рішення №330 від 04.09.2025 року
       - title: Рішення №331 від 04.09.2025 року
