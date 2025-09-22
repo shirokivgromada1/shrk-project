@@ -1,7 +1,13 @@
 ---
 title: List-of-decisions-of-the-executive-committee-from-29082025
 components:
-  - title: Розпорядження голови
+  - title: Виконавчий комітет від 29.08.2025 року №20
+    order:
+      - title: Перелік рішень виконавчого комітету №20 від 29.08.2025 року
+      - {}
+      - {}
+      - {}
+      - {}
     _template: HeadOrders
 ---
 
