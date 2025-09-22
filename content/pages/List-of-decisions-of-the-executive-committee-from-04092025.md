@@ -14,6 +14,7 @@ components:
       - title: Рішення №330 від 04.09.2025 року
         link: /uploads/decision No. 330 of 04.09.2025.docx
       - title: Рішення №331 від 04.09.2025 року
+        link: /uploads/decision No. 331 of 04.09.2025.docx
       - title: Рішення №332 від 04.09.2025 року
       - title: Рішення №333 від 04.09.2025 року
       - title: Рішення №334 від 04.09.2025 року
