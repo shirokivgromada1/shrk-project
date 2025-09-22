@@ -86,6 +86,7 @@ components:
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision
           No. 354 of 04.09.2025.docx
       - title: Рішення №355 від 04.09.2025 року
+        link: /uploads/decision No. 355 of 04.09.2025.docx
     _template: HeadOrders
 ---
 
