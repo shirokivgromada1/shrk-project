@@ -39,6 +39,7 @@ components:
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision
           No. 338 of 04.09.2025.docx
       - title: Рішення №339 від 04.09.2025 року
+        link: /uploads/decision No. 339 of 04.09.2025.docx
       - title: Рішення №340 від 04.09.2025 року
       - title: Рішення №341 від 04.09.2025 року
       - title: Рішення №342 від 04.09.2025 року
