@@ -10,6 +10,7 @@ components:
       - title: Рішення №328 від 04.09.2025 року
         link: /uploads/decision No. 328 of 04.09.2025.docx
       - title: Рішення №329 від 04.09.2025 року
+        link: /uploads/decision No. 329 of 04.09.2025.docx
       - title: Рішення №330 від 04.09.2025 року
       - title: Рішення №331 від 04.09.2025 року
       - title: Рішення №332 від 04.09.2025 року
