@@ -32,6 +32,7 @@ components:
       - title: Рішення №336 від 04.09.2025 року
         link: /uploads/decision No. 336 of 04.09.2025.docx
       - title: Рішення №337 від 04.09.2025 року
+        link: /uploads/decision No. 337 of 04.09.2025.docx
       - title: Рішення №338 від 04.09.2025 року
       - title: Рішення №339 від 04.09.2025 року
       - title: Рішення №340 від 04.09.2025 року
