@@ -13,6 +13,7 @@ components:
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision
           No. 324 of 29082025.docx
       - title: Рішення №325 від 29.08.2025 року
+        link: /uploads/decision No. 325 of 29082025.docx
       - title: Рішення №326 від 29.08.2025 року
       - title: Рішення №327 від 29.08.2025 року
     _template: HeadOrders
