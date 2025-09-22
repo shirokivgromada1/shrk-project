@@ -69,6 +69,10 @@ components:
       - title: Рішення №350 від 04.09.2025 року
         link: /uploads/decision No. 350 of 04.09.2025.docx
       - title: Рішення №351 від 04.09.2025 року
+        link: /uploads/decision No. 351 of 04.09.2025.docx
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision
+          No. 351 of 04.09.2025.docx
       - title: Рішення №352 від 04.09.2025 року
       - title: Рішення №353 від 04.09.2025 року
       - title: Рішення №354 від 04.09.2025 року
