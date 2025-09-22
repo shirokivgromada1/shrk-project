@@ -42,6 +42,7 @@ components:
       - title: Додаток №2 до Рішення №4
         link: /uploads/Addenda to the budget forecast for 2026-2028_04092025.xlsx
       - title: Додаток №3 до Рішення №4
+        link: /uploads/Executive Committee Decision No. 326 of 08292025_04092025.pdf
       - title: >-
           Рішення №5 Про внесення змін і доповнень до рішення сільської ради від
           19.12.2024 року      № 25 «Про бюджет Широківської сільської
