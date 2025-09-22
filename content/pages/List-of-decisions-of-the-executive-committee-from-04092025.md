@@ -60,6 +60,7 @@ components:
       - title: Рішення №347 від 04.09.2025 року
         link: /uploads/decision No. 347 of 04.09.2025.docx
       - title: Рішення №348 від 04.09.2025 року
+        link: /uploads/decision No. 348 of 04.09.2025.docx
       - title: Рішення №349 від 04.09.2025 року
       - title: Рішення №350 від 04.09.2025 року
       - title: Рішення №351 від 04.09.2025 року
