@@ -13,6 +13,10 @@ components:
         link: >-
           /uploads/Minutes of the 63rd session of the VIII convocation dated
           04.09.2025.doc
+      - title: Поіменне голосування 63 сесії VIIІ скликання
+        link: >-
+          /uploads/Roll call vote of the 63rd session of the 8th convocation
+          04092025.docx
     _template: HeadOrders
 ---
 
