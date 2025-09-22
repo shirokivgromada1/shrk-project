@@ -5,7 +5,7 @@ components:
     order:
       - title: >-
           Рішення від 04.09.2025 № 5 Про внесення змін до місцевого бюджету на
-          2025 рік
+          2025 рік (оприлюднено 09.09.2025)
         link: >-
           /uploads/budget. Decision dated 04.09.2025 No. 5 On amendments to the
           local budget for 2025.doc
