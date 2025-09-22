@@ -58,6 +58,7 @@ components:
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision
           No. 346 of 04.09.2025.docx
       - title: Рішення №347 від 04.09.2025 року
+        link: /uploads/decision No. 347 of 04.09.2025.docx
       - title: Рішення №348 від 04.09.2025 року
       - title: Рішення №349 від 04.09.2025 року
       - title: Рішення №350 від 04.09.2025 року
