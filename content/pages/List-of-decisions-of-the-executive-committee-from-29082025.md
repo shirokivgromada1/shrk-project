@@ -17,6 +17,7 @@ components:
       - title: Рішення №326 від 29.08.2025 року
         link: /uploads/decision No. 326 of 29082025.docx
       - title: Рішення №327 від 29.08.2025 року
+        link: /uploads/decision No. 327 of 29082025.docx
     _template: HeadOrders
 ---
 
