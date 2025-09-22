@@ -45,6 +45,7 @@ components:
       - title: Рішення №341 від 04.09.2025 року
         link: /uploads/decision No. 341 of 04.09.2025.docx
       - title: Рішення №342 від 04.09.2025 року
+        link: /uploads/decision No. 342 of 04.09.2025.docx
       - title: Рішення №343 від 04.09.2025 року
       - title: Рішення №344 від 04.09.2025 року
       - title: Рішення №345 від 04.09.2025 року
