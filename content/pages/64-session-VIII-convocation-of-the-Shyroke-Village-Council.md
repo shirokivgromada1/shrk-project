@@ -5,7 +5,8 @@ components:
     order:
       - title: Порядок денний 64 позачергової сесії
         link: /uploads/Agenda of the 64th extraordinary session_25092025.docx
-      - {}
+      - title: Проєкт рішення зверення щодо мікрокредиту
+        link: /uploads/Draft decision on microcredit application_25092025.docx
       - {}
       - {}
       - {}
