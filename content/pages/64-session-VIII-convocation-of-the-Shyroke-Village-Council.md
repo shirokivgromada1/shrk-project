@@ -23,7 +23,10 @@ components:
         link: >-
           /uploads/Appendix to the draft On Amendments to the Staff Lists of
           Educational Institutions of the Shyrokiv Village Council_25092025.xlsx
-      - {}
+      - title: Проєкт рішення зверення щодо протезування
+        link: >-
+          /uploads/Draft decision on the application regarding
+          prosthetics_25092025.docx
       - {}
       - {}
       - {}
