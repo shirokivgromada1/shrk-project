@@ -17,7 +17,12 @@ components:
         link: >-
           /uploads/On amendments to the staff lists of educational institutions
           of the Shyroke Village Council_25092025.docx
-      - {}
+      - title: >-
+          Додаток до проєкту Про внесення змін до штатних розписів  закладів
+          освіти Широківської сільської  ради 
+        link: >-
+          /uploads/Appendix to the draft On Amendments to the Staff Lists of
+          Educational Institutions of the Shyrokiv Village Council_25092025.xlsx
       - {}
       - {}
       - {}
