@@ -46,7 +46,13 @@ components:
         link: >-
           /uploads/Draft decision on providing material assistance to residents
           of the Shyroke village council_25092025.docx
-      - {}
+      - title: >-
+          Проєкт рішення про внесення змін до Програми підтримки та розвитку
+          комунального підприємства «Комунальне сільськогосподарське
+          підприємство «Широке» 
+        link: >-
+          /uploads/the Program for Support and Development of the Municipal
+          Enterprise Communal Agricultural Enterprise Shyroke_25092025.doc
       - {}
       - {}
     _template: HeadOrders
