@@ -39,7 +39,13 @@ components:
         link: >-
           /uploads/Appendix to the draft decision on the appeal regarding
           seniority_25092025.docx
-      - {}
+      - title: >-
+          Проєкт рішення про надання матеріальної допомоги мешканцям
+          Широківської сільської ради Запорізького району Запорізької області,
+          які є військовослужбовцями
+        link: >-
+          /uploads/Draft decision on providing material assistance to residents
+          of the Shyroke village council_25092025.docx
       - {}
       - {}
       - {}
