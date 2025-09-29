@@ -69,7 +69,13 @@ components:
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Draft
           decision On making additions to the list of administrative
           services_25092025.docx
-      - {}
+      - title: >-
+          Проєкт рішення про внесення змін до рішення Широківської сільської
+          ради Запорізького району Запорізької області від 18.03.2018 № 49 
+        link: >-
+          /uploads/Draft decision on amendments to the decision of the Shyrokiv
+          village council of Zaporizhia district of Zaporizhia region dated
+          March 18, 2018 No. 49_25092025.docx
     _template: HeadOrders
 ---
 
