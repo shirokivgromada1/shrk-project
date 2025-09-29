@@ -53,7 +53,10 @@ components:
         link: >-
           /uploads/the Program for Support and Development of the Municipal
           Enterprise Communal Agricultural Enterprise Shyroke_25092025.doc
-      - {}
+      - title: Проєкт рішення про Меморандум з Апостолівською міською радою
+        link: >-
+          /uploads/Draft decision on the Memorandum with the Apostolivska City
+          Council_25092025.docx
       - {}
     _template: HeadOrders
 ---
