@@ -57,6 +57,10 @@ components:
         link: >-
           /uploads/Draft decision on the Memorandum with the Apostolivska City
           Council_25092025.docx
+      - title: Проєкт рішення про Меморандум з  ГО «В Дорозі»
+        link: /uploads/Draft decision on Memorandum with NGO V Dorozі_25092025.docx
+      - {}
+      - {}
       - {}
     _template: HeadOrders
 ---
