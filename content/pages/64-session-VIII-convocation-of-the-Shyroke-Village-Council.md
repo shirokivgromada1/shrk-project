@@ -35,7 +35,10 @@ components:
         link: >-
           /uploads/Draft decision on the application regarding
           seniority_25092025.docx
-      - {}
+      - title: Додаток до проєкту рішення зверення щодо стажу
+        link: >-
+          /uploads/Appendix to the draft decision on the appeal regarding
+          seniority_25092025.docx
       - {}
       - {}
       - {}
