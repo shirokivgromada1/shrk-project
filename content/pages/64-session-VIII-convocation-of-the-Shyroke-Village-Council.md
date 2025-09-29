@@ -27,7 +27,10 @@ components:
         link: >-
           /uploads/Draft decision on the application regarding
           prosthetics_25092025.docx
-      - {}
+      - title: Додаток до проєкту рішення зверення щодо протезування
+        link: >-
+          /uploads/Appendix to the draft decision on the application regarding
+          prosthetics_25092025.docx
       - {}
       - {}
       - {}
