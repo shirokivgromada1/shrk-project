@@ -31,7 +31,10 @@ components:
         link: >-
           /uploads/Appendix to the draft decision on the application regarding
           prosthetics_25092025.docx
-      - {}
+      - title: Проєкт рішення зверення щодо стажу
+        link: >-
+          /uploads/Draft decision on the application regarding
+          seniority_25092025.docx
       - {}
       - {}
       - {}
