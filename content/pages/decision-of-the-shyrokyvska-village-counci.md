@@ -3,7 +3,8 @@ title: decision-of-the-shyrokyvska-village-counci
 components:
   - title: 'Рішення та проєкти рішень Широківської сільської ради '
     official:
-      - link: >-
+      - title: ПРОЄКТ 64 сесія VIII скликання Широківської сільської ради
+        link: >-
           https://shtg.gov.ua/64-session-VIII-convocation-of-the-Shyroke-Village-Council
       - title: 63 сесія VIII скликання Широківської сільської ради
         link: >-
