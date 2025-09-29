@@ -61,7 +61,14 @@ components:
         link: /uploads/Draft decision on Memorandum with NGO V Dorozі_25092025.docx
       - title: Проєкт рішення про Меморандум з Нівалою
         link: /uploads/Draft decision on the Memorandum with Nivala_25092025.docx
-      - {}
+      - title: Проєкт рішення Про внесення доповнень до переліку адмін. послуг
+        link: >-
+          /uploads/Draft decision On making additions to the list of
+          administrative services_25092025.docx
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Draft
+          decision On making additions to the list of administrative
+          services_25092025.docx
       - {}
     _template: HeadOrders
 ---
