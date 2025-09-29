@@ -12,8 +12,8 @@ components:
           /uploads/Appendix to the draft decision on the application for
           microcredit_25092025.docx
       - title: >-
-          Про внесення змін до штатних розписів  закладів освіти Широківської
-          сільської  ради Запорізького району Запорізької  області
+          Проєкт про внесення змін до штатних розписів  закладів освіти
+          Широківської сільської  ради Запорізького району Запорізької  області
         link: >-
           /uploads/On amendments to the staff lists of educational institutions
           of the Shyroke Village Council_25092025.docx
