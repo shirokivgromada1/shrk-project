@@ -10,6 +10,7 @@ components:
       - title: рішення №358 від 10.09.2025 року
         link: '/uploads/decision No. 358 of September 10, 2025.docx'
       - title: рішення №359 від 10.09.2025 року
+        link: '/uploads/decision No. 359 of September 10, 2025.docx'
     _template: HeadOrders
 ---
 
