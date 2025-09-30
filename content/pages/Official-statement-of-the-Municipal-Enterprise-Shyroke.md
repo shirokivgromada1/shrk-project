@@ -25,9 +25,8 @@ components:
           підприємство «Широке» Широківської сільської ради Запорізького району
           Запорізької області
         link: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision
-          of the Shyrokivska Village Council No. 32 dated July 3, 2025 on Types
-          of Activities.pdf
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Charter of
+          KSP Shyroke, New Edition 2025.PDF
       - title: >-
           Рішення Широківської сільської ради №33 від 03.07.2025 року «Про
           затвердження Програми поводження з побутовими відходами на території
