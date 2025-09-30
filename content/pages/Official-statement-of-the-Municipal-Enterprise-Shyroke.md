@@ -4,6 +4,13 @@ components:
   - title: Офіційно
     official:
       - title: >-
+          Виписка з Єдиного державного реєстру юридичних, фізичних
+          осіб-підприємців та громадських формувань
+        link: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Extract
+          from the Unified State Register of Legal Entities, Individual
+          Entrepreneurs and Public Formations.pdf
+      - title: >-
           Рішення №24 від 04 вересня 2025 року «Про визначення виконавця послуг
           з управління побутовими відходами на території Широківської сільської
           територіальної ради Запорізького району Запорізької області»
