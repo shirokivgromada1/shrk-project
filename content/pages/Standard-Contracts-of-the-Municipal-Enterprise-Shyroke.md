@@ -26,8 +26,8 @@ components:
           (окрім, житлово-будівельних кооперативів та ОСББ), які використовують
           власні або орендовані комунальні контейнери)
         link: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Contract
-          with an individual consumer.docx
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Agreement
+          with an Individual Consumer.docx
       - title: >-
           ДОГОВІР  з колективним споживачем про надання послуги з управління
           побутовими  відходами (Для багатоквартирних будинків, ОСББ, ЖБК,
