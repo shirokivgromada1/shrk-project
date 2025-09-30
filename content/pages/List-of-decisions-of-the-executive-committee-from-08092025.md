@@ -10,6 +10,7 @@ components:
       - title: Рішення №356 від 08.09.2025 року
         link: /uploads/decision No. 356 of 08.09.2025.docx
       - title: Рішення №357 від 08.09.2025 року
+        link: /uploads/decision No. 357 of 08.09.2025.docx
     _template: HeadOrders
 ---
 
