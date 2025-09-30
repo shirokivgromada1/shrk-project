@@ -39,7 +39,7 @@ components:
       - title: Колективний договір ОСББ
         link: >-
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Collective
-          agreement of the condominium association.docx
+          Agreement of the Condominium Association.docx
     _template: Officially
 ---
 
