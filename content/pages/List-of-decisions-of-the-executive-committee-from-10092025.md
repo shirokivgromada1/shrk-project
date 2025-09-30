@@ -8,6 +8,7 @@ components:
           /uploads/List of decisions of the executive committee No. 23 dated
           September 10, 2025.docx
       - title: рішення №358 від 10.09.2025 року
+        link: '/uploads/decision No. 358 of September 10, 2025.docx'
       - title: рішення №359 від 10.09.2025 року
     _template: HeadOrders
 ---
