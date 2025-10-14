@@ -24,6 +24,8 @@ components:
         link: 'https://shtg.gov.ua/shyroke-session'
       - title: Діючі програми Широківської громади
         link: current-programs
+      - title: Безбар'єрність
+        link: 'https://shtg.gov.ua/Accessibility'
       - title: >-
           Галузеві/міжгалузеві, територіальні угоди, колективні договори, зміни
           і доповнення до них
