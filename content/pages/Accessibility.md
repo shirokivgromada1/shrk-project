@@ -1,7 +1,7 @@
 ---
 title: Accessibility
 components:
-  - title: Офіційно
+  - title: Безбар'єрність
     _template: Officially
 ---
 
