@@ -176,7 +176,14 @@ components:
           /uploads/Decision No. 19 On approval of the draft memorandum on
           cooperation of territorial communities in the form of partnership
           dated 02.10.2025.docx
-      - {}
+      - title: >-
+          Рішення №20 Про надання згоди товариству з обмеженою відповідальністю
+          «Фінансова компанія «Фінгарант» на передачу земельної ділянки в
+          суборенду
+        link: >-
+          /uploads/Decision No. 20 On granting consent to the Limited Liability
+          Company Financial Company Fingarant to transfer a land plot for
+          sublease dated 02.10.2025.docx
       - {}
     _template: HeadOrders
 ---
