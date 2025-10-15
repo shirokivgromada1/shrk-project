@@ -161,8 +161,21 @@ components:
           /uploads/Decision No. 17 On the consolidation of operational
           management rights and the transfer of municipal property on the right
           of usufruct dated 02.10.2025.docx
-      - {}
-      - {}
+      - title: >-
+          Рішення №18 Про закріплення на праві господарського відання та
+          передачу комунального майна на праві узуфрукта комунального майна та
+          визначення належного користувача транспортного засобу
+        link: >-
+          /uploads/Decision No. 18 On the consolidation of operational
+          management rights and the transfer of municipal property on the right
+          of usufruct dated 02.10.2025.docx
+      - title: >-
+          Рішення №19 Про затвердження проєкту меморандуму про співробітництво
+          територіальних громад у формі партнерства
+        link: >-
+          /uploads/Decision No. 19 On approval of the draft memorandum on
+          cooperation of territorial communities in the form of partnership
+          dated 02.10.2025.docx
       - {}
       - {}
     _template: HeadOrders
