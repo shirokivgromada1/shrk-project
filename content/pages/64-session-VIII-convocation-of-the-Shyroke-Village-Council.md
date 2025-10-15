@@ -80,8 +80,20 @@ components:
           No. 5 On amendments and additions to the decision of the village
           council dated December 19, 2024 No. 25 “On the budget of the Shyrokiv
           rural territorial community for 2025” dated October 2,.doc
-      - {}
-      - {}
+      - title: >-
+          Рішення №6 Про внесення змін до штатних розписів  закладів освіти
+          Широківської сільської  ради Запорізького району Запорізької  області
+        link: >-
+          /uploads/Decision No. 6 On making changes to the staff lists of
+          educational institutions of the Shyrokе Village Council dated
+          02.10.2025.docx
+      - title: >-
+          Рішення №7 Про затвердження структури комунального підприємства
+          «Аптека «Сімейний лікар» Широківської сільської ради Запорізького
+          району Запорізької області(код ЄДРПОУ 44143459) в новій редакції
+        link: >-
+          /uploads/Decision No. 7 On approval of the structure of the municipal
+          enterprise Pharmacy Family Doctor dated 02.10.2025.docx
       - {}
       - {}
       - {}
