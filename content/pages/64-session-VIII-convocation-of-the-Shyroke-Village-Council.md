@@ -153,7 +153,14 @@ components:
           /uploads/Decision No. 16 On the inclusion of infrastructure facilities
           in the municipal property of the territorial community on the balance
           sheet of 02.10.2025.docx
-      - {}
+      - title: >-
+          Рішення №17 Про закріплення на праві оперативного управління та
+          передачу комунального майна на праві узуфрукта комунального майна та
+          визначення належного користувача транспортного засобу
+        link: >-
+          /uploads/Decision No. 17 On the consolidation of operational
+          management rights and the transfer of municipal property on the right
+          of usufruct dated 02.10.2025.docx
       - {}
       - {}
       - {}
