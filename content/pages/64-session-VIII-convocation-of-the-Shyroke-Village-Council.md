@@ -133,7 +133,14 @@ components:
         link: >-
           /uploads/Decision No. 13 On amendments to the decision of the Shyrokiv
           Village Council dated March 18, 2018 No. 49 dated October 2, 2025.docx
-      - {}
+      - title: >-
+          Рішення №14 Про проведення нормативної грошової оцінки земельних
+          ділянок несільськогосподарського призначення за межами населених
+          пунктів
+        link: >-
+          /uploads/Decision No. 14 On conducting a normative monetary valuation
+          of non-agricultural land plots outside settlements dated
+          02.10.2025.docx
       - {}
       - {}
       - {}
