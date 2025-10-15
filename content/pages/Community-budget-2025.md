@@ -12,6 +12,13 @@ components:
       - title: >-
           Рішення від 02.10.2025 № 5 Про внесення змін до місцевого бюджету на
           2025 рік (оприлюднено 07.10.2025)
+        link: >-
+          /uploads/Budget Decision dated 02.10.2025 No. 5 On Amendments to the
+          Local Budget for 2025.doc
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Budget
+          Decision dated 02.10.2025 No. 5 On Amendments to the Local Budget for
+          2025.doc
       - title: >-
           Актуальний бюджет громади на 2025 рік (з усіма змінами та
           доповненнями) станом на 04.09.2025 року
