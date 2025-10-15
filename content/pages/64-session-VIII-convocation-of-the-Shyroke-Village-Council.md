@@ -184,7 +184,14 @@ components:
           /uploads/Decision No. 20 On granting consent to the Limited Liability
           Company Financial Company Fingarant to transfer a land plot for
           sublease dated 02.10.2025.docx
-      - {}
+      - title: >-
+          Рішення №21 Про затвердження проекту землеустрою (зміна цільового
+          призначення земельної ділянки в порядку підготовки лотів до земельних
+          торгів) земельної ділянки кадастровий номер 2322181600:09:003:0261
+          площею 0,1937 га
+        link: >-
+          /uploads/Decision No. 21 On approval of the land management project
+          dated 02.10.2025.doc
     _template: HeadOrders
 ---
 
