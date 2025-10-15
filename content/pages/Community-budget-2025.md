@@ -6,6 +6,13 @@ components:
       - title: >-
           Актуальний бюджет громади на 2025 рік (з усіма змінами та
           доповненнями) станом на 02.10.2025 року
+        link: >-
+          /uploads/Budget Current community budget for 2025 (with all changes
+          and additions) as of October 2, 2025.doc
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Budget
+          Current community budget for 2025 (with all changes and additions) as
+          of October 2, 2025.doc
       - title: >-
           Додатки до рішення від 02.10.2025 № 5 Про внесення змін до місцевого
           бюджету на 2025 рік
