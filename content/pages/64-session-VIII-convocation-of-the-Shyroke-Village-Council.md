@@ -94,7 +94,13 @@ components:
         link: >-
           /uploads/Decision No. 7 On approval of the structure of the municipal
           enterprise Pharmacy Family Doctor dated 02.10.2025.docx
-      - {}
+      - title: >-
+          Рішення №8 Про надання матеріальної допомоги мешканцям Широківської
+          сільської ради Запорізького району Запорізької області, які є
+          військовослужбовцями
+        link: >-
+          /uploads/Decision No. 8 On providing material assistance to residents
+          who are military personnel dated 02.10.2025.docx
       - {}
       - {}
       - {}
