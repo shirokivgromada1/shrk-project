@@ -105,7 +105,12 @@ components:
         link: >-
           /uploads/Decision No. 9 On the signing of the Memorandum dated
           02.10.2025.docx
-      - {}
+      - title: >-
+          Рішення №10 Про затвердження меморандуму про наміри щодо співпраці і
+          партнерства
+        link: >-
+          /uploads/Decision No. 10 On approval of the memorandum of intent on
+          cooperation and partnership dated 02.10.2025.docx
       - {}
       - {}
       - {}
