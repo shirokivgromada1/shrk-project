@@ -5,8 +5,8 @@ components:
     order:
       - title: Додаток до рішення №5
         link: /uploads/Appendix to Decision No. 5 of 02.10.2025.xlsx
-      - {}
-      - {}
+      - title: Додаток №1 до рішення №7
+      - title: Додаток №2 до рішення №7
       - title: Порядок денний 64 позачергової сесії
         link: /uploads/Agenda of the 64th extraordinary session of 02.10.2025.docx
         url: >-
