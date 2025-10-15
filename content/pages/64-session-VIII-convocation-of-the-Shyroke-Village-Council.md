@@ -66,7 +66,20 @@ components:
           No. 4 On Amendments to the Program for Support and Development of the
           Municipal Enterprise Communal Agricultural Enterprise Shyroke dated
           02.10.2025.doc
-      - {}
+      - title: >-
+          Рішення №5 Про внесення змін і доповнень до рішення сільської ради від
+          19.12.2024 року      № 25 «Про бюджет Широківської сільської
+          територіальної громади на 2025 рік» (зі змінами та доповненнями)
+        link: >-
+          /uploads/Decision No. 5 On amendments and additions to the decision of
+          the village council dated December 19, 2024 No. 25 “On the budget of
+          the Shyrokiv rural territorial community for 2025” dated October
+          2,.doc
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision
+          No. 5 On amendments and additions to the decision of the village
+          council dated December 19, 2024 No. 25 “On the budget of the Shyrokiv
+          rural territorial community for 2025” dated October 2,.doc
       - {}
       - {}
       - {}
