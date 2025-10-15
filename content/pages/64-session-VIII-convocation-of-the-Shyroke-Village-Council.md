@@ -111,7 +111,10 @@ components:
         link: >-
           /uploads/Decision No. 10 On approval of the memorandum of intent on
           cooperation and partnership dated 02.10.2025.docx
-      - {}
+      - title: Рішення №11 Про затвердження меморандуму про співпрацю
+        link: >-
+          /uploads/Decision No. 11 On approval of the memorandum of cooperation
+          dated 02.10.2025.docx
       - {}
       - {}
       - {}
