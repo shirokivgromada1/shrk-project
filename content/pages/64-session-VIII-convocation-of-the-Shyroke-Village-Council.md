@@ -52,7 +52,20 @@ components:
         link: >-
           /uploads/Decision No. 3 On the appeal of public representatives of the
           Zaporizhia region dated 02.10.2025.docx
-      - {}
+      - title: >-
+          Рішення №4 Про внесення змін до Програми підтримки та розвитку
+          комунального підприємства «Комунальне сільськогосподарське
+          підприємство «Широке» Широківської сільської ради Запорізького району
+          Запорізької області на 2024 – 2026 роки
+        link: >-
+          /uploads/Decision No. 4 On Amendments to the Program for Support and
+          Development of the Municipal Enterprise Communal Agricultural
+          Enterprise Shyroke dated 02.10.2025.doc
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision
+          No. 4 On Amendments to the Program for Support and Development of the
+          Municipal Enterprise Communal Agricultural Enterprise Shyroke dated
+          02.10.2025.doc
       - {}
       - {}
       - {}
