@@ -39,6 +39,9 @@ components:
           ветеранів та військовополонених, яких звільнено з полону, на належну
           медичну допомогу, реабілітацію, протезування» реєстраційний № 13704
           від 27.08.2025
+        link: >-
+          /uploads/Decision No. 2 On the appeal of public representatives of the
+          Zaporizhia region dated 02.10.2025.docx
       - {}
       - {}
       - {}
