@@ -28,6 +28,9 @@ components:
           Захисниць України при веденні особистого селянського чи фермерського
           господарства та здійсненні підприємницької діяльності» (реєстраційний
           № 13376 від 17.06.2025)
+        link: >-
+          /uploads/Decision No. 1 On the appeal of public representatives of the
+          Zaporizhia region dated 02.10.2025.docx
       - {}
       - {}
       - {}
