@@ -4,6 +4,7 @@ components:
   - title: ' Паспорти бюджетних програм'
     order:
       - title: Наказ від 15.09.2025 №20
+        link: /uploads/Order dated 15.09.2025 No. 20.docx
       - title: Розпорядження від 17.09.2025 № 181
         link: /uploads/Order dated 17.09.2025 No. 181.docx
       - title: >-
