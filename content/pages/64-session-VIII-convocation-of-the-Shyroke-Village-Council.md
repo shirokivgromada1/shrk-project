@@ -3,12 +3,6 @@ title: 64-session-VIII-convocation-of-the-Shyroke-Village-Council
 components:
   - title: 64 сесія VIII скликання Широківської сільської ради
     order:
-      - title: Додаток до рішення №5
-        link: /uploads/Appendix to Decision No. 5 of 02.10.2025.xlsx
-      - title: Додаток №1 до рішення №7
-        link: /uploads/Appendix No. 1 to Decision No. 7 of 02.10.2025.xlsx
-      - title: Додаток №2 до рішення №7
-        link: /uploads/Appendix No. 2 to Decision No. 7 of 02.10.2025.xlsx
       - title: Порядок денний 64 позачергової сесії
         link: /uploads/Agenda of the 64th extraordinary session of 02.10.2025.docx
         url: >-
@@ -86,6 +80,8 @@ components:
           No. 5 On amendments and additions to the decision of the village
           council dated December 19, 2024 No. 25 “On the budget of the Shyrokiv
           rural territorial community for 2025” dated October 2,.doc
+      - title: Додаток до рішення №5
+        link: /uploads/Appendix to Decision No. 5 of 02.10.2025.xlsx
       - title: >-
           Рішення №6 Про внесення змін до штатних розписів  закладів освіти
           Широківської сільської  ради Запорізького району Запорізької  області
@@ -100,6 +96,10 @@ components:
         link: >-
           /uploads/Decision No. 7 On approval of the structure of the municipal
           enterprise Pharmacy Family Doctor dated 02.10.2025.docx
+      - title: Додаток №1 до рішення №7
+        link: /uploads/Appendix No. 1 to Decision No. 7 of 02.10.2025.xlsx
+      - title: Додаток №2 до рішення №7
+        link: /uploads/Appendix No. 2 to Decision No. 7 of 02.10.2025.xlsx
       - title: >-
           Рішення №8 Про надання матеріальної допомоги мешканцям Широківської
           сільської ради Запорізького району Запорізької області, які є
