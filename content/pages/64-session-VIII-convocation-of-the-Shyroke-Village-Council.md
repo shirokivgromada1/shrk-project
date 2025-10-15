@@ -3,6 +3,10 @@ title: 64-session-VIII-convocation-of-the-Shyroke-Village-Council
 components:
   - title: 64 сесія VIII скликання Широківської сільської ради
     order:
+      - title: Додаток до рішення №5
+        link: /uploads/Appendix to Decision No. 5 of 02.10.2025.xlsx
+      - {}
+      - {}
       - title: Порядок денний 64 позачергової сесії
         link: /uploads/Agenda of the 64th extraordinary session of 02.10.2025.docx
         url: >-
