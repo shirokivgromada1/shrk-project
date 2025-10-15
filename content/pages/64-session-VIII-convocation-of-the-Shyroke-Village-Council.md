@@ -12,7 +12,8 @@ components:
         link: >-
           /uploads/Minutes of the 64th extraordinary session of the VIII
           convocation dated 02.10.2025.doc
-      - {}
+      - title: 64 сесія Протокол сумісного засідання від 02.10.2025
+        link: /uploads/64th session Minutes of the joint meeting of 02.10.2025.docx
       - {}
     _template: HeadOrders
 ---
