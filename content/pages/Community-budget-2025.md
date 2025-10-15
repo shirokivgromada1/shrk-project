@@ -9,6 +9,9 @@ components:
       - title: >-
           Додатки до рішення від 02.10.2025 № 5 Про внесення змін до місцевого
           бюджету на 2025 рік
+        link: >-
+          /uploads/Budget of the appendix to the decision of 02.10.2025 No. 5 On
+          amendments to the local budget for 2025.xlsx
       - title: >-
           Рішення від 02.10.2025 № 5 Про внесення змін до місцевого бюджету на
           2025 рік (оприлюднено 07.10.2025)
