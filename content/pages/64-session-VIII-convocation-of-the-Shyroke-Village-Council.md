@@ -141,8 +141,18 @@ components:
           /uploads/Decision No. 14 On conducting a normative monetary valuation
           of non-agricultural land plots outside settlements dated
           02.10.2025.docx
-      - {}
-      - {}
+      - title: 'Рішення №15 Про припинення договору оренди майна '
+        link: >-
+          /uploads/Decision No. 15 On termination of the property lease
+          agreement dated 02.10.2025.docx
+      - title: >-
+          Рішення №16 Про взяття на баланс об’єктів інфраструктури до
+          комунальної власності територіальної громади Широківської сільської
+          ради Запорізького району Запорізької області
+        link: >-
+          /uploads/Decision No. 16 On the inclusion of infrastructure facilities
+          in the municipal property of the territorial community on the balance
+          sheet of 02.10.2025.docx
       - {}
       - {}
       - {}
