@@ -115,7 +115,14 @@ components:
         link: >-
           /uploads/Decision No. 11 On approval of the memorandum of cooperation
           dated 02.10.2025.docx
-      - {}
+      - title: >-
+          Рішення №12 Про внесення доповнень до Переліку адміністративних
+          послуг, які надаються через відділ та територіальний підрозділ відділу
+          «Центр надання адміністративних послуг» виконавчого комітету
+          Широківської сільської ради Запорізького району Запорізької області
+        link: >-
+          /uploads/Decision No. 12 On Amendments to the List of Administrative
+          Services dated 02.10.2025.docx
       - {}
       - {}
       - {}
