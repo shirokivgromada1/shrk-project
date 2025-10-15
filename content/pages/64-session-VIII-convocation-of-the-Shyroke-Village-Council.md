@@ -123,7 +123,16 @@ components:
         link: >-
           /uploads/Decision No. 12 On Amendments to the List of Administrative
           Services dated 02.10.2025.docx
-      - {}
+      - title: >-
+          Рішення №13 Про внесення змін до рішення Широківської сільської ради
+          Запорізького району Запорізької області від 18.03.2018 № 49 «Про
+          визначення комунального підприємства «Благводсервіс Широківської
+          громади» виконавцем послуг з централізованого водопостачання та
+          водовідведення та встановлення тарифів на централізоване
+          водопостачання та водовідведення»
+        link: >-
+          /uploads/Decision No. 13 On amendments to the decision of the Shyrokiv
+          Village Council dated March 18, 2018 No. 49 dated October 2, 2025.docx
       - {}
       - {}
       - {}
