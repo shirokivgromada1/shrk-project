@@ -101,7 +101,10 @@ components:
         link: >-
           /uploads/Decision No. 8 On providing material assistance to residents
           who are military personnel dated 02.10.2025.docx
-      - {}
+      - title: Рішення №9 Про підписання Меморандуму
+        link: >-
+          /uploads/Decision No. 9 On the signing of the Memorandum dated
+          02.10.2025.docx
       - {}
       - {}
       - {}
