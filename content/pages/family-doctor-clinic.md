@@ -27,7 +27,7 @@ components:
           descSubtext: >-
             Запис до вузьких спеціалістів здійснюється щодня з 8:00 до 20:00 за
             телефоном: 
-          descPhone: +38 (073) 18 88 103
+          descPhone: +38 (073) 18 88 003
           functions:
             - name: Профпатолог
             - name: Офтальмолог
@@ -115,7 +115,7 @@ components:
       scheduleTitle: 'Графік роботи в з 8:00 – 20:00'
       schedulePhones: +38 099 18 88 003 +38 096 18 88 003 +38 073 18 88 003
       schedulePropose: Скарги та пропозиції
-      proposePhones: +38 099 18 88 103
+      proposePhones: +38 073 18 88 003
     address:
       logo: /uploads/all-services/family-doctor-clinic/Frame 330.svg
       title: Адреса
