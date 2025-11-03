@@ -185,6 +185,10 @@ components:
       - title: >-
           Додаток 3_ Про затвердження звіту про виконання бюджету Широківської 
           сільської територіальної громади  за 9 місяців 2025 року
+        link: /uploads/project_04112025_Appendix 3.pdf
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/project_04112025_Appendix
+          3.pdf
     _template: HeadOrders
 ---
 
