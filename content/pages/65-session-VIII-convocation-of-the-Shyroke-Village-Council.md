@@ -79,7 +79,13 @@ components:
         link: >-
           /uploads/project_04112025_On approval of technical documentation and
           transfer of ownership of a land plot to the city of Chikurov V.G..doc
-      - {}
+      - title: >-
+          Про затвердження технічної документації щодо поділу та об’єднання
+          земельних ділянок гр. Чікуровій А.О.
+        link: >-
+          /uploads/project_04112025_On approval of technical documentation on
+          the division and unification of land plots of the town of Chikurova
+          A.O..doc
       - {}
       - {}
       - {}
