@@ -116,7 +116,12 @@ components:
         link: >-
           /uploads/project_04112025_On approval of the personal list of
           pedagogical workers.docx
-      - {}
+      - title: >-
+          Про надання дозволу на відрядження першого заступника сільського
+          голови
+        link: >-
+          /uploads/project 04112025 On granting permission for a business trip
+          of the first deputy village head.docx
       - {}
       - {}
       - {}
