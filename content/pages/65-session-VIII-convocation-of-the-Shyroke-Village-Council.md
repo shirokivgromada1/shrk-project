@@ -148,7 +148,12 @@ components:
         link: >-
           /uploads/project_04112025_On approval of technical documentation and
           transfer of ownership of the land plot to the town of Dragunu F.I..doc
-      - {}
+      - title: >-
+          Про надання матеріальної допомоги мешканцям Широківської сільської
+          ради 
+        link: >-
+          /uploads/project_04112025_On providing material assistance to
+          residents of the Shyrokе village council.docx
       - {}
       - {}
       - {}
