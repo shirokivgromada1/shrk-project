@@ -59,7 +59,13 @@ components:
           /uploads/project_04112025_On approval of technical documentation and
           transfer of ownership of a land plot to the city of Maksymenka
           A.O..doc
-      - {}
+      - title: >-
+          Про затвердження технічної документації щодо поділу та об’єднання
+          земельних ділянок гр. Овчарову В.В.
+        link: >-
+          /uploads/project_04112025_On approval of technical documentation on
+          the division and unification of land plots of the town of Ovcharova
+          V.V..doc
       - {}
       - {}
       - {}
