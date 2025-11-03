@@ -86,7 +86,10 @@ components:
           /uploads/project_04112025_On approval of technical documentation on
           the division and unification of land plots of the town of Chikurova
           A.O..doc
-      - {}
+      - title: Про надання дозволу на списання транспортного засобу
+        link: >-
+          /uploads/project_04112025_On granting permission to write off a
+          vehicle.doc
       - {}
       - {}
       - {}
