@@ -26,7 +26,13 @@ components:
         link: >-
           /uploads/project_04112025_Amendments to the list of land plots of
           communal property of the Shyrokе community.doc
-      - {}
+      - title: >-
+          Затвердження  переліку адміністративних послуг, які надаються через
+          відділ, територіальний підрозділ, віддалені робочі місця відділу
+          «Центр надання адміністративних послуг»
+        link: >-
+          /uploads/project_04112025_Approval of the list of administrative
+          services.docx
       - {}
       - {}
       - {}
