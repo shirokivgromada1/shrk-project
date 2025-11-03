@@ -134,7 +134,8 @@ components:
         link: >-
           /uploads/project_04112025_On granting consent to carry out current
           repairs.docx
-      - {}
+      - title: Про розподіл благодійної допомоги
+        link: /uploads/project_04112025_On the distribution of charitable aid.docx
       - {}
       - {}
       - {}
