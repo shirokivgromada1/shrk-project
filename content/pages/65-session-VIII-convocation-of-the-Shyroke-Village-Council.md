@@ -52,7 +52,13 @@ components:
         link: >-
           /uploads/project_04112025_On approval of technical documentation and
           transfer of ownership of a land plot to the city of Lukyanov V.V..doc
-      - {}
+      - title: >-
+          Про затвердження технічної документації та передачу у власність
+          земельної ділянки гр. Максименку А.О.
+        link: >-
+          /uploads/project_04112025_On approval of technical documentation and
+          transfer of ownership of a land plot to the city of Maksymenka
+          A.O..doc
       - {}
       - {}
       - {}
