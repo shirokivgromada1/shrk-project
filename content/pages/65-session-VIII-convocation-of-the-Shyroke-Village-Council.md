@@ -164,7 +164,10 @@ components:
         link: >-
           /uploads/project_04112025_On amendments and additions to the Program
           for registration of rights to communal land plots.doc
-      - {}
+      - title: Запрошення на ReBuild Варшава
+        link: /uploads/project_04112025_Invitation_Wide_ReBuild_Warsaw.pdf
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/project_04112025_Invitation_Wide_ReBuild_Warsaw.pdf
       - {}
       - {}
       - {}
