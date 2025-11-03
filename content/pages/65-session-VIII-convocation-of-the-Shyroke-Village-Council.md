@@ -138,7 +138,10 @@ components:
         link: /uploads/project_04112025_On the distribution of charitable aid.docx
       - title: Про затвердження проектів землеустрою
         link: /uploads/project_04112025_On approval of land management projects.doc
-      - {}
+      - title: Про затвердження проектів землеустрою
+        link: >-
+          /uploads/project 04112025 On approval of land management projects
+          2.doc
       - {}
       - {}
       - {}
