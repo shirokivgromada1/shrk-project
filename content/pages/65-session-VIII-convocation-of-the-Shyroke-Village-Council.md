@@ -142,7 +142,12 @@ components:
         link: >-
           /uploads/project 04112025 On approval of land management projects
           2.doc
-      - {}
+      - title: >-
+          Про затвердження технічної документації та передачу у власність
+          земельної ділянки гр. Драгуну Ф.І.
+        link: >-
+          /uploads/project_04112025_On approval of technical documentation and
+          transfer of ownership of the land plot to the town of Dragunu F.I..doc
       - {}
       - {}
       - {}
