@@ -128,7 +128,12 @@ components:
         link: >-
           /uploads/project_04112025_On approval of the memorandum with the
           Public Organization BUSINESS WOMEN OF ZAPORIZHJIA.docx
-      - {}
+      - title: >-
+          Про надання згоди на здійснення поточного ремонту за рахунок Головного
+          управління Пенсійного фонду України в Запорізькій області
+        link: >-
+          /uploads/project_04112025_On granting consent to carry out current
+          repairs.docx
       - {}
       - {}
       - {}
