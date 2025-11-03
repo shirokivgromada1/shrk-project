@@ -158,7 +158,12 @@ components:
         link: >-
           /uploads/project_04112025_On amendments to the staff lists of
           educational institutions.docx
-      - {}
+      - title: >-
+          Про внесення змін і доповнень до Програми оформлення прав на земельні
+          ділянки комунальної власності 
+        link: >-
+          /uploads/project_04112025_On amendments and additions to the Program
+          for registration of rights to communal land plots.doc
       - {}
       - {}
       - {}
