@@ -96,7 +96,13 @@ components:
         link: >-
           /uploads/project 04112025 On granting permission to write off fixed
           assets from the balance sheet of a utility company.doc
-      - {}
+      - title: >-
+          Про затвердження звіту про виконання фінансового плану комунального
+          підприємства «Аптека «Сімейний лікар»
+        link: >-
+          /uploads/project_04112025_On approval of the report on the
+          implementation of the financial plan of the municipal enterprise
+          Pharmacy Family Doctor.doc
       - {}
       - {}
       - {}
