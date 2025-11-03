@@ -154,7 +154,10 @@ components:
         link: >-
           /uploads/project_04112025_On providing material assistance to
           residents of the Shyrokе village council.docx
-      - {}
+      - title: Про внесення змін до штатних розписів  закладів освіти
+        link: >-
+          /uploads/project_04112025_On amendments to the staff lists of
+          educational institutions.docx
       - {}
       - {}
       - {}
