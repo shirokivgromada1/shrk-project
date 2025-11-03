@@ -90,7 +90,12 @@ components:
         link: >-
           /uploads/project_04112025_On granting permission to write off a
           vehicle.doc
-      - {}
+      - title: >-
+          Про надання дозволу на списання основних засобів з балансу
+          комунального підприємства
+        link: >-
+          /uploads/project 04112025 On granting permission to write off fixed
+          assets from the balance sheet of a utility company.doc
       - {}
       - {}
       - {}
