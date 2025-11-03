@@ -7,7 +7,12 @@ components:
         link: >-
           /uploads/project_04112025_Agenda of the 65th extraordinary
           session.docx
-      - {}
+      - title: >-
+          Про надання дозволу на списання основних засобів з балансу
+          комунального підприємства
+        link: >-
+          /uploads/project 04112025 On granting permission to write off fixed
+          assets from the balance sheet of a utility company.docx
       - {}
       - {}
       - {}
