@@ -136,7 +136,8 @@ components:
           repairs.docx
       - title: Про розподіл благодійної допомоги
         link: /uploads/project_04112025_On the distribution of charitable aid.docx
-      - {}
+      - title: Про затвердження проектів землеустрою
+        link: /uploads/project_04112025_On approval of land management projects.doc
       - {}
       - {}
       - {}
