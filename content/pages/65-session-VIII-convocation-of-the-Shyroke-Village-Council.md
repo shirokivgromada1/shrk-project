@@ -103,7 +103,15 @@ components:
           /uploads/project_04112025_On approval of the report on the
           implementation of the financial plan of the municipal enterprise
           Pharmacy Family Doctor.doc
-      - {}
+      - title: >-
+          Про затвердження звіту про виконання фінансового плану
+          Спеціалізованого комунального підприємства «Об’єднана
+          житлово-комунальна, побутова та ритуальна служба» 
+        link: >-
+          /uploads/project_04112025_On approval of the report on the
+          implementation of the financial plan of the Specialized Municipal
+          Enterprise United Housing and Communal, Household and Funeral
+          Service.doc
       - {}
       - {}
       - {}
