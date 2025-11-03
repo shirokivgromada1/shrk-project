@@ -66,7 +66,13 @@ components:
           /uploads/project_04112025_On approval of technical documentation on
           the division and unification of land plots of the town of Ovcharova
           V.V..doc
-      - {}
+      - title: >-
+          Про затвердження технічної документації щодо поділу та об’єднання
+          земельних ділянок гр. Степаненко Л.Г.
+        link: >-
+          /uploads/project_04112025_On approval of technical documentation on
+          the division and unification of land plots of the city of Stepanenko
+          L.G..doc
       - {}
       - {}
       - {}
