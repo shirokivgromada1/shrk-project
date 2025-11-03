@@ -20,7 +20,12 @@ components:
           /uploads/project_04112025_Report on the implementation of the
           financial plan of the municipal non-profit enterprise Clinic Family
           Doctor.doc
-      - {}
+      - title: >-
+          Внесення змін до переліку земельних ділянок комунальної власності
+          Широківської громади
+        link: >-
+          /uploads/project_04112025_Amendments to the list of land plots of
+          communal property of the Shyrokе community.doc
       - {}
       - {}
       - {}
