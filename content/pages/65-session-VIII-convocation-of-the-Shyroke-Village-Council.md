@@ -33,7 +33,12 @@ components:
         link: >-
           /uploads/project_04112025_Approval of the list of administrative
           services.docx
-      - {}
+      - title: >-
+          Про внесення змін до договору оренди земельної ділянки від 29.12.2012
+          року з гр. Костенко С.І. 
+        link: >-
+          /uploads/project 04112025 On amendments to the land lease agreement
+          dated 12292012 with Kostenko S.I..doc
       - {}
       - {}
       - {}
