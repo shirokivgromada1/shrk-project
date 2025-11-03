@@ -112,7 +112,10 @@ components:
           implementation of the financial plan of the Specialized Municipal
           Enterprise United Housing and Communal, Household and Funeral
           Service.doc
-      - {}
+      - title: Про погодження персонального переліку педагогічних працівників
+        link: >-
+          /uploads/project_04112025_On approval of the personal list of
+          pedagogical workers.docx
       - {}
       - {}
       - {}
