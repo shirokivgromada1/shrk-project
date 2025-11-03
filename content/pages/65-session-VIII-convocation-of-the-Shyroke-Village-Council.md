@@ -122,6 +122,22 @@ components:
         link: >-
           /uploads/project 04112025 On granting permission for a business trip
           of the first deputy village head.docx
+      - title: >-
+          Про затвердження меморандуму з Громадською організацією «ДІЛОВІ ЖІНКИ
+          ЗАПОРІЖЖЯ»
+        link: >-
+          /uploads/project_04112025_On approval of the memorandum with the
+          Public Organization BUSINESS WOMEN OF ZAPORIZHJIA.docx
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
       - {}
       - {}
       - {}
