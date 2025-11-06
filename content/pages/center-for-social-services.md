@@ -29,9 +29,10 @@ components:
         isHidden: false
       - name: Соціально-психологічна бригада
     _template: SilradaDepartmentFunctions
-  - notMain: true
-    headline:
-      text: Новини
-    _template: news
+  - newsSection:
+      - category: >-
+          content/newsCategories/ME_Center_for_Social_Services_of_the_Shyroke_Community.md
+        variantNews: '1'
+    _template: newsSections
 ---
 
