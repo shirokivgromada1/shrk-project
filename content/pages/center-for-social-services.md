@@ -2,7 +2,7 @@
 title: center-for-social-services
 components:
   - title: КУ “Центр соціальних послуг Широківської громади” (КОД ЄДРПОУ 41842497)
-    image: /uploads/silrada/communual-institutions/soc.png
+    image: /uploads/Анна1.JPG
     fullname: Назаренко Анна Миколаївна
     schedule:
       title: Графік роботи
