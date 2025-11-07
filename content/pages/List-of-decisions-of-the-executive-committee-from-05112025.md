@@ -7,7 +7,8 @@ components:
         link: >-
           /uploads/List of decisions of the executive committee No. 32 dated
           05.11.2025.docx
-      - {}
+      - title: Рішення №409 від 05.11.2025 року
+        link: /uploads/decision No. 409 of 05.11.2025.docx
     _template: HeadOrders
 ---
 
