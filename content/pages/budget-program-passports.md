@@ -18,7 +18,8 @@ components:
       - {}
       - title: Наказ №33 від 08.10.2025
         link: /uploads/passports_Order No. 33 dated 08.10.2025.docx
-      - {}
+      - title: Розпорядження від 16.10.2025 № 209
+        link: /uploads/passports_Order dated 16.10.2025 No. 209.docx
       - title: >-
           Паспорт бюджетної програми на 2025 рік КПКВК 1610160, 1616030, 1617350
           - зміни 04.09.2025
