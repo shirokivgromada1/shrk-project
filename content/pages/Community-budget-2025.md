@@ -3,6 +3,14 @@ title: Community budget 2025
 components:
   - title: БЮДЖЕТ ШИРОКІВСЬКОЇ ГРОМАДИ - 2025
     order:
+      - {}
+      - {}
+      - title: >-
+          Рішення від 04.11.2025 № 5 Про внесення змін до місцевого бюджету на
+          2025 рік
+        link: >-
+          /uploads/Decision of 04.11.2025 No. 5 On Amendments to the Local
+          Budget for 2025.doc
       - title: >-
           Актуальний бюджет громади на 2025 рік (з усіма змінами та
           доповненнями) станом на 02.10.2025 року
