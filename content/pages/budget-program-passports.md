@@ -15,7 +15,12 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: >-
+          Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни
+          02.10.2025
+        link: >-
+          /uploads/Passport of the budget program for 2025 KPKVK 0110150 -
+          changes 02.10.2025.xlsx
       - title: Наказ №33 від 08.10.2025
         link: /uploads/passports_Order No. 33 dated 08.10.2025.docx
       - title: Розпорядження від 16.10.2025 № 209
