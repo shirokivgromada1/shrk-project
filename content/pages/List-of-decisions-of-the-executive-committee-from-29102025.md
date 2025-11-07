@@ -9,7 +9,8 @@ components:
           October 29, 2025.docx
       - title: рішення №406 від 29.10.2025 року
         link: '/uploads/decision No. 406 of October 29, 2025.docx'
-      - {}
+      - title: рішення №407 від 29.10.2025 року
+        link: '/uploads/decision No. 407 of October 29, 2025.docx'
     _template: HeadOrders
 ---
 
