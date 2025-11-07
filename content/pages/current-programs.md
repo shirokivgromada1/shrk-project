@@ -214,6 +214,11 @@ components:
           /uploads/Current programs of the decision of 07.10.2024 No. 3 Housing
           and Utilities Program for 2022-2024 - changes.doc
         url: ''
+      - name: Додатки до програми розвитку ЖКГ на 2022-2024рр - зміни
+        date: Рішення №3 від 07 жовтня 2024 року
+        link: >-
+          /uploads/Current programs of the decision of 07.10.2024 No. 3 Housing
+          and Utilities Program for 2022-2024 - changes_to_applications.xlsx
       - name: 'Програма розвитку ЖКГ на 2022-2024рр - зміни '
         date: Рішення №3 від 07 травня 2024 року
         url: >-
