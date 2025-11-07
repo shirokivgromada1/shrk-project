@@ -10,7 +10,8 @@ components:
         url: >-
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/List of
           decisions of the executive committee No. 31 dated 10312025.docx
-      - {}
+      - title: рішення №408 від 31.10.2025 року
+        link: '/uploads/decision No. 408 of October 31, 2025.docx'
     _template: HeadOrders
 ---
 
