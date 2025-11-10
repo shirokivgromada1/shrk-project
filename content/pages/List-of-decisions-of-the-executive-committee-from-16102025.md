@@ -7,7 +7,8 @@ components:
         link: >-
           /uploads/List of decisions of the executive committee No. 28 dated
           October 16, 2025.docx
-      - {}
+      - title: Рішення №397 від 16.10.2025 року
+        link: '/uploads/decision No. 397 of October 16, 2025.docx'
       - {}
       - {}
       - {}
