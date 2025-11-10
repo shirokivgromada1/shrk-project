@@ -9,7 +9,8 @@ components:
           October 16, 2025.docx
       - title: Рішення №397 від 16.10.2025 року
         link: '/uploads/decision No. 397 of October 16, 2025.docx'
-      - {}
+      - title: рішення №398 від 16.10.2025 року
+        link: '/uploads/decision No. 398 of October 16, 2025.docx'
       - {}
       - {}
       - {}
