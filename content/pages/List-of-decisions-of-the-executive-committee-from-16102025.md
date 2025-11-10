@@ -18,6 +18,7 @@ components:
       - title: Рішення №401 від 16.10.2025 року
         link: '/uploads/decision No. 401 of October 16, 2025.docx'
       - title: Рішення №402 від 16.10.2025 року
+        link: '/uploads/decision No. 402 of October 16, 2025.docx'
     _template: HeadOrders
 ---
 
