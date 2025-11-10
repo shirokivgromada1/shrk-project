@@ -84,6 +84,8 @@ components:
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-29102025
       - title: Виконавчий комітет від 23.10.2025 року №29
+        url: >-
+          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-23102025
       - title: >-
           Додаток до проєкту рішення про встановлення тарифу на послуги
           централізованого водопостачання (оприлюднено 09.06.2025)
