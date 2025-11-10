@@ -12,6 +12,7 @@ components:
       - title: рішення №398 від 16.10.2025 року
         link: '/uploads/decision No. 398 of October 16, 2025.docx'
       - title: Рішення №399 від 16.10.2025 року
+        link: '/uploads/decision No. 399 of October 16, 2025.docx'
       - title: Рішення №400 від 16.10.2025 року
       - title: Рішення №401 від 16.10.2025 року
       - title: Рішення №402 від 16.10.2025 року
