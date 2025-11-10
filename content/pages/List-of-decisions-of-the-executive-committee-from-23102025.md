@@ -9,7 +9,8 @@ components:
           10232025.docx
       - title: рішення №403 від 23.10.2025 року
         link: '/uploads/decision No. 403 of October 23, 2025.docx'
-      - {}
+      - title: рішення №404 від 23.10.2025 року
+        link: '/uploads/decision No. 404 of October 23, 2025.docx'
       - {}
     _template: HeadOrders
 ---
