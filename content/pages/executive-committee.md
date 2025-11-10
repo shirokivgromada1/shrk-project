@@ -76,12 +76,14 @@ components:
     subtitle: ''
     notMain: true
     order:
+      - title: Виконавчий комітет від 05.11.2025 року №32
       - title: Виконавчий комітет від 31.10.2025 року №31
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-31102025
       - title: Виконавчий комітет від 29.10.2025 року №30
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-29102025
+      - title: Виконавчий комітет від 23.10.2025 року №29
       - title: >-
           Додаток до проєкту рішення про встановлення тарифу на послуги
           централізованого водопостачання (оприлюднено 09.06.2025)
