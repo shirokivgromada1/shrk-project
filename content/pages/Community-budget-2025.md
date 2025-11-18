@@ -4,7 +4,10 @@ components:
   - title: БЮДЖЕТ ШИРОКІВСЬКОЇ ГРОМАДИ - 2025
     order:
       - {}
-      - {}
+      - title: Додатки до інформації про виконання бюджету за 9 місяців 2025 року
+        link: >-
+          /uploads/annexes to the information on budget execution for 9 months
+          of 2025.xlsx
       - title: >-
           Рішення від 04.11.2025  № 1 про затвердження звіту про виконання
           бюджету за 9 місяців 2025 р
