@@ -40,7 +40,7 @@ components:
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Budget
           forecast for 2026-2028_04092025.docx
       - title: Додаток №2 до Рішення №4
-        link: /uploads/Addenda to the budget forecast for 2026-2028_04092025.xlsx
+        link: /uploads/Addenda to the budget forecast for 2026-2028_04092025(2).xlsx
       - title: Додаток №3 до Рішення №4
         link: /uploads/Executive Committee Decision No. 326 of 08292025_04092025.pdf
       - title: >-
