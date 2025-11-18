@@ -5,7 +5,12 @@ components:
     order:
       - {}
       - {}
-      - {}
+      - title: >-
+          Рішення від 04.11.2025  № 1 про затвердження звіту про виконання
+          бюджету за 9 місяців 2025 р
+        link: >-
+          /uploads/Decision dated 04.11.2025 No. 1 on approval of the budget
+          execution report for 9 months of 2025.docx
       - title: >-
           Рішення виконкому від 02.10.2025  № 371 Про схвалення звіту про
           виконання бюджету за 9 місяців 2025 р
