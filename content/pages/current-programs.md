@@ -12,6 +12,11 @@ components:
         link: >-
           /uploads/On amendments to the Housing and Communal Services
           Development Program_decision 8_04112025.doc
+      - name: 'Додатки до рішення №8 від 4 листопада 2025 року '
+        date: 'Рішення №8 від 4 листопада 2025 року '
+        link: >-
+          /uploads/On amendments to the Housing and Communal Services
+          Development Program_decision 8_04112025_appendix.xlsx
       - name: >-
           Про внесення змін до Програми підтримки та розвитку комунального
           підприємства «Комунальне сільськогосподарське підприємство «Широке»
