@@ -7,7 +7,8 @@ components:
         link: >-
           /uploads/Minutes of the 65th extraordinary session of the VIII
           convocation_04112025.doc
-      - {}
+      - title: Протокол сумісного засідання
+        link: /uploads/65th session Minutes of the joint meeting of 04.11.2025.docx
       - {}
       - {}
       - {}
