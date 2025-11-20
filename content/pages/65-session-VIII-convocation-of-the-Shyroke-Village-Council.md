@@ -9,7 +9,10 @@ components:
           convocation_04112025.doc
       - title: Протокол сумісного засідання
         link: /uploads/65th session Minutes of the joint meeting of 04.11.2025.docx
-      - {}
+      - title: Поіменне голосування 65 сесії VIIІ скликання
+        link: >-
+          /uploads/Roll call vote of the 65th session of the 8th convocation
+          04.11.2025.docx
       - {}
       - {}
       - {}
