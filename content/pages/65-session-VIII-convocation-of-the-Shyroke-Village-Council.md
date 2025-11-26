@@ -17,7 +17,8 @@ components:
           Рішення №1 Про затвердження звіту про виконання бюджету Широківської 
           сільської територіальної громади  за 9 місяців 2025 року
         link: /uploads/Decision No. 1 dated 04.11.2025.docx
-      - {}
+      - title: Додатки до Рішення №1
+        link: /uploads/Annexes to Decision No. 1 dated 04.11.2025.xlsx
       - {}
       - {}
       - {}
