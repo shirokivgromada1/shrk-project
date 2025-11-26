@@ -3,6 +3,16 @@ title: implementation of the budget 2025
 components:
   - title: Виконання бюджету 2025
     order:
+      - {}
+      - {}
+      - {}
+      - title: >-
+          Рішення виконкому від 02.10.2025  № 371 Про схвалення звіту про
+          виконання бюджету за 9 місяців 2025 р
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision
+          of the Executive Committee dated 02.10.2025 No. 371 On approval of the
+          budget execution report for 9 months of 2025.doc
       - title: Інформація про виконання місцевого бюджету за січень-серпень 2025 року
         link: >-
           /uploads/Information about the finalization of the local budget
