@@ -13,7 +13,10 @@ components:
         link: >-
           /uploads/Roll call vote of the 65th session of the 8th convocation
           04.11.2025.docx
-      - {}
+      - title: >-
+          Рішення №1 Про затвердження звіту про виконання бюджету Широківської 
+          сільської територіальної громади  за 9 місяців 2025 року
+        link: /uploads/Decision No. 1 dated 04.11.2025.docx
       - {}
       - {}
       - {}
