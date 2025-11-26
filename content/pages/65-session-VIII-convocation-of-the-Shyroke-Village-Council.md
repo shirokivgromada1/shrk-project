@@ -114,7 +114,8 @@ components:
         link: /uploads/Decision No. 16 dated 04.11.2025.docx
       - title: Рішення №17 Про надання дозволу на списання транспортного засобу
         link: /uploads/Decision No. 17 dated 04.11.2025.doc
-      - title: Рішення №18
+      - title: Рішення №18 Про розподіл благодійної допомоги
+        link: /uploads/Decision No. 18 dated 04.11.2025.docx
       - title: Рішення №19
       - title: Рішення №20
       - title: Рішення №21
