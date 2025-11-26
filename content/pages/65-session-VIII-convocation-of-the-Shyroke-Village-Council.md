@@ -201,7 +201,10 @@ components:
         url: >-
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision
           No. 34 dated 04.11.2025.doc
-      - title: Рішення №35
+      - title: >-
+          Рішення №35 Про внесення змін до договору оренди земельної ділянки від
+          29.12.2012 року з гр. Костенко С.І.
+        link: /uploads/Decision No. 35 dated 04.11.2025.doc
       - title: Рішення №36
       - title: Рішення №37
       - title: Рішення №38
