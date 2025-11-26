@@ -19,8 +19,9 @@ components:
         link: /uploads/Decision No. 1 dated 04.11.2025.docx
       - title: Додаток №1 до Рішення №1
         link: /uploads/Annexes to Decision No. 1 dated 04.11.2025.xlsx
-      - {}
-      - {}
+      - title: Додаток №2 до Рішення №1
+        link: /uploads/Appendix 2 Decision No. 1 dated 04.11.2025.pdf
+      - title: Додаток №3 до Рішення №1
       - {}
       - {}
       - {}
