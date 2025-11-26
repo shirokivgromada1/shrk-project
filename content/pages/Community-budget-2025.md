@@ -3,24 +3,6 @@ title: Community budget 2025
 components:
   - title: БЮДЖЕТ ШИРОКІВСЬКОЇ ГРОМАДИ - 2025
     order:
-      - title: Звіт про виконання бюджету за 9 місяців 2025 року
-        link: /uploads/budget execution report for 9 months of 2025.doc
-      - title: Додатки до інформації про виконання бюджету за 9 місяців 2025 року
-        link: >-
-          /uploads/annexes to the information on budget execution for 9 months
-          of 2025.xlsx
-      - title: >-
-          Рішення від 04.11.2025  № 1 про затвердження звіту про виконання
-          бюджету за 9 місяців 2025 р
-        link: >-
-          /uploads/Decision dated 04.11.2025 No. 1 on approval of the budget
-          execution report for 9 months of 2025.docx
-      - title: >-
-          Рішення виконкому від 02.10.2025  № 371 Про схвалення звіту про
-          виконання бюджету за 9 місяців 2025 р
-        link: >-
-          /uploads/Decision of the Executive Committee dated 02.10.2025 No. 371
-          On approval of the budget execution report for 9 months of 2025.doc
       - title: >-
           Актуальний бюджет громади на 2025 рік (з усіма змінами та
           доповненнями) станом на 04.11.2025 року
