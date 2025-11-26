@@ -4,7 +4,10 @@ components:
   - title: Виконання бюджету 2025
     order:
       - {}
-      - {}
+      - title: Додатки до інформації про виконання бюджету за 9 місяців 2025 року
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/annexes to
+          the information on budget execution for 9 months of 2025.xlsx
       - title: >-
           Рішення від 04.11.2025  № 1 про затвердження звіту про виконання
           бюджету за 9 місяців 2025 р
