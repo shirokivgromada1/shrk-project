@@ -22,6 +22,10 @@ components:
       - title: Додаток №2 до Рішення №1
         link: /uploads/Appendix 2 Decision No. 1 dated 04.11.2025.pdf
       - title: Додаток №3 до Рішення №1
+        link: /uploads/Appendix 3 Decision No. 1 dated 04.11.2025.doc
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Appendix 3
+          Decision No. 1 dated 04.11.2025.doc
       - {}
       - {}
       - {}
