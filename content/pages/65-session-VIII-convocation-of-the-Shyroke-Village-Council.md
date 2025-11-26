@@ -265,7 +265,10 @@ components:
         link: /uploads/Decision No. 46 dated 04.11.2025.docx
       - title: Рішення №47 Про організацію проєкту «Простір згуртованості»
         link: /uploads/Decision No. 47 dated 04.11.2025.docx
-      - title: Рішення №48
+      - title: >-
+          Рішення №48 Про передачу в оренду Федорівському центру професійної
+          освіти майна комунальної власності 
+        link: /uploads/Decision No. 48 dated 04.11.2025.rtf
       - title: Рішення №49
       - title: Рішення №50
       - title: Рішення №51
