@@ -116,7 +116,11 @@ components:
         link: /uploads/Decision No. 17 dated 04.11.2025.doc
       - title: Рішення №18 Про розподіл благодійної допомоги
         link: /uploads/Decision No. 18 dated 04.11.2025.docx
-      - title: Рішення №19
+      - title: >-
+          Рішення №19 Про надання згоди на здійснення поточного ремонту за
+          рахунок Головного управління Пенсійного фонду України в Запорізькій
+          області
+        link: /uploads/Decision No. 19 dated 04.11.2025.docx
       - title: Рішення №20
       - title: Рішення №21
       - title: Рішення №22
