@@ -246,7 +246,10 @@ components:
         url: >-
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision
           No. 42 dated 04.11.2025.docx
-      - title: Рішення №43
+      - title: >-
+          Рішення №43 Про надання дозволу на відрядження депутата Широківської
+          сільської ради Запорізького району Запорізької області за кордон
+        link: /uploads/Decision No. 43 dated 04.11.2025.docx
       - title: Рішення №44
       - title: Рішення №45
       - title: Рішення №46
