@@ -19,7 +19,14 @@ components:
         link: >-
           /uploads/Draft decision On approval of materials of
           NGO_project_04122025.doc
-      - {}
+      - title: Проєкт рiшення Про затвердження проектів землеустрою
+        link: >-
+          /uploads/Draft decision On approval of land management projects
+          doc_project_04122025.doc
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Draft
+          decision On approval of land management projects
+          doc_project_04122025.doc
       - {}
       - {}
       - {}
