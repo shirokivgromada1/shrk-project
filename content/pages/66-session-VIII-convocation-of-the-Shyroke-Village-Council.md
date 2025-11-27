@@ -74,7 +74,10 @@ components:
           amendments to the financial plan of the Ministry of Foreign Affairs
           for 2025_project_04122025.doc
       - title: Про  затвердження фінплану СКП ОЖКП та РС на 2026 рік
-      - {}
+      - title: Про затвердження фінплану Клініки на 2026 рік
+        link: >-
+          /uploads/On approval of the Clinic's financial plan for
+          2026_project_04122025.doc
       - {}
       - {}
       - {}
