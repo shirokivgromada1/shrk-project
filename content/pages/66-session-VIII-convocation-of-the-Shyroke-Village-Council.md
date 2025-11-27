@@ -27,7 +27,7 @@ components:
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Draft
           decision On approval of land management projects
           doc_project_04122025.doc
-      - title: Проєкт рiшення Про затвердження технiчноi документації Мельничук_doc
+      - title: Проєкт рiшення Про затвердження технiчноi документації Мельничук
         link: >-
           /uploads/Draft decision on approval of technical documentation
           Melnychuk_project_04122025.doc
