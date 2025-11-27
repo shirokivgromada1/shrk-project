@@ -60,7 +60,11 @@ components:
           /uploads/Draft decision dated 04.12.2025 On approval of the financial
           plan of the Ministry of Internal Affairs of the Russian Federation for
           2026_draft_04122025.doc
-      - {}
+      - title: Звіт про виконання фінплану КП БВС за  9 місяців 2025 року
+        link: >-
+          /uploads/Report on the implementation of the financial plan of the
+          Ministry of Internal Affairs of the Russian Federation for 9 months of
+          2025_project_04122025.doc
       - {}
       - {}
       - {}
