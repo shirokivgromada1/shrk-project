@@ -9,6 +9,41 @@ components:
         link: >-
           /uploads/Order No. 66 on convening the 66th
           session_draft_04122025.docx
+      - title: Меморандум ГО-сільрада-агенція
+        link: /uploads/Memorandum NGO-village council-agency_project_04122025.pdf
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
     _template: HeadOrders
 ---
 
