@@ -111,7 +111,10 @@ components:
         link: >-
           /uploads/Draft solution Water supply improvement
           plan_project_04122025.docx
-      - {}
+      - title: Проєкт рішення Погодження доплати освіта
+        link: >-
+          /uploads/Draft decision Approval of additional payment
+          education_project_04122025.docx
       - {}
       - {}
       - {}
