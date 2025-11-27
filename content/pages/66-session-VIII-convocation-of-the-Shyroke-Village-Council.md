@@ -131,7 +131,8 @@ components:
         link: >-
           /uploads/The program Meeting People for
           2026-2028_project_04122025.docx
-      - {}
+      - title: Програма підтримки СФВ 2026-2028
+        link: /uploads/SFV Support Program 2026-2028_project_04122025.docx
       - {}
       - {}
       - {}
