@@ -96,7 +96,13 @@ components:
         link: >-
           /uploads/Draft decision Memorandum of the NGO International Resilience
           Alliance_project_04122025.docx
-      - {}
+      - title: Проєкт рішення оплата праці голові
+        link: >-
+          /uploads/Draft decision on remuneration of the
+          head_project_04122025.docx
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Draft
+          decision on remuneration of the head_project_04122025.docx
       - {}
       - {}
       - {}
