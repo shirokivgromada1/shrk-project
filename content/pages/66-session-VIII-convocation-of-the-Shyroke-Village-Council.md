@@ -86,7 +86,8 @@ components:
         link: >-
           /uploads/Draft decision APPROVAL OF THE PROGRAM FOR 2026 -
           2030_project_04122025.doc
-      - {}
+      - title: Проєкт рішення матеріальна допомога
+        link: /uploads/Project solution material assistance_project_04122025.docx
       - {}
       - {}
       - {}
