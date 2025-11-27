@@ -82,7 +82,10 @@ components:
         link: >-
           /uploads/On approval of the financial plan of the Apteka KP for
           2026_project_04122025.doc
-      - {}
+      - title: Проєкт рішення ЗАТВЕРДЖЕННЯ ПРОГРАМИ НА 2026 - 2030 РОКИ
+        link: >-
+          /uploads/Draft decision APPROVAL OF THE PROGRAM FOR 2026 -
+          2030_project_04122025.doc
       - {}
       - {}
       - {}
