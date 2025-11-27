@@ -119,7 +119,10 @@ components:
         link: >-
           /uploads/Draft decision On amendments to the
           Program_project_04122025.docx
-      - {}
+      - title: Про затвердження меморандуму про наміри щодо співпраці і партнерства
+        link: >-
+          /uploads/On approval of the memorandum of intent on cooperation and
+          partnership_project_04122025.docx
       - {}
       - {}
       - {}
