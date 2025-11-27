@@ -115,7 +115,10 @@ components:
         link: >-
           /uploads/Draft decision Approval of additional payment
           education_project_04122025.docx
-      - {}
+      - title: Проєкт рішення Про внесення змін до  Програми
+        link: >-
+          /uploads/Draft decision On amendments to the
+          Program_project_04122025.docx
       - {}
       - {}
       - {}
