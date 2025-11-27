@@ -33,7 +33,10 @@ components:
           Melnychuk_project_04122025.doc
       - title: Програма місцевих стимулів на  2026-2028 роки
         link: /uploads/Local Incentive Program for 2026-2028_project_04122025.doc
-      - {}
+      - title: Про  затвердження фінплану КСП Широке на 2026 рік
+        link: >-
+          /uploads/On approval of the financial plan of the Shyroke KSP for
+          2026_project_04122025.doc
       - {}
       - {}
       - {}
