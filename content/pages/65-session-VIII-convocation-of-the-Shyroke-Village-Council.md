@@ -293,7 +293,8 @@ components:
           provision_04112025.pdf
       - title: Меморандум про намір вступу до Асоціації
         link: /uploads/Memorandum of Intent to Join the Association 04112025.pdf
-      - {}
+      - title: Наказ на створення ДПРП
+        link: /uploads/Order to establish the DPRP_04112025.pdf
       - {}
     _template: HeadOrders
 ---
