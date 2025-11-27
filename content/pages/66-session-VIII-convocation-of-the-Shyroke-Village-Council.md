@@ -65,7 +65,14 @@ components:
           /uploads/Report on the implementation of the financial plan of the
           Ministry of Internal Affairs of the Russian Federation for 9 months of
           2025_project_04122025.doc
-      - {}
+      - title: Про  внесення змін до фінплану БВС  на 2025 рік
+        link: >-
+          /uploads/On amendments to the financial plan of the Ministry of
+          Foreign Affairs for 2025_project_04122025.doc
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/On
+          amendments to the financial plan of the Ministry of Foreign Affairs
+          for 2025_project_04122025.doc
       - {}
       - {}
       - {}
