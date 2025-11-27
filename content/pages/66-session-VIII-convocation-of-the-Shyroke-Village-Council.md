@@ -78,7 +78,10 @@ components:
         link: >-
           /uploads/On approval of the Clinic's financial plan for
           2026_project_04122025.doc
-      - {}
+      - title: Про затвердження фінплану КП Аптека на 2026 рік
+        link: >-
+          /uploads/On approval of the financial plan of the Apteka KP for
+          2026_project_04122025.doc
       - {}
       - {}
       - {}
