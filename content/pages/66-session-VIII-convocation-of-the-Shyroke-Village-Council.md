@@ -88,7 +88,10 @@ components:
           2030_project_04122025.doc
       - title: Проєкт рішення матеріальна допомога
         link: /uploads/Project solution material assistance_project_04122025.docx
-      - {}
+      - title: Проєкт рішення Меморандум Від села до міста
+        link: >-
+          /uploads/Draft decision Memorandum From village to
+          city_project_04122025.docx
       - {}
       - {}
       - {}
