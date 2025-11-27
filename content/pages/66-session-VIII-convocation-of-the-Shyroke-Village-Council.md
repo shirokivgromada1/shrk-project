@@ -92,7 +92,10 @@ components:
         link: >-
           /uploads/Draft decision Memorandum From village to
           city_project_04122025.docx
-      - {}
+      - title: Проєкт рішення Меморандум ГО Міжнародний альянс стійкості
+        link: >-
+          /uploads/Draft decision Memorandum of the NGO International Resilience
+          Alliance_project_04122025.docx
       - {}
       - {}
       - {}
