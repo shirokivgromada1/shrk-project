@@ -103,7 +103,10 @@ components:
         url: >-
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Draft
           decision on remuneration of the head_project_04122025.docx
-      - {}
+      - title: План удосконалення послуги водопостачання 2026-30 рр
+        link: >-
+          /uploads/Water supply service improvement plan
+          2026-30_project_04122025.docx
       - {}
       - {}
       - {}
