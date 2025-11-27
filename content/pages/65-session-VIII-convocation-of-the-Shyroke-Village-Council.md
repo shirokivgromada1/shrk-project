@@ -291,7 +291,8 @@ components:
         link: >-
           /uploads/Letter from the State Emergency Service approving the
           provision_04112025.pdf
-      - {}
+      - title: Меморандум про намір вступу до Асоціації
+        link: /uploads/Memorandum of Intent to Join the Association 04112025.pdf
       - {}
       - {}
     _template: HeadOrders
