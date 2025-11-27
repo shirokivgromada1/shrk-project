@@ -140,7 +140,8 @@ components:
           decision regulatory policy_project_04122025.docx
       - title: Про затвердження СТРУКТУРИ на 2026 рік
         link: /uploads/On approval of the STRUCTURE for 2026_project_04122025.docx
-      - {}
+      - title: Проєкт рішення списання клініка
+        link: /uploads/Draft decision on writing off clinic_project_04122025.doc
       - {}
       - {}
       - {}
