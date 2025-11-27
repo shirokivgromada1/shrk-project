@@ -127,7 +127,10 @@ components:
         link: >-
           /uploads/On granting consent to sublease a land plot to Agroland
           LLC_project_04122025.docx
-      - {}
+      - title: Програма Назустріч людям на 2026-2028рр
+        link: >-
+          /uploads/The program Meeting People for
+          2026-2028_project_04122025.docx
       - {}
       - {}
       - {}
