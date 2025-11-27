@@ -37,7 +37,12 @@ components:
         link: >-
           /uploads/On approval of the financial plan of the Shyroke KSP for
           2026_project_04122025.doc
-      - {}
+      - title: >-
+          Проєкт рішення  про затвердження меморандуму Красносільська сільська
+          ТГ
+        link: >-
+          /uploads/Draft decision on approval of the memorandum Krasnosilska
+          rural TG_project_04122025.docx
       - {}
       - {}
       - {}
