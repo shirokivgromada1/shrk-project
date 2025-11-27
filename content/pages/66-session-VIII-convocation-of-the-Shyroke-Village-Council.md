@@ -43,7 +43,9 @@ components:
         link: >-
           /uploads/Draft decision on approval of the memorandum Krasnosilska
           rural TG_project_04122025.docx
-      - title: Цільова програма з оздоровл та відпочин дітей на 2025-2027 рр — зміни
+      - title: >-
+          Цільова програма з оздоровлення та відпочинку дітей на 2025-2027 рр —
+          зміни
         link: >-
           /uploads/Targeted program for children's health and recreation for
           2025-2027 — changes_project_04122025.docx
