@@ -73,7 +73,7 @@ components:
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/On
           amendments to the financial plan of the Ministry of Foreign Affairs
           for 2025_project_04122025.doc
-      - {}
+      - title: Про  затвердження фінплану СКП ОЖКП та РС на 2026 рік
       - {}
       - {}
       - {}
