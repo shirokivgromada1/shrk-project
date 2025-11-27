@@ -53,7 +53,13 @@ components:
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Targeted
           program for children's health and recreation for 2025-2027 —
           changes_project_04122025.docx
-      - {}
+      - title: >-
+          Проєкт рішення від 04.12.2025  Про  затвердження фінплану КП БВС на
+          2026 рік
+        link: >-
+          /uploads/Draft decision dated 04.12.2025 On approval of the financial
+          plan of the Ministry of Internal Affairs of the Russian Federation for
+          2026_draft_04122025.doc
       - {}
       - {}
       - {}
