@@ -148,7 +148,6 @@ components:
           2026_project_04122025.docx
       - title: Проєкт рішення_Меморандум ГО-СР-Агенція
         link: /uploads/Draft decision_Memorandum GO-SR-Agency _project_04122025.docx
-      - {}
     _template: HeadOrders
 ---
 
