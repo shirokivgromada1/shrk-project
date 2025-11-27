@@ -123,7 +123,10 @@ components:
         link: >-
           /uploads/On approval of the memorandum of intent on cooperation and
           partnership_project_04122025.docx
-      - {}
+      - title: Про надання згоди на суборенду земельної ділянки ТОВ Агроленд
+        link: >-
+          /uploads/On granting consent to sublease a land plot to Agroland
+          LLC_project_04122025.docx
       - {}
       - {}
       - {}
