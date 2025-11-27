@@ -107,7 +107,10 @@ components:
         link: >-
           /uploads/Water supply service improvement plan
           2026-30_project_04122025.docx
-      - {}
+      - title: Проєкт рішення План удосоконалення водопостачання
+        link: >-
+          /uploads/Draft solution Water supply improvement
+          plan_project_04122025.docx
       - {}
       - {}
       - {}
