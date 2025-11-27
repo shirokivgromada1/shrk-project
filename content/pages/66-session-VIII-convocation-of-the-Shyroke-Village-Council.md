@@ -142,7 +142,10 @@ components:
         link: /uploads/On approval of the STRUCTURE for 2026_project_04122025.docx
       - title: Проєкт рішення списання клініка
         link: /uploads/Draft decision on writing off clinic_project_04122025.doc
-      - {}
+      - title: Проєкт рішення_затвердження Плану заходів з безбар'єрності на 2026 рік
+        link: >-
+          /uploads/Draft decision_approval of the Barrier-Free Action Plan for
+          2026_project_04122025.docx
       - {}
       - {}
     _template: HeadOrders
