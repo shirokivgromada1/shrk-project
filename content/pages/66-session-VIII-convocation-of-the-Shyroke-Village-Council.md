@@ -15,7 +15,10 @@ components:
         link: >-
           /uploads/Draft decision On the regulatory activity plan for
           2026_project_04122025.docx
-      - {}
+      - title: Проєкт рiшення Про затвердження матеріалів НГО
+        link: >-
+          /uploads/Draft decision On approval of materials of
+          NGO_project_04122025.doc
       - {}
       - {}
       - {}
