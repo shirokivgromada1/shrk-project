@@ -133,7 +133,11 @@ components:
           2026-2028_project_04122025.docx
       - title: Програма підтримки СФВ 2026-2028
         link: /uploads/SFV Support Program 2026-2028_project_04122025.docx
-      - {}
+      - title: Проєкт рішення регуляторна політика
+        link: /uploads/Draft decision regulatory policy_project_04122025.docx
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Draft
+          decision regulatory policy_project_04122025.docx
       - {}
       - {}
       - {}
