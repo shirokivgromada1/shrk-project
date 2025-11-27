@@ -31,7 +31,8 @@ components:
         link: >-
           /uploads/Draft decision on approval of technical documentation
           Melnychuk_project_04122025.doc
-      - {}
+      - title: Програма місцевих стимулів на  2026-2028 роки
+        link: /uploads/Local Incentive Program for 2026-2028_project_04122025.doc
       - {}
       - {}
       - {}
