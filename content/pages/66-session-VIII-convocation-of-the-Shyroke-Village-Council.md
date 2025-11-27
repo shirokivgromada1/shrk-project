@@ -11,7 +11,10 @@ components:
           session_draft_04122025.docx
       - title: Меморандум ГО-сільрада-агенція
         link: /uploads/Memorandum NGO-village council-agency_project_04122025.pdf
-      - {}
+      - title: Проект рішення Про план регуляторної діяльності на 2026 рік
+        link: >-
+          /uploads/Draft decision On the regulatory activity plan for
+          2026_project_04122025.docx
       - {}
       - {}
       - {}
