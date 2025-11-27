@@ -138,7 +138,8 @@ components:
         url: >-
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Draft
           decision regulatory policy_project_04122025.docx
-      - {}
+      - title: Про затвердження СТРУКТУРИ на 2026 рік
+        link: /uploads/On approval of the STRUCTURE for 2026_project_04122025.docx
       - {}
       - {}
       - {}
