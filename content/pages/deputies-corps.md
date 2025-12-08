@@ -99,6 +99,10 @@ components:
         name: 'Рішення та проєкти рішення '
         nameEng: Decisions and draft decisions
         link: 'https://shtg.gov.ua/decision-of-the-shyrokyvska-village-counci'
+      - image: /uploads/Як зберегти рівновагу (1).png
+        name: Звіти депутатів Широківської сільської ради
+        link: >-
+          https://shtg.gov.ua/Reports-of-the-deputies-of-the-Shyrokivska-Village-Council
     _template: CommunityHeadDepartments
 ---
 
