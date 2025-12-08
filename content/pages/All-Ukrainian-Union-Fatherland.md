@@ -1,7 +1,28 @@
 ---
 title: All-Ukrainian Union “Fatherland
 components:
-  - title: Лідерство та управління
-    _template: leadership
+  - title: ПП «ВСЕУКРАЇНСЬКЕ  ОБ'ЄДНАННЯ «БАТЬКІВЩИНА»»
+    subtitle: 2022 рік
+    notMain: true
+    order:
+      - title: ЗВІТ ОЛЕНИ ПРАВДЮК ЗА 2022 рік
+        link: /uploads/REPORT of Deputy Olena Pravdiuk 2022.docx
+        buttonText: Завантажити
+      - title: ЗВІТ ПАВЛА СУБЕРЛЯКА ЗА 2022 рік
+        link: /uploads/REPORT SUBERLYAK 2022.docx
+        buttonText: Завантажити
+      - title: ЗВІТ АННИ КИСЛИНСЬКОЇ ЗА 2022
+        link: /uploads/REPORT KYSLYNSKA 2022.docx
+        buttonText: Завантажити
+      - title: ЗВІТ АНДРІЯ ХИЖНЯКА ЗА 2022 рік
+        link: /uploads/REPORT KHYZHNYAK 2022.docx
+        buttonText: Завантажити
+      - title: ЗВІТ ГРИГОРІЯ СТОГНІЯ ЗА 2022 рік
+        link: /uploads/REPORT STOHNII 2022.docx
+        buttonText: Завантажити
+      - title: ЗВІТ СЕРГІЯ ПРОКОФ'ЄВА ЗА 2022 рік
+        link: /uploads/REPORT PROKOFIEV 2022.docx
+        buttonText: Завантажити
+    _template: HeadOrders
 ---
 
