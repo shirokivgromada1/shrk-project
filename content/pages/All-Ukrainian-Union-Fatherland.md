@@ -2,6 +2,9 @@
 title: All-Ukrainian Union “Fatherland
 components:
   - title: ПП «ВСЕУКРАЇНСЬКЕ  ОБ'ЄДНАННЯ «БАТЬКІВЩИНА»»
+    subtitle: 2024 рік
+    _template: HeadOrders
+  - title: ''
     subtitle: '2023'
     order:
       - title: >-
