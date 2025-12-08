@@ -3,9 +3,22 @@ title: All-Ukrainian Union “Fatherland
 components:
   - title: ПП «ВСЕУКРАЇНСЬКЕ  ОБ'ЄДНАННЯ «БАТЬКІВЩИНА»»
     subtitle: 2024 рік
+    order:
+      - title: ' ЗВІТ СЕРГІЯ ПРОКОФ''ЄВА ЗА 2022 рік'
+        link: /uploads/REPORT of Prokofiev for the year 2024.docx
+      - title: ЗВІТ ГРИГОРІЯ СТОГНІЯ ЗА 2024 рік
+        link: /uploads/REPORT of Stohniy for the year 2024.docx
+      - title: ' ЗВІТ АНДРІЯ ХИЖНЯКА ЗА 2024 рік'
+        link: /uploads/REPORT of Khyzhniak for the year 2024.docx
+      - title: ЗВІТ АННИ КИСЛИНСЬКОЇ ЗА 2024
+        link: /uploads/REPORT of Kyslynska for the year 2024.docx
+      - title: ЗВІТ ПАВЛА СУБЕРЛЯКА ЗА 2024 рік
+        link: /uploads/REPORT of Suberlyak for the year 2024.docx
+      - title: ЗВІТ ОЛЕНИ ПРАВДЮК ЗА 2024 рік
+        link: /uploads/REPORT of Deputy Olena Pravdiuk for the year 2024.docx
     _template: HeadOrders
   - title: ''
-    subtitle: '2023'
+    subtitle: 2023 рік
     order:
       - title: >-
           ЗВІТ  Депутатської фракції ПОЛІТИЧНОЇ ПАРТІЇ «ВСЕУКРАЇНСЬКЕ ОБ’ЄДНАННЯ
