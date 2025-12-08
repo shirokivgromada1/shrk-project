@@ -3,6 +3,14 @@ title: All-Ukrainian Union “Fatherland
 components:
   - title: ПП «ВСЕУКРАЇНСЬКЕ  ОБ'ЄДНАННЯ «БАТЬКІВЩИНА»»
     subtitle: '2023'
+    order:
+      - title: >-
+          ЗВІТ  Депутатської фракції ПОЛІТИЧНОЇ ПАРТІЇ «ВСЕУКРАЇНСЬКЕ ОБ’ЄДНАННЯ
+          «БАТЬКІВЩИНА» в Широківській сільській раді Запорізького району
+          Запорізької області VIII скликання за 2023 рік
+        link: >-
+          /uploads/REPORT of the Batkivshchyna Deputies’ Faction for the year
+          2023.docx
     _template: HeadOrders
   - title: ''
     subtitle: 2022 рік
