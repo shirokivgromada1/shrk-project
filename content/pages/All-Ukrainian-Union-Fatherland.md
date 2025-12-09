@@ -4,7 +4,7 @@ components:
   - title: ПП «ВСЕУКРАЇНСЬКЕ  ОБ'ЄДНАННЯ «БАТЬКІВЩИНА»»
     subtitle: 2024 рік
     order:
-      - title: ' ЗВІТ СЕРГІЯ ПРОКОФ''ЄВА ЗА 2022 рік'
+      - title: ' ЗВІТ СЕРГІЯ ПРОКОФ''ЄВА ЗА 2024 рік'
         link: /uploads/REPORT of Prokofiev for the year 2024.docx
       - title: ЗВІТ ГРИГОРІЯ СТОГНІЯ ЗА 2024 рік
         link: /uploads/REPORT of Stohniy for the year 2024.docx
