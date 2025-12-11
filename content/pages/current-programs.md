@@ -41,8 +41,9 @@ components:
           Запорізького району Запорізької області на 2025-2027 роки
         date: 'Рішення №8 від 4 листопада 2025 року '
         link: >-
-          /uploads/On amendments to the Housing and Communal Services
-          Development Program_decision 8_04112025.doc
+          /uploads/Decision No. 8 dated November 4, 2025 — amendments have been
+          made to the Program for Housing and Communal Services Development and
+          Improvement for 2025–2027 1241324..doc
       - name: 'Додатки до рішення №8 від 4 листопада 2025 року '
         date: 'Рішення №8 від 4 листопада 2025 року '
         link: >-
