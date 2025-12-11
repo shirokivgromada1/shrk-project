@@ -4,6 +4,10 @@ components:
   - title: БЮДЖЕТ ШИРОКІВСЬКОЇ ГРОМАДИ - 2025
     order:
       - title: >-
+          Додатки до рішення від 04.12.2025 № 22 Про внесення змін до місцевого
+          бюджету на 2025 рік
+        link: '/uploads/Annexes to Decision No. 22 dated December 4, 2025.xlsx'
+      - title: >-
           Рішення від 04.12.2025 № 22 Про внесення змін до місцевого бюджету на
           2025 рік (оприлюднено 11.12.2025)
         link: '/uploads/Decision No. 22 dated December 4, 2025.doc'
