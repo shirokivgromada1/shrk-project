@@ -1,5 +1,5 @@
 ---
-title: 67t-Session-of-the-8th-Convocation-of-the-Shyroke-Community
+title: 67th-Session-of-the-8th-Convocation-of-the-Shyroke-Community
 components:
   - title: Проєкт. 67 позачергова сесія VIII скликання Широківської сільської ради
     order:
