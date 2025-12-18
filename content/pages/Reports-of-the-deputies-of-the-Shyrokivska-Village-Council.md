@@ -8,7 +8,11 @@ components:
       незручності.
     notMain: false
     order:
-      - title: Фракція ПП «ВСЕУКРАЇНСЬКЕ  ОБ'ЄДНАННЯ «БАТЬКІВЩИНА»»
+      - title: ПОЛІТИЧНА ПАРТІЯ «ПАРТІЯ ВОЛОДИМИРА БУРЯКА  «ЄДНАННЯ»
+        url: >-
+          https://shtg.gov.ua/admin/index.html#/~/POLITICAL-PARTY-VOLODYMYR-BURYAKS-PARTY-UNITY
+        buttonText: Детально
+      - title: Фракція ПП «ВСЕУКРАЇНСЬКЕ  ОБ'ЄДНАННЯ «БАТЬКІВЩИНА»
         url: 'https://shtg.gov.ua/All-Ukrainian-Union-Fatherland'
         buttonText: Детально
     _template: HeadOrders
