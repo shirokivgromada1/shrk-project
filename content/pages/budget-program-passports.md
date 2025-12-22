@@ -3,6 +3,9 @@ title: budget-program-passports
 components:
   - title: ' Паспорти бюджетних програм'
     order:
+      - {}
+      - title: Наказ №43 від 17.11.2025
+        link: /uploads/nakaz_43_17112025.jpg
       - title: >-
           Паспорт бюджетної програми на 2025 рік по КПКВК 0113193 - зміни
           02.10.2025
