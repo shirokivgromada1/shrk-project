@@ -3,6 +3,12 @@ title: implementation of the budget 2025
 components:
   - title: Виконання бюджету 2025
     order:
+      - title: >-
+          Інформація про виконання місцевого бюджету за січень-листопад 2025
+          року
+        link: >-
+          /uploads/Information on the implementation of the local budget for
+          January-November 2025.xlsx
       - title: Інформація про виконання місцевого бюджету за січень-жовтень 2025 року
         link: >-
           /uploads/Information on the implementation of the local budget for
