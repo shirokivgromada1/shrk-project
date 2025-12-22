@@ -87,6 +87,9 @@ components:
     _template: DeputyCorpsTable
   - title: Головне
     departments:
+      - image: /uploads/schedule_icon.png
+        name: Графіки прийому депутатів
+        nameEng: Schedules for receiving deputies
       - image: /uploads/Дизайн без назви (4).png
         name: Анонси сесійних засідань
         nameEng: Announcements of session meetings
