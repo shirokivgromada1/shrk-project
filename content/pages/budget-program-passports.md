@@ -3,6 +3,12 @@ title: budget-program-passports
 components:
   - title: ' Паспорти бюджетних програм'
     order:
+      - title: >-
+          Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни
+          04.11.2025
+        link: >-
+          /uploads/Passport of the budget program for 2025 KPKVK 0117130 -
+          changes 04.11.2025.xlsx
       - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116030- зміни 04.11.2025
         link: >-
           /uploads/Passport of the budget program for 2025 KPKVK 0116030-
