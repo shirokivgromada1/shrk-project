@@ -3,6 +3,10 @@ title: budget-program-passports
 components:
   - title: ' Паспорти бюджетних програм'
     order:
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117367- зміни 04.11.2025
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Passport
+          of the budget program for 2025 KPKVK 0117367- changes 04.11.2025.xlsx
       - title: >-
           Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни
           04.11.2025
