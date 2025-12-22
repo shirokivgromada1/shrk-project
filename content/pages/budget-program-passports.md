@@ -3,6 +3,10 @@ title: budget-program-passports
 components:
   - title: ' Паспорти бюджетних програм'
     order:
+      - title: Розпорядження від 16.12.2025 № 284
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Order
+          dated 16.12.2025 No. 284.docx
       - title: Наказ №48 від 10.12.2025
         link: /uploads/nakaz_48_10.12.2025.pdf
       - title: >-
