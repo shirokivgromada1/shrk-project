@@ -3,7 +3,8 @@ title: budget-program-passports
 components:
   - title: ' Паспорти бюджетних програм'
     order:
-      - {}
+      - title: Розпорядження від 14.11.2025 №242
+        link: /uploads/Order of 14.11.2025 No. 242.docx
       - title: Наказ №43 від 17.11.2025
         link: /uploads/nakaz_43_17112025.jpg
       - title: >-
