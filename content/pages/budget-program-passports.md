@@ -3,6 +3,8 @@ title: budget-program-passports
 components:
   - title: ' Паспорти бюджетних програм'
     order:
+      - title: Наказ №48 від 10.12.2025
+        link: /uploads/nakaz_48_10.12.2025.pdf
       - title: >-
           Паспорт бюджетної програми на 2025 рік КПКВК 1610160, 1616030 - зміни
           04.11.2025
