@@ -18,6 +18,8 @@ components:
     order:
       - title: ' ЗВІТ ЛАРИСИ СУТКОВОЇ ЗА 2022 рік'
         link: /uploads/REPORT by L. Sutkov for 2022 (1).docx
+      - title: ' ЗВІТ ДЕНИСА МІХАЙЛОВА ЗА 2022 рік'
+        link: /uploads/Mikhailov’s 2022 Report.docx
     _template: HeadOrders
 ---
 
