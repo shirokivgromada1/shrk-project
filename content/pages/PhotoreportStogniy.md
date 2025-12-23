@@ -9,7 +9,12 @@ components:
         position: ㅤ
         positionEng: ㅤ
         link: ㅤ
-      - {}
+      - image: /uploads/photo_report_stogniy (2).PNG
+        fullname: ㅤ
+        fullnameEng: ㅤ
+        position: ㅤ
+        positionEng: ㅤ
+        link: ㅤ
       - {}
     _template: DeputyHeadTablet
 ---
