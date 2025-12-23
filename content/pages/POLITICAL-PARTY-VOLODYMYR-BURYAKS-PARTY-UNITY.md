@@ -12,6 +12,8 @@ components:
     order:
       - title: ' ЗВІТ ЛАРИСИ СУТКОВОЇ ЗА 2023 рік'
         link: /uploads/REPORT by L. Sutkovа for 2023 (1).docx
+      - title: ' ЗВІТ ДЕНИСА МІХАЙЛОВА ЗА 2023 рік'
+        link: /uploads/Mikhailov’s 2023 Report.docx
     _template: HeadOrders
   - title: ''
     subtitle: 2022 рік
