@@ -8,6 +8,8 @@ components:
         link: /uploads/Report Zinchenko 2024.docx
       - title: ЗВІТ ОЛЕКСАНДРА ЗАРУДИНСЬКОГО ЗА 2024 рік
         link: /uploads/Report Zarudynskyi 2024.docx
+      - title: ЗВІТ АНДРІЯ КАПЛЕНКА ЗА 2024 рік
+        link: /uploads/Report of Deputy Kaplenko for 2024.docx
     _template: HeadOrders
   - title: ''
     subtitle: 2022 рік
