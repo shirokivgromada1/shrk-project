@@ -3,7 +3,12 @@ title: Photo_report_Stogniy
 components:
   - title: Григорій Стогній
     deputy:
-      - {}
+      - image: /uploads/photo_report_stogniy (10).PNG
+        fullname: ㅤ
+        fullnameEng: ㅤ
+        position: ㅤ
+        positionEng: ㅤ
+        link: ㅤ
       - image: /uploads/photo_report_stogniy (9).PNG
         fullname: ㅤ
         fullnameEng: ㅤ
