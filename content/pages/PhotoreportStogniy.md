@@ -5,7 +5,12 @@ components:
     deputy:
       - {}
       - {}
-      - {}
+      - image: /uploads/photo_report_stogniy (8).PNG
+        fullname: ㅤ
+        fullnameEng: ㅤ
+        position: ㅤ
+        positionEng: ㅤ
+        link: ㅤ
       - image: /uploads/photo_report_stogniy (7).PNG
         fullname: ㅤ
         fullnameEng: ㅤ
