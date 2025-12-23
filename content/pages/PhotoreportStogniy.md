@@ -8,6 +8,7 @@ components:
         fullnameEng: ㅤ
         position: ㅤ
         positionEng: ㅤ
+        link: ㅤ
       - {}
       - {}
     _template: DeputyHeadTablet
