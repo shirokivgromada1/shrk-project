@@ -90,6 +90,8 @@ components:
       - image: /uploads/schedule_icon.png
         name: Графіки прийому депутатів
         nameEng: Schedules for receiving deputies
+        link: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Schedules_for_receiving_deputies_of_the_Shyroke_community_2025.docx
       - image: /uploads/Дизайн без назви (4).png
         name: Анонси сесійних засідань
         nameEng: Announcements of session meetings
