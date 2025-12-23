@@ -6,6 +6,8 @@ components:
     order:
       - title: ' ЗВІТ ЛАРИСИ СУТКОВОЇ ЗА 2024 рік'
         link: /uploads/ЗВІТ Л. СУТКОВА за 2024 рік.docx
+      - title: ' ЗВІТ ДЕНИСА МІХАЙЛОВА ЗА 2024 рік'
+        link: /uploads/Mikhailov’s 2024 Report.docx
     _template: HeadOrders
   - title: ''
     subtitle: 2023 рік
