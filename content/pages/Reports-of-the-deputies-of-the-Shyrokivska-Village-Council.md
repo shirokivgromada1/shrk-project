@@ -9,6 +9,7 @@ components:
     notMain: false
     order:
       - title: ПОЛІТИЧНА ПАРТІЯ «СЛУГА НАРОДУ»
+        url: 'https://shtg.gov.ua/POLITICAL-PARTY-SERVANT-OF-THE-PEOPLE'
       - title: ПОЛІТИЧНА ПАРТІЯ «ПАРТІЯ ВОЛОДИМИРА БУРЯКА  «ЄДНАННЯ»
         url: >-
           https://shtg.gov.ua/admin/index.html#/~/POLITICAL-PARTY-VOLODYMYR-BURYAKS-PARTY-UNITY
