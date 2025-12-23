@@ -8,6 +8,7 @@ components:
       незручності.
     notMain: false
     order:
+      - title: ПОЛІТИЧНа ПАРТІЯ «СЛУГА НАРОДУ»
       - title: ПОЛІТИЧНА ПАРТІЯ «ПАРТІЯ ВОЛОДИМИРА БУРЯКА  «ЄДНАННЯ»
         url: >-
           https://shtg.gov.ua/admin/index.html#/~/POLITICAL-PARTY-VOLODYMYR-BURYAKS-PARTY-UNITY
