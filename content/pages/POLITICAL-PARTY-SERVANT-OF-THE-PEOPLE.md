@@ -12,8 +12,14 @@ components:
   - title: ''
     subtitle: 2022 рік
     order:
-      - title: ЗВІТ АНДРІЙЯ КАПЛЕНКА ЗА 2022 рік
+      - title: ЗВІТ АНДРІЯ КАПЛЕНКА ЗА 2022 рік
         link: /uploads/Report of Deputy Kaplenko for 2022.docx
+    _template: HeadOrders
+  - title: ''
+    subtitle: 2021 рік
+    order:
+      - title: ЗВІТ АНДРІЯ КАПЛЕНКА ЗА 2021 рік
+        link: /uploads/Report of Deputy Kaplenko for 2021.docx
     _template: HeadOrders
 ---
 
