@@ -108,6 +108,11 @@ components:
         nameEng: Schedules for receiving deputies
         link: >-
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Schedules_for_receiving_deputies_of_the_Shyroke_community_2025.docx
+      - image: /uploads/фотозвіт.png
+        name: Фотозвіт депутатів Широківської сільської ради
+        nameEng: Photo Report of the Deputies of the Shyrokivka Village Council
+        link: >-
+          https://27101-deputati-sirokivskoyi-silradi.gallera.io/510123-fotozvit-vid-deputativ-sirokivskoyi-silskoyi-radi-viii-sklikannia
     _template: CommunityHeadDepartments
 ---
 
