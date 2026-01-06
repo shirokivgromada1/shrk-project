@@ -41,6 +41,7 @@ components:
       - title: Рішення №463 від 03.12.2025 року
         link: /uploads/Decision No. 463 of 03.12.2025.docx
       - title: Рішення №464 від 03.12.2025 року
+        link: /uploads/Decision No. 464 of 03.12.2025.docx
       - title: Рішення №465 від 03.12.2025 року
       - title: Рішення №466 від 03.12.2025 року
       - title: Рішення №467 від 03.12.2025 року
