@@ -10,6 +10,7 @@ components:
       - title: Рішення №476 від 11.12.2025 року
         link: /uploads/decision No. 476 of 11.12.2025.docx
       - title: Рішення №477 від 11.12.2025 року
+        link: /uploads/decision No. 477 of 11.12.2025.docx
       - title: Рішення №478 від 11.12.2025 року
     _template: HeadOrders
 ---
