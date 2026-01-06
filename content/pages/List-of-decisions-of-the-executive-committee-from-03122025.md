@@ -17,6 +17,7 @@ components:
       - title: Рішення №454 від 03.12.2025 року
         link: /uploads/Decision No. 454 of 03.12.2025.docx
       - title: Рішення №455 від 03.12.2025 року
+        link: /uploads/Decision No. 455 of 03.12.2025.docx
       - title: Рішення №456 від 03.12.2025 року
       - title: Рішення №457 від 03.12.2025 року
       - title: Рішення №458 від 03.12.2025 року
