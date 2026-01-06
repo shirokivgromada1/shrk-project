@@ -31,6 +31,7 @@ components:
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision
           No. 458 of 03.12.2025.docx
       - title: Рішення №459 від 03.12.2025 року
+        link: /uploads/Decision No. 459 of 03.12.2025.docx
       - title: Рішення №460 від 03.12.2025 року
       - title: Рішення №461 від 03.12.2025 року
       - title: Рішення №462 від 03.12.2025 року
