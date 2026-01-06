@@ -10,6 +10,10 @@ components:
       - title: Рішення №452 від 03.12.2025 року
         link: /uploads/Decision No. 452 of 03.12.2025.docx
       - title: Рішення №453 від 03.12.2025 року
+        link: /uploads/Decision No. 453 of 03.12.2025.docx
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision
+          No. 453 of 03.12.2025.docx
       - title: Рішення №454 від 03.12.2025 року
       - title: Рішення №455 від 03.12.2025 року
       - title: Рішення №456 від 03.12.2025 року
