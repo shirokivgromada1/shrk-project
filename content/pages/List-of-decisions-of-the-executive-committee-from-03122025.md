@@ -57,6 +57,7 @@ components:
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision
           No. 468 of 03.12.2025.docx
       - title: Рішення №469 від 03.12.2025 року
+        link: /uploads/Decision No. 469 of 03.12.2025.docx
       - title: Рішення №470 від 03.12.2025 року
       - title: Рішення №471 від 03.12.2025 року
       - title: Рішення №472 від 03.12.2025 року
