@@ -59,6 +59,7 @@ components:
       - title: Рішення №469 від 03.12.2025 року
         link: /uploads/Decision No. 469 of 03.12.2025.docx
       - title: Рішення №470 від 03.12.2025 року
+        link: /uploads/Decision No. 470 of 03.12.2025.docx
       - title: Рішення №471 від 03.12.2025 року
       - title: Рішення №472 від 03.12.2025 року
       - title: Рішення №473 від 03.12.2025 року
