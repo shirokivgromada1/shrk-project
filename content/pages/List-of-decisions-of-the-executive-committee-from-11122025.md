@@ -7,7 +7,8 @@ components:
         link: >-
           /uploads/List of decisions of the executive committee No. 37 of
           11.12.2025.docx
-      - {}
+      - title: рішення №476 від 11.12.2025 року
+        link: /uploads/decision No. 476 of 11.12.2025.docx
       - {}
       - {}
     _template: HeadOrders
