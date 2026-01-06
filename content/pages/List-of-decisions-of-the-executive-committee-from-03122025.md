@@ -69,6 +69,7 @@ components:
       - title: Рішення №474 від 03.12.2025 року
         link: /uploads/Decision No. 474 of 03.12.2025.docx
       - title: Рішення №475 від 03.12.2025 року
+        link: /uploads/Decision No. 475 of 03.12.2025.docx
     _template: HeadOrders
 ---
 
