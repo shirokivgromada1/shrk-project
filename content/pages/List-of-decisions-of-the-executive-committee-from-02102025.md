@@ -31,6 +31,7 @@ components:
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision
           No. 380 of 02.10.2025.docx
       - title: Рішення №381 від 02.10.2025 року
+        link: /uploads/decision No. 381 of 02.10.2025.docx
       - title: Рішення №382 від 02.10.2025 року
       - title: Рішення №383 від 02.10.2025 року
       - title: Рішення №384 від 02.10.2025 року
