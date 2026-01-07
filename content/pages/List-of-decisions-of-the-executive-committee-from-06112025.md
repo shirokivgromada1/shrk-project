@@ -36,6 +36,7 @@ components:
       - title: Рішення №420 від 06.11.2025 року
         link: /uploads/Decision No. 420 of 06.11.2025.docx
       - title: Рішення №421 від 06.11.2025 року
+        link: /uploads/Decision No. 421 of 06.11.2025.docx
       - title: Рішення №422 від 06.11.2025 року
       - title: Рішення №423 від 06.11.2025 року
       - title: Рішення №424 від 06.11.2025 року
