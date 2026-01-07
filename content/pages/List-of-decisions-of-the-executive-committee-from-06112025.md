@@ -8,6 +8,7 @@ components:
           /uploads/List of decisions of the executive committee No. 32 dated
           06.11.2025.docx
       - title: Рішення №410 від 06.11.2025 року
+        link: /uploads/Decision No. 410 of 06.11.2025.docx
       - title: Рішення №411 від 06.11.2025 року
       - title: Рішення №412 від 06.11.2025 року
       - title: Рішення №413 від 06.11.2025 року
