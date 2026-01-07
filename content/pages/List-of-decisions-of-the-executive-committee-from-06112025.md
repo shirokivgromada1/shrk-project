@@ -93,6 +93,7 @@ components:
       - title: Рішення №441 від 06.11.2025 року
         link: /uploads/Decision No. 441 of 06.11.2025.docx
       - title: Рішення №442 від 06.11.2025 року
+        link: /uploads/Decision No. 442 of 06.11.2025.docx
       - title: Рішення №443 від 06.11.2025 року
       - title: Рішення №444 від 06.11.2025 року
       - title: Рішення №445 від 06.11.2025 року
