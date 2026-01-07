@@ -110,6 +110,10 @@ components:
       - title: Рішення №448 від 06.11.2025 року
         link: /uploads/Decision No. 448 of 06.11.2025.docx
       - title: Рішення №449 від 06.11.2025 року
+        link: /uploads/Decision No. 449 of 06.11.2025.docx
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision
+          No. 449 of 06.11.2025.docx
     _template: HeadOrders
 ---
 
