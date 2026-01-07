@@ -17,6 +17,7 @@ components:
       - title: Рішення №362 від 17.09.2025 року
         link: '/uploads/decision No. 362 of September 17, 2025.docx'
       - title: Рішення №363 від 17.09.2025 року
+        link: '/uploads/decision No. 363 of September 17, 2025.docx'
       - title: Рішення №364 від 17.09.2025 року
       - title: Рішення №365 від 17.09.2025 року
       - title: Рішення №366 від 17.09.2025 року
