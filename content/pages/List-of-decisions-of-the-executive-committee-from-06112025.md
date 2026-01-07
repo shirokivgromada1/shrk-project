@@ -89,6 +89,7 @@ components:
       - title: Рішення №439 від 06.11.2025 року
         link: /uploads/Decision No. 439 of 06.11.2025.docx
       - title: Рішення №440 від 06.11.2025 року
+        link: /uploads/Decision No. 440 of 06.11.2025.docx
       - title: Рішення №441 від 06.11.2025 року
       - title: Рішення №442 від 06.11.2025 року
       - title: Рішення №443 від 06.11.2025 року
