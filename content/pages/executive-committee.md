@@ -137,7 +137,7 @@ components:
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-30092025
         buttonText: Перейти
-      - title: Виконавчий комітет від 17.09.2025 року №25
+      - title: Виконавчий комітет від 24.09.2025 року №25
       - title: Виконавчий комітет від 17.09.2025 року №24
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-17092025
