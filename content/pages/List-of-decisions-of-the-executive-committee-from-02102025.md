@@ -26,6 +26,10 @@ components:
       - title: Рішення №379 від 02.10.2025 року
         link: /uploads/decision No. 379 of 02.10.2025.docx
       - title: Рішення №380 від 02.10.2025 року
+        link: /uploads/decision No. 380 of 02.10.2025.docx
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision
+          No. 380 of 02.10.2025.docx
       - title: Рішення №381 від 02.10.2025 року
       - title: Рішення №382 від 02.10.2025 року
       - title: Рішення №383 від 02.10.2025 року
