@@ -8,6 +8,7 @@ components:
           /uploads/List of decisions of the executive committee No. 35 dated
           11242025.docx
       - title: Рішення №451 від 24.11.2025 року
+        link: /uploads/decision No. 451 of 11242025.docx
     _template: HeadOrders
 ---
 
