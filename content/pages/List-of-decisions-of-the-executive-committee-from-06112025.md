@@ -108,6 +108,7 @@ components:
       - title: Рішення №447 від 06.11.2025 року
         link: /uploads/Decision No. 447 of 06.11.2025.docx
       - title: Рішення №448 від 06.11.2025 року
+        link: /uploads/Decision No. 448 of 06.11.2025.docx
       - title: Рішення №449 від 06.11.2025 року
     _template: HeadOrders
 ---
