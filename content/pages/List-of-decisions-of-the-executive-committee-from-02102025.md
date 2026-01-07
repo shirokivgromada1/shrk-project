@@ -60,6 +60,10 @@ components:
       - title: Рішення №390 від 02.10.2025 року
         link: /uploads/decision No. 390 of 02.10.2025.docx
       - title: Рішення №391 від 02.10.2025 року
+        link: /uploads/decision No. 391 of 02.10.2025.docx
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision
+          No. 391 of 02.10.2025.docx
       - title: Рішення №392 від 02.10.2025 року
       - title: Рішення №393 від 02.10.2025 року
       - title: Рішення №394 від 02.10.2025 року
