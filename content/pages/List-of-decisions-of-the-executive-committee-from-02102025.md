@@ -4,6 +4,9 @@ components:
   - title: Виконавчий комітет від 02.10.2025 року №27
     order:
       - title: Перелік рішень виконавчого комітету №27 від 02.10.2025 року
+        link: >-
+          /uploads/List of decisions of the executive committee No. 27 dated
+          02.10.2025.docx
       - title: Рішення №371 від 02.10.2025 року
       - title: Рішення №372 від 02.10.2025 року
       - title: Рішення №373 від 02.10.2025 року
