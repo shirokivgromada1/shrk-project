@@ -53,6 +53,7 @@ components:
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision
           No. 424 of 06.11.2025.docx
       - title: Рішення №425 від 06.11.2025 року
+        link: /uploads/Decision No. 425 of 06.11.2025.docx
       - title: Рішення №426 від 06.11.2025 року
       - title: Рішення №427 від 06.11.2025 року
       - title: Рішення №428 від 06.11.2025 року
