@@ -21,6 +21,7 @@ components:
       - title: Рішення №364 від 17.09.2025 року
         link: '/uploads/decision No. 364 of September 17, 2025.docx'
       - title: Рішення №365 від 17.09.2025 року
+        link: '/uploads/decision No. 365 of September 17, 2025.docx'
       - title: Рішення №366 від 17.09.2025 року
       - title: Рішення №367 від 17.09.2025 року
     _template: HeadOrders
