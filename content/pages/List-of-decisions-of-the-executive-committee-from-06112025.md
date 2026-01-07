@@ -21,6 +21,7 @@ components:
       - title: Рішення №414 від 06.11.2025 року
         link: /uploads/Decision No. 414 of 06.11.2025.docx
       - title: Рішення №415 від 06.11.2025 року
+        link: /uploads/Decision No. 415 of 06.11.2025.docx
       - title: Рішення №416 від 06.11.2025 року
       - title: Рішення №417 від 06.11.2025 року
       - title: Рішення №418 від 06.11.2025 року
