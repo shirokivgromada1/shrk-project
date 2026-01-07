@@ -97,6 +97,10 @@ components:
       - title: Рішення №443 від 06.11.2025 року
         link: /uploads/Decision No. 443 of 06.11.2025.docx
       - title: Рішення №444 від 06.11.2025 року
+        link: /uploads/Decision No. 444 of 06.11.2025.docx
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision
+          No. 444 of 06.11.2025.docx
       - title: Рішення №445 від 06.11.2025 року
       - title: Рішення №446 від 06.11.2025 року
       - title: Рішення №447 від 06.11.2025 року
