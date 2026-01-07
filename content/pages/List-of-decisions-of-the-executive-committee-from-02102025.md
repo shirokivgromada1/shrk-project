@@ -50,6 +50,7 @@ components:
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision
           No. 385 of 02.10.2025.docx
       - title: Рішення №386 від 02.10.2025 року
+        link: /uploads/decision No. 386 of 02.10.2025.docx
       - title: Рішення №387 від 02.10.2025 року
       - title: Рішення №388 від 02.10.2025 року
       - title: Рішення №389 від 02.10.2025 року
