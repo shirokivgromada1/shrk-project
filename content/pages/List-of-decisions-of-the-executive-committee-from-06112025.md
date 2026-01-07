@@ -74,6 +74,7 @@ components:
       - title: Рішення №433 від 06.11.2025 року
         link: /uploads/Decision No. 433 of 06.11.2025.docx
       - title: Рішення №434 від 06.11.2025 року
+        link: /uploads/Decision No. 434 of 06.11.2025.docx
       - title: Рішення №435 від 06.11.2025 року
       - title: Рішення №436 від 06.11.2025 року
       - title: Рішення №437 від 06.11.2025 року
