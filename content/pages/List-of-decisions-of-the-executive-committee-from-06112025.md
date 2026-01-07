@@ -87,6 +87,7 @@ components:
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision
           No. 438 of 06.11.2025.docx
       - title: Рішення №439 від 06.11.2025 року
+        link: /uploads/Decision No. 439 of 06.11.2025.docx
       - title: Рішення №440 від 06.11.2025 року
       - title: Рішення №441 від 06.11.2025 року
       - title: Рішення №442 від 06.11.2025 року
