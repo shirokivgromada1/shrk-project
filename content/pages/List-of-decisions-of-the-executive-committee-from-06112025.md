@@ -43,6 +43,10 @@ components:
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision
           No. 422 of 06.11.2025.docx
       - title: Рішення №423 від 06.11.2025 року
+        link: /uploads/Decision No. 423 of 06.11.2025.docx
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision
+          No. 423 of 06.11.2025.docx
       - title: Рішення №424 від 06.11.2025 року
       - title: Рішення №425 від 06.11.2025 року
       - title: Рішення №426 від 06.11.2025 року
