@@ -70,6 +70,7 @@ components:
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision
           No. 431 of 06.11.2025.docx
       - title: Рішення №432 від 06.11.2025 року
+        link: /uploads/Decision No. 432 of 06.11.2025.docx
       - title: Рішення №433 від 06.11.2025 року
       - title: Рішення №434 від 06.11.2025 року
       - title: Рішення №435 від 06.11.2025 року
