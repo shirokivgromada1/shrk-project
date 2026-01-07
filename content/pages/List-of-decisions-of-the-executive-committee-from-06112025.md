@@ -10,6 +10,10 @@ components:
       - title: Рішення №410 від 06.11.2025 року
         link: /uploads/Decision No. 410 of 06.11.2025.docx
       - title: Рішення №411 від 06.11.2025 року
+        link: /uploads/Decision No. 411 of 06.11.2025.docx
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision
+          No. 411 of 06.11.2025.docx
       - title: Рішення №412 від 06.11.2025 року
       - title: Рішення №413 від 06.11.2025 року
       - title: Рішення №414 від 06.11.2025 року
