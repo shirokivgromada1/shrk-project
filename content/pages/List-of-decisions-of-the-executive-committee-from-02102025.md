@@ -14,6 +14,7 @@ components:
       - title: Рішення №373 від 02.10.2025 року
         link: /uploads/decision No. 373 of 02.10.2025.docx
       - title: Рішення №374 від 02.10.2025 року
+        link: /uploads/decision No. 374 of 02.10.2025.docx
       - title: Рішення №375 від 02.10.2025 року
       - title: Рішення №376 від 02.10.2025 року
       - title: Рішення №377 від 02.10.2025 року
