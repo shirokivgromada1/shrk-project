@@ -79,36 +79,47 @@ components:
       - title: Виконавчий комітет від 19.12.2025 року №38
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-19122025
+        buttonText: Перейти
       - title: Виконавчий комітет від 11.12.2025 року №37
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-11122025
+        buttonText: Перейти
       - title: Виконавчий комітет від 03.12.2025 року №36
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-03122025
+        buttonText: Перейти
       - title: Виконавчий комітет від 24.11.2025 року №35
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-24112025
+        buttonText: Перейти
       - title: Виконавчий комітет від 17.11.2025 року №34
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-17112025
+        buttonText: Перейти
       - title: Виконавчий комітет від 06.11.2025 року №33
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-06112025
+        buttonText: Перейти
       - title: Виконавчий комітет від 05.11.2025 року №32
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-05112025
+        buttonText: Перейти
       - title: Виконавчий комітет від 31.10.2025 року №31
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-31102025
+        buttonText: Перейти
       - title: Виконавчий комітет від 29.10.2025 року №30
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-29102025
+        buttonText: Перейти
       - title: Виконавчий комітет від 23.10.2025 року №29
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-23102025
+        buttonText: Перейти
       - title: Виконавчий комітет від 16.10.2025 року №28
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-16102025
+        buttonText: Перейти
       - title: >-
           Додаток до проєкту рішення про встановлення тарифу на послуги
           централізованого водопостачання (оприлюднено 09.06.2025)
