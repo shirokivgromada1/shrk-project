@@ -8,6 +8,7 @@ components:
           /uploads/List of decisions of the executive committee No. 27 dated
           02.10.2025.docx
       - title: Рішення №371 від 02.10.2025 року
+        link: /uploads/decision No. 371 of 02.10.2025.docx
       - title: Рішення №372 від 02.10.2025 року
       - title: Рішення №373 від 02.10.2025 року
       - title: Рішення №374 від 02.10.2025 року
