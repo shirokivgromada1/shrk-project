@@ -57,6 +57,7 @@ components:
       - title: Рішення №426 від 06.11.2025 року
         link: /uploads/Decision No. 426 of 06.11.2025.docx
       - title: Рішення №427 від 06.11.2025 року
+        link: /uploads/Decision No. 427 of 06.11.2025.docx
       - title: Рішення №428 від 06.11.2025 року
       - title: Рішення №429 від 06.11.2025 року
       - title: Рішення №430 від 06.11.2025 року
