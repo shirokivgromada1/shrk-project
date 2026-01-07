@@ -25,6 +25,7 @@ components:
       - title: Рішення №366 від 17.09.2025 року
         link: '/uploads/decision No. 366 of September 17, 2025.docx'
       - title: Рішення №367 від 17.09.2025 року
+        link: '/uploads/decision No. 367 of September 17, 2025.docx'
     _template: HeadOrders
 ---
 
