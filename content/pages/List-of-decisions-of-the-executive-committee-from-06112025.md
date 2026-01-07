@@ -72,6 +72,7 @@ components:
       - title: Рішення №432 від 06.11.2025 року
         link: /uploads/Decision No. 432 of 06.11.2025.docx
       - title: Рішення №433 від 06.11.2025 року
+        link: /uploads/Decision No. 433 of 06.11.2025.docx
       - title: Рішення №434 від 06.11.2025 року
       - title: Рішення №435 від 06.11.2025 року
       - title: Рішення №436 від 06.11.2025 року
