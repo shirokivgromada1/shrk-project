@@ -71,6 +71,7 @@ components:
       - title: Рішення №394 від 02.10.2025 року
         link: /uploads/decision No. 394 of 02.10.2025.docx
       - title: Рішення №395 від 02.10.2025 року
+        link: /uploads/decision No. 395 of 02.10.2025.docx
       - title: Рішення №396 від 02.10.2025 року
     _template: HeadOrders
 ---
