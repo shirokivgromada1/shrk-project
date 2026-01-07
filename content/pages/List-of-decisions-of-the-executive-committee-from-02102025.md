@@ -67,6 +67,7 @@ components:
       - title: Рішення №392 від 02.10.2025 року
         link: /uploads/decision No. 392 of 02.10.2025.docx
       - title: Рішення №393 від 02.10.2025 року
+        link: /uploads/decision No. 393 of 02.10.2025.docx
       - title: Рішення №394 від 02.10.2025 року
       - title: Рішення №395 від 02.10.2025 року
       - title: Рішення №396 від 02.10.2025 року
