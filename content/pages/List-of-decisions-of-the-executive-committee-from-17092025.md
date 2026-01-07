@@ -8,6 +8,7 @@ components:
           /uploads/List of decisions of the executive committee No. 24 dated
           September 17, 2025.docx
       - title: Рішення №360 від 17.09.2025 року
+        link: '/uploads/decision No. 360 of September 17, 2025.docx'
       - title: Рішення №361 від 17.09.2025 року
       - title: Рішення №362 від 17.09.2025 року
       - title: Рішення №363 від 17.09.2025 року
