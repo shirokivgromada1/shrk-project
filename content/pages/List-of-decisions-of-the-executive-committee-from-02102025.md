@@ -52,6 +52,7 @@ components:
       - title: Рішення №386 від 02.10.2025 року
         link: /uploads/decision No. 386 of 02.10.2025.docx
       - title: Рішення №387 від 02.10.2025 року
+        link: /uploads/decision No. 387 of 02.10.2025.docx
       - title: Рішення №388 від 02.10.2025 року
       - title: Рішення №389 від 02.10.2025 року
       - title: Рішення №390 від 02.10.2025 року
