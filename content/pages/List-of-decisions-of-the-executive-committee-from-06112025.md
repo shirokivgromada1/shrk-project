@@ -32,6 +32,7 @@ components:
       - title: Рішення №418 від 06.11.2025 року
         link: /uploads/Decision No. 418 of 06.11.2025.docx
       - title: Рішення №419 від 06.11.2025 року
+        link: /uploads/Decision No. 419 of 06.11.2025.docx
       - title: Рішення №420 від 06.11.2025 року
       - title: Рішення №421 від 06.11.2025 року
       - title: Рішення №422 від 06.11.2025 року
