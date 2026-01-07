@@ -33,6 +33,7 @@ components:
       - title: Рішення №381 від 02.10.2025 року
         link: /uploads/decision No. 381 of 02.10.2025.docx
       - title: Рішення №382 від 02.10.2025 року
+        link: /uploads/decision No. 382 of 02.10.2025.docx
       - title: Рішення №383 від 02.10.2025 року
       - title: Рішення №384 від 02.10.2025 року
       - title: Рішення №385 від 02.10.2025 року
