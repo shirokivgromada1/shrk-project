@@ -24,6 +24,10 @@ components:
         link: 'https://shtg.gov.ua/shyroke-session'
       - title: Діючі програми Широківської громади
         link: current-programs
+      - title: >-
+          Інформація для осіб, які потребують гуманітарної підтримки та планують
+          евакуацію 
+        link: 'https://shtg.gov.ua/news/71fb916d6b95c92963a348428ae05d345dea0ef3'
       - title: Безбар'єрність
         link: 'https://shtg.gov.ua/Accessibility'
       - title: >-
