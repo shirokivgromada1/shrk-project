@@ -130,6 +130,7 @@ components:
       - title: Рішення №527 від 30.12.2025 року
         link: /uploads/decision No. 527 of 12302025.docx
       - title: Рішення №528 від 30.12.2025 року
+        link: /uploads/decision No. 528 of 12302025.docx
       - title: Рішення №529 від 30.12.2025 року
       - title: Рішення №530 від 30.12.2025 року
       - title: Рішення №531 від 30.12.2025 року
