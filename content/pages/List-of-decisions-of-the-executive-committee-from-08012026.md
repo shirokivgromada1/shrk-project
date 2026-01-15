@@ -21,7 +21,9 @@ components:
       - title: Рішення №05 від 08.01.2026 року
         link: /uploads/decision No. 05 dated 08.01.2026.docx
       - title: Рішення №06 від 08.01.2026 року
+        link: /uploads/decision No. 06 dated 08.01.2026.docx
       - title: Рішення №07 від 08.01.2026 року
+        link: /uploads/decision No. 07 dated 08.01.2026.docx
       - title: Рішення №08 від 08.01.2026 року
       - title: Рішення №09 від 08.01.2026 року
       - title: Рішення №10 від 08.01.2026 року
