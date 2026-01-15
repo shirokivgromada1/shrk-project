@@ -150,6 +150,7 @@ components:
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision
           No. 534 of 12302025.docx
       - title: Рішення №535 від 30.12.2025 року
+        link: /uploads/decision No. 535 of 12302025.docx
       - title: Рішення №536 від 30.12.2025 року
       - title: Рішення №537 від 30.12.2025 року
       - title: Рішення №538 від 30.12.2025 року
