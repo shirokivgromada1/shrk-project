@@ -21,6 +21,10 @@ components:
       - title: Рішення №486 від 30.12.2025 року
         link: /uploads/decision No. 486 of 12302025.docx
       - title: Рішення №487 від 30.12.2025 року
+        link: /uploads/decision No. 487 of 12302025.docx
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision
+          No. 487 of 12302025.docx
       - title: Рішення №488 від 30.12.2025 року
       - title: Рішення №489 від 30.12.2025 року
       - title: Рішення №490 від 30.12.2025 року
