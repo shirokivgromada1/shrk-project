@@ -62,6 +62,7 @@ components:
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision
           No. 499 of 12302025.docx
       - title: Рішення №500 від 30.12.2025 року
+        link: /uploads/decision No. 500 of 12302025.docx
       - title: Рішення №501 від 30.12.2025 року
       - title: Рішення №502 від 30.12.2025 року
       - title: Рішення №503 від 30.12.2025 року
