@@ -39,6 +39,7 @@ components:
       - title: Рішення №14 від 08.01.2026 року
         link: /uploads/decision No. 14 dated 08.01.2026.docx
       - title: Рішення №15 від 08.01.2026 року
+        link: /uploads/decision No. 15 dated 08.01.2026.docx
       - title: Рішення №16 від 08.01.2026 року
       - title: Рішення №17 від 08.01.2026 року
       - title: Рішення №18 від 08.01.2026 року
