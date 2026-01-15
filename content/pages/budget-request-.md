@@ -5,8 +5,11 @@ components:
     order:
       - title: БЗ-загальний на 2026 рік ГРК Широківська сільрада
       - title: БЗ-індивідуальні на 2026 рік ГРК Широківська сільрада
+        link: '/uploads/Individual BZ for 2026, Shyroke Village Council 15012026.xlsx'
       - title: 'КПКВК 1610160, 1616030 на 2026 рік'
+        link: '/uploads/KPKVK 1610160, 1616030 for 2026 15012026.xlsx'
       - title: КПКВК 3710160 на 2026 рік
+        link: /uploads/KPKVK 3710160 for 2026 15012026.xlsx
       - title: КПКВК 0910160 на 2026 рік
         link: /uploads/KPKVK 0910160 for 2026 15012026.xlsx
       - title: Загальний бюджетний запит сільради на 2025 рік
