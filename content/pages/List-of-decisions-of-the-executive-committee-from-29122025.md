@@ -1,7 +1,7 @@
 ---
 title: List-of-decisions-of-the-executive-committee-from-29122025
 components:
-  - title: Розпорядження голови
+  - title: Виконавчий комітет від 29.12.2025 року №39
     _template: HeadOrders
 ---
 
