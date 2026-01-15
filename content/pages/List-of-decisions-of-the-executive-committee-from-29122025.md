@@ -95,6 +95,7 @@ components:
       - title: Рішення №511 від 30.12.2025 року
         link: /uploads/decision No. 511 of 12302025.docx
       - title: Рішення №512 від 30.12.2025 року
+        link: /uploads/decision No. 512 of 12302025.docx
       - title: Рішення №513 від 30.12.2025 року
       - title: Рішення №514 від 30.12.2025 року
       - title: Рішення №515 від 30.12.2025 року
