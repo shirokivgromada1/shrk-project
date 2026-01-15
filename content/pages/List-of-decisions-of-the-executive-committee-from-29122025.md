@@ -40,6 +40,10 @@ components:
       - title: Рішення №491 від 30.12.2025 року
         link: /uploads/decision No. 491 of 12302025.docx
       - title: Рішення №492 від 30.12.2025 року
+        link: /uploads/decision No. 492 of 12302025.docx
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision
+          No. 492 of 12302025.docx
       - title: Рішення №493 від 30.12.2025 року
       - title: Рішення №494 від 30.12.2025 року
       - title: Рішення №495 від 30.12.2025 року
