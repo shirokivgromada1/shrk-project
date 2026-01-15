@@ -31,6 +31,7 @@ components:
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision
           No. 488 of 12302025.docx
       - title: Рішення №489 від 30.12.2025 року
+        link: /uploads/decision No. 489 of 12302025.docx
       - title: Рішення №490 від 30.12.2025 року
       - title: Рішення №491 від 30.12.2025 року
       - title: Рішення №492 від 30.12.2025 року
