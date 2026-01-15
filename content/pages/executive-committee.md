@@ -76,6 +76,10 @@ components:
     subtitle: ''
     notMain: true
     order:
+      - title: Виконавчий комітет від 29.12.2025 року №39
+        url: >-
+          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-29122025
+        buttonText: Перейти
       - title: Виконавчий комітет від 19.12.2025 року №38
         url: >-
           https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-19122025
