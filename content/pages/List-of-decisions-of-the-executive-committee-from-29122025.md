@@ -88,6 +88,10 @@ components:
       - title: Рішення №509 від 30.12.2025 року
         link: /uploads/decision No. 509 of 12302025.docx
       - title: Рішення №510 від 30.12.2025 року
+        link: /uploads/decision No. 510 of 12302025.docx
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision
+          No. 510 of 12302025.docx
       - title: Рішення №511 від 30.12.2025 року
       - title: Рішення №512 від 30.12.2025 року
       - title: Рішення №513 від 30.12.2025 року
