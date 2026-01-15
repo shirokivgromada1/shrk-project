@@ -51,6 +51,7 @@ components:
       - title: Рішення №495 від 30.12.2025 року
         link: /uploads/decision No. 495 of 12302025.docx
       - title: Рішення №496 від 30.12.2025 року
+        link: /uploads/decision No. 496 of 12302025.docx
       - title: Рішення №497 від 30.12.2025 року
       - title: Рішення №498 від 30.12.2025 року
       - title: Рішення №499 від 30.12.2025 року
