@@ -152,6 +152,7 @@ components:
       - title: Рішення №535 від 30.12.2025 року
         link: /uploads/decision No. 535 of 12302025.docx
       - title: Рішення №536 від 30.12.2025 року
+        link: /uploads/decision No. 536 of 12302025.docx
       - title: Рішення №537 від 30.12.2025 року
       - title: Рішення №538 від 30.12.2025 року
       - title: Рішення №539 від 30.12.2025 року
