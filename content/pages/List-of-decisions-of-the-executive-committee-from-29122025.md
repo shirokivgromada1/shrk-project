@@ -137,6 +137,7 @@ components:
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision
           No. 529 of 12302025.docx
       - title: Рішення №530 від 30.12.2025 року
+        link: /uploads/decision No. 530 of 12302025.docx
       - title: Рішення №531 від 30.12.2025 року
       - title: Рішення №532 від 30.12.2025 року
       - title: Рішення №533 від 30.12.2025 року
