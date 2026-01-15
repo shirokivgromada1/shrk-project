@@ -4,6 +4,9 @@ components:
   - title: Виконавчий комітет від 08.01.2026 року №01
     order:
       - title: Перелік рішень виконавчого комітету №01 від 08.01.2026 року
+        link: >-
+          /uploads/List of decisions of the executive committee No. 01 dated
+          08.01.2026.docx
       - title: Рішення №01 від 08.01.2026 року
       - title: Рішення №02 від 08.01.2026 року
       - title: Рішення №03 від 08.01.2026 року
