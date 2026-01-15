@@ -132,6 +132,10 @@ components:
       - title: Рішення №528 від 30.12.2025 року
         link: /uploads/decision No. 528 of 12302025.docx
       - title: Рішення №529 від 30.12.2025 року
+        link: /uploads/decision No. 529 of 12302025.docx
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision
+          No. 529 of 12302025.docx
       - title: Рішення №530 від 30.12.2025 року
       - title: Рішення №531 від 30.12.2025 року
       - title: Рішення №532 від 30.12.2025 року
