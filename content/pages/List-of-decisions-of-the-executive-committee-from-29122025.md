@@ -103,6 +103,7 @@ components:
       - title: Рішення №515 від 30.12.2025 року
         link: /uploads/decision No. 515 of 12302025.docx
       - title: Рішення №516 від 30.12.2025 року
+        link: /uploads/decision No. 516 of 12302025.docx
       - title: Рішення №517 від 30.12.2025 року
       - title: Рішення №518 від 30.12.2025 року
       - title: Рішення №519 від 30.12.2025 року
