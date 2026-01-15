@@ -119,6 +119,7 @@ components:
       - title: Рішення №523 від 30.12.2025 року
         link: /uploads/decision No. 523 of 12302025.docx
       - title: Рішення №524 від 30.12.2025 року
+        link: /uploads/decision No. 524 of 12302025.docx
       - title: Рішення №525 від 30.12.2025 року
       - title: Рішення №526 від 30.12.2025 року
       - title: Рішення №527 від 30.12.2025 року
