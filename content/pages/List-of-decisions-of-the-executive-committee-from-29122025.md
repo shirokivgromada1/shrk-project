@@ -13,6 +13,7 @@ components:
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision
           No. 482 of 12302025.docx
       - title: Рішення №483 від 30.12.2025 року
+        link: /uploads/decision No. 483 of 12302025.docx
       - title: Рішення №484 від 30.12.2025 року
       - title: Рішення №485 від 30.12.2025 року
       - title: Рішення №486 від 30.12.2025 року
