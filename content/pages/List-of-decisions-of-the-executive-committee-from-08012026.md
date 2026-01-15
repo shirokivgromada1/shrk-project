@@ -43,6 +43,7 @@ components:
       - title: Рішення №16 від 08.01.2026 року
         link: /uploads/decision No. 16 dated 08.01.2026.docx
       - title: Рішення №17 від 08.01.2026 року
+        link: /uploads/decision No. 17 dated 08.01.2026.docx
       - title: Рішення №18 від 08.01.2026 року
     _template: HeadOrders
 ---
