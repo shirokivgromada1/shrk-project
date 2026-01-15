@@ -47,6 +47,7 @@ components:
       - title: Рішення №493 від 30.12.2025 року
         link: /uploads/decision No. 493 of 12302025.docx
       - title: Рішення №494 від 30.12.2025 року
+        link: /uploads/decision No. 494 of 12302025.docx
       - title: Рішення №495 від 30.12.2025 року
       - title: Рішення №496 від 30.12.2025 року
       - title: Рішення №497 від 30.12.2025 року
