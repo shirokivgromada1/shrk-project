@@ -4,6 +4,9 @@ components:
   - title: Виконавчий комітет від 29.12.2025 року №39
     order:
       - title: Перелік рішень виконавчого комітету №39 від 29.12.2025 року
+        link: >-
+          /uploads/List of decisions of the executive committee No. 39 of
+          12292025.docx
       - title: Рішення №482 від 30.12.2025 року
       - title: Рішення №483 від 30.12.2025 року
       - title: Рішення №484 від 30.12.2025 року
