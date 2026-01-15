@@ -161,6 +161,10 @@ components:
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision
           No. 538 of 12302025.docx
       - title: Рішення №539 від 30.12.2025 року
+        link: /uploads/decision No. 539 of 12302025.docx
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision
+          No. 539 of 12302025.docx
     _template: HeadOrders
 ---
 
