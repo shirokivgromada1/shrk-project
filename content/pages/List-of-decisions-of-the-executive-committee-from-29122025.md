@@ -66,6 +66,7 @@ components:
       - title: Рішення №501 від 30.12.2025 року
         link: /uploads/decision No. 501 of 12302025.docx
       - title: Рішення №502 від 30.12.2025 року
+        link: /uploads/decision No. 502 of 12302025.docx
       - title: Рішення №503 від 30.12.2025 року
       - title: Рішення №504 від 30.12.2025 року
       - title: Рішення №505 від 30.12.2025 року
