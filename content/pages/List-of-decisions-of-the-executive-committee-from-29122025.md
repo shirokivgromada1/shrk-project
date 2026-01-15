@@ -141,6 +141,7 @@ components:
       - title: Рішення №531 від 30.12.2025 року
         link: /uploads/decision No. 531 of 12302025.docx
       - title: Рішення №532 від 30.12.2025 року
+        link: /uploads/decision No. 532 of 12302025.docx
       - title: Рішення №533 від 30.12.2025 року
       - title: Рішення №534 від 30.12.2025 року
       - title: Рішення №535 від 30.12.2025 року
