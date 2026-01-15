@@ -17,6 +17,7 @@ components:
       - title: Рішення №484 від 30.12.2025 року
         link: /uploads/decision No. 484 of 12302025.docx
       - title: Рішення №485 від 30.12.2025 року
+        link: /uploads/decision No. 485 of 12302025.docx
       - title: Рішення №486 від 30.12.2025 року
       - title: Рішення №487 від 30.12.2025 року
       - title: Рішення №488 від 30.12.2025 року
