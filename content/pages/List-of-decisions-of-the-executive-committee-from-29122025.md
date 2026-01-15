@@ -145,6 +145,10 @@ components:
       - title: Рішення №533 від 30.12.2025 року
         link: /uploads/decision No. 533 of 12302025.docx
       - title: Рішення №534 від 30.12.2025 року
+        link: /uploads/decision No. 534 of 12302025.docx
+        url: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision
+          No. 534 of 12302025.docx
       - title: Рішення №535 від 30.12.2025 року
       - title: Рішення №536 від 30.12.2025 року
       - title: Рішення №537 від 30.12.2025 року
