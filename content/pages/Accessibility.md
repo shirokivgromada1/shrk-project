@@ -19,6 +19,9 @@ components:
           implementation of the National Strategy for the creation of a
           barrier-free space 15012026.docx
       - title: Додаток D1
+        link: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Application
+          D115012026.docx
       - {}
     _template: Officially
 ---
