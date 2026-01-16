@@ -18,7 +18,7 @@ components:
           on the implementation of the regional Action Plan for the
           implementation of the National Strategy for the creation of a
           barrier-free space 15012026.docx
-      - {}
+      - title: Додаток D1
       - {}
     _template: Officially
 ---
