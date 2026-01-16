@@ -22,7 +22,10 @@ components:
         link: >-
           https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Application
           D115012026.docx
-      - {}
+      - title: Додаток D2
+        link: >-
+          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Application
+          D215012026.docx
     _template: Officially
 ---
 
