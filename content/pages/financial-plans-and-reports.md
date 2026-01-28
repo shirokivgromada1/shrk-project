@@ -3,18 +3,19 @@ title: financial-plans-and-reports
 components:
   - title: Фінансові плани КП та звіти
     order:
+      - {}
+      - {}
+      - {}
+      - title: Звiт про виконання фінплану КНП Клініка за І півріччя 2025 року
+        link: /uploads/Report on the implementation of the financial plan of the KNP Clinic for the first half of 2025_28012026.xls
       - title: Звіт про виконання фінплану СКП ОЖКП та РС за 1кв 2025 року
-        link: >-
-          /uploads/Звіт про виконання фінплану СКП ОЖКП та РС за 1кв 2025
-          року.xlsx
+        link: /uploads/Звіт про виконання фінплану СКП ОЖКП та РС за 1кв 2025 року.xlsx
       - title: Звіт про виконання фінплану КП БВС за 1 кв 2025 року
         link: /uploads/Звіт про виконання фінплану КП БВС за 1 кв 2025 року.xls
       - title: Звiт про виконання фінплану КП Аптека за 1 кв 2025 року
         link: /uploads/Звiт про виконання фінплану КП Аптека за 1 кв 2025 року.xls
       - title: Звiт про виконання фінплану КНП Клініка Сімейний лікар 1 кв 2025 року
-        link: >-
-          /uploads/Звiт про виконання фінплану КНП Клініка Сімейний лікар 1 кв
-          2025 року.xls
+        link: /uploads/Звiт про виконання фінплану КНП Клініка Сімейний лікар 1 кв 2025 року.xls
       - title: Зміни до фінплану СКП ОЖКП та РС на 2025 рік
         link: /uploads/Зміни до фінплану СКП ОЖКП та РС на 2025 рік.xlsx
       - title: Зміни до фінплану КП БВС на 2025 рік
@@ -24,13 +25,9 @@ components:
       - title: Звiт про виконання фінплану КП БВС за 2024 рік
         link: /uploads/Звiт про виконання фінплану КП БВС за 2024 рік.xls
       - title: Звiт про виконання фінплану КП Аптека Сімейний лікар за 2024 рік
-        link: >-
-          /uploads/Звiт про виконання фінплану КП Аптека Сімейний лікар за 2024
-          рік.xls
+        link: /uploads/Звiт про виконання фінплану КП Аптека Сімейний лікар за 2024 рік.xls
       - title: Звiт про виконання фінплану КНП Клініка Сімейний лікар за 2024 рік
-        link: >-
-          /uploads/Звiт про виконання фінплану КНП Клініка Сімейний лікар за
-          2024 рік.xls
+        link: /uploads/Звiт про виконання фінплану КНП Клініка Сімейний лікар за 2024 рік.xls
       - title: Фінансовий план СКП "ОЖКП та РС" на 2025 рік
         link: /uploads/фінплан СКП ОЖКП та РС на 2025 рік.xlsx
       - title: Фінансовий план КП "Аптека "Сімейний лікар" на 2025 рік
@@ -40,71 +37,35 @@ components:
       - title: Фінансовий план КП "БВС Широківської громади" на 2025 рік
         link: /uploads/Фінплан КП БВС на 2025 рік.xls
       - title: Звіт  про виконання фінплану СКП ОЖКП та РС за 9 місяців 2024 року
-        link: >-
-          /uploads/Звіт  про виконання фінплану СКП ОЖКП та РС за 9 місяців 2024
-          року.xlsx
-      - title: >-
-          Звiт про виконання фінплану КП Аптека Сімейний лікар за 9 місяців 2024
-          року
-        link: >-
-          /uploads/Звiт про виконання фінплану КП Аптека Сімейний лікар за 9
-          місяців 2024 року.xls
-      - title: >-
-          Звiт про виконання фінплану КНП Клініка Сімейний лікар за 9 місяців
-          2024 року
-        link: >-
-          /uploads/Звiт про виконання фінплану КНП Клініка Сімейний лікар 9
-          місяців 2024 року.xls
+        link: /uploads/Звіт  про виконання фінплану СКП ОЖКП та РС за 9 місяців 2024 року.xlsx
+      - title: Звiт про виконання фінплану КП Аптека Сімейний лікар за 9 місяців 2024 року
+        link: /uploads/Звiт про виконання фінплану КП Аптека Сімейний лікар за 9 місяців 2024 року.xls
+      - title: Звiт про виконання фінплану КНП Клініка Сімейний лікар за 9 місяців 2024 року
+        link: /uploads/Звiт про виконання фінплану КНП Клініка Сімейний лікар 9 місяців 2024 року.xls
       - title: Звіт про виконання фінплану КП БВС за 9 місяців  2024 року
-        link: >-
-          /uploads/Звіт про виконання фінплану КП БВС за 9 місяців  2024
-          року.xls
+        link: /uploads/Звіт про виконання фінплану КП БВС за 9 місяців  2024 року.xls
       - title: Звіт про виконання фінплану КП БВС за 1 півріччя 2024 року
-        link: >-
-          /uploads/Звіт про виконання фінплану КП БВС за 1 півріччя 2024
-          року.pdf
+        link: /uploads/Звіт про виконання фінплану КП БВС за 1 півріччя 2024 року.pdf
       - title: Звіт про виконання фінплану СКП ОЖКП та РС за 1 півріччя 2024 року
-        link: >-
-          /uploads/Звіт про виконання фінплану СКП ОЖКП та РС за 1 півріччя 2024
-          року.pdf
-      - title: >-
-          Звіт про виконання фінплану КНП Клініка Сімейний лікар за 1 півріччя
-          2024 року
-        link: >-
-          /uploads/Звіт про виконання фінплану КНП Клініка Сімейний лікар за 1
-          півріччя 2024 року.pdf
-      - title: >-
-          Звіт про виконання фінплану КП Аптека Сімейний лікар за 1 півріччя
-          2024 року
-        link: >-
-          /uploads/Звіт про виконання фінплану КП Аптека Сімейний лікар за 1
-          півріччя 2024 року.pdf
+        link: /uploads/Звіт про виконання фінплану СКП ОЖКП та РС за 1 півріччя 2024 року.pdf
+      - title: Звіт про виконання фінплану КНП Клініка Сімейний лікар за 1 півріччя 2024 року
+        link: /uploads/Звіт про виконання фінплану КНП Клініка Сімейний лікар за 1 півріччя 2024 року.pdf
+      - title: Звіт про виконання фінплану КП Аптека Сімейний лікар за 1 півріччя 2024 року
+        link: /uploads/Звіт про виконання фінплану КП Аптека Сімейний лікар за 1 півріччя 2024 року.pdf
       - title: ФІНПЛАН КП КП “БВС  ШИРОКІВСЬКОЇ ГРОМАДИ” на 2024 рік (ЗІ ЗМІНАМИ)
         link: /uploads/Фінансовий план КП БВС на 2024 рік з ізмінами.pdf
       - title: ФІНПЛАН КП АПТЕКА СІМЕЙНИЙ ЛІКАР на 2024 рік (ЗІ ЗМІНАМИ)
-        link: >-
-          /uploads/Фінансовий план КП Аптека Сімейний лікар на 2024 рік зі
-          змінами.pdf
+        link: /uploads/Фінансовий план КП Аптека Сімейний лікар на 2024 рік зі змінами.pdf
       - title: ФІНПЛАН КП КЛІНІКА СІМЕЙНИЙ ЛІКАР на 2024 рік (ЗІ ЗМІНАМИ)
-        link: >-
-          /uploads/Фінансовий план КНП Клініка Сімейний лікар на 2024 рік зі
-          змінами.pdf
+        link: /uploads/Фінансовий план КНП Клініка Сімейний лікар на 2024 рік зі змінами.pdf
       - title: Звіт про виконання фінплану СКП ОЖКП та РС за 1 кв 2024 року
-        link: >-
-          /uploads/Звіт про виконання фінплану СКП ОЖКП та РС за 1 кв 2024
-          року.pdf
+        link: /uploads/Звіт про виконання фінплану СКП ОЖКП та РС за 1 кв 2024 року.pdf
       - title: Звіт про виконання фінплану КП БВС за 1 кв 2024 року
         link: /uploads/Звіт про виконання фінплану КП БВС за 1 кв 2024 року.pdf
       - title: Звіт про виконання фінплану КП Аптека Сімейний лікар за 1 кв 2024 року
-        link: >-
-          /uploads/Звіт про виконання фінплану КП Аптека Сімейний лікар за 1 кв
-          2024 року.pdf
-      - title: >-
-          Звіт про виконання фінплану КНП Клініка Сімейний лікар за 1 кв 2024
-          року
-        link: >-
-          /uploads/Звіт про виконання фінплану КНП Клініка Сімейний лікар за 1
-          кв 2024 року(120012).pdf
+        link: /uploads/Звіт про виконання фінплану КП Аптека Сімейний лікар за 1 кв 2024 року.pdf
+      - title: Звіт про виконання фінплану КНП Клініка Сімейний лікар за 1 кв 2024 року
+        link: /uploads/Звіт про виконання фінплану КНП Клініка Сімейний лікар за 1 кв 2024 року(120012).pdf
       - title: ФІНПЛАН КП КСП ШИРОКЕ на 2024 рік
         link: /uploads/Фінансовий план КП КСП Широке на 2024 рік.pdf
       - title: ФІНПЛАН СКП “ОЖКП та РС” на 2024 рік
@@ -112,63 +73,43 @@ components:
       - title: ФІНПЛАН КП КП “БВС  ШИРОКІВСЬКОЇ ГРОМАДИ” на 2024 рік
         link: /uploads/Фінансовий план КП БВС на 2024 рік (1).pdf
       - title: ФІНПЛАН КП АПТЕКА СІМЕЙНИЙ ЛІКАР на 2024 рік
-        link: >-
-          /uploads/Фінансовий план КП Аптека Сімейний лікар на 2024 рік
-          (10102).pdf
+        link: /uploads/Фінансовий план КП Аптека Сімейний лікар на 2024 рік (10102).pdf
       - title: ФІНПЛАН КП КЛІНІКА СІМЕЙНИЙ ЛІКАР на 2024 рік
         link: /uploads/Фінансовий план КНП Клініка Сімейний лікар на 2024 рік.pdf
       - title: ФІНПЛАН КП АПТЕКА СІМЕЙНИЙ ЛІКАР на 2021 рік
-        link: >-
-          /uploads/officially/financial-plans-and-reports/FINPLAN-KP-APTEKA-SIMEYNYY-LIKAR-na-2021-rik.xlsx
+        link: /uploads/officially/financial-plans-and-reports/FINPLAN-KP-APTEKA-SIMEYNYY-LIKAR-na-2021-rik.xlsx
       - title: Звіт про виконання фінплану КП БВС за 2023 рік
         link: /uploads/Звіт про виконання фінплану КП БВС за 2023 рік.pdf
       - title: Звіт про виконання фінплану КП Аптека Сімейний лікар за 2023 рік
-        link: >-
-          /uploads/Звіт про виконання фінплану КП Аптека Сімейний лікар за 2023
-          рік.pdf
+        link: /uploads/Звіт про виконання фінплану КП Аптека Сімейний лікар за 2023 рік.pdf
       - title: Звіт про виконання фінплану КСП ШИРОКЕ за 2023 рік
         link: /uploads/Звіт про виконання фінплану КП КСП Широке за 2023 рік.pdf
       - title: ФІНПЛАН КП КСП ШИРОКЕ на 2021 рік
-        link: >-
-          /uploads/officially/financial-plans-and-reports/FINPLAN-KP-KSP-SHYROKE-na-2021-rik.xls
+        link: /uploads/officially/financial-plans-and-reports/FINPLAN-KP-KSP-SHYROKE-na-2021-rik.xls
       - title: ФІНПЛАН КП ЦПМСД СІМЕЙНИЙ ЛІКАР на 2021 рік
-        link: >-
-          /uploads/officially/financial-plans-and-reports/FINPLAN-KP-TSPMSD-SIMEYNYY-LIKAR-na-2021-rik.xlsx
+        link: /uploads/officially/financial-plans-and-reports/FINPLAN-KP-TSPMSD-SIMEYNYY-LIKAR-na-2021-rik.xlsx
       - title: ЗВІТ про виконання фінплану СКП ОЖКП та РС за 2020 рік
-        link: >-
-          /uploads/officially/financial-plans-and-reports/ZVIT-pro-vykonannia-finplanu-SKP-OZHKP-ta-RS-za-2020-rik.pdf
+        link: /uploads/officially/financial-plans-and-reports/ZVIT-pro-vykonannia-finplanu-SKP-OZHKP-ta-RS-za-2020-rik.pdf
       - title: ФІНПЛАН СКП ОЖКП та РС на 2021 рік
-        link: >-
-          /uploads/officially/financial-plans-and-reports/FINPLAN-SKP-OZHKP-ta-RS-na-2021-rik.xlsx
+        link: /uploads/officially/financial-plans-and-reports/FINPLAN-SKP-OZHKP-ta-RS-na-2021-rik.xlsx
       - title: Звіт про виконання фінплану КНП Клініка Сімейний лікар за 2023 рік
-        link: >-
-          /uploads/Звіт про виконання фінплану КНП Клініка Сімейний лікар за
-          2023 рік.pdf
+        link: /uploads/Звіт про виконання фінплану КНП Клініка Сімейний лікар за 2023 рік.pdf
       - title: Фінансовий план КНП “Запорізька ЦРЛ” Широківської с/р на 2022 рік
-        link: >-
-          /uploads/officially/financial-plans-and-reports/Finansovyy-plan-na-2022-rik-TSRL-1-2.pdf
+        link: /uploads/officially/financial-plans-and-reports/Finansovyy-plan-na-2022-rik-TSRL-1-2.pdf
       - title: Фінансовий план КП “Аптека “Сімейний лікар ” на 2022 рік
-        link: >-
-          /uploads/officially/financial-plans-and-reports/Finansovyy-plan-KNP-KLINIKA-Simeynyy-likar-na-2022-rik.xls
+        link: /uploads/officially/financial-plans-and-reports/Finansovyy-plan-KNP-KLINIKA-Simeynyy-likar-na-2022-rik.xls
       - title: Звіт про виконання фінплану СКП ОЖКП та РС за 2023 рік
-        link: >-
-          /uploads/Звіт про виконання фінплану СКП ОЖКП та РС за 2023
-          рік(10201).pdf
+        link: /uploads/Звіт про виконання фінплану СКП ОЖКП та РС за 2023 рік(10201).pdf
       - title: Фінансовий план КСП “Широке” на 2022 рік
-        link: >-
-          /uploads/officially/financial-plans-and-reports/Finansovyy-plan-KSP-SHyroke-na-2022-rik.pdf
+        link: /uploads/officially/financial-plans-and-reports/Finansovyy-plan-KSP-SHyroke-na-2022-rik.pdf
       - title: Фінансовий план СКП “ОЖКП та РС” на 2022 рік
-        link: >-
-          /uploads/officially/financial-plans-and-reports/Finansovyy-plan-SKP-OZHKP-ta-RS-na-2022-rik.pdf
+        link: /uploads/officially/financial-plans-and-reports/Finansovyy-plan-SKP-OZHKP-ta-RS-na-2022-rik.pdf
       - title: Фінансовий план КНП “ЦПМСД “Сімейний лікар” на 2022 рік
-        link: >-
-          /uploads/officially/financial-plans-and-reports/Finansovyy-plan-KNP-TSPMSD-Simeynyy-likar-na-2022-rik.pdf
+        link: /uploads/officially/financial-plans-and-reports/Finansovyy-plan-KNP-TSPMSD-Simeynyy-likar-na-2022-rik.pdf
       - title: 'Фінансовий план КП “БВС  Широківської громади” на 2022 рік '
-        link: >-
-          /uploads/officially/financial-plans-and-reports/Finplan-KP-BVS-SHyrokivs-koi-hromady-na-2022-rik-1-1.xls
+        link: /uploads/officially/financial-plans-and-reports/Finplan-KP-BVS-SHyrokivs-koi-hromady-na-2022-rik-1-1.xls
       - title: Фінансовий план КНП КЛІНІКА Сімейний лікар на 2022 рік
-        link: >-
-          /uploads/officially/financial-plans-and-reports/Finansovyy-plan-KNP-KLINIKA-Simeynyy-likar-na-2022-rik.xls
+        link: /uploads/officially/financial-plans-and-reports/Finansovyy-plan-KNP-KLINIKA-Simeynyy-likar-na-2022-rik.xls
     _template: HeadOrders
 ---
 
