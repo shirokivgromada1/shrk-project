@@ -3,6 +3,11 @@ title: financial-plans-and-reports
 components:
   - title: Фінансові плани КП та звіти
     order:
+      - {}
+      - {}
+      - {}
+      - title: Звiт про виконання фінплану КНП Клініка Сімейний лікар 9 місяців 2025 року
+        link: /uploads/Report on the implementation of the financial plan of the KNP Clinic Family Doctor for 9 months of 2025_28012026.xls
       - title: Звіт про виконання фінплану СКП ОЖКП та РС за І півріччя 2025 року
         link: /uploads/Report on the implementation of the financial plan of the UPC of the OZHKP and RS for the first half of 2025_28012026.xlsx
       - title: Звіт про виконання фінплану КП БВС за І півріччя 2025 року
