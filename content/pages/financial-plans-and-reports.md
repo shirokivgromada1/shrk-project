@@ -4,7 +4,9 @@ components:
   - title: Фінансові плани КП та звіти
     order:
       - {}
-      - {}
+      - title: Звіт про виконання фінплану КП БВС за 9 місяців 2025 року
+        link: /uploads/Report on the implementation of the financial plan of the Municipal Enterprise BVS for 9 months of 2025_28012026.xls
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Report on the implementation of the financial plan of the Municipal Enterprise BVS for 9 months of 2025_28012026.xls'
       - title: Звiт про виконання фінплану КП Аптека за 9 місяців 2025 року
         link: /uploads/Report on the implementation of the financial plan of the Apteka KP for 9 months of 2025_28012026.xls
       - title: Звiт про виконання фінплану КНП Клініка Сімейний лікар 9 місяців 2025 року
