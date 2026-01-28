@@ -4,7 +4,8 @@ components:
   - title: Фінансові плани КП та звіти
     order:
       - {}
-      - {}
+      - title: Звіт про виконання фінплану КП БВС за І півріччя 2025 року
+        link: /uploads/Report on the implementation of the financial plan of the BVS for the first half of 2025_28012026.xls
       - title: Звiт про виконання фінплану КП Аптека за І півріччя 2025 року
         link: /uploads/Report on the implementation of the financial plan of the Apteka KP for the first half of 2025_28012026.xls
       - title: Звiт про виконання фінплану КНП Клініка за І півріччя 2025 року
