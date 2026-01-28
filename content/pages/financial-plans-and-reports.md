@@ -6,7 +6,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Фінансовий план КП Аптека Сімейний лікар на 2026 рік
+        link: /uploads/Financial plan of the KP Pharmacy Family Doctor for 2026_28012026.xlsx
       - title: Фiнансовий план КНП Клініка Сімейний лікар на 2026 рік
         link: /uploads/Financial plan of the KNP Clinic Family Doctor for 2026_28012026.xls
         url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Financial plan of the KNP Clinic Family Doctor for 2026_28012026.xls'
