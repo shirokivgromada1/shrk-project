@@ -3,7 +3,8 @@ title: financial-plans-and-reports
 components:
   - title: Фінансові плани КП та звіти
     order:
-      - {}
+      - title: Фінансовий план СКП ОЖКП та РС на 2026 рік
+        link: /uploads/Фінансовий план комунального підприємтсва ОЖКП та РС на 2026 рік 28012026.xlsx
       - title: Фінансовий план КСП Широке  на 2026 рік
         link: /uploads/Financial plan of KSP Shyroke for 2026_28012026.xlsx
         url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Financial plan of KSP Shyroke for 2026_28012026.xlsx'
