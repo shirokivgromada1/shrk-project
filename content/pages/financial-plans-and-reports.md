@@ -5,7 +5,8 @@ components:
     order:
       - {}
       - {}
-      - {}
+      - title: Звiт про виконання фінплану КП Аптека за І півріччя 2025 року
+        link: /uploads/Report on the implementation of the financial plan of the Apteka KP for the first half of 2025_28012026.xls
       - title: Звiт про виконання фінплану КНП Клініка за І півріччя 2025 року
         link: /uploads/Report on the implementation of the financial plan of the KNP Clinic for the first half of 2025_28012026.xls
       - title: Звіт про виконання фінплану СКП ОЖКП та РС за 1кв 2025 року
