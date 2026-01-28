@@ -32,6 +32,7 @@ components:
       - title: Рішення №32 від 20.01.2026 року
         link: /uploads/decision No. 32 of 01202026.docx
       - title: Рішення №33 від 20.01.2026 року
+        link: /uploads/decision No. 33 of 01202026.docx
       - title: Рішення №34 від 20.01.2026 року
       - title: Рішення №35 від 20.01.2026 року
       - title: Рішення №36 від 20.01.2026 року
