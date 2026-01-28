@@ -5,7 +5,8 @@ components:
     order:
       - {}
       - {}
-      - {}
+      - title: Звiт про виконання фінплану КП Аптека за 9 місяців 2025 року
+        link: /uploads/Report on the implementation of the financial plan of the Apteka KP for 9 months of 2025_28012026.xls
       - title: Звiт про виконання фінплану КНП Клініка Сімейний лікар 9 місяців 2025 року
         link: /uploads/Report on the implementation of the financial plan of the KNP Clinic Family Doctor for 9 months of 2025_28012026.xls
       - title: Звіт про виконання фінплану СКП ОЖКП та РС за І півріччя 2025 року
