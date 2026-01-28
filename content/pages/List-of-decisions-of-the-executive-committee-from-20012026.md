@@ -6,6 +6,7 @@ components:
       - title: Перелік рішень виконавчого комітету №04 від 20.01.2026 року
         link: /uploads/List of decisions of the executive committee No. 04 dated 01202026.docx
       - title: Рішення №21 від 20.01.2026 року
+        link: /uploads/decision No. 21 of 01202026.docx
       - title: Рішення №22 від 20.01.2026 року
       - title: Рішення №23 від 20.01.2026 року
       - title: Рішення №24 від 20.01.2026 року
