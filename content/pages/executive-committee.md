@@ -9,9 +9,7 @@ components:
         phone: 'тел: +38 (061) 286 21 20'
         email: shyroke.otg@gmail.com
       - fullname: Свіркін Дмитро Олександрович
-        position: >-
-          Заступник сільського голови з питань діяльності виконавчих органів
-          ради
+        position: Заступник сільського голови з питань діяльності виконавчих органів ради
         phone: 'тел: +38 (061) 286 21 20'
         email: shyroke.otg@gmail.com
       - fullname: Ставицька Ольга Сергіївна
@@ -19,15 +17,11 @@ components:
         phone: +38 (050) 733 18 78
         email: shyroke.otg@gmail.com
       - fullname: Юдіна Марина Дмитрівна
-        position: >-
-          заступник сільського голови  з питань діяльності виконавчих органів
-          ради
+        position: заступник сільського голови  з питань діяльності виконавчих органів ради
         phone: +38 (067) 920-06-78
         email: shyroke.otg@gmail.com
       - fullname: Бондар Олександр Олександрович
-        position: >-
-          заступник сільського голови  з питань діяльності виконавчих органів
-          ради
+        position: заступник сільського голови  з питань діяльності виконавчих органів ради
         phone: +38 (097) 508-48-48
         email: shyroke.otg@gmail.com
       - fullname: Головань Лариса Семенівна
@@ -76,1131 +70,534 @@ components:
     subtitle: ''
     notMain: true
     order:
+      - title: Виконавчий комітет від 12.01.2026 року №02
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-12012026'
       - title: Виконавчий комітет від 08.01.2026 року №01
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-08012026
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-08012026'
         buttonText: Перейти
       - title: Виконавчий комітет від 29.12.2025 року №39
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-29122025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-29122025'
         buttonText: Перейти
       - title: Виконавчий комітет від 19.12.2025 року №38
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-19122025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-19122025'
         buttonText: Перейти
       - title: Виконавчий комітет від 11.12.2025 року №37
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-11122025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-11122025'
         buttonText: Перейти
       - title: Виконавчий комітет від 03.12.2025 року №36
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-03122025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-03122025'
         buttonText: Перейти
       - title: Виконавчий комітет від 24.11.2025 року №35
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-24112025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-24112025'
         buttonText: Перейти
       - title: Виконавчий комітет від 17.11.2025 року №34
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-17112025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-17112025'
         buttonText: Перейти
       - title: Виконавчий комітет від 06.11.2025 року №33
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-06112025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-06112025'
         buttonText: Перейти
       - title: Виконавчий комітет від 05.11.2025 року №32
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-05112025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-05112025'
         buttonText: Перейти
       - title: Виконавчий комітет від 31.10.2025 року №31
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-31102025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-31102025'
         buttonText: Перейти
       - title: Виконавчий комітет від 29.10.2025 року №30
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-29102025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-29102025'
         buttonText: Перейти
       - title: Виконавчий комітет від 23.10.2025 року №29
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-23102025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-23102025'
         buttonText: Перейти
       - title: Виконавчий комітет від 16.10.2025 року №28
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-16102025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-16102025'
         buttonText: Перейти
-      - title: >-
-          Додаток до проєкту рішення про встановлення тарифу на послуги
-          централізованого водопостачання (оприлюднено 09.06.2025)
-        link: >-
-          /uploads/норми питного водопостачання  Проект з додаками  до
-          рішення.docx
-      - title: >-
-          Проєкт рішення про встановлення тарифу на послуги централізованого
-          водопостачання (оприлюднено 09.06.2025)
-        link: >-
-          /uploads/проєкт рішення про встановлення тарифу на послуги
-          централізованого водопостачання.doc
+      - title: Додаток до проєкту рішення про встановлення тарифу на послуги централізованого водопостачання (оприлюднено 09.06.2025)
+        link: /uploads/норми питного водопостачання  Проект з додаками  до рішення.docx
+      - title: Проєкт рішення про встановлення тарифу на послуги централізованого водопостачання (оприлюднено 09.06.2025)
+        link: /uploads/проєкт рішення про встановлення тарифу на послуги централізованого водопостачання.doc
       - title: Виконавчий комітет від 02.10.2025 року №27
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-02102025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-02102025'
         buttonText: Перейти
       - title: Виконавчий комітет від 30.09.2025 року №26
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-30092025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-30092025'
         buttonText: Перейти
       - title: Виконавчий комітет від 24.09.2025 року №25
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-24092025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-24092025'
         buttonText: Перейти
       - title: Виконавчий комітет від 17.09.2025 року №24
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-17092025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-17092025'
         buttonText: Перейти
       - title: Виконавчий комітет від 10.09.2025 року №23
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-10092025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-10092025'
         buttonText: Перейти
       - title: Виконавчий комітет від 08.09.2025 року №22
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-08092025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-08092025'
         buttonText: Перейти
       - title: Виконавчий комітет від 04.09.2025 року №21
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-04092025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-04092025'
         buttonText: Перейти
       - title: Виконавчий комітет від 29.08.2025 року №20
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-29082025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-29082025'
         buttonText: Перейти
       - title: Виконавчий комітет від 21.08.2025 року №19
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-21082025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-21082025'
         buttonText: Перейти
       - title: Виконавчий комітет від 07.08.2025 року №18
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-07082025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-07082025'
         buttonText: Перейти
       - title: Виконавчий комітет від 11.07.2025 року №17
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-11072025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-11072025'
         buttonText: Перейти
       - title: Виконавчий комітет від 03.07.2025 року №16
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-03072025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-03072025'
         buttonText: Перейти
       - title: Виконавчий комітет від 25.06.2025 року №15
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-25062025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-25062025'
         buttonText: Перейти
       - title: Виконавчий комітет від 16.06.2025 року №14
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-16062025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-16062025'
         buttonText: Перейти
       - title: Виконавчий комітет від 05.06.2025 року №13
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-05062025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-05062025'
         buttonText: Перейти
       - title: Виконавчий комітет від 19.05.2025 року №12
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-19052025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-19052025'
         buttonText: Перейти
       - title: Виконавчий комітет від 08.05.2025 року №11
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-08052025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-08052025'
         buttonText: Перейти
       - title: Виконавчий комітет від 01.05.2025 року №10
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-01052025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-01052025'
         buttonText: Перейти
       - title: Виконавчий комітет від 23.04.2025 року №9
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-23042025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-23042025'
         buttonText: Перейти
       - title: Виконавчий комітет від 15.04.2025 року №08
-        url: >-
-          https://shtg.gov.ua/15042025List-of-decisions-of-the-executive-committee
+        url: 'https://shtg.gov.ua/15042025List-of-decisions-of-the-executive-committee'
         buttonText: Перейти
       - title: Виконавчий комітет від 03.04.2025 року №07
-        url: >-
-          https://shtg.gov.ua/03042025List-of-decisions-of-the-executive-committee-from
+        url: 'https://shtg.gov.ua/03042025List-of-decisions-of-the-executive-committee-from'
         buttonText: Перейти
       - title: Виконавчий комітет від 17.03.2025 року № 06
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-17032025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-17032025'
         buttonText: Перейти
       - title: Виконавчий комітет від 06.03.2025 року № 05
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-06032025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-06032025'
         buttonText: Перейти
       - title: Виконавчий комітет від 27.02.2025 року № 04
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-27022025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-27022025'
         buttonText: Перейти
       - title: Виконавчий комітет від 06.02.2025 року № 03
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-06022025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-06022025'
         buttonText: Перейти
       - title: Виконавчий комітет від 28.01.2025 року № 02
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-28012025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-28012025'
         buttonText: Перейти
       - title: Виконавчий комітет від 09.01.2025 №01
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-09012025
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-09012025'
         buttonText: Перейти
       - title: Виконавчий комітет від 27.12.2024 №38
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-27122024
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-27122024'
         buttonText: Перейти
       - title: Виконавчий комітет від 25.12.2024 №37
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-25122024
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-25122024'
         buttonText: Перейти
       - title: Виконавчий комітет від 16.12.2024 №36
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-16122024
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-16122024'
         buttonText: Перейти
       - title: Виконавчий комітет від 09.12.2024 №35
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-09122024
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-09122024'
         buttonText: Перейти
       - title: Виконавчий комітет від 05.12.2024 №34
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-05122024
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-05122024'
         buttonText: Перейти
       - title: Виконавчий комітет від 28.11.2024 №33
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-28112024
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-28112024'
         buttonText: Перейти
       - title: Виконавчий комітет від 27.11.2024 №33
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-27112024
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-27112024'
         buttonText: Перейти
       - title: Виконавчий комітет від 22.11.2024 №31
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-22112024
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-22112024'
         buttonText: Перейти
       - title: Виконавчий комітет від 07.11.2024 №30
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-07112024
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-07112024'
         buttonText: Перейти
       - title: Виконавчий комітет від 31.10.2024 №29
-        url: >-
-          https://shtg.gov.ua/List-of-executive-committee-decisions-from-31102024
+        url: 'https://shtg.gov.ua/List-of-executive-committee-decisions-from-31102024'
         buttonText: Перейти
       - title: Виконавчий комітет від 25.10.2024 №28
-        url: >-
-          https://shtg.gov.ua/List-of-executive-committee-decisions-from-25102024
+        url: 'https://shtg.gov.ua/List-of-executive-committee-decisions-from-25102024'
         buttonText: Перейти
       - title: Виконавчий комітет від 15.10.2024 №27
-        url: >-
-          https://shtg.gov.ua/List-of-executive-committee-decisions-from-15102024
+        url: 'https://shtg.gov.ua/List-of-executive-committee-decisions-from-15102024'
         buttonText: Перейти
       - title: Виконавчий комітет від 05.09.2024 №26
-        url: >-
-          https://shtg.gov.ua/List-of-executive-committee-decisions-from-03102024
+        url: 'https://shtg.gov.ua/List-of-executive-committee-decisions-from-03102024'
         buttonText: Перейти
       - title: Виконавчий комітет від 05.09.2024 №24
-        url: >-
-          https://shtg.gov.ua/List-of-executive-committee-decisions-from-05092024
+        url: 'https://shtg.gov.ua/List-of-executive-committee-decisions-from-05092024'
         buttonText: Перейти
       - title: Виконавчий комітет від 22.08.2024 №23
-        url: >-
-          https://shtg.gov.ua/List-of-executive-committee-decisions-from-22082024
+        url: 'https://shtg.gov.ua/List-of-executive-committee-decisions-from-22082024'
         buttonText: Перейти
       - title: Виконавчий комітет від 01.08.2024 року № 22
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-01082024
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-01082024'
         buttonText: Перейти
       - title: Виконавчий комітет від 30.07.2024 року № 21
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-30072024
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-30072024'
         buttonText: Перейти
       - title: Виконавчий комітет від 18.07.2024 року № 20
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-18072024
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-18072024'
         buttonText: Перейти
       - title: Виконавчий комітет від 04.07.2024 року № 19
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-04072024
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-04072024'
         buttonText: Перейти
       - title: Виконавчий комітет від 13.06.2024 року № 17
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-13062024
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-13062024'
         buttonText: Перейти
       - title: Виконавчий комітет від 06.06.2024 №16
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-06062024
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-06062024'
         buttonText: Перейти
       - title: Виконавчий комітет від 22.05.2024 року № 15
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-22052024
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-22052024'
         buttonText: Перейти
       - title: Виконавчий комітет від 08.05.2024 року № 14
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-08052024
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-08052024'
         buttonText: Перейти
       - title: Виконавчий комітет від 02.05.2024 року № 13
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-02052024
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-02052024'
         buttonText: Перейти
       - title: Виконавчий комітет від 29.04.2024 року № 12
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-29042024-12
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-29042024-12'
         buttonText: Перейти
       - title: Виконавчий комітет від 24.04.2024 року № 11
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-24042024
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-24042024'
         buttonText: Перейти
       - title: Виконавчий комітет від 16.04.2024 року № 10
-        url: >-
-          https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-16042024-
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-16042024-'
         buttonText: Перейти
       - title: Виконавчий комітет від 09.04.2024 року № 09
-        url: >-
-          https://shtg.gov.ua/list-of-decisions-of-the-executive-committee-from-09042024
+        url: 'https://shtg.gov.ua/list-of-decisions-of-the-executive-committee-from-09042024'
         buttonText: Перейти
       - title: Про взяття на квартирний облік від 04.04.2024 року №102
         link: /uploads/рішення №102 від 04.04.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №102 від 04.04.2024 року.docx
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №102 від 04.04.2024 року.docx'
       - title: Про взяття на квартирний облік від 04.04.2024 року №101
         link: /uploads/рішення №101 від 04.04.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №101 від 04.04.2024 року.docx
-      - title: >-
-          Про погодження заяви КУ «Веселівський психоневрологічний інтернат»
-          Запорізької обласної ради до Управління соціального захисту населення
-          Запорізької райдержадміністрації щодо перерахування на рахунок
-          установи різниці між сумою призначеної пенсії та сумою виплаченої
-          державної соціальної допомоги недієздатним особам, яка перебувають на
-          повному державному утриманні від 04.04.2024 року №100
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №101 від 04.04.2024 року.docx'
+      - title: 'Про погодження заяви КУ «Веселівський психоневрологічний інтернат» Запорізької обласної ради до Управління соціального захисту населення Запорізької райдержадміністрації щодо перерахування на рахунок установи різниці між сумою призначеної пенсії та сумою виплаченої державної соціальної допомоги недієздатним особам, яка перебувають на повному державному утриманні від 04.04.2024 року №100'
         link: /uploads/рішення №100 від 04.04.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №100 від 04.04.2024 року.docx
-      - title: >-
-          Про погодження заяви КУ «Веселівський психоневрологічний інтернат»
-          Запорізької обласної ради до Управління соціального захисту населення
-          Запорізької райдержадміністрації щодо перерахування на рахунок
-          установи різниці між сумою призначеної пенсії та сумою виплаченої
-          пенсії недієздатним особам, які перебувають на повному державному
-          утриманні від 04.04.2024 року №99
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №100 від 04.04.2024 року.docx'
+      - title: 'Про погодження заяви КУ «Веселівський психоневрологічний інтернат» Запорізької обласної ради до Управління соціального захисту населення Запорізької райдержадміністрації щодо перерахування на рахунок установи різниці між сумою призначеної пенсії та сумою виплаченої пенсії недієздатним особам, які перебувають на повному державному утриманні від 04.04.2024 року №99'
         link: /uploads/рішення №99 від 04.04.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №99 від 04.04.2024 року.docx
-      - title: >-
-          Про розроблення Програми комплексного відновлення території
-          Широківської сільської територіальної громади від 04.04.2024 року №98
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №99 від 04.04.2024 року.docx'
+      - title: Про розроблення Програми комплексного відновлення території Широківської сільської територіальної громади від 04.04.2024 року №98
         link: /uploads/рішення №98 від 04.04.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №98 від 04.04.2024 року.docx
-      - title: >-
-          Про звіт керівника Комунального підприємства «Благводсервіс
-          Широківської громади» Широківської сільської ради щодо фінансово-
-          господарської діяльності комунального підприємства в 2023 році від
-          04.04.2024 року №97
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №98 від 04.04.2024 року.docx'
+      - title: Про звіт керівника Комунального підприємства «Благводсервіс Широківської громади» Широківської сільської ради щодо фінансово- господарської діяльності комунального підприємства в 2023 році від 04.04.2024 року №97
         link: /uploads/рішення №97 від 04.04.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №97 від 04.04.2024 року.docx
-      - title: >-
-          Про заходи з благоустрою та впорядкування довкілля території
-          Широківської сільської ради Запорізького району Запорізької області
-          від 04.04.2024 року №96
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №97 від 04.04.2024 року.docx'
+      - title: Про заходи з благоустрою та впорядкування довкілля території Широківської сільської ради Запорізького району Запорізької області від 04.04.2024 року №96
         link: /uploads/рішення №96 від 04.04.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №96 від 04.04.2024 року.docx
-      - title: >-
-          Про передачу майна в оперативне управління закладам освіти від
-          04.04.2024 року №95
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №96 від 04.04.2024 року.docx'
+      - title: Про передачу майна в оперативне управління закладам освіти від 04.04.2024 року №95
         link: /uploads/рішення №95 від 04.04.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №95 від 04.04.2024 року.docx
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №95 від 04.04.2024 року.docx'
       - title: Про внесення змін до кошторисних призначень від 04.04.2024 року №94
         link: /uploads/рішення №94 від 04.04.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №94 від 04.04.2024 року.docx
-      - title: >-
-          Про перейменування вулиць та провулків в населених пунктах
-          Широківської сільської територіальної громади від 04.04.2024 року №93
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №94 від 04.04.2024 року.docx'
+      - title: Про перейменування вулиць та провулків в населених пунктах Широківської сільської територіальної громади від 04.04.2024 року №93
         link: /uploads/рішення №93 від 04.04.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №93 від 04.04.2024 року.docx
-      - title: >-
-          Про роботу виконавчого комітету Широківської сільської ради з
-          виконання вимог Закону України «Про запобігання корупції» протягом 1
-          кварталу 2024 року від 04.04.2024 року №92
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №93 від 04.04.2024 року.docx'
+      - title: Про роботу виконавчого комітету Широківської сільської ради з виконання вимог Закону України «Про запобігання корупції» протягом 1 кварталу 2024 року від 04.04.2024 року №92
         link: /uploads/рішення №92 від 04.04.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №92 від 04.04.2024 року.docx
-      - title: >-
-          Про роботу виконавчого комітету Широківської сільської ради з
-          виконання вимог Закону України «Про доступ до публічної інформації» в
-          1 кварталі 2024 року від 04.04.2024 року №91
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №92 від 04.04.2024 року.docx'
+      - title: Про роботу виконавчого комітету Широківської сільської ради з виконання вимог Закону України «Про доступ до публічної інформації» в 1 кварталі 2024 року від 04.04.2024 року №91
         link: /uploads/рішення №91 від 04.04.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №91 від 04.04.2024 року.docx
-      - title: >-
-          Про роботу виконавчого комітету Широківської сільської ради з
-          виконання вимог Закону України «Про звернення громадян» в 1 кварталі
-          2024 року від 04.04.2024 року №90
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №91 від 04.04.2024 року.docx'
+      - title: Про роботу виконавчого комітету Широківської сільської ради з виконання вимог Закону України «Про звернення громадян» в 1 кварталі 2024 року від 04.04.2024 року №90
         link: /uploads/рішення №90 від 04.04.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №90 від 04.04.2024 року.docx
-      - title: >-
-          Про виконання делегованих повноважень органів виконавчої влади у
-          галузі житлово-комунального господарства, побутового, торговельного
-          обслуговування, громадського харчування, транспорту і зв’язку від
-          04.04.2024 року №89
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №90 від 04.04.2024 року.docx'
+      - title: 'Про виконання делегованих повноважень органів виконавчої влади у галузі житлово-комунального господарства, побутового, торговельного обслуговування, громадського харчування, транспорту і зв’язку від 04.04.2024 року №89'
         link: /uploads/рішення №89 від 04.04.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №89 від 04.04.2024 року.docx
-      - title: >-
-          Про розгляд звіту про виконання бюджету Широківської сільської
-          територіальної громади за 1 квартал 2024 року від 04.04.2024 року №88
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №89 від 04.04.2024 року.docx'
+      - title: Про розгляд звіту про виконання бюджету Широківської сільської територіальної громади за 1 квартал 2024 року від 04.04.2024 року №88
         link: /uploads/рішення №88 від 04.04.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №88 від 04.04.2024 року.docx
-      - title: >-
-          Перелік рішень  в протоколі засідання виконавчого комітету від
-          04.04.2024 року № 08
-        link: >-
-          /uploads/Перелік рішень виконавчого комірету №07 від 04.04.2024
-          року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Перелік
-          рішень виконавчого комітету №07 від 04.04.2024 року.docx
-      - title: >-
-          Перелік рішень  в протоколі засідання виконавчого комітету від
-          27.03.2024 року № 07
-        link: >-
-          /uploads/Перелік рішень виконавчого комітету №07 від 27.03.2024
-          року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Перелік
-          рішень виконавчого комітету №07 від 27.03.2024 року.docx
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №88 від 04.04.2024 року.docx'
+      - title: Перелік рішень  в протоколі засідання виконавчого комітету від 04.04.2024 року № 08
+        link: /uploads/Перелік рішень виконавчого комірету №07 від 04.04.2024 року.docx
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Перелік рішень виконавчого комітету №07 від 04.04.2024 року.docx'
+      - title: Перелік рішень  в протоколі засідання виконавчого комітету від 27.03.2024 року № 07
+        link: /uploads/Перелік рішень виконавчого комітету №07 від 27.03.2024 року.docx
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Перелік рішень виконавчого комітету №07 від 27.03.2024 року.docx'
       - title: Про негайне відібрання малолітньої дитини від 27.03.2024 №87
         link: /uploads/рішення №87 від 27.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №87 від 27.03.2024 року.docx
-      - title: >-
-          Перелік рішень  в протоколі засідання виконавчого комітету від
-          07.03.2024 року № 06
-        link: >-
-          /uploads/Перелік рішень виконавчого комітету №06 від 07.03.2024
-          року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Перелік
-          рішень виконавчого комітету №06 від 07.03.2024 року.docx
-      - title: >-
-          Про затвердження Порядку розміщення та демонтажу об’єктів зовнішньої
-          реклами на території Широківської сільської ради Запорізького району
-          Запорізької області у новій редакції від 07.03.2024 року №86
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №87 від 27.03.2024 року.docx'
+      - title: Перелік рішень  в протоколі засідання виконавчого комітету від 07.03.2024 року № 06
+        link: /uploads/Перелік рішень виконавчого комітету №06 від 07.03.2024 року.docx
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Перелік рішень виконавчого комітету №06 від 07.03.2024 року.docx'
+      - title: Про затвердження Порядку розміщення та демонтажу об’єктів зовнішньої реклами на території Широківської сільської ради Запорізького району Запорізької області у новій редакції від 07.03.2024 року №86
         link: /uploads/рішення №86 від 07.03.2024 року (1).docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №86 від 07.03.2024 року (1).docx
-      - title: >-
-          Про внесення змін до бюджетних призначень на 2024 рік від 07.03.2024
-          року №85 
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №86 від 07.03.2024 року (1).docx'
+      - title: 'Про внесення змін до бюджетних призначень на 2024 рік від 07.03.2024 року №85 '
         link: /uploads/рішення №85 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №85 від 07.03.2024 року.docx
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №85 від 07.03.2024 року.docx'
       - title: Про внесення змін до кошторисних призначень від 07.03.2024 року №84
         link: /uploads/рішення №84 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №84 від 07.03.2024 року.docx
-      - title: >-
-          Про надання статусу дитини, позбавленої батьківського піклування від
-          07.03.2024 року №83
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №84 від 07.03.2024 року.docx'
+      - title: 'Про надання статусу дитини, позбавленої батьківського піклування від 07.03.2024 року №83'
         link: /uploads/рішення №83 від 07.03.2024 року.doc
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №83 від 07.03.2024 року.doc
-      - title: >-
-          Про упорядкування нумерації об’єктів нерухомого майна на території
-          Широківської сільської територіальної громади Запорізького району
-          Запорізької області від 07.03.2024 року №82
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №83 від 07.03.2024 року.doc'
+      - title: Про упорядкування нумерації об’єктів нерухомого майна на території Широківської сільської територіальної громади Запорізького району Запорізької області від 07.03.2024 року №82
         link: /uploads/рішення №82 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №82 від 07.03.2024 року.docx
-      - title: >-
-          Про затвердження висновку про доцільність призначення опікуна від
-          07.03.2024 року №81
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №82 від 07.03.2024 року.docx'
+      - title: Про затвердження висновку про доцільність призначення опікуна від 07.03.2024 року №81
         link: /uploads/рішення №81 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №81 від 07.03.2024 року.docx
-      - title: >-
-          Про надання статусу дитини, яка постраждала внаслідок воєнних дій та
-          збройних конфліктів від 07.03.2024 року №80
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №81 від 07.03.2024 року.docx'
+      - title: 'Про надання статусу дитини, яка постраждала внаслідок воєнних дій та збройних конфліктів від 07.03.2024 року №80'
         link: /uploads/рішення №80 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №80 від 07.03.2024 року.docx
-      - title: >-
-          Про надання статусу дитини, яка постраждала внаслідок воєнних дій та
-          збройних конфліктів від 07.03.2024 року №79
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №80 від 07.03.2024 року.docx'
+      - title: 'Про надання статусу дитини, яка постраждала внаслідок воєнних дій та збройних конфліктів від 07.03.2024 року №79'
         link: /uploads/рішення №79 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №79 від 07.03.2024 року.docx
-      - title: >-
-          Про надання статусу дитини, яка постраждала внаслідок воєнних дій та
-          збройних конфліктів від 07.03.2024 року №78
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №79 від 07.03.2024 року.docx'
+      - title: 'Про надання статусу дитини, яка постраждала внаслідок воєнних дій та збройних конфліктів від 07.03.2024 року №78'
         link: /uploads/рішення №78 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №78 від 07.03.2024 року.docx
-      - title: >-
-          Про надання статусу дитини, яка постраждала внаслідок воєнних дій та
-          збройних конфліктів від 07.03.2024 року №77
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №78 від 07.03.2024 року.docx'
+      - title: 'Про надання статусу дитини, яка постраждала внаслідок воєнних дій та збройних конфліктів від 07.03.2024 року №77'
         link: /uploads/рішення №77 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №77 від 07.03.2024 року.docx
-      - title: >-
-          Про надання статусу дитини, яка постраждала внаслідок воєнних дій та
-          збройних конфліктів від 07.03.2024 року №76
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №77 від 07.03.2024 року.docx'
+      - title: 'Про надання статусу дитини, яка постраждала внаслідок воєнних дій та збройних конфліктів від 07.03.2024 року №76'
         link: /uploads/рішення №76 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №76 від 07.03.2024 року.docx
-      - title: >-
-          Про надання статусу дитини, яка постраждала внаслідок воєнних дій та
-          збройних конфліктів від 07.03.2024 року №75
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №76 від 07.03.2024 року.docx'
+      - title: 'Про надання статусу дитини, яка постраждала внаслідок воєнних дій та збройних конфліктів від 07.03.2024 року №75'
         link: /uploads/рішення №75 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №75 від 07.03.2024 року.docx
-      - title: >-
-          Про продовження строку перебування малолітнього Хххххх Х.Х.,хх.хх.хххх
-          року народження, в Комунальному закладі «Бердянська спеціальна
-          загальноосвітня санаторна школа-інтернат І-ІІІ ступенів» Запорізької
-          обласної ради від 07.03.2024 року №74
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №75 від 07.03.2024 року.docx'
+      - title: 'Про продовження строку перебування малолітнього Хххххх Х.Х.,хх.хх.хххх року народження, в Комунальному закладі «Бердянська спеціальна загальноосвітня санаторна школа-інтернат І-ІІІ ступенів» Запорізької обласної ради від 07.03.2024 року №74'
         link: /uploads/рішення №74 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №74 від 07.03.2024 року.docx
-      - title: >-
-          Про надання дозволу на вчинення правочину щодо нерухомого майна, право
-          користування яким має малолітня дитина від 07.03.2024 року №73
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №74 від 07.03.2024 року.docx'
+      - title: 'Про надання дозволу на вчинення правочину щодо нерухомого майна, право користування яким має малолітня дитина від 07.03.2024 року №73'
         link: /uploads/рішення №73 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №73 від 07.03.2024 року.docx
-      - title: >-
-          Про затвердження форми бланку звіту опікуна/піклувальника про
-          доцільність щодо забезпечення прав та інтересів малолітніх
-          (неповнолітніх) дітей від 07.03.2024 року №72
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №73 від 07.03.2024 року.docx'
+      - title: Про затвердження форми бланку звіту опікуна/піклувальника про доцільність щодо забезпечення прав та інтересів малолітніх (неповнолітніх) дітей від 07.03.2024 року №72
         link: /uploads/рішення №72 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №72 від 07.03.2024 року.docx
-      - title: >-
-          Про затвердження інформаційних карток адміністративних послуг, які
-          надаються через відділ «Центр надання адміністративних послуг»
-          виконавчого комітету Широківської сільської ради Запорізького району
-          Запорізької області від 07.03.2024 року №71
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №72 від 07.03.2024 року.docx'
+      - title: 'Про затвердження інформаційних карток адміністративних послуг, які надаються через відділ «Центр надання адміністративних послуг» виконавчого комітету Широківської сільської ради Запорізького району Запорізької області від 07.03.2024 року №71'
         link: /uploads/рішення №71 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №71 від 07.03.2024 року.docx
-      - title: >-
-          Про надання дозволу на зрізання аварійних, сухостійних та фаутних
-          дерев в межах населених пунктів Новопетрівського старостинського
-          округу гр. Зінченко Н. від 07.03.2024 року №70
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №71 від 07.03.2024 року.docx'
+      - title: 'Про надання дозволу на зрізання аварійних, сухостійних та фаутних дерев в межах населених пунктів Новопетрівського старостинського округу гр. Зінченко Н. від 07.03.2024 року №70'
         link: /uploads/рішення №70 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №70 від 07.03.2024 року.docx
-      - title: >-
-          Про надання дозволу на кронування та зрізання аварійних, сухостійних
-          дерев та чагарників в цілях розчищення проїзної частини дороги
-          приватному підприємству «Агрофірма «Славутич» від 07.03.2024 року №69
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №70 від 07.03.2024 року.docx'
+      - title: 'Про надання дозволу на кронування та зрізання аварійних, сухостійних дерев та чагарників в цілях розчищення проїзної частини дороги приватному підприємству «Агрофірма «Славутич» від 07.03.2024 року №69'
         link: /uploads/рішення №69 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №69 від 07.03.2024 року.docx
-      - title: >-
-          Про погодження заяви КУ «Веселівський психоневрологічний інтернат»
-          Запорізької обласної ради до Управління соціального захисту населення
-          Запорізької райдержадміністрації щодо перерахування на рахунок
-          установи різниці між сумою призначеної пенсії та сумою виплаченої
-          державної соціальної допомоги недієздатним особам, яка перебувають на
-          повному державному утриманні від 07.03.2024 року №68
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №69 від 07.03.2024 року.docx'
+      - title: 'Про погодження заяви КУ «Веселівський психоневрологічний інтернат» Запорізької обласної ради до Управління соціального захисту населення Запорізької райдержадміністрації щодо перерахування на рахунок установи різниці між сумою призначеної пенсії та сумою виплаченої державної соціальної допомоги недієздатним особам, яка перебувають на повному державному утриманні від 07.03.2024 року №68'
         link: /uploads/рішення №68 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №68 від 07.03.2024 року.docx
-      - title: >-
-          Про погодження заяви КУ «Веселівський психоневрологічний інтернат»
-          Запорізької обласної ради до Управління соціального захисту населення
-          Запорізької райдержадміністрації щодо перерахування на рахунок
-          установи різниці між сумою призначеної пенсії та сумою виплаченої
-          пенсії недієздатним особам, які перебувають на повному державному
-          утриманні від 07.03.2024 року №67
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №68 від 07.03.2024 року.docx'
+      - title: 'Про погодження заяви КУ «Веселівський психоневрологічний інтернат» Запорізької обласної ради до Управління соціального захисту населення Запорізької райдержадміністрації щодо перерахування на рахунок установи різниці між сумою призначеної пенсії та сумою виплаченої пенсії недієздатним особам, які перебувають на повному державному утриманні від 07.03.2024 року №67'
         link: /uploads/рішення №67 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №67 від 07.03.2024 року.docx
-      - title: >-
-          Про взяття на облік безхазяйного нерухомого майна від 07.03.2024 року
-          №66
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №67 від 07.03.2024 року.docx'
+      - title: Про взяття на облік безхазяйного нерухомого майна від 07.03.2024 року №66
         link: /uploads/рішення №66 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №66 від 07.03.2024 року.docx
-      - title: >-
-          Про передачу товарно-матеріальних цінностей на баланс Комунальному
-          підприємству «Благводсервіс Широківської громади» Широківської
-          сільської ради Запорізького району Запорізької області від 07.03.2024
-          року № 65                           
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №66 від 07.03.2024 року.docx'
+      - title: 'Про передачу товарно-матеріальних цінностей на баланс Комунальному підприємству «Благводсервіс Широківської громади» Широківської сільської ради Запорізького району Запорізької області від 07.03.2024 року № 65                           '
         link: /uploads/рішення №65 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №65 від 07.03.2024 року.docx
-      - title: >-
-          Про затвердження штатного розпису Комунального некомерційного
-          підприємства «Клініка «Сімейний лікар» Широківської сільської ради
-          Запорізького району Запорізької області (код ЄДРПОУ 02006722) від
-          07.03.2024 року №64
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №65 від 07.03.2024 року.docx'
+      - title: Про затвердження штатного розпису Комунального некомерційного підприємства «Клініка «Сімейний лікар» Широківської сільської ради Запорізького району Запорізької області (код ЄДРПОУ 02006722) від 07.03.2024 року №64
         link: /uploads/рішення №64 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №64 від 07.03.2024 року.docx
-      - title: >-
-          Про звіт керівника КП «Аптека «Сімейний лікар» Широківської сільської
-          ради щодо діяльності комунального підприємства в 2023 році від
-          07.03.2024 року №63
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №64 від 07.03.2024 року.docx'
+      - title: Про звіт керівника КП «Аптека «Сімейний лікар» Широківської сільської ради щодо діяльності комунального підприємства в 2023 році від 07.03.2024 року №63
         link: /uploads/рішення №63 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №63 від 07.03.2024 року.docx
-      - title: >-
-          Про затвердження складу житлової комісії з обліку внутрішньо
-          перемішених осіб та надання житлових приміщень для тимчасового
-          проживання внутрішньо перемішених осіб від 07.03.2024 року №62
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №63 від 07.03.2024 року.docx'
+      - title: Про затвердження складу житлової комісії з обліку внутрішньо перемішених осіб та надання житлових приміщень для тимчасового проживання внутрішньо перемішених осіб від 07.03.2024 року №62
         link: /uploads/рішення №62 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №62 від 07.03.2024 року.docx
-      - title: >-
-          Про затвердження складу Опікунської ради при виконавчому комітеті
-          Широківської сільської ради Запорізького району Запорізької області
-          від 07.03.2024 року №61
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №62 від 07.03.2024 року.docx'
+      - title: Про затвердження складу Опікунської ради при виконавчому комітеті Широківської сільської ради Запорізького району Запорізької області від 07.03.2024 року №61
         link: /uploads/рішення №61 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №61 від 07.03.2024 року.docx
-      - title: >-
-          Про здійснення контролю за виконанням обов’язків опікунами та
-          піклувальниками на території Широківської сільської ради від
-          07.03.2024 року №60
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №61 від 07.03.2024 року.docx'
+      - title: Про здійснення контролю за виконанням обов’язків опікунами та піклувальниками на території Широківської сільської ради від 07.03.2024 року №60
         link: /uploads/рішення №60 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №60 від 07.03.2024 року.docx
-      - title: >-
-          Про виконання делегованих повноважень органів виконавчої влади у сфері
-          освіти ( згідно статті 32 Закону України «Про місцеве самоврядування в
-          Україні») від 07.03.2024 року №59
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №60 від 07.03.2024 року.docx'
+      - title: Про виконання делегованих повноважень органів виконавчої влади у сфері освіти ( згідно статті 32 Закону України «Про місцеве самоврядування в Україні») від 07.03.2024 року №59
         link: /uploads/рішення №59 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №59 від 07.03.2024 року.docx
-      - title: >-
-          Про затвердження проекту Програми соціально-економічного та
-          культурного розвитку Широківської сільської територіальної громади за
-          2024 - 2026 роки від 07.03.2024 року №58
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №59 від 07.03.2024 року.docx'
+      - title: Про затвердження проекту Програми соціально-економічного та культурного розвитку Широківської сільської територіальної громади за 2024 - 2026 роки від 07.03.2024 року №58
         link: /uploads/рішення №58 від 07.03.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №58 від 07.03.2024 року.docx
-      - title: >-
-          Перелік рішень  в протоколі засідання виконавчого комітету від
-          08.02.2024 року № 03
-        link: >-
-          /uploads/Перелік рішень виконавчого комітету №03 від 08.02.2024
-          року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Перелік
-          рішень виконавчого комітету №03 від 08.02.2024 року.docx
-      - title: >-
-          Про надання в тимчасове користування житлових приміщень внутрішньо
-          переміщеним особам з фонду житла для тимчасового проживання внутрішньо
-          переміщених осіб від 16.02.2024 року №54
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №58 від 07.03.2024 року.docx'
+      - title: Перелік рішень  в протоколі засідання виконавчого комітету від 08.02.2024 року № 03
+        link: /uploads/Перелік рішень виконавчого комітету №03 від 08.02.2024 року.docx
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Перелік рішень виконавчого комітету №03 від 08.02.2024 року.docx'
+      - title: Про надання в тимчасове користування житлових приміщень внутрішньо переміщеним особам з фонду житла для тимчасового проживання внутрішньо переміщених осіб від 16.02.2024 року №54
         link: /uploads/рішення №54 від 19.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №54 від 19.02.2024 року.docx
-      - title: >-
-          Про надання в тимчасове користування житлових приміщень внутрішньо
-          переміщеним особам з фонду житла для тимчасового проживання внутрішньо
-          переміщених осіб від 16.02.2024 року №53
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №54 від 19.02.2024 року.docx'
+      - title: Про надання в тимчасове користування житлових приміщень внутрішньо переміщеним особам з фонду житла для тимчасового проживання внутрішньо переміщених осіб від 16.02.2024 року №53
         link: /uploads/рішення №53 від 19.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №53 від 19.02.2024 року.docx
-      - title: >-
-          Про взяття на облік громадян, які потребують надання житлового
-          приміщення з фонду житла для тимчасового проживання внутрішньо
-          перемішених осіб від 16.02.2024 року №52
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №53 від 19.02.2024 року.docx'
+      - title: 'Про взяття на облік громадян, які потребують надання житлового приміщення з фонду житла для тимчасового проживання внутрішньо перемішених осіб від 16.02.2024 року №52'
         link: /uploads/рішення №52 від 19.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №52 від 19.02.2024 року.docx
-      - title: >-
-          Про затвердження висновку про доцільність призначення опікуна від
-          16.02.2024 року №51
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №52 від 19.02.2024 року.docx'
+      - title: Про затвердження висновку про доцільність призначення опікуна від 16.02.2024 року №51
         link: /uploads/рішення №51 від 16.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №51 від 16.02.2024 року.docx
-      - title: >-
-          Про передачу майна в оперативне управління Комунальній установі «Центр
-          культури та дозвілля, сім’ї, молоді, спорту та туризму» Широківської
-          сільської ради Запорізького району Запорізької області від 16.02.2024
-          року №50
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №51 від 16.02.2024 року.docx'
+      - title: 'Про передачу майна в оперативне управління Комунальній установі «Центр культури та дозвілля, сім’ї, молоді, спорту та туризму» Широківської сільської ради Запорізького району Запорізької області від 16.02.2024 року №50'
         link: /uploads/рішення №50 від 16.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №50 від 16.02.2024 року.docx
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №50 від 16.02.2024 року.docx'
       - title: 'Про внесення змін до кошторисних призначень від 16.02.2024 року №49 '
         link: /uploads/рішення №49 від 16.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №49 від 16.02.2024 року.docx
-      - title: >-
-          Перелік рішень  в протоколі засідання виконавчого комітету від
-          16.02.2024 року № 04
-        link: >-
-          /uploads/Перелік рішень виконавчого комітету №04 від 16.02.2024
-          року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Перелік
-          рішень виконавчого комітету №04 від 16.02.2024 року.docx
-      - title: >-
-          Про затвердження плану реагування на надзвичайні ситуації Широківської
-          сільської ради від 08.02.2024 року №48
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №49 від 16.02.2024 року.docx'
+      - title: Перелік рішень  в протоколі засідання виконавчого комітету від 16.02.2024 року № 04
+        link: /uploads/Перелік рішень виконавчого комітету №04 від 16.02.2024 року.docx
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Перелік рішень виконавчого комітету №04 від 16.02.2024 року.docx'
+      - title: Про затвердження плану реагування на надзвичайні ситуації Широківської сільської ради від 08.02.2024 року №48
         link: /uploads/рішення №48 від 08.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №48 від 08.02.2024 року.docx
-      - title: >-
-          Про внесення змін до рішення виконавчого комітету Широківської
-          сільської ради Запорізького району Запорізької області від 07.09.2023
-          року №218 «Про внесення змін до рішення виконавчого комітету
-          Широківської сільської ради Запорізького району Запорізької області
-          від 24.05.2023 року №124 «Про внесення змін до рішення виконавчого
-          комітету Широківської сільської ради Запорізького району Запорізької
-          області від 12.01.2023 року №26 «Про затвердження структури та
-          штатного розпису Комунального підприємства «Аптека «Сімейний лікар»
-          Широківської сільської ради Запорізького району Запорізької області
-          (код ЄДРПОУ хххххххх) в новій редакції» від 08.02.2024 року №47 
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №48 від 08.02.2024 року.docx'
+      - title: 'Про внесення змін до рішення виконавчого комітету Широківської сільської ради Запорізького району Запорізької області від 07.09.2023 року №218 «Про внесення змін до рішення виконавчого комітету Широківської сільської ради Запорізького району Запорізької області від 24.05.2023 року №124 «Про внесення змін до рішення виконавчого комітету Широківської сільської ради Запорізького району Запорізької області від 12.01.2023 року №26 «Про затвердження структури та штатного розпису Комунального підприємства «Аптека «Сімейний лікар» Широківської сільської ради Запорізького району Запорізької області (код ЄДРПОУ хххххххх) в новій редакції» від 08.02.2024 року №47 '
         link: /uploads/рішення №47 від 08.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №47 від 08.02.2024 року.docx
-      - title: >-
-          Про надання статусу дитини, позбавленої батьківського піклування від
-          08.02.2024 року №46
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №47 від 08.02.2024 року.docx'
+      - title: 'Про надання статусу дитини, позбавленої батьківського піклування від 08.02.2024 року №46'
         link: /uploads/рішення №46 від 08.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №46 від 08.02.2024 року.docx
-      - title: >-
-          Про надання статусу дитини, позбавленої батьківського піклування від
-          08.02.2024 року №45
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №46 від 08.02.2024 року.docx'
+      - title: 'Про надання статусу дитини, позбавленої батьківського піклування від 08.02.2024 року №45'
         link: /uploads/рішення №45 від 08.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №45 від 08.02.2024 року.docx
-      - title: >-
-          Про втрату статусу дитини, позбавленої батьківського піклування від
-          08.02.2024 року №44
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №45 від 08.02.2024 року.docx'
+      - title: 'Про втрату статусу дитини, позбавленої батьківського піклування від 08.02.2024 року №44'
         link: /uploads/рішення №44 від 08.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №44 від 08.02.2024 року.docx
-      - title: >-
-          Про надання статусу дитини, яка постраждала внаслідок воєнних дій та
-          збройних конфліктів від 08.02.2024 року №43
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №44 від 08.02.2024 року.docx'
+      - title: 'Про надання статусу дитини, яка постраждала внаслідок воєнних дій та збройних конфліктів від 08.02.2024 року №43'
         link: /uploads/рішення №43 від 08.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №43 від 08.02.2024 року.docx
-      - title: >-
-          Про надання статусу дитини, яка постраждала внаслідок воєнних дій та
-          збройних конфліктів від 08.02.2024 року №42
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №43 від 08.02.2024 року.docx'
+      - title: 'Про надання статусу дитини, яка постраждала внаслідок воєнних дій та збройних конфліктів від 08.02.2024 року №42'
         link: /uploads/рішення №42 від 08.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №42 від 08.02.2024 року.docx
-      - title: >-
-          Про надання статусу дитини, яка постраждала внаслідок воєнних дій та
-          збройних конфліктів від 08.02.2024 року №41
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №42 від 08.02.2024 року.docx'
+      - title: 'Про надання статусу дитини, яка постраждала внаслідок воєнних дій та збройних конфліктів від 08.02.2024 року №41'
         link: /uploads/рішення №41 від 08.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №41 від 08.02.2024 року.docx
-      - title: >-
-          Про затвердження висновку щодо визначення ступеня індивідуальних
-          потреб особи, яка потребує надання соціальних послуг з догляду на
-          непрофесійній основі, та розрахунку компенсації соціальних послуг, які
-          надаються на непрофесійній основі від 08.02.2024 року №40
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №41 від 08.02.2024 року.docx'
+      - title: 'Про затвердження висновку щодо визначення ступеня індивідуальних потреб особи, яка потребує надання соціальних послуг з догляду на непрофесійній основі, та розрахунку компенсації соціальних послуг, які надаються на непрофесійній основі від 08.02.2024 року №40'
         link: /uploads/рішення №40 від 08.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №40 від 08.02.2024 року.docx
-      - title: >-
-          Про затвердження висновку щодо визначення ступеня індивідуальних
-          потреб особи, яка потребує надання соціальних послуг з догляду на
-          непрофесійній основі від 08.02.2024 року №39
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №40 від 08.02.2024 року.docx'
+      - title: 'Про затвердження висновку щодо визначення ступеня індивідуальних потреб особи, яка потребує надання соціальних послуг з догляду на непрофесійній основі від 08.02.2024 року №39'
         link: /uploads/рішення №39 від 08.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №39 від 08.02.2024 року.docx
-      - title: >-
-          Про затвердження висновку щодо визначення ступеня індивідуальних
-          потреб особи, яка потребує надання соціальних послуг з догляду на
-          непрофесійній основі від 08.02.2024 року №38
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №39 від 08.02.2024 року.docx'
+      - title: 'Про затвердження висновку щодо визначення ступеня індивідуальних потреб особи, яка потребує надання соціальних послуг з догляду на непрофесійній основі від 08.02.2024 року №38'
         link: /uploads/рішення №38 від 08.02.2024 рку.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №38 від 08.02.2024 рку.docx
-      - title: >-
-          Про затвердження висновку щодо визначення ступеня індивідуальних
-          потреб особи, яка потребує надання соціальних послуг з догляду на
-          непрофесійній основі, та розрахунку компенсації соціальних послуг, які
-          надаються на непрофесійній основі від 08.02.2024 року №37
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №38 від 08.02.2024 рку.docx'
+      - title: 'Про затвердження висновку щодо визначення ступеня індивідуальних потреб особи, яка потребує надання соціальних послуг з догляду на непрофесійній основі, та розрахунку компенсації соціальних послуг, які надаються на непрофесійній основі від 08.02.2024 року №37'
         link: /uploads/рішення №37 від 08.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №37 від 08.02.2024 року.docx
-      - title: >-
-          Про затвердження висновку щодо визначення ступеня індивідуальних
-          потреб особи, яка потребує надання соціальних послуг з догляду на
-          непрофесійній основі, та розрахунку компенсації соціальних послуг, які
-          надаються на непрофесійній основі від 08.02.2024 року №36
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №37 від 08.02.2024 року.docx'
+      - title: 'Про затвердження висновку щодо визначення ступеня індивідуальних потреб особи, яка потребує надання соціальних послуг з догляду на непрофесійній основі, та розрахунку компенсації соціальних послуг, які надаються на непрофесійній основі від 08.02.2024 року №36'
         link: /uploads/рішення №36 від 08.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №36 від 08.02.2024 року.docx
-      - title: >-
-          Про затвердження висновку щодо визначення ступеня індивідуальних
-          потреб особи, яка потребує надання соціальних послуг з догляду на
-          непрофесійній основі, та розрахунку компенсації соціальних послуг, які
-          надаються на непрофесійній основі від 08.02.2024 року №35
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №36 від 08.02.2024 року.docx'
+      - title: 'Про затвердження висновку щодо визначення ступеня індивідуальних потреб особи, яка потребує надання соціальних послуг з догляду на непрофесійній основі, та розрахунку компенсації соціальних послуг, які надаються на непрофесійній основі від 08.02.2024 року №35'
         link: /uploads/рішення №35 від 08.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №35 від 08.02.2024 року.docx
-      - title: >-
-          Про надання дозволу на зрізання аварійних, сухостійних та фаутних
-          дерев вздовж дороги Веселе-Зоряне Веселівського старостинського округу
-          КНП «Місцева пожежно-рятувальна служба Широківської громади» від
-          08.02.2024 року №34
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №35 від 08.02.2024 року.docx'
+      - title: 'Про надання дозволу на зрізання аварійних, сухостійних та фаутних дерев вздовж дороги Веселе-Зоряне Веселівського старостинського округу КНП «Місцева пожежно-рятувальна служба Широківської громади» від 08.02.2024 року №34'
         link: /uploads/рішення №34 від 08.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №34 від 08.02.2024 року.docx
-      - title: >-
-          Про надання дозволу на очищення земельних ділянок від самосіву дерев
-          та чагарників приватному підприємству «Агрофірма «Славутич» від
-          08.02.2024 року №33
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №34 від 08.02.2024 року.docx'
+      - title: Про надання дозволу на очищення земельних ділянок від самосіву дерев та чагарників приватному підприємству «Агрофірма «Славутич» від 08.02.2024 року №33
         link: /uploads/рішення №33 від 08.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №33 від 08.02.2024 року.docx
-      - title: >-
-          Про визнання такими, що втратили чинність рішення виконавчого комітету
-          Широківської сільської ради Запорізького району Запорізької області
-          від 08.02.2024 року №32
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №33 від 08.02.2024 року.docx'
+      - title: 'Про визнання такими, що втратили чинність рішення виконавчого комітету Широківської сільської ради Запорізького району Запорізької області від 08.02.2024 року №32'
         link: /uploads/рішення №32 від 08.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №32 від 08.02.2024 року.docx
-      - title: >-
-          Про передачу нерухомого майна в оперативне управління комунальному
-          некомерційному підприємству «Клініка «Сімейний лікар» Широківської
-          сільської ради Запорізького району Запорізької області від 08.02.2024
-          року №31
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №32 від 08.02.2024 року.docx'
+      - title: Про передачу нерухомого майна в оперативне управління комунальному некомерційному підприємству «Клініка «Сімейний лікар» Широківської сільської ради Запорізького району Запорізької області від 08.02.2024 року №31
         link: /uploads/рішення №31 від 08.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №31 від 08.02.2024 року.docx
-      - title: >-
-          Про звіт керівника Спеціалізованого підприємства «Об’єднана житлово-
-          комунальна, побутова та ритуальна служба» Широківської сільської ради
-          щодо фінансово-господарської діяльності спеціалізованого підприємства
-          в 2023 році від 08.02.2024 року №30
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №31 від 08.02.2024 року.docx'
+      - title: 'Про звіт керівника Спеціалізованого підприємства «Об’єднана житлово- комунальна, побутова та ритуальна служба» Широківської сільської ради щодо фінансово-господарської діяльності спеціалізованого підприємства в 2023 році від 08.02.2024 року №30'
         link: /uploads/рішення №30 від 08.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №30 від 08.02.2024 року.docx
-      - title: >-
-          Про звіт керівника Комунальної установи «Центр соціальних послуг
-          Широківської громади» Широківської сільської ради щодо діяльності
-          комунальної установи в 2023 році від 08.02.2024 року №29
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №30 від 08.02.2024 року.docx'
+      - title: Про звіт керівника Комунальної установи «Центр соціальних послуг Широківської громади» Широківської сільської ради щодо діяльності комунальної установи в 2023 році від 08.02.2024 року №29
         link: /uploads/рішення №29 від 08.02.2024 року.docx
-      - title: >-
-          Про звіт керівника Комунальної установи «Центр культури та дозвілля,
-          сім’ї, молоді, спорту та туризму» Широківської сільської ради
-          Марковської І. щодо діяльності комунальної установи в 2023 році від
-          08.02.2024 року №28
+      - title: 'Про звіт керівника Комунальної установи «Центр культури та дозвілля, сім’ї, молоді, спорту та туризму» Широківської сільської ради Марковської І. щодо діяльності комунальної установи в 2023 році від 08.02.2024 року №28'
         link: /uploads/рішення №28 від 08.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №28 від 08.02.2024 року.docx
-      - title: >-
-          Про звіт керівника Комунальної установи «Агенція розвитку Широківської
-          територіальної громади» Широківської сільської щодо діяльності
-          комунальної установи в 2023 році від 08.02.2024 року №27
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №28 від 08.02.2024 року.docx'
+      - title: Про звіт керівника Комунальної установи «Агенція розвитку Широківської територіальної громади» Широківської сільської щодо діяльності комунальної установи в 2023 році від 08.02.2024 року №27
         link: /uploads/рішення №27 від 08.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №27 від 08.02.2024 року.docx
-      - title: >-
-          Про звіт керівника Комунального некомерційного підприємства «Клініка
-          «Сімейний лікар» Широківської сільської ради щодо фінансово-
-          господарської діяльності комунального некомерційного підприємства в
-          2023 році від 08.02.2024 року №26
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №27 від 08.02.2024 року.docx'
+      - title: Про звіт керівника Комунального некомерційного підприємства «Клініка «Сімейний лікар» Широківської сільської ради щодо фінансово- господарської діяльності комунального некомерційного підприємства в 2023 році від 08.02.2024 року №26
         link: /uploads/рішення №26 від 08.02.2024 року.docx
-      - title: >-
-          Про звіт виконавчого комітету Широківської сільської ради Запорізького
-          району Запорізької області щодо виконання делегованих повноважень у
-          сфері соціально-економічного і культурного розвитку та Програми
-          соціально- економічного та культурного розвитку Широківської сільської
-          територіальної громади за 2022 та 2023 роки від 08.02.2024 року №25
+      - title: Про звіт виконавчого комітету Широківської сільської ради Запорізького району Запорізької області щодо виконання делегованих повноважень у сфері соціально-економічного і культурного розвитку та Програми соціально- економічного та культурного розвитку Широківської сільської територіальної громади за 2022 та 2023 роки від 08.02.2024 року №25
         link: /uploads/рішення №25 від 08.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №25 від 08.02.2024 року.docx
-      - title: >-
-          Про внесення змін до бюджетних призначень на 2024 рік від 08.02.2024
-          року №24
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №25 від 08.02.2024 року.docx'
+      - title: Про внесення змін до бюджетних призначень на 2024 рік від 08.02.2024 року №24
         link: /uploads/рішення №24 від 08.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №24 від 08.02.2024 року.docx
-      - title: >-
-          Про розгляд звіту про виконання бюджету Широківської сільської
-          територіальної громади за 2023 рік від 08.02.2024 року № 23
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №24 від 08.02.2024 року.docx'
+      - title: Про розгляд звіту про виконання бюджету Широківської сільської територіальної громади за 2023 рік від 08.02.2024 року № 23
         link: /uploads/рішення №23 від 08.02.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №23 від 08.02.2024 року.docx
-      - title: >-
-          Перелік рішень  в протоколі засідання виконавчого комітету від
-          25.01.2024 року № 02
-        link: >-
-          /uploads/Перелік рішень виконавчого комітету №02 від 25.01.2024
-          року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Перелік
-          рішень виконавчого комітету №02 від 25.01.2024 року.docx
-      - title: >-
-          Про передачу майна в оперативне управління Володимирівському ліцею
-          «Успіх» Широківської сільської ради Запорізького району Запорізької
-          області та відділу містобудування, архітектури житлово-комунального
-          господарства та благоустрою Широківської сільської ради Запорізького
-          району Запорізької області від 25.01.2024 року №22
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №23 від 08.02.2024 року.docx'
+      - title: Перелік рішень  в протоколі засідання виконавчого комітету від 25.01.2024 року № 02
+        link: /uploads/Перелік рішень виконавчого комітету №02 від 25.01.2024 року.docx
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Перелік рішень виконавчого комітету №02 від 25.01.2024 року.docx'
+      - title: 'Про передачу майна в оперативне управління Володимирівському ліцею «Успіх» Широківської сільської ради Запорізького району Запорізької області та відділу містобудування, архітектури житлово-комунального господарства та благоустрою Широківської сільської ради Запорізького району Запорізької області від 25.01.2024 року №22'
         link: /uploads/рішення №22 від 25.01.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №22 від 25.01.2024 року.docx
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №22 від 25.01.2024 року.docx'
       - title: Про внесення змін до кошторисних призначень від 25.01.2024 року №21
         link: /uploads/рішення №21 від 25.01.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №21 від 25.01.2024 року.docx
-      - title: >-
-          Перелік рішень  в протоколі засідання виконавчого комітету від
-          11.01.2024 року № 01
-        link: >-
-          /uploads/Перелік рішень виконавчого комітету №01 від 11.01.2024
-          року.docx
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №21 від 25.01.2024 року.docx'
+      - title: Перелік рішень  в протоколі засідання виконавчого комітету від 11.01.2024 року № 01
+        link: /uploads/Перелік рішень виконавчого комітету №01 від 11.01.2024 року.docx
         url: ''
-      - title: >-
-          Про погодження продовження строку дії договору про спільну діяльність
-          від 11.01.2024 року №20
+      - title: Про погодження продовження строку дії договору про спільну діяльність від 11.01.2024 року №20
         link: /uploads/рішення №20 від 11.01.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №20 від 11.01.2024 року.docx
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №20 від 11.01.2024 року.docx'
       - title: 'Про взяття на квартирний облік від 11.01.2024 року №19 '
         link: /uploads/рішення №19 від 11.01.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №19 від 11.01.2024 року.docx
-      - title: >-
-          Про затвердження нового складу громадської комісії з житлових питань
-          при виконавчому комітеті Широківської сільської ради Запорізького
-          району Запорізької області від 11.01.2024 року №18
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №19 від 11.01.2024 року.docx'
+      - title: Про затвердження нового складу громадської комісії з житлових питань при виконавчому комітеті Широківської сільської ради Запорізького району Запорізької області від 11.01.2024 року №18
         link: /uploads/рішення №18 від 11.01.2024 року.docx
-      - title: >-
-          Про передачу житлового будинку у власність громадян від 11.01.2024
-          року №17
+      - title: Про передачу житлового будинку у власність громадян від 11.01.2024 року №17
         link: /uploads/рішення №17 від 11.01.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №17 від 11.01.2024 року.docx
-      - title: >-
-          Про здійснення перевезення здобувачів освіти Петропільського ліцею
-          Широківської сільської ради Запорізького району Запорізької області
-          від 11.01.2024 року № 16
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №17 від 11.01.2024 року.docx'
+      - title: Про здійснення перевезення здобувачів освіти Петропільського ліцею Широківської сільської ради Запорізького району Запорізької області від 11.01.2024 року № 16
         link: /uploads/рішення №16 від 11.01.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №16 від 11.01.2024 року.docx
-      - title: >-
-          Про затвердження висновку щодо визначення ступеня індивідуальних
-          потреб особи, яка потребує надання соціальних послуг з догляду на
-          непрофесійній основі, та розрахунку компенсації соціальних послуг, які
-          надаються на непрофесійній основі від 11.01.2024 року №15
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №16 від 11.01.2024 року.docx'
+      - title: 'Про затвердження висновку щодо визначення ступеня індивідуальних потреб особи, яка потребує надання соціальних послуг з догляду на непрофесійній основі, та розрахунку компенсації соціальних послуг, які надаються на непрофесійній основі від 11.01.2024 року №15'
         link: /uploads/рішення №15 від 11.01.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №15 від 11.01.2024 року.docx
-      - title: >-
-          Про затвердження висновку щодо визначення ступеня індивідуальних
-          потреб особи, яка потребує надання соціальних послуг з догляду на
-          непрофесійній основі, та розрахунку компенсації соціальних послуг, які
-          надаються на непрофесійній основі від 11.01.2024 року №14
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №15 від 11.01.2024 року.docx'
+      - title: 'Про затвердження висновку щодо визначення ступеня індивідуальних потреб особи, яка потребує надання соціальних послуг з догляду на непрофесійній основі, та розрахунку компенсації соціальних послуг, які надаються на непрофесійній основі від 11.01.2024 року №14'
         link: /uploads/рішення №14 від 11.01.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №14 від 11.01.2024 року.docx
-      - title: >-
-          Про затвердження висновку щодо визначення ступеня індивідуальних
-          потреб особи, яка потребує надання соціальних послуг з догляду на
-          непрофесійній основі, та розрахунку компенсації соціальних послуг, які
-          надаються на непрофесійній основі від 11.01.2024 року №13
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №14 від 11.01.2024 року.docx'
+      - title: 'Про затвердження висновку щодо визначення ступеня індивідуальних потреб особи, яка потребує надання соціальних послуг з догляду на непрофесійній основі, та розрахунку компенсації соціальних послуг, які надаються на непрофесійній основі від 11.01.2024 року №13'
         link: /uploads/рішення №13 від 11.01.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №13 від 11.01.2024 року.docx
-      - title: >-
-          Про затвердження висновку щодо визначення ступеня індивідуальних
-          потреб особи, яка потребує надання соціальних послуг з догляду на
-          непрофесійній основі від 11.01.2024 року №12
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №13 від 11.01.2024 року.docx'
+      - title: 'Про затвердження висновку щодо визначення ступеня індивідуальних потреб особи, яка потребує надання соціальних послуг з догляду на непрофесійній основі від 11.01.2024 року №12'
         link: /uploads/рішення №12 від 11.01.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення
-          №12 від 11.01.2024 року.docx
-      - title: >-
-          Про затвердження висновку про доцільність позбавлення батьківських
-          прав від 11.01.2024 року №11
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №12 від 11.01.2024 року.docx'
+      - title: Про затвердження висновку про доцільність позбавлення батьківських прав від 11.01.2024 року №11
         link: /uploads/рішення № 11 від 11.01.2024 року (1).docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №
-          11 від 11.01.2024 року (1).docx
-      - title: >-
-          Про затвердження висновку про доцільність позбавлення батьківських
-          прав від 11.01.2024 року №10
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення № 11 від 11.01.2024 року (1).docx'
+      - title: Про затвердження висновку про доцільність позбавлення батьківських прав від 11.01.2024 року №10
         link: /uploads/рішення № 10 від 11.01.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №
-          10 від 11.01.2024 року.docx
-      - title: >-
-          Про надання притулку для дітей Служби у справах дітей Львівської
-          облдержадміністрації дозволу на проведення повного медичного
-          обстеження дитини від 11.01.2024 року №9
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення № 10 від 11.01.2024 року.docx'
+      - title: Про надання притулку для дітей Служби у справах дітей Львівської облдержадміністрації дозволу на проведення повного медичного обстеження дитини від 11.01.2024 року №9
         link: /uploads/рішення № 09 від 11.01.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №
-          09 від 11.01.2024 року.docx
-      - title: >-
-          Про надання статусу дитини, яка постраждала внаслідок воєнних дій та
-          збройних конфліктів від 11.01.2024 року №8
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення № 09 від 11.01.2024 року.docx'
+      - title: 'Про надання статусу дитини, яка постраждала внаслідок воєнних дій та збройних конфліктів від 11.01.2024 року №8'
         link: /uploads/рішення № 08 від 11.01.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №
-          08 від 11.01.2024 року.docx
-      - title: >-
-          Про надання дозволу на очищення земельної ділянки комунальної
-          власності територіальної громади Широківської сільської ради від
-          самосійних, аварійних, сухостійних та фаутних дерев та чагарників ФОП
-          Лобач О.А. від 11.01.2024 року №7
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення № 08 від 11.01.2024 року.docx'
+      - title: 'Про надання дозволу на очищення земельної ділянки комунальної власності територіальної громади Широківської сільської ради від самосійних, аварійних, сухостійних та фаутних дерев та чагарників ФОП Лобач О.А. від 11.01.2024 року №7'
         link: /uploads/рішення № 07 від 11.01.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №
-          07 від 11.01.2024 року.docx
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення № 07 від 11.01.2024 року.docx'
       - title: Про припинення оренди майна від 11.01.2024 року №6
         link: /uploads/рішення № 06 від 11.01.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №
-          06 від 11.01.2024 року.docx
-      - title: >-
-          Про звіт керівника Комунального неприбуткового підприємства «Місцева
-          пожежна охорона Широківської громади» Широківської сільської ради щодо
-          діяльності комунального неприбуткового підприємства в 2023 році від
-          11.01.2024 року №5
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення № 06 від 11.01.2024 року.docx'
+      - title: Про звіт керівника Комунального неприбуткового підприємства «Місцева пожежна охорона Широківської громади» Широківської сільської ради щодо діяльності комунального неприбуткового підприємства в 2023 році від 11.01.2024 року №5
         link: /uploads/рішення № 05 від 11.01.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №
-          05 від 11.01.2024 року.docx
-      - title: >-
-          Про роботу виконавчого комітету Широківської сільської ради з
-          виконання вимог Закону України «Про запобігання корупції» та Плану
-          заходів з запобігання та протидії корупції у виконавчому комітеті
-          Широківської сільської ради протягом 2023 року, затвердження Плану
-          заходів з запобігання та протидії корупції у виконавчому комітеті
-          Широківської сільської ради на 2024 рік від 11.01.2024 року №4
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення № 05 від 11.01.2024 року.docx'
+      - title: 'Про роботу виконавчого комітету Широківської сільської ради з виконання вимог Закону України «Про запобігання корупції» та Плану заходів з запобігання та протидії корупції у виконавчому комітеті Широківської сільської ради протягом 2023 року, затвердження Плану заходів з запобігання та протидії корупції у виконавчому комітеті Широківської сільської ради на 2024 рік від 11.01.2024 року №4'
         link: /uploads/рішення № 04 від 11.01.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №
-          04 від 11.01.2024 року.docx
-      - title: >-
-          Про роботу виконавчого комітету Широківської сільської ради з
-          виконання вимог Закону України «Про доступ до публічної інформації» в
-          2023 році від 11.01.2024 року №3
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення № 04 від 11.01.2024 року.docx'
+      - title: Про роботу виконавчого комітету Широківської сільської ради з виконання вимог Закону України «Про доступ до публічної інформації» в 2023 році від 11.01.2024 року №3
         link: /uploads/рішення № 03 від 11.01.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №
-          03 від 11.01.2024 року.docx
-      - title: >-
-          Про роботу виконавчого комітету Широківської сільської ради з
-          виконання вимог Закону України «Про звернення громадян» в 2023 році
-          від 11.01.2024 року №2
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення № 03 від 11.01.2024 року.docx'
+      - title: Про роботу виконавчого комітету Широківської сільської ради з виконання вимог Закону України «Про звернення громадян» в 2023 році від 11.01.2024 року №2
         link: /uploads/рішення № 02 від 11.01.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №
-          02 від 11.01.2024 року.docx
-      - title: >-
-          Про виконання вимог чинного законодавства України щодо охорони
-          культурної та археологічної спадщини на території Широківської
-          сільської ради від 11.01.2024 року №1
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення № 02 від 11.01.2024 року.docx'
+      - title: Про виконання вимог чинного законодавства України щодо охорони культурної та археологічної спадщини на території Широківської сільської ради від 11.01.2024 року №1
         link: /uploads/рішення № 01 від 11.01.2024 року.docx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення №
-          01 від 11.01.2024 року.docx
-      - title: >-
-          Актуальний бюджет громади на 2023 рік (з усіма змінами та
-          доповненнями) станом на 01.06.2023 року
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/рішення № 01 від 11.01.2024 року.docx'
+      - title: Актуальний бюджет громади на 2023 рік (з усіма змінами та доповненнями) станом на 01.06.2023 року
       - title: Інформація про виконання місцевого бюджету за січень-травень 2023 року
-      - title: >-
-          Рішення сільської ради від 01.06.2023 № 13 “Про внесення змін та
-          доповнень до рішення сільської ради від ....
+      - title: Рішення сільської ради від 01.06.2023 № 13 “Про внесення змін та доповнень до рішення сільської ради від ....
         url: ''
         buttonText: ''
     _template: HeadOrders
