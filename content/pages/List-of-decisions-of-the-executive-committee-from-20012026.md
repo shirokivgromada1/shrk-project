@@ -8,6 +8,7 @@ components:
       - title: Рішення №21 від 20.01.2026 року
         link: /uploads/decision No. 21 of 01202026.docx
       - title: Рішення №22 від 20.01.2026 року
+        link: /uploads/decision No. 22 of 01202026.docx
       - title: Рішення №23 від 20.01.2026 року
       - title: Рішення №24 від 20.01.2026 року
       - title: Рішення №25 від 20.01.2026 року
