@@ -26,6 +26,7 @@ components:
         link: /uploads/decision No. 29 of 01202026.docx
         url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision No. 29 of 01202026.docx'
       - title: Рішення №30 від 20.01.2026 року
+        link: /uploads/decision No. 30 of 01202026.docx
       - title: Рішення №31 від 20.01.2026 року
       - title: Рішення №32 від 20.01.2026 року
       - title: Рішення №33 від 20.01.2026 року
