@@ -37,6 +37,7 @@ components:
         link: /uploads/decision No. 34 of 01202026.docx
         url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision No. 34 of 01202026.docx'
       - title: Рішення №35 від 20.01.2026 року
+        link: /uploads/decision No. 35 of 01202026.docx
       - title: Рішення №36 від 20.01.2026 року
     _template: HeadOrders
 ---
