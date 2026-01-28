@@ -5,7 +5,8 @@ components:
     order:
       - {}
       - {}
-      - {}
+      - title: Фінансовий план КП БВС на 2026 рік
+        link: /uploads/Financial plan of the Ministry of Internal Affairs for 2026_28012026.xls
       - title: Фінансовий план КП Аптека Сімейний лікар на 2026 рік
         link: /uploads/Financial plan of the KP Pharmacy Family Doctor for 2026_28012026.xlsx
       - title: Фiнансовий план КНП Клініка Сімейний лікар на 2026 рік
