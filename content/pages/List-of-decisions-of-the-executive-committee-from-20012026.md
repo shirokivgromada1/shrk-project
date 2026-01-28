@@ -17,6 +17,7 @@ components:
       - title: Рішення №25 від 20.01.2026 року
         link: /uploads/decision No. 25 of 01202026.docx
       - title: Рішення №26 від 20.01.2026 року
+        link: /uploads/decision No. 26 of 01202026.docx
       - title: Рішення №27 від 20.01.2026 року
       - title: Рішення №28 від 20.01.2026 року
       - title: Рішення №29 від 20.01.2026 року
