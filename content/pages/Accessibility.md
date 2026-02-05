@@ -3,7 +3,8 @@ title: Accessibility
 components:
   - title: Безбар'єрність
     official:
-      - {}
+      - title: Додаток_Інформаційна_довідка_щодо_методичних_рекомендацій
+        link: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/appendix_methdological_recomendations_05022026.docx'
       - title: МЕТОДИЧНІ РЕКОМЕНДАЦІЇ  з питань формування безбар’єрного середовища для  житлових і громадських будинків
         link: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/methdological_recomendations_05022026.PDF'
       - title: ПЛАН ЗАХОДІВ Широківської сільської ради на 2026 роки з реалізації Національної стратегії із створення безбар’єрного простору в Україні на період до 2030 року
