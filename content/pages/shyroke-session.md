@@ -4,6 +4,8 @@ components:
   - title: Сесійні засідання Широківської сільської ради
     notMain: false
     order:
+      - title: 68 сесія Широківської сільської ради  VIII скликання
+        url: 'https://youtu.be/EMuG_cv8etk'
       - title: 67 позачергова сесія Широківської сільської ради VIII скликання
         url: 'https://youtu.be/kFivYB5AVJ8'
         buttonText: Дивитись
@@ -41,8 +43,7 @@ components:
         url: 'https://youtu.be/P-o67ZBFjUI'
         buttonText: Дивитись
       - title: '55 позачергова сесія VIII скликання Широківської сільської ради '
-        url: >-
-          https://www.youtube.com/watch?v=7ydvyidflqk&ab_channel=%D0%9F%D1%80%D0%B5%D1%81-%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%A8%D0%B8%D1%80%D0%BE%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%BE%D1%97%D0%B3%D1%80%D0%BE%D0%BC%D0%B0%D0%B4%D0%B8
+        url: 'https://www.youtube.com/watch?v=7ydvyidflqk&ab_channel=%D0%9F%D1%80%D0%B5%D1%81-%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%A8%D0%B8%D1%80%D0%BE%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%BE%D1%97%D0%B3%D1%80%D0%BE%D0%BC%D0%B0%D0%B4%D0%B8'
         buttonText: Дивтись
       - title: '54 сесія VIII скликання Широківської сільської ради '
         url: 'https://www.youtube.com/watch?v=kxaRdDoRfH8'
