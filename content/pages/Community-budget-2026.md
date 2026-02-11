@@ -5,7 +5,8 @@ components:
     order:
       - title: Рішення від 03.02.2026 № 5 Про внесення змін до місцевого бюджету на 2026 рік (оприлюднено 09.02.2025)
         link: /uploads/decision dated 03.02.2026 No. 5 On amendments to the local budget for 2026_09022026.doc
-      - {}
+      - title: Додатки до рішення від 03.02.2026  № 5 Про місцевий бюджет на 2026 рік (оприлюднено 09.02.2025)
+        link: /uploads/annexes to the decision dated 03.02.2026 No. 5 On the local budget for 2026_09022026.xlsx
       - title: Рішення від 15.12.2025 № 15 Про внесення змін до місцевого бюджету на 2026 рік (оприлюднено 19.12.2025)
         link: /uploads/Decision of 15.12.2025 No. 15 On Amendments to the Local Budget for 2026.doc
       - title: Додатки до рішення від 15.12.2025  №15 Про місцевий бюджет на 2026 рік (оприлюднено 19.12.2025)
