@@ -3,1244 +3,457 @@ title: budget-program-passports
 components:
   - title: ' Паспорти бюджетних програм'
     order:
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 1610160, 1616030 - зміни
-          04.12.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 1610160,
-          1616030 - changes 04.12.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0118240 - зміни
-          04.12.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0118240 -
-          changes 04.12.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0118130 - зміни
-          04.12.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0118130 -
-          changes 04.12.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0118110 - зміни
-          04.12.2025
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Passport
-          of the budget program for 2025 KPKVK 0118110 - changes 04.12.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0117693 - зміни
-          04.12.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0117693 -
-          changes 04.12.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0117670 - зміни
-          04.12.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0117670 -
-          changes 04.12.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0117330 - зміни
-          04.12.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0117330 -
-          changes 04.12.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни
-          04.12.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0117130 -
-          changes 04.12.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни
-          04.12.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0116030 -
-          changes 04.12.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни
-          04.12.2025
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Passport
-          of the budget program for 2025 KPKVK 0116020 - changes 04.12.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0114081 - зміни
-          04.12.2025
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Passport
-          of the budget program for 2025 KPKVK 0114081 - changes 04.12.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0113241 - зміни
-          04.12.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0113241 -
-          changes 04.12.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни
-          04.12.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0112152 -
-          changes 04.12.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни
-          04.12.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0112151 -
-          changes 04.12.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111273 - зміни
-          04.12.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0111273 -
-          changes 04.12.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111231 - зміни
-          04.12.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0111231 -
-          changes 04.12.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111031 - зміни
-          04.12.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0111031 -
-          changes 04.12.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни
-          04.12.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0111021 -
-          changes 04.12.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни
-          04.12.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0110150 -
-          changes 04.12.2025.xlsx
+      - {}
+      - title: Наказ від 03.02.2026 №2 затвердження паспорту бюджетної програми на 2026 рік КПК 37
+        link: /uploads/Order dated 02032026 No. 2 approving the passport of the budget program for 2026 CPC 37.docx
+      - title: Наказ від 26.01.2026 №3 затвердження паспорту бюджетної програми на 2026 рік КПК 09
+        link: /uploads/Order dated 01262026 No. 3 approving the passport of the budget program for 2026 CPC 09.pdf
+      - title: 'Паспорт бюджетної програми на 2025 рік КПКВК 1610160, 1616030 - зміни 04.12.2025'
+        link: '/uploads/Passport of the budget program for 2025 KPKVK 1610160, 1616030 - changes 04.12.2025.xlsx'
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0118240 - зміни 04.12.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0118240 - changes 04.12.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0118130 - зміни 04.12.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0118130 - changes 04.12.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0118110 - зміни 04.12.2025
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Passport of the budget program for 2025 KPKVK 0118110 - changes 04.12.2025.xlsx'
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117693 - зміни 04.12.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0117693 - changes 04.12.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117670 - зміни 04.12.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0117670 - changes 04.12.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117330 - зміни 04.12.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0117330 - changes 04.12.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни 04.12.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0117130 - changes 04.12.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни 04.12.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0116030 - changes 04.12.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни 04.12.2025
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Passport of the budget program for 2025 KPKVK 0116020 - changes 04.12.2025.xlsx'
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0114081 - зміни 04.12.2025
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Passport of the budget program for 2025 KPKVK 0114081 - changes 04.12.2025.xlsx'
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0113241 - зміни 04.12.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0113241 - changes 04.12.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни 04.12.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0112152 - changes 04.12.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни 04.12.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0112151 - changes 04.12.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111273 - зміни 04.12.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0111273 - changes 04.12.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111231 - зміни 04.12.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0111231 - changes 04.12.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111031 - зміни 04.12.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0111031 - changes 04.12.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни 04.12.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0111021 - changes 04.12.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни 04.12.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0110150 - changes 04.12.2025.xlsx
       - title: Розпорядження від 16.12.2025 № 284
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Order
-          dated 16.12.2025 No. 284.docx
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Order dated 16.12.2025 No. 284.docx'
       - title: Наказ №48 від 10.12.2025
         link: /uploads/nakaz_48_10.12.2025.pdf
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 1610160, 1616030 - зміни
-          04.11.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 1610160,
-          1616030 - changes 04.11.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0118130 - зміни
-          04.11.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0118130 -
-          changes 04.11.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0118110 - зміни
-          04.11.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0118110 -
-          changes 04.11.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0117693 - зміни
-          04.11.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0117693 -
-          changes 04.11.2025.xlsx
+      - title: 'Паспорт бюджетної програми на 2025 рік КПКВК 1610160, 1616030 - зміни 04.11.2025'
+        link: '/uploads/Passport of the budget program for 2025 KPKVK 1610160, 1616030 - changes 04.11.2025.xlsx'
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0118130 - зміни 04.11.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0118130 - changes 04.11.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0118110 - зміни 04.11.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0118110 - changes 04.11.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117693 - зміни 04.11.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0117693 - changes 04.11.2025.xlsx
         url: ''
       - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117367- зміни 04.11.2025
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Passport
-          of the budget program for 2025 KPKVK 0117367- changes 04.11.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни
-          04.11.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0117130 -
-          changes 04.11.2025.xlsx
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Passport of the budget program for 2025 KPKVK 0117367- changes 04.11.2025.xlsx'
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни 04.11.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0117130 - changes 04.11.2025.xlsx
       - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116030- зміни 04.11.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0116030-
-          changes 04.11.2025.xlsx
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0116030- changes 04.11.2025.xlsx
       - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116020- зміни 04.11.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0116020-
-          changes 04.11.2025.xlsx
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0116020- changes 04.11.2025.xlsx
       - title: Паспорт бюджетної програми на 2025 рік КПКВК 0114081- зміни 04.11.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0114081-
-          changes 04.11.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0113241 - зміни
-          04.11.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0113241 -
-          changes 04.11.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112170 - зміни
-          04.11.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0112170 -
-          changes 04.11.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни
-          04.11.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0112152 -
-          changes 04.11.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни
-          04.11.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0112151 -
-          changes 04.11.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112010 - зміни
-          04.11.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0112010 -
-          changes 04.11.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111600 - зміни
-          04.11.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0111600 -
-          changes 04.11.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111031 - зміни
-          04.11.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0111031 -
-          changes 04.11.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни
-          04.11.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0111021 -
-          changes 04.11.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни
-          04.11.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0110150 -
-          changes 04.11.2025.xlsx
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0114081- changes 04.11.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0113241 - зміни 04.11.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0113241 - changes 04.11.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112170 - зміни 04.11.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0112170 - changes 04.11.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни 04.11.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0112152 - changes 04.11.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни 04.11.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0112151 - changes 04.11.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112010 - зміни 04.11.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0112010 - changes 04.11.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111600 - зміни 04.11.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0111600 - changes 04.11.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111031 - зміни 04.11.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0111031 - changes 04.11.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни 04.11.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0111021 - changes 04.11.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни 04.11.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0110150 - changes 04.11.2025.xlsx
       - title: Розпорядження від 14.11.2025 №242
         link: /uploads/Order of 14.11.2025 No. 242.docx
       - title: Наказ №43 від 17.11.2025
         link: /uploads/nakaz_43_17112025.jpg
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік по КПКВК 0113193 - зміни
-          02.10.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 according to the
-          CPKVK 0113193 - changes 02.10.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 1610160, 1616030 - зміни
-          02.10.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 1610160,
-          1616030 - changes 02.10.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 1011600 - зміни
-          02.10.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 1011600 -
-          changes 02.10.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0118312 - зміни
-          02.10.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0118312 -
-          changes 02.10.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0118110 - зміни
-          02.10.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0118110 -
-          changes 02.10.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік по КПКВК 0113193 - зміни 02.10.2025
+        link: /uploads/Passport of the budget program for 2025 according to the CPKVK 0113193 - changes 02.10.2025.xlsx
+      - title: 'Паспорт бюджетної програми на 2025 рік КПКВК 1610160, 1616030 - зміни 02.10.2025'
+        link: '/uploads/Passport of the budget program for 2025 KPKVK 1610160, 1616030 - changes 02.10.2025.xlsx'
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 1011600 - зміни 02.10.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 1011600 - changes 02.10.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0118312 - зміни 02.10.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0118312 - changes 02.10.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0118110 - зміни 02.10.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0118110 - changes 02.10.2025.xlsx
       - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117693- зміни 02.10.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0117693-
-          changes 02.10.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0117330 - зміни
-          02.10.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0117330 -
-          changes 02.10.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни
-          02.10.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0117130 -
-          changes 02.10.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни
-          02.10.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0116030 -
-          changes 02.10.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни
-          02.10.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0116020 -
-          changes 02.10.2025.xlsx
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0117693- changes 02.10.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117330 - зміни 02.10.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0117330 - changes 02.10.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни 02.10.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0117130 - changes 02.10.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни 02.10.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0116030 - changes 02.10.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни 02.10.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0116020 - changes 02.10.2025.xlsx
       - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116013- зміни 02.10.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0116013-
-          changes 02.10.2025.xlsx
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0116013- changes 02.10.2025.xlsx
       - title: Паспорт бюджетної програми на 2025 рік КПКВК 0114081- зміни 02.10.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0114081-
-          changes 02.10.2025.xlsx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Passport
-          of the budget program for 2025 KPKVK 0114081- changes 02.10.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0113241 - зміни
-          02.10.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0113241 -
-          changes 02.10.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112170 - зміни
-          02.10.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0112170 -
-          changes 02.10.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни
-          02.10.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0112152 -
-          changes 02.10.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни
-          02.10.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0112151 -
-          changes 02.10.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111702 - зміни
-          02.10.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0111702 -
-          changes 02.10.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111200 - зміни
-          02.10.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0111200 -
-          changes 02.10.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни
-          02.10.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0111021 -
-          changes 02.10.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни
-          02.10.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0110150 -
-          changes 02.10.2025.xlsx
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0114081- changes 02.10.2025.xlsx
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Passport of the budget program for 2025 KPKVK 0114081- changes 02.10.2025.xlsx'
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0113241 - зміни 02.10.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0113241 - changes 02.10.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112170 - зміни 02.10.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0112170 - changes 02.10.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни 02.10.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0112152 - changes 02.10.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни 02.10.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0112151 - changes 02.10.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111702 - зміни 02.10.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0111702 - changes 02.10.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111200 - зміни 02.10.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0111200 - changes 02.10.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни 02.10.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0111021 - changes 02.10.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни 02.10.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0110150 - changes 02.10.2025.xlsx
       - title: Наказ №33 від 08.10.2025
         link: /uploads/passports_Order No. 33 dated 08.10.2025.docx
       - title: Розпорядження від 16.10.2025 № 209
         link: /uploads/passports_Order dated 16.10.2025 No. 209.docx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 1610160, 1616030, 1617350
-          - зміни 04.09.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 1610160,
-          1616030, 1617350 - changes 04.09.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0118130 - зміни
-          04.09.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0118130 -
-          changes 04.09.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0117693 - зміни
-          04.09.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0117693 -
-          changes 04.09.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0117330 - зміни
-          04.09.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0117330 -
-          changes 04.09.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни
-          04.09.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0116030 -
-          changes 04.09.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни
-          04.09.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0116020 -
-          changes 04.09.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116013 - зміни
-          04.09.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0116013 -
-          changes 04.09.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0114081 - зміни
-          04.09.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0114081 -
-          changes 04.09.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0113241 - зміни
-          04.09.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0113241 -
-          changes 04.09.2025.xlsx
+      - title: 'Паспорт бюджетної програми на 2025 рік КПКВК 1610160, 1616030, 1617350 - зміни 04.09.2025'
+        link: '/uploads/Passport of the budget program for 2025 KPKVK 1610160, 1616030, 1617350 - changes 04.09.2025.xlsx'
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0118130 - зміни 04.09.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0118130 - changes 04.09.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117693 - зміни 04.09.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0117693 - changes 04.09.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117330 - зміни 04.09.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0117330 - changes 04.09.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни 04.09.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0116030 - changes 04.09.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни 04.09.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0116020 - changes 04.09.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116013 - зміни 04.09.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0116013 - changes 04.09.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0114081 - зміни 04.09.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0114081 - changes 04.09.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0113241 - зміни 04.09.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0113241 - changes 04.09.2025.xlsx
       - title: Паспорт бюджетної програми на 2025 рік КПКВК 0113193- зміни 04.09.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0113193-
-          changes 04.09.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0113160 - зміни
-          04.09.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0113160 -
-          changes 04.09.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни
-          04.09.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0112152 -
-          changes 04.09.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни
-          04.09.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0112151 -
-          changes 04.09.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111700 - зміни
-          04.09.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0111700 -
-          changes 04.09.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111600 - зміни
-          04.09.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0111600 -
-          changes 04.09.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111279 - зміни
-          04.09.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0111279 -
-          changes 04.09.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111031 - зміни
-          04.09.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0111031 -
-          changes 04.09.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни
-          04.09.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0111021 -
-          changes 04.09.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни
-          04.09.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 KPKVK 0110150 -
-          changes 04.09.2025.xlsx
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0113193- changes 04.09.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0113160 - зміни 04.09.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0113160 - changes 04.09.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни 04.09.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0112152 - changes 04.09.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни 04.09.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0112151 - changes 04.09.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111700 - зміни 04.09.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0111700 - changes 04.09.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111600 - зміни 04.09.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0111600 - changes 04.09.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111279 - зміни 04.09.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0111279 - changes 04.09.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111031 - зміни 04.09.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0111031 - changes 04.09.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни 04.09.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0111021 - changes 04.09.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни 04.09.2025
+        link: /uploads/Passport of the budget program for 2025 KPKVK 0110150 - changes 04.09.2025.xlsx
       - title: Наказ від 15.09.2025 №20
         link: /uploads/Order dated 15.09.2025 No. 20.docx
       - title: Розпорядження від 17.09.2025 № 181
         link: /uploads/Order dated 17.09.2025 No. 181.docx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 1610160, 1616030 - зміни
-          04.08.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 Rik KPKVK 1610160,
-          1616030 - change 08042025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0118130 - зміни
-          04.08.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 rіk KPKVK 0118130 -
-          change 08042025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0117693 - зміни
-          04.08.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 rk KPKVK 0117693 -
-          change 08042025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни
-          04.08.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 rіk KPKVK 0116030 -
-          change 08042025.xlsx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Passport
-          of the budget program for 2025 rіk KPKVK 0116030 - change
-          08042025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни
-          04.08.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 rіk KPKVK 0116020 -
-          change 08042025.xlsx
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Passport
-          of the budget program for 2025 rіk KPKVK 0116020 - change
-          08042025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116013 - зміни
-          04.08.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 rіk KPKVK 0116013 -
-          change 08042025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0114081 - зміни
-          04.08.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 Rik KPKVK 0114081 -
-          change 08042025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0113241 - зміни
-          04.08.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 rk KPKVK 0113241 -
-          change 08042025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112170 - зміни
-          04.08.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 rіk KPKVK 0112170 -
-          change 08042025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни
-          04.08.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 rіk KPKVK 0112151 -
-          change 08042025.xlsx
+      - title: 'Паспорт бюджетної програми на 2025 рік КПКВК 1610160, 1616030 - зміни 04.08.2025'
+        link: '/uploads/Passport of the budget program for 2025 Rik KPKVK 1610160, 1616030 - change 08042025.xlsx'
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0118130 - зміни 04.08.2025
+        link: /uploads/Passport of the budget program for 2025 rіk KPKVK 0118130 - change 08042025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117693 - зміни 04.08.2025
+        link: /uploads/Passport of the budget program for 2025 rk KPKVK 0117693 - change 08042025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни 04.08.2025
+        link: /uploads/Passport of the budget program for 2025 rіk KPKVK 0116030 - change 08042025.xlsx
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Passport of the budget program for 2025 rіk KPKVK 0116030 - change 08042025.xlsx'
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни 04.08.2025
+        link: /uploads/Passport of the budget program for 2025 rіk KPKVK 0116020 - change 08042025.xlsx
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Passport of the budget program for 2025 rіk KPKVK 0116020 - change 08042025.xlsx'
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116013 - зміни 04.08.2025
+        link: /uploads/Passport of the budget program for 2025 rіk KPKVK 0116013 - change 08042025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0114081 - зміни 04.08.2025
+        link: /uploads/Passport of the budget program for 2025 Rik KPKVK 0114081 - change 08042025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0113241 - зміни 04.08.2025
+        link: /uploads/Passport of the budget program for 2025 rk KPKVK 0113241 - change 08042025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112170 - зміни 04.08.2025
+        link: /uploads/Passport of the budget program for 2025 rіk KPKVK 0112170 - change 08042025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни 04.08.2025
+        link: /uploads/Passport of the budget program for 2025 rіk KPKVK 0112151 - change 08042025.xlsx
       - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111031- зміни 04.08.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 rіk KPKVK 0111031-
-          change 08042025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни
-          04.08.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 rk KPKVK 0111021 -
-          change 08042025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни
-          04.08.2025
-        link: >-
-          /uploads/Passport of the budget program for 2025 rіk KPKVK 0110150 -
-          change 08042025.xlsx
+        link: /uploads/Passport of the budget program for 2025 rіk KPKVK 0111031- change 08042025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни 04.08.2025
+        link: /uploads/Passport of the budget program for 2025 rk KPKVK 0111021 - change 08042025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни 04.08.2025
+        link: /uploads/Passport of the budget program for 2025 rіk KPKVK 0110150 - change 08042025.xlsx
       - title: Наказ від 13.08.2025 №24
         link: /uploads/Order issued 08132025 No. 24.docx
       - title: Розпорядження від 06.08.2025 № 151
         link: /uploads/Order dated 06.08.2025 No. 151.docx
-      - title: >-
-          Паспорти бюджетних програм на 2025 рік КПКВК 1610160,1616030 - зміни
-          03.07.2025
-        link: >-
-          /uploads/Паспорти бюджетних програм на 2025 рік КПКВК 1610160,1616030
-          - зміни 03.07.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0118130 - зміни
-          03.07.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0118130 - зміни
-          03.07.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0117693 - зміни
-          03.07.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117693 - зміни
-          03.07.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни
-          03.07.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни
-          03.07.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни
-          03.07.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни
-          03.07.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни
-          03.07.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни
-          03.07.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116013 - зміни
-          03.07.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116013 - зміни
-          03.07.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0114081 - зміни
-          03.07.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0114081 - зміни
-          03.07.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0113241 - зміни
-          03.07.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0113241 - зміни
-          03.07.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0113230 - зміни
-          03.07.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0113230 - зміни
-          03.07.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни
-          03.07.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни
-          03.07.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни
-          03.07.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни
-          03.07.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни
-          03.07.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни
-          03.07.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни
-          03.07.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни
-          03.07.2025.xlsx
+      - title: 'Паспорти бюджетних програм на 2025 рік КПКВК 1610160,1616030 - зміни 03.07.2025'
+        link: '/uploads/Паспорти бюджетних програм на 2025 рік КПКВК 1610160,1616030 - зміни 03.07.2025.xlsx'
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0118130 - зміни 03.07.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0118130 - зміни 03.07.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117693 - зміни 03.07.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117693 - зміни 03.07.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни 03.07.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни 03.07.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни 03.07.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни 03.07.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни 03.07.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни 03.07.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116013 - зміни 03.07.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116013 - зміни 03.07.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0114081 - зміни 03.07.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0114081 - зміни 03.07.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0113241 - зміни 03.07.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0113241 - зміни 03.07.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0113230 - зміни 03.07.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0113230 - зміни 03.07.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни 03.07.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни 03.07.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни 03.07.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни 03.07.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни 03.07.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни 03.07.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни 03.07.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни 03.07.2025.xlsx
       - title: Наказ від 14.07.2025 №23
         link: /uploads/Наказ від 14.07.2025 №23.docx
       - title: Розпорядження від 07.07.2025 № 138
         link: /uploads/розпорядження від 07.07.2025 № 138.docx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни
-          05.06.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни
-          05.06.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни 05.06.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни 05.06.2025.xlsx
       - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111021- зміни 05.06.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111021- зміни
-          05.06.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111261 - зміни
-          05.06.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111261 - зміни
-          05.06.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111273 - зміни
-          05.06.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111273 - зміни
-          05.06.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112010 - зміни
-          05.06.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112010 - зміни
-          05.06.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни
-          05.06.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни
-          05.06.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни
-          05.06.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни
-          05.06.2025.xlsx
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111021- зміни 05.06.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111261 - зміни 05.06.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111261 - зміни 05.06.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111273 - зміни 05.06.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111273 - зміни 05.06.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112010 - зміни 05.06.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112010 - зміни 05.06.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни 05.06.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни 05.06.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни 05.06.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни 05.06.2025.xlsx
       - title: Паспорт бюджетної програми на 2025 рік КПКВК 0113241- зміни 05.06.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0113241- зміни
-          05.06.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0114081 - зміни
-          05.06.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0114081 - зміни
-          05.06.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни
-          05.06.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни
-          05.06.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни
-          05.06.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни
-          05.06.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни
-          05.06.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни
-          05.06.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0117330 - зміни
-          05.06.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117330 - зміни
-          05.06.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0117384 - зміни
-          05.06.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117384 - зміни
-          05.06.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0118130 - зміни
-          05.06.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0118130 - зміни
-          05.06.2025.xlsx
-      - title: >-
-          Паспорти бюджетної програми на 2025 рік КПКВК 1610160, 1616030 - зміни
-          05.06.2025
-        link: >-
-          /uploads/Паспорти бюджетної програми на 2025 рік КПКВК 1610160,
-          1616030 - зміни 05.06.2025.xlsx
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0113241- зміни 05.06.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0114081 - зміни 05.06.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0114081 - зміни 05.06.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни 05.06.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни 05.06.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни 05.06.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни 05.06.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни 05.06.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни 05.06.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117330 - зміни 05.06.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117330 - зміни 05.06.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117384 - зміни 05.06.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117384 - зміни 05.06.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0118130 - зміни 05.06.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0118130 - зміни 05.06.2025.xlsx
+      - title: 'Паспорти бюджетної програми на 2025 рік КПКВК 1610160, 1616030 - зміни 05.06.2025'
+        link: '/uploads/Паспорти бюджетної програми на 2025 рік КПКВК 1610160, 1616030 - зміни 05.06.2025.xlsx'
       - title: Наказ від 06.06.2025 № 12
         link: /uploads/наказ від 06.06.2025 № 12од.docx
       - title: Розпорядження від 09.06.2025 № 113
         link: /uploads/розпорядження від 09.06.2025 № 113.docx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни
-          02.05.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни
-          02.05.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни
-          02.05.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни
-          02.05.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111183 - зміни
-          02.05.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111183 - зміни
-          02.05.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111184 - зміни
-          02.05.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111184 - зміни
-          02.05.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111231 - зміни
-          02.05.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111231 - зміни
-          02.05.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111232 - зміни
-          02.05.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111232 - зміни
-          02.05.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111273 - зміни
-          02.05.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111273 - зміни
-          02.05.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111274 - зміни
-          02.05.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111274 - зміни
-          02.05.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112010 - зміни
-          02.05.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112010 - зміни
-          02.05.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни
-          02.05.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни
-          02.05.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни
-          02.05.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни
-          02.05.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112170 - зміни
-          02.05.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112170 - зміни
-          02.05.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0113230 - зміни
-          02.05.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0113230 - зміни
-          02.05.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0113241 - зміни
-          02.05.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0113241 - зміни
-          02.05.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0114081 - зміни
-          02.05.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0114081 - зміни
-          02.05.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116013 - зміни
-          02.05.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116013 - зміни
-          02.05.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни
-          02.05.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни
-          02.05.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни
-          02.05.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни
-          02.05.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни
-          02.05.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни
-          02.05.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0117330 - зміни
-          02.05.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117330 - зміни
-          02.05.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0117680 - зміни
-          02.05.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117680 - зміни
-          02.05.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0117693 - зміни
-          02.05.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117693 - зміни
-          02.05.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0118130 - зміни
-          02.05.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0118130 - зміни
-          02.05.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 1610160 - зміни
-          02.05.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 1610160 - зміни
-          02.05.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни 02.05.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни 02.05.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни 02.05.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни 02.05.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111183 - зміни 02.05.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111183 - зміни 02.05.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111184 - зміни 02.05.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111184 - зміни 02.05.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111231 - зміни 02.05.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111231 - зміни 02.05.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111232 - зміни 02.05.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111232 - зміни 02.05.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111273 - зміни 02.05.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111273 - зміни 02.05.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111274 - зміни 02.05.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111274 - зміни 02.05.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112010 - зміни 02.05.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112010 - зміни 02.05.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни 02.05.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни 02.05.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни 02.05.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни 02.05.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112170 - зміни 02.05.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112170 - зміни 02.05.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0113230 - зміни 02.05.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0113230 - зміни 02.05.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0113241 - зміни 02.05.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0113241 - зміни 02.05.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0114081 - зміни 02.05.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0114081 - зміни 02.05.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116013 - зміни 02.05.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116013 - зміни 02.05.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни 02.05.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни 02.05.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни 02.05.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни 02.05.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни 02.05.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни 02.05.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117330 - зміни 02.05.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117330 - зміни 02.05.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117680 - зміни 02.05.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117680 - зміни 02.05.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117693 - зміни 02.05.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117693 - зміни 02.05.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0118130 - зміни 02.05.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0118130 - зміни 02.05.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 1610160 - зміни 02.05.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 1610160 - зміни 02.05.2025.xlsx
       - title: Розпорядження від 07.05.2025 № 90
         link: /uploads/розпорядження від 07.05.2025 № 90.docx
       - title: Наказ 11 Про затвердження паспортів від 09.05.25
         link: /uploads/Наказ 11 Про затвердження паспортів від 09.05.25.docx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни
-          03.04.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни
-          03.04.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни
-          03.04.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни
-          03.04.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111183 - зміни
-          03.04.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111183 - зміни
-          03.04.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111272 - зміни
-          03.04.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111272 - зміни
-          03.04.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111300 - зміни
-          03.04.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111300 - зміни
-          03.04.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111700 - зміни
-          03.04.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111700 - зміни
-          03.04.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни
-          03.04.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни
-          03.04.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0113230 - зміни
-          03.04.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0113230 - зміни
-          03.04.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0114081 - зміни
-          03.04.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0114081 - зміни
-          03.04.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116013 - зміни
-          03.04.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116013 - зміни
-          03.04.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни
-          03.04.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни
-          03.04.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни
-          03.04.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни
-          03.04.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0117030 - зміни
-          03.04.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117030 - зміни
-          03.04.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни
-          03.04.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни
-          03.04.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0118130 - зміни
-          03.04.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0118130 - зміни
-          03.04.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 1610160 - зміни
-          03.04.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 1610160 - зміни
-          03.04.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни 03.04.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни 03.04.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни 03.04.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни 03.04.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111183 - зміни 03.04.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111183 - зміни 03.04.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111272 - зміни 03.04.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111272 - зміни 03.04.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111300 - зміни 03.04.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111300 - зміни 03.04.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111700 - зміни 03.04.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111700 - зміни 03.04.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни 03.04.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни 03.04.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0113230 - зміни 03.04.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0113230 - зміни 03.04.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0114081 - зміни 03.04.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0114081 - зміни 03.04.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116013 - зміни 03.04.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116013 - зміни 03.04.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни 03.04.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни 03.04.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни 03.04.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни 03.04.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117030 - зміни 03.04.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117030 - зміни 03.04.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни 03.04.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни 03.04.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0118130 - зміни 03.04.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0118130 - зміни 03.04.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 1610160 - зміни 03.04.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 1610160 - зміни 03.04.2025.xlsx
       - title: Наказ від 04.04.2025  №10од
         link: /uploads/наказ від 04.04.2025  №10од.pdf
       - title: Розпорядження від 14.04.2025 № 74
         link: /uploads/розпорядження від 14.04.2025 № 74.docx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни
-          06.03.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни
-          06.03.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни
-          06.03.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни
-          06.03.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни
-          06.03.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни
-          06.03.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116013 - зміни
-          06.03.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116013 - зміни
-          06.03.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0113230 - зміни
-          06.03.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0113230 - зміни
-          06.03.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни
-          06.03.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни
-          06.03.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни
-          06.03.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни
-          06.03.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111262 - зміни
-          06.03.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111262 - зміни
-          06.03.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111261 - зміни
-          06.03.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111261 - зміни
-          06.03.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни
-          06.03.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни
-          06.03.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни 06.03.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117130 - зміни 06.03.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни 06.03.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни 06.03.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни 06.03.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни 06.03.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116013 - зміни 06.03.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116013 - зміни 06.03.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0113230 - зміни 06.03.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0113230 - зміни 06.03.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни 06.03.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112152 - зміни 06.03.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни 06.03.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни 06.03.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111262 - зміни 06.03.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111262 - зміни 06.03.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111261 - зміни 06.03.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111261 - зміни 06.03.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни 06.03.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни 06.03.2025.xlsx
       - title: Розпорядження від 10.03.2025 № 52
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/розпорядження
-          від 10.03.2025 № 52.docx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни
-          18.02.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни
-          18.02.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни
-          18.02.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни
-          18.02.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111300 - зміни
-          18.02.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111300 - зміни
-          18.02.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112010 - зміни
-          18.02.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112010 - зміни
-          18.02.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни
-          18.02.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни
-          18.02.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0113193 - зміни
-          18.02.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0113193 - зміни
-          18.02.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0113230 - зміни
-          18.02.2025
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Паспорт
-          бюджетної програми на 2025 рік КПКВК 0113230 - зміни 18.02.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0113242 - зміни
-          18.02.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0113242 - зміни
-          18.02.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116013 - зміни
-          18.02.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116013 - зміни
-          18.02.2025.xlsx
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/розпорядження від 10.03.2025 № 52.docx'
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни 18.02.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни 18.02.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни 18.02.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни 18.02.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111300 - зміни 18.02.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111300 - зміни 18.02.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112010 - зміни 18.02.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112010 - зміни 18.02.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни 18.02.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0112151 - зміни 18.02.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0113193 - зміни 18.02.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0113193 - зміни 18.02.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0113230 - зміни 18.02.2025
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Паспорт бюджетної програми на 2025 рік КПКВК 0113230 - зміни 18.02.2025.xlsx'
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0113242 - зміни 18.02.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0113242 - зміни 18.02.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116013 - зміни 18.02.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116013 - зміни 18.02.2025.xlsx
       - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116020- зміни 18.02.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116020- зміни
-          18.02.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни
-          18.02.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни
-          18.02.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0117330 - зміни
-          18.02.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117330 - зміни
-          18.02.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0117693 - зміни
-          18.02.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117693 - зміни
-          18.02.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 1610160 - зміни
-          18.02.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 1610160 - зміни
-          18.02.2025.xlsx
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116020- зміни 18.02.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни 18.02.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни 18.02.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117330 - зміни 18.02.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117330 - зміни 18.02.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117693 - зміни 18.02.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117693 - зміни 18.02.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 1610160 - зміни 18.02.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 1610160 - зміни 18.02.2025.xlsx
       - title: Розпорядження від 24.02.2025 №31
         link: /uploads/розпорядження від 24.02.2025 № 31.docx
-      - title: >-
-          Наказ № 03-од від 28.01.2025 затвердження змін до паспортів бюджетних
-          програм КПК 16
-        link: >-
-          /uploads/наказ № 03-од від 28.01.2025 затвердж змін до паспортів бюдж
-          програм КПК 16.docx
-      - title: >-
-          Розпорядження від 27.01.2025 № 13 завтердження змін до паспортів
-          бюджетних програм
-        link: >-
-          /uploads/розпорядження від 27.01.2025 № 13 завтердж змін до паспортів
-          бюдж програм сільрада.docx
-      - title: >-
-          Паспорт бюджетної програми на  2025 рік КПКВК 1616030 - зміни
-          16.01.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на  2025 рік КПКВК 1616030 - зміни
-          16.01.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0117693 - зміни
-          16.01.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117693 - зміни
-          16.01.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни
-          16.01.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни
-          16.01.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни
-          16.01.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни
-          16.01.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0113230 - зміни
-          16.01.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0113230 - зміни
-          16.01.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111700 - зміни
-          16.01.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111700 - зміни
-          16.01.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111600 - зміни
-          16.01.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111600 - зміни
-          16.01.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111403 - зміни
-          16.01.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111403 - зміни
-          16.01.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111200 - зміни
-          16.01.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111200 - зміни
-          16.01.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111184 - зміни
-          16.01.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111184 - зміни
-          16.01.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни
-          16.01.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни
-          16.01.2025.xlsx
-      - title: >-
-          Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни
-          16.01.2025
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни
-          16.01.2025.xlsx
-      - title: >-
-          Розпорядження № 10 від 16.01.2025 затвердження паспортів бюджетних
-          програм
-        link: >-
-          /uploads/розпорядження № 10 від 16.01.2025 затвердж паспортів бюдж
-          програм - сільрада.docx
-      - title: >-
-          Наказ №1-од від 20.01.2025 затвердж паспорту бюдж програми на 2025 рік
-          КПК 09
-        link: >-
-          /uploads/наказ №1-од від 20.01.2025 затвердж паспорту бюдж програми на
-          2025 рік КПК 09.docx
-      - title: >-
-          Наказ № 2-од від 21.01.2025  затвердж паспорту бюдж програми на 2025
-          рік КПК16
-        link: >-
-          /uploads/наказ № 2-од від 21.01.2025  затвердж паспорту бюдж програми
-          на 2025 рік КПК16.docx
-      - title: >-
-          Наказ № 1 від 20.01.2025 затверж паспорту бюдж програми на 2025 рік
-          КПК 37
-        link: >-
-          /uploads/наказ № 1 від 20.01.2025 затверж паспорту бюдж програми на
-          2025 рік КПК 37.docx
+      - title: Наказ № 03-од від 28.01.2025 затвердження змін до паспортів бюджетних програм КПК 16
+        link: /uploads/наказ № 03-од від 28.01.2025 затвердж змін до паспортів бюдж програм КПК 16.docx
+      - title: Розпорядження від 27.01.2025 № 13 завтердження змін до паспортів бюджетних програм
+        link: /uploads/розпорядження від 27.01.2025 № 13 завтердж змін до паспортів бюдж програм сільрада.docx
+      - title: Паспорт бюджетної програми на  2025 рік КПКВК 1616030 - зміни 16.01.2025
+        link: /uploads/Паспорт бюджетної програми на  2025 рік КПКВК 1616030 - зміни 16.01.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0117693 - зміни 16.01.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0117693 - зміни 16.01.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни 16.01.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116030 - зміни 16.01.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни 16.01.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0116020 - зміни 16.01.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0113230 - зміни 16.01.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0113230 - зміни 16.01.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111700 - зміни 16.01.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111700 - зміни 16.01.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111600 - зміни 16.01.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111600 - зміни 16.01.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111403 - зміни 16.01.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111403 - зміни 16.01.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111200 - зміни 16.01.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111200 - зміни 16.01.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111184 - зміни 16.01.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111184 - зміни 16.01.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни 16.01.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0111021 - зміни 16.01.2025.xlsx
+      - title: Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни 16.01.2025
+        link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 0110150 - зміни 16.01.2025.xlsx
+      - title: Розпорядження № 10 від 16.01.2025 затвердження паспортів бюджетних програм
+        link: /uploads/розпорядження № 10 від 16.01.2025 затвердж паспортів бюдж програм - сільрада.docx
+      - title: Наказ №1-од від 20.01.2025 затвердж паспорту бюдж програми на 2025 рік КПК 09
+        link: /uploads/наказ №1-од від 20.01.2025 затвердж паспорту бюдж програми на 2025 рік КПК 09.docx
+      - title: Наказ № 2-од від 21.01.2025  затвердж паспорту бюдж програми на 2025 рік КПК16
+        link: /uploads/наказ № 2-од від 21.01.2025  затвердж паспорту бюдж програми на 2025 рік КПК16.docx
+      - title: Наказ № 1 від 20.01.2025 затверж паспорту бюдж програми на 2025 рік КПК 37
+        link: /uploads/наказ № 1 від 20.01.2025 затверж паспорту бюдж програми на 2025 рік КПК 37.docx
       - title: Паспорт бюджетної програми на 2025 рік КПКВК 3710160
         link: /uploads/Паспорт бюджетної програми на 2025 рік КПКВК 3710160 (1).xlsx
       - title: Паспорт бюджетної програми на 2025 рік КПКВК 1616030
@@ -1292,9 +505,7 @@ components:
       - title: Паспорт бюджетної програми на 2024 рік КПКВК 1610160
         link: /uploads/Паспорт бюджетної програми на 2024 рік КПКВК 1610160.pdf
       - title: Паспорт бюджетної програми на 2024 рік зі змінами КПКВК 3710160
-        link: >-
-          /uploads/Паспорт бюджетної програми на 2024 рік зі змінами КПКВК
-          3710160.pdf
+        link: /uploads/Паспорт бюджетної програми на 2024 рік зі змінами КПКВК 3710160.pdf
       - title: Паспорти бюджетних програм на 2024 рік КПКВК 3710160
         link: /uploads/Паспорт бюджетної програми на 2024 рік КПКВК 3710160.pdf
       - title: Паспорт бюджетної програми на 2024 рік КПКВК 0910160
