@@ -6,6 +6,7 @@ components:
     order:
       - title: 68 сесія Широківської сільської ради  VIII скликання
         url: 'https://youtu.be/EMuG_cv8etk'
+        buttonText: Дивитись
       - title: 67 позачергова сесія Широківської сільської ради VIII скликання
         url: 'https://youtu.be/kFivYB5AVJ8'
         buttonText: Дивитись
