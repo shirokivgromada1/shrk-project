@@ -33,7 +33,7 @@ components:
         link: /uploads/Housing and communal services_2025-2027_№8_ 04112025.doc
       - name: 'Додатки до рішення №8 від 4 листопада 2025 року '
         date: 'Рішення №8 від 4 листопада 2025 року '
-        link: '/uploads/Annexes 1–5 to the Housing and Communal Services Program for 2025–2027, Decision No. 8 dated November 4, 2025..xlsx'
+        link: /uploads/appendixes_Housing and communal services_2025-2027_№8_ 04112025.xlsx
       - name: Про внесення змін до Програми підтримки та розвитку комунального підприємства «Комунальне сільськогосподарське підприємство «Широке» Широківської сільської ради Запорізького району Запорізької області на 2024 – 2026 роки.
         date: Рішення №4  від 02 жовтня 2025 року
         link: /uploads/Amendments to the Program of the Shiroke KP from 02.10.2025.doc
