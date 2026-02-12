@@ -1,104 +1,49 @@
 ---
 title: implementation of the budget 2025
 components:
-  - title: Виконання бюджету 2025
+  - title: 'Виконання бюджету '
     order:
-      - title: >-
-          Інформація про виконання місцевого бюджету за січень-листопад 2025
-          року
-        link: >-
-          /uploads/Information on the implementation of the local budget for
-          January-November 2025.xlsx
+      - title: Інформація про виконання місцевого бюджету за січень 2026 року
+      - title: Інформація про виконання місцевого бюджету за січень-листопад 2025 року
+        link: /uploads/Information on the implementation of the local budget for January-November 2025.xlsx
       - title: Інформація про виконання місцевого бюджету за січень-жовтень 2025 року
-        link: >-
-          /uploads/Information on the implementation of the local budget for
-          January–October 2025..xlsx
+        link: /uploads/Information on the implementation of the local budget for January–October 2025..xlsx
       - title: Звіт про виконання бюджету за 9 місяців 2025 року
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/budget
-          execution report for 9 months of 2025.doc
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/budget execution report for 9 months of 2025.doc'
       - title: Додатки до інформації про виконання бюджету за 9 місяців 2025 року
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/annexes to
-          the information on budget execution for 9 months of 2025.xlsx
-      - title: >-
-          Рішення від 04.11.2025  № 1 про затвердження звіту про виконання
-          бюджету за 9 місяців 2025 р
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision
-          dated 04.11.2025 No. 1 on approval of the budget execution report for
-          9 months of 2025.docx
-      - title: >-
-          Рішення виконкому від 02.10.2025  № 371 Про схвалення звіту про
-          виконання бюджету за 9 місяців 2025 р
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision
-          of the Executive Committee dated 02.10.2025 No. 371 On approval of the
-          budget execution report for 9 months of 2025.doc
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/annexes to the information on budget execution for 9 months of 2025.xlsx'
+      - title: Рішення від 04.11.2025  № 1 про затвердження звіту про виконання бюджету за 9 місяців 2025 р
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision dated 04.11.2025 No. 1 on approval of the budget execution report for 9 months of 2025.docx'
+      - title: Рішення виконкому від 02.10.2025  № 371 Про схвалення звіту про виконання бюджету за 9 місяців 2025 р
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Decision of the Executive Committee dated 02.10.2025 No. 371 On approval of the budget execution report for 9 months of 2025.doc'
       - title: Інформація про виконання місцевого бюджету за січень-серпень 2025 року
-        link: >-
-          /uploads/Information about the finalization of the local budget
-          jan-aug 2025.xlsx
+        link: /uploads/Information about the finalization of the local budget jan-aug 2025.xlsx
       - title: Інформація про виконання місцевого бюджету за січень-липень 2025 року
-        link: >-
-          /uploads/Information about the finalization of the local budget
-          jan-apr 2025.xlsx
+        link: /uploads/Information about the finalization of the local budget jan-apr 2025.xlsx
       - title: Додатки до інформації про виконання бюджету за 1 півріччя 2025 року
-        link: >-
-          /uploads/додатки до інформації про виконання бюджету за 1 півріччя
-          2025 року.xlsx
+        link: /uploads/додатки до інформації про виконання бюджету за 1 півріччя 2025 року.xlsx
       - title: Звіт про виконання бюджету за 1 півріччя 2025 року
         link: /uploads/звіт про виконання бюджету за 1 півріччя 2025 року.doc
-      - title: >-
-          Рішення виконкому від 03.07.2025  № 250 Про схвалення звіту про
-          виконання бюджету за 1 півріччя 2025 року
-        link: >-
-          /uploads/Рішення виконкому від 03.07.2025  № 250 Про схвал звіт про
-          викон бюдж за 1 півріччя 2025 р.doc
-      - title: >-
-          Рішення від 04.08.2025  № 1 Про затвердження звіту про виконання
-          бюджету за 1 півріччя 2025 року
-        link: >-
-          /uploads/Рішення від 04.08.2025  № 1 Про затвердження звіту про
-          виконання бюджету за 1 півріччя 2025 р.docx
+      - title: Рішення виконкому від 03.07.2025  № 250 Про схвалення звіту про виконання бюджету за 1 півріччя 2025 року
+        link: /uploads/Рішення виконкому від 03.07.2025  № 250 Про схвал звіт про викон бюдж за 1 півріччя 2025 р.doc
+      - title: Рішення від 04.08.2025  № 1 Про затвердження звіту про виконання бюджету за 1 півріччя 2025 року
+        link: /uploads/Рішення від 04.08.2025  № 1 Про затвердження звіту про виконання бюджету за 1 півріччя 2025 р.docx
       - title: Інформація про виконання місцевого бюджету за січень-травень 2025 року
-        link: >-
-          /uploads/інформація про виконання місцевого бюджету за січень-травень
-          2025 року.xlsx
+        link: /uploads/інформація про виконання місцевого бюджету за січень-травень 2025 року.xlsx
       - title: Інформація про виконання мсіцевого бюджету за січень-квітень 2025 року
-        link: >-
-          /uploads/інформація про виконання мсіцевого бюджету за_січень-квітень
-          2025 року.xlsx
+        link: /uploads/інформація про виконання мсіцевого бюджету за_січень-квітень 2025 року.xlsx
       - title: Додатки до інформації про виконання бюджету за 1 квартал 2025 року
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/додатки до
-          інформації про виконання бюджету за 1 кв 2025 року.xlsx
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/додатки до інформації про виконання бюджету за 1 кв 2025 року.xlsx'
       - title: Звіт про виконання бюджету за 1 квартал 2025 року
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/звіт про
-          виконання бюджету за 1 кв 2025 року.doc
-      - title: >-
-          Рішення виконкому від 03.04.2025  № 110  Про розгляд  звіту про
-          виконання бюджету за 1 кв 2025 р
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Рішення
-          виконкому від 03.04.2025  № 110  Про розгляд  звіту про викон бюдж за
-          1 кв 2025 р.doc
-      - title: >-
-          Рішення від 02.05.2025 № 5 про затвердження звіту про виконання
-          бюджету за 1 квартал 2025 р (оприлюднено 09.05.2025)
-        url: >-
-          https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Рішення
-          від 02.05.2025 № 5 про затвердження звіту про виконання бюджету за 1
-          квартал 2025 р.docx
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/звіт про виконання бюджету за 1 кв 2025 року.doc'
+      - title: Рішення виконкому від 03.04.2025  № 110  Про розгляд  звіту про виконання бюджету за 1 кв 2025 р
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Рішення виконкому від 03.04.2025  № 110  Про розгляд  звіту про викон бюдж за 1 кв 2025 р.doc'
+      - title: Рішення від 02.05.2025 № 5 про затвердження звіту про виконання бюджету за 1 квартал 2025 р (оприлюднено 09.05.2025)
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Рішення від 02.05.2025 № 5 про затвердження звіту про виконання бюджету за 1 квартал 2025 р.docx'
       - title: Інформація про виконання місцевого бюджету за січень-лютий 2025 року
-        link: >-
-          /uploads/інформація про виконання місцевого бюджету за січень-лютий
-          2025 року.xlsx
+        link: /uploads/інформація про виконання місцевого бюджету за січень-лютий 2025 року.xlsx
       - title: Інформація про виконання місцевого бюджету за січень 2025 року
-        link: >-
-          /uploads/інформація про виконання місцевого бюджету за січень 2025
-          року.xlsx
+        link: /uploads/інформація про виконання місцевого бюджету за січень 2025 року.xlsx
     _template: HeadOrders
 ---
 
