@@ -32,6 +32,7 @@ components:
   - title: Документи
     document:
       - title: Звіт «Агенції розвитку Широківської громади» за 2025 рік
+        link: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Annual_Report_2025_of_the_Development_Agency_of_Shyrokivska_Territorial_Community.pdf'
       - title: 'Стратегія розвитку Широківської громади '
         link: 'https://shtg.gov.ua/development-strategy'
     _template: Documents
