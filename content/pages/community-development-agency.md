@@ -36,6 +36,10 @@ components:
       - title: 'Стратегія розвитку Широківської громади '
         link: 'https://shtg.gov.ua/development-strategy'
     _template: Documents
+  - newsSection:
+      - category: content/newsCategories/international_cooperation.md
+        variantNews: '1'
+    _template: newsSections
   - notMain: true
     headline:
       text: Новини
