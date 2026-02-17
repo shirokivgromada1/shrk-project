@@ -32,7 +32,8 @@ components:
   - title: Документи
     document:
       - title: Звіт «Агенції розвитку Широківської громади» за 2025 рік
-      - {}
+      - title: 'Стратегія розвитку Широківської громади '
+        link: 'https://shtg.gov.ua/development-strategy'
     _template: Documents
   - notMain: true
     headline:
