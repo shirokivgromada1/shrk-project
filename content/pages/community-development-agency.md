@@ -40,9 +40,5 @@ components:
       - category: content/newsCategories/international_cooperation.md
         variantNews: '1'
     _template: newsSections
-  - notMain: true
-    headline:
-      text: Новини
-    _template: news
 ---
 
