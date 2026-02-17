@@ -23,15 +23,16 @@ components:
       - name: Відділення денного перебування
       - name: Відділення соціальної роботи
       - name: Відділення соціальної допомоги вдома
-      - name: >-
-          Відділення підтримки осіб, які постраждали від домашнього насильства
-          та насильства за ознакою статі
+      - name: 'Відділення підтримки осіб, які постраждали від домашнього насильства та насильства за ознакою статі'
         isHidden: false
       - name: Соціально-психологічна бригада
     _template: SilradaDepartmentFunctions
   - newsSection:
-      - category: >-
-          content/newsCategories/ME_Center_for_Social_Services_of_the_Shyroke_Community.md
+      - category: content/newsCategories/ME_Center_for_Social_Services_of_the_Shyroke_Community.md
+        variantNews: '1'
+    _template: newsSections
+  - newsSection:
+      - category: content/newsCategories/social_sphere.md
         variantNews: '1'
     _template: newsSections
 ---
