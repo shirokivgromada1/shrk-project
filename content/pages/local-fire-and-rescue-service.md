@@ -10,9 +10,7 @@ components:
     contacts:
       title: Контакти керівника
       phone: +38 (068) 446 86 35
-      place: >-
-        Україна, 70413, Запорізька область, Запорізький район, село Широке,
-        вулиця Космічна, будинок 2-В
+      place: 'Україна, 70413, Запорізька область, Запорізький район, село Широке, вулиця Космічна, будинок 2-В'
     position:
       title: Посада
       name: Керівник
@@ -26,9 +24,9 @@ components:
       - name: Аварійно-рятувальні операції
       - name: Профілактично-пояснювальна робота з населенням
     _template: SilradaDepartmentFunctions
-  - notMain: true
-    headline:
-      text: Новини
-    _template: news
+  - newsSection:
+      - category: content/newsCategories/security.md
+        variantNews: '1'
+    _template: newsSections
 ---
 
