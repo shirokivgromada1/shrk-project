@@ -29,6 +29,11 @@ components:
       - name: Організація та реалізація Громадського бюджету
       - name: Проведення заходів неформальної освіти для працівників апарату і жителів
     _template: SilradaDepartmentFunctions
+  - title: Документи
+    document:
+      - title: Звіт «Агенції розвитку Широківської громади» за 2025 рік
+      - {}
+    _template: Documents
   - notMain: true
     headline:
       text: Новини
