@@ -8,58 +8,14 @@ components:
     fullnameEng: Denys Oleksandrovych Korotenko
     employment:
       item:
-        - desc: >-
-            Народився 25 грудня 1977 року у місті Запоріжжя в родині військових.
-            У 2007 році закінчив Запорізький інститут державного та
-            муніципального управління (нині - КПУ) за спеціальністю «Менеджмент
-            організацій».
-          descEng: >-
-            He was born on December 25, 1977 in the city of Zaporizhzhia in a
-            military family. In 2007, he graduated from the Zaporizhia Institute
-            of State and Municipal Administration (now - KPU) with a major in
-            "Organizational Management".
-        - desc: >-
-            Через десять років закінчив Економіко-гуманітарний факультет ЗНУ у
-            Мелітополі – спеціаліст, фінансист. А за пару років здобув ступінь
-            магістра за спеціальністю «публічне управління та адміністрування» у
-            Дніпропетровському регіональному інституті державного управління при
-            Президентові України.
-          descEng: >-
-            Ten years later, he graduated from the Faculty of Economics and
-            Humanities of ZNU in Melitopol - specialist, financier. And in a
-            couple of years, he obtained a master's degree in the specialty
-            "public management and administration" at the Dnipropetrovsk
-            Regional Institute of Public Administration under the President of
-            Ukraine.
-        - desc: >-
-            Ще до отримання першої вищої освіти почав займатись підприємницькою
-            діяльністю. І в період з 2003 до 2016 року працювати на різних
-            посадах від менеджера відділу маркетингу до заступника та
-            генерального директора підприємств: ТОВ «Запорізький завод
-            напівфабрикатів», ТОВ «ЕКОМОСТ», ТОВ «Продрезерв-Україна».
-          descEng: >-
-            Even before receiving his first higher education, he began to engage
-            in entrepreneurial activities. And in the period from 2003 to 2016,
-            he worked in various positions, from the manager of the marketing
-            department to the deputy and general director of the enterprises:
-            Zaporizhia semi-finished products LLC, ECOMOST LLC,
-            Prodrezerv-Ukraine LLC.
-        - desc: >-
-            В цей період Денис Коротенко став депутатом Запорізької обласної
-            ради. Ще тоді він почав представляти інтереси мешканців нинішньої
-            Широківської громади та допомагав їм всім необхідним. Водночас став
-            головою ГО «Запорізька районна федерація футболу». З квітня 2017
-            року обіймає посаду голови Широківської громади Запорізького району,
-            Запорізької області і у 2020 році переобрався на другий термін.
-          descEng: >-
-            During this period, Denys Korotenko became a deputy of the
-            Zaporizhia Regional Council. Even then, he began to represent the
-            interests of the residents of the current Shirokiv community and
-            helped them with everything they needed. At the same time, he became
-            the head of the NGO "Zaporizka District Football Federation". Since
-            April 2017, he has held the post of chairman of the Shirokiv
-            community of the Zaporizhia district, Zaporizhia region, and in 2020
-            was re-elected for a second term.
+        - desc: Народився 25 грудня 1977 року у місті Запоріжжя в родині військових. У 2007 році закінчив Запорізький інститут державного та муніципального управління (нині - КПУ) за спеціальністю «Менеджмент організацій».
+          descEng: 'He was born on December 25, 1977 in the city of Zaporizhzhia in a military family. In 2007, he graduated from the Zaporizhia Institute of State and Municipal Administration (now - KPU) with a major in "Organizational Management".'
+        - desc: 'Через десять років закінчив Економіко-гуманітарний факультет ЗНУ у Мелітополі – спеціаліст, фінансист. А за пару років здобув ступінь магістра за спеціальністю «публічне управління та адміністрування» у Дніпропетровському регіональному інституті державного управління при Президентові України.'
+          descEng: 'Ten years later, he graduated from the Faculty of Economics and Humanities of ZNU in Melitopol - specialist, financier. And in a couple of years, he obtained a master''s degree in the specialty "public management and administration" at the Dnipropetrovsk Regional Institute of Public Administration under the President of Ukraine.'
+        - desc: 'Ще до отримання першої вищої освіти почав займатись підприємницькою діяльністю. І в період з 2003 до 2016 року працювати на різних посадах від менеджера відділу маркетингу до заступника та генерального директора підприємств: ТОВ «Запорізький завод напівфабрикатів», ТОВ «ЕКОМОСТ», ТОВ «Продрезерв-Україна».'
+          descEng: 'Even before receiving his first higher education, he began to engage in entrepreneurial activities. And in the period from 2003 to 2016, he worked in various positions, from the manager of the marketing department to the deputy and general director of the enterprises: Zaporizhia semi-finished products LLC, ECOMOST LLC, Prodrezerv-Ukraine LLC.'
+        - desc: 'В цей період Денис Коротенко став депутатом Запорізької обласної ради. Ще тоді він почав представляти інтереси мешканців нинішньої Широківської громади та допомагав їм всім необхідним. Водночас став головою ГО «Запорізька районна федерація футболу». З квітня 2017 року обіймає посаду голови Широківської громади Запорізького району, Запорізької області і у 2020 році переобрався на другий термін.'
+          descEng: 'During this period, Denys Korotenko became a deputy of the Zaporizhia Regional Council. Even then, he began to represent the interests of the residents of the current Shirokiv community and helped them with everything they needed. At the same time, he became the head of the NGO "Zaporizka District Football Federation". Since April 2017, he has held the post of chairman of the Shirokiv community of the Zaporizhia district, Zaporizhia region, and in 2020 was re-elected for a second term.'
     contacts:
       title: 'Контакти:'
       titleEng: 'Contacts:'
@@ -75,6 +31,12 @@ components:
   - title: ЗАСТУПНИКИ ГОЛОВИ
     titleEng: DEPUTY CHAIRMEN
     deputies:
+      - image: /uploads/silrada/head-of-the-community/5.png
+        fullname: Свіркін Дмитро Олександрович
+        fullnameEng: Dmytro Oleksandrovich Svirkin
+        position: Перший заступник Голови
+        positionEng: Deputy Chairman
+        link: deputy-head-svirkin
       - image: /uploads/silrada/head-of-the-community/1.png
         fullname: Ставицька Ольга Сергіївна
         fullnameEng: Olga Serhiivna Stavytska
@@ -99,12 +61,6 @@ components:
         position: Секретарка Ради
         positionEng: Secretary of the Council
         link: secretary-of-the-council
-      - image: /uploads/silrada/head-of-the-community/5.png
-        fullname: Свіркін Дмитро Олександрович
-        fullnameEng: Dmytro Oleksandrovich Svirkin
-        position: Заступник Голови
-        positionEng: Deputy Chairman
-        link: deputy-head-svirkin
       - image: /uploads/silrada/head-of-the-community/6.png
         fullname: Бондар Олександр Олександрович
         fullnameEng: Bondar Oleksandr Oleksandrovych
