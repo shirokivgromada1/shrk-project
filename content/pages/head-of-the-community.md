@@ -49,24 +49,24 @@ components:
         position: Заступниця Голови
         positionEng: Deputy Chairman
         link: deputy-head-judina
-      - image: /uploads/silrada/head-of-the-community/3.png
-        fullname: Головань Лариса Семенівна
-        fullnameEng: Larisa Semenivna Golovan
-        position: Керуюча справами виконавчого комітету
-        positionEng: Managing the affairs of the executive committee
-        link: managing-the-executive-affairs-committee
-      - image: /uploads/silrada/head-of-the-community/4.png
-        fullname: Правдюк Олена Анатоліївна
-        fullnameEng: Olena Anatolyivna Pravdyuk
-        position: Секретарка Ради
-        positionEng: Secretary of the Council
-        link: secretary-of-the-council
       - image: /uploads/silrada/head-of-the-community/6.png
         fullname: Бондар Олександр Олександрович
         fullnameEng: Bondar Oleksandr Oleksandrovych
         position: Заступник Голови
         positionEng: Deputy Chairman
         link: deputy-head-bondar
+      - image: /uploads/silrada/head-of-the-community/4.png
+        fullname: Правдюк Олена Анатоліївна
+        fullnameEng: Olena Anatolyivna Pravdyuk
+        position: Секретарка Ради
+        positionEng: Secretary of the Council
+        link: secretary-of-the-council
+      - image: /uploads/silrada/head-of-the-community/3.png
+        fullname: Головань Лариса Семенівна
+        fullnameEng: Larisa Semenivna Golovan
+        position: Керуюча справами виконавчого комітету
+        positionEng: Managing the affairs of the executive committee
+        link: managing-the-executive-affairs-committee
     _template: CommunityHeadDeputies
   - title: ВІДДІЛИ СІЛЬСЬКОЇ РАДИ
     titleEng: DEPARTMENTS OF VILLAGE COUNCIL
