@@ -15,10 +15,6 @@ components:
   - title: Ми надаємо такі послуги
     titleEng: We provide the following services
     service:
-      - serviceTitle: ПРОФІ-ЦЕНТР. ЦЕНТР КАР'ЄРНОГО РОЗВИТКУ
-        serviceTitleEng: Profi Center. Career Development Center.
-        serviceIcon: /uploads/Як зберегти рівновагу.svg
-        serviceLink: 'https://shtg.gov.ua/ProfiCenter'
       - serviceTitle: ЦНАП
         serviceTitleEng: Центр надання адміністративних послуг
         serviceIcon: /uploads/цнап 2.svg
@@ -27,6 +23,10 @@ components:
         serviceTitleEng: KP 'Blahvodservis'
         serviceIcon: /uploads/вода бвс.svg
         serviceLink: 'https://shtg.gov.ua/blagvodservis-shirokivska-hromada'
+      - serviceTitle: ПРОФІ-ЦЕНТР. ЦЕНТР КАР'ЄРНОГО РОЗВИТКУ
+        serviceTitleEng: Profi Center. Career Development Center.
+        serviceIcon: /uploads/Як зберегти рівновагу.svg
+        serviceLink: 'https://shtg.gov.ua/ProfiCenter'
       - serviceTitle: Комунальне майно
         serviceTitleEng: Communal property
         serviceIcon: /uploads/home/comm.svg
