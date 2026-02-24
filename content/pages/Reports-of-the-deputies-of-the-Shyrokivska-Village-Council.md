@@ -13,6 +13,7 @@ components:
         buttonText: Детально
       - title: ПОЛІТИЧНА ПАРТІЯ «ПОРЯДОК»
         url: 'https://shtg.gov.ua/Political-Party-Poriadok'
+        buttonText: Детально
       - title: Фракція ПП «ВСЕУКРАЇНСЬКЕ  ОБ'ЄДНАННЯ «БАТЬКІВЩИНА»
         url: 'https://shtg.gov.ua/All-Ukrainian-Union-Fatherland'
         buttonText: Детально
