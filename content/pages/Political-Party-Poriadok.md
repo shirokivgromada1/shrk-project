@@ -22,6 +22,8 @@ components:
   - title: ''
     subtitle: 2022 рік
     order:
+      - title: ' ЗВІТ ТАМАРИ КАРТАШОВОЇ ЗА 2022 рік'
+        link: /uploads/Kartashova 2022(1).doc
       - title: ' ЗВІТ ОЛЕГА ШКРОБОТЬКА ЗА 2022 рік'
         link: /uploads/Shkrobotko 2022(1).docx
       - title: ' ЗВІТ ОЛЕКСАНДРА МАЗУРА ЗА 2022 рік'
