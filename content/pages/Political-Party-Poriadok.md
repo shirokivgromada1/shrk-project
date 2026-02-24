@@ -22,6 +22,8 @@ components:
   - title: ''
     subtitle: 2022 рік
     order:
+      - title: ' ЗВІТ ЄЛІЗАВЕТИ МАРИЧ ЗА 2022 рік'
+        link: /uploads/Marych 2022(1).docx
       - title: ' ЗВІТ ВОЛОДИМИРА КУРТИ ЗА 2022 рік'
         link: /uploads/Kurta 2022(1).doc
     _template: HeadOrders
