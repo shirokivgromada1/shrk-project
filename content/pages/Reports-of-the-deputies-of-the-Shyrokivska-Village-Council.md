@@ -12,6 +12,7 @@ components:
         url: 'https://shtg.gov.ua/POLITICAL-PARTY-VOLODYMYR-BURYAKS-PARTY-UNITY'
         buttonText: Детально
       - title: ПОЛІТИЧНА ПАРТІЯ «ПОРЯДОК»
+        url: 'https://shtg.gov.ua/Political-Party-Poriadok'
       - title: Фракція ПП «ВСЕУКРАЇНСЬКЕ  ОБ'ЄДНАННЯ «БАТЬКІВЩИНА»
         url: 'https://shtg.gov.ua/All-Ukrainian-Union-Fatherland'
         buttonText: Детально
