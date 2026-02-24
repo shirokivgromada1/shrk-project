@@ -2,6 +2,12 @@
 title: POLITICAL-PARTY-“VOLODYMYR-BURYAK’S-PARTY-UNITY”
 components:
   - title: ПОЛІТИЧНА ПАРТІЯ «ПАРТІЯ ВОЛОДИМИРА БУРЯКА  «ЄДНАННЯ»
+    subtitle: 2025 рік
+    order:
+      - title: ' ЗВІТ СЕРГІЯ ВАСИЛЬЄВА ЗА 2025 рік'
+        link: /uploads/Report 2025 Vasyliev.docx
+    _template: HeadOrders
+  - title: ''
     subtitle: 2024 РІК
     order:
       - title: ' ЗВІТ ЛАРИСИ СУТКОВОЇ ЗА 2024 рік'
