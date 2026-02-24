@@ -2,6 +2,12 @@
 title: All-Ukrainian Union “Fatherland
 components:
   - title: ПП «ВСЕУКРАЇНСЬКЕ  ОБ'ЄДНАННЯ «БАТЬКІВЩИНА»»
+    subtitle: 2025 рік
+    order:
+      - title: ЗВІТ ОЛЕНИ ПРАВДЮК ЗА 2025 рік
+        link: /uploads/Olena Pravdiuk 2025.docx
+    _template: HeadOrders
+  - title: ''
     subtitle: 2024 рік
     order:
       - title: ' ЗВІТ СЕРГІЯ ПРОКОФ''ЄВА ЗА 2024 рік'
@@ -20,13 +26,8 @@ components:
   - title: ''
     subtitle: 2023 рік
     order:
-      - title: >-
-          ЗВІТ  Депутатської фракції ПОЛІТИЧНОЇ ПАРТІЇ «ВСЕУКРАЇНСЬКЕ ОБ’ЄДНАННЯ
-          «БАТЬКІВЩИНА» в Широківській сільській раді Запорізького району
-          Запорізької області VIII скликання за 2023 рік
-        link: >-
-          /uploads/REPORT of the Batkivshchyna Deputies’ Faction for the year
-          2023.docx
+      - title: ЗВІТ  Депутатської фракції ПОЛІТИЧНОЇ ПАРТІЇ «ВСЕУКРАЇНСЬКЕ ОБ’ЄДНАННЯ «БАТЬКІВЩИНА» в Широківській сільській раді Запорізького району Запорізької області VIII скликання за 2023 рік
+        link: /uploads/REPORT of the Batkivshchyna Deputies’ Faction for the year 2023.docx
     _template: HeadOrders
   - title: ''
     subtitle: 2022 рік
