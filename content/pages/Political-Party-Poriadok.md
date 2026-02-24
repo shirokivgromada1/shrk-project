@@ -22,6 +22,8 @@ components:
   - title: ''
     subtitle: 2022 рік
     order:
+      - title: ' ЗВІТ ВІКТОРА ХОРОШУНА ЗА 2022 рік'
+        link: /uploads/Khoroshun 2022(1).doc
       - title: ' ЗВІТ ТАМАРИ КАРТАШОВОЇ ЗА 2022 рік'
         link: /uploads/Kartashova 2022(1).doc
       - title: ' ЗВІТ ОЛЕГА ШКРОБОТЬКА ЗА 2022 рік'
