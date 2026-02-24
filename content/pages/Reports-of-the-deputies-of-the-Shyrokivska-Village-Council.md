@@ -18,6 +18,8 @@ components:
         url: 'https://shtg.gov.ua/All-Ukrainian-Union-Fatherland'
         buttonText: Детально
       - title: БЕЗПАРТІЙНІ
+        url: 'https://shtg.gov.ua/non-partisan'
+        buttonText: Детально
     _template: HeadOrders
 ---
 
