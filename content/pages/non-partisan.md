@@ -5,7 +5,7 @@ components:
     subtitle: 2025 РІК
     order:
       - title: ЗВІТ РОМАНА ГОЛОВАНЯ ЗА 2025 рік
-        link: /uploads/Report 2025 Holovan.docx
+        link: /uploads/Report 2025 Holovan (1).docx
     _template: HeadOrders
 ---
 
