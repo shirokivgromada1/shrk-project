@@ -4,7 +4,7 @@ components:
   - title: ПОЛІТИЧНА ПАРТІЯ «ПАРТІЯ ВОЛОДИМИРА БУРЯКА  «ЄДНАННЯ»
     subtitle: 2025 рік
     order:
-      - title: ' ЗВІТ РОМАНА ГОЛОВАНЯ ЗА 2025 рік'
+      - title: ' ЗВІТ СЕРГІЯ ВАСИЛЬЄВА ЗА 2025 рік'
         link: /uploads/Report 2025 Vasyliev.docx
     _template: HeadOrders
   - title: ''
