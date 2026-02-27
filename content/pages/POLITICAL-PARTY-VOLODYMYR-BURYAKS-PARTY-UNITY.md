@@ -4,6 +4,8 @@ components:
   - title: ПОЛІТИЧНА ПАРТІЯ «ПАРТІЯ ВОЛОДИМИРА БУРЯКА  «ЄДНАННЯ»
     subtitle: 2025 рік
     order:
+      - title: ' ЗВІТ ЛАРИСИ СУТКОВОЇ ЗА 2025 рік'
+        link: /uploads/Report of Deputy Larysa Sutkova 2025.docx
       - title: ' ЗВІТ СЕРГІЯ ВАСИЛЬЄВА ЗА 2025 рік'
         link: /uploads/Report 2025 Vasyliev.docx
     _template: HeadOrders
