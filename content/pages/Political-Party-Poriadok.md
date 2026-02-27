@@ -12,6 +12,8 @@ components:
         link: /uploads/Mazur 2024.doc
       - title: ' ЗВІТ ОЛЕГА ШКРОБОТЬКА ЗА 2024 рік'
         link: /uploads/Shkrobotko 2024.doc
+      - title: ' ЗВІТ ВІКТОРА ХОРОШУНА ЗА 2024 рік'
+        link: /uploads/Khoroshun 2024.doc
     _template: HeadOrders
   - title: ''
     subtitle: 2023 рік
