@@ -4,6 +4,8 @@ components:
   - title: ПОЛІТИЧНА ПАРТІЯ «ПОРЯДОК»
     subtitle: 2024 рік
     order:
+      - title: ' ЗВІТ ТАМАРИ КАРТАШОВОЇ ЗА 2024 рік'
+        link: /uploads/Kartashova 2024.doc
       - title: ' ЗВІТ ВОЛОДИМИРА КУРТИ ЗА 2024 рік'
         link: /uploads/Kurta 2024.doc
       - title: ' ЗВІТ ЄЛІЗАВЕТИ МАРИЧ ЗА 2024 рік'
