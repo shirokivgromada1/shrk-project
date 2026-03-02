@@ -4,6 +4,8 @@ components:
   - title: ПП «ВСЕУКРАЇНСЬКЕ  ОБ'ЄДНАННЯ «БАТЬКІВЩИНА»»
     subtitle: 2025 рік
     order:
+      - title: ЗВІТ СЕРГІЯ ПРОКОФ'ЄВА ЗА 2025 рік
+        link: /uploads/REPORT PROKOFIEV 2025.docx
       - title: ЗВІТ ГРИГОРІЯ СТОГНІЯ ЗА 2025 рік
         link: /uploads/Report Stohnii 2025.docx
       - title: ЗВІТ ОЛЕНИ ПРАВДЮК ЗА 2025 рік
