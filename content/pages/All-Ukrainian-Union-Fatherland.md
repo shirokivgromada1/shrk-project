@@ -4,6 +4,8 @@ components:
   - title: ПП «ВСЕУКРАЇНСЬКЕ  ОБ'ЄДНАННЯ «БАТЬКІВЩИНА»»
     subtitle: 2025 рік
     order:
+      - title: ЗВІТ ПАВЛА СУБЕРЛЯКА ЗА 2025
+        link: /uploads/REPORT SUBERLYAK 2025.docx
       - title: 'ЗВІТ АНДРІЯ ХИЖНЯКА ЗА 2025 '
         link: /uploads/REPORT KHYZHNYAK 2025.docx
       - title: ЗВІТ АННИ КИСЛИНСЬКОЇ ЗА 2025
