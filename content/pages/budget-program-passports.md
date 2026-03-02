@@ -13,7 +13,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: 'Паспорт бюджетної програми на 2026 рік КПКВК 1610160, 1616030, 1617350 - зміни 03.02.2026'
+        link: '/uploads/Passport of the budget program for 2026 KPKVK 1610160, 1616030, 1617350 - changes 03.02.2026.xlsx'
       - title: Розпорядження від 09.02.2026 №33
         link: /uploads/Order of 09.02.2026 No. 33 passports of budget programs.docx
       - title: Наказ від 13.02.2026 №05
