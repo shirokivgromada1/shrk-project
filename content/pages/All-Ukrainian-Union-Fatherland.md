@@ -4,6 +4,8 @@ components:
   - title: ПП «ВСЕУКРАЇНСЬКЕ  ОБ'ЄДНАННЯ «БАТЬКІВЩИНА»»
     subtitle: 2025 рік
     order:
+      - title: ЗВІТ  Депутатської фракції ПОЛІТИЧНОЇ ПАРТІЇ «ВСЕУКРАЇНСЬКЕ ОБ’ЄДНАННЯ «БАТЬКІВЩИНА» в Широківській сільській раді Запорізького району Запорізької області VIII скликання за 2025 рік
+        link: /uploads/REPORT OF THE POLITICAL PARTY BATKIVSHCHYNA FOR 2025.docx
       - title: ЗВІТ ПАВЛА СУБЕРЛЯКА ЗА 2025
         link: /uploads/REPORT SUBERLYAK 2025.docx
       - title: 'ЗВІТ АНДРІЯ ХИЖНЯКА ЗА 2025 '
