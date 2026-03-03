@@ -24,6 +24,7 @@ components:
         link: '/uploads/Report of the Deputy Faction of ZROPO PP “Poriadok,” elected in the 2020 local elections from the Zaporizhzhia Regional Party Organization of the Political Party “Poriadok,” of the Shyrokivska Village Council o.doc'
       - title: ' ЗВІТ ВІКТОРА ХОРОШУНА ЗА 2023 рік'
       - title: ' ЗВІТ ТАМАРИ КАРТАШОВОЇ ЗА 2023 рік'
+        link: /uploads/Kartashova 2023.doc
       - title: ' ЗВІТ ОЛЕГА ШКРОБОТЬКА ЗА 2023 рік'
         link: /uploads/Shkrobotko 2023.doc
       - title: ' ЗВІТ ОЛЕКСАНДРА МАЗУРА ЗА 2023 рік'
