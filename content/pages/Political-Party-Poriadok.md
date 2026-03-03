@@ -47,6 +47,7 @@ components:
       - title: ' ЗВІТ ОЛЕКСАНДРА МАЗУРА ЗА 2021 рік'
       - title: ' ЗВІТ ЄЛІЗАВЕТИ МАРИЧ ЗА 2021 рік'
       - title: ' ЗВІТ ВІКТОРА ХОРОШУНА ЗА 2021 рік'
+        link: /uploads/Khoroshun 2021.doc
       - title: ' ЗВІТ ОЛЕГА ШКРОБОТЬКА ЗА 2021 рік'
         link: /uploads/Shkrobotko 2021.doc
     _template: HeadOrders
