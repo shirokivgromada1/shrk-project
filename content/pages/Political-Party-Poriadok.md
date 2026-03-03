@@ -39,5 +39,11 @@ components:
       - title: ' ЗВІТ ВОЛОДИМИРА КУРТИ ЗА 2022 рік'
         link: /uploads/Kurta 2022(1).doc
     _template: HeadOrders
+  - title: ''
+    subtitle: 2021 рік
+    order:
+      - title: ' ЗВІТ ТАМАРИ КАРТАШОВОЇ ЗА 2021 рік'
+      - title: ' ЗВІТ ВОЛОДИМИРА КУРТИ ЗА 2021 рік'
+    _template: HeadOrders
 ---
 
