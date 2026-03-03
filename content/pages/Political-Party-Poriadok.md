@@ -48,6 +48,7 @@ components:
       - title: ' ЗВІТ ЄЛІЗАВЕТИ МАРИЧ ЗА 2021 рік'
       - title: ' ЗВІТ ВІКТОРА ХОРОШУНА ЗА 2021 рік'
       - title: ' ЗВІТ ОЛЕГА ШКРОБОТЬКА ЗА 2021 рік'
+        link: /uploads/Shkrobotko 2021.doc
     _template: HeadOrders
 ---
 
