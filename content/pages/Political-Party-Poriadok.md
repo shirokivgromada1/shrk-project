@@ -28,6 +28,7 @@ components:
       - title: ' ЗВІТ ОЛЕКСАНДРА МАЗУРА ЗА 2023 рік'
       - title: ' ЗВІТ ЄЛІЗАВЕТИ МАРИЧ ЗА 2023 рік'
       - title: ' ЗВІТ ВОЛОДИМИРА КУРТИ ЗА 2023 рік'
+        link: /uploads/Kurta 2023.doc
     _template: HeadOrders
   - title: ''
     subtitle: 2022 рік
