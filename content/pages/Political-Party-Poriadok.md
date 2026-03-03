@@ -44,6 +44,7 @@ components:
     order:
       - title: ' ЗВІТ ТАМАРИ КАРТАШОВОЇ ЗА 2021 рік'
       - title: ' ЗВІТ ВОЛОДИМИРА КУРТИ ЗА 2021 рік'
+        link: /uploads/Kurta 2021.doc
       - title: ' ЗВІТ ОЛЕКСАНДРА МАЗУРА ЗА 2021 рік'
         link: /uploads/Mazur 2021 (1).doc
       - title: ' ЗВІТ ЄЛІЗАВЕТИ МАРИЧ ЗА 2021 рік'
