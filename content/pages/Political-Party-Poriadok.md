@@ -27,6 +27,7 @@ components:
       - title: ' ЗВІТ ОЛЕГА ШКРОБОТЬКА ЗА 2023 рік'
       - title: ' ЗВІТ ОЛЕКСАНДРА МАЗУРА ЗА 2023 рік'
       - title: ' ЗВІТ ЄЛІЗАВЕТИ МАРИЧ ЗА 2023 рік'
+        link: /uploads/Marych 2023.doc
       - title: ' ЗВІТ ВОЛОДИМИРА КУРТИ ЗА 2023 рік'
         link: /uploads/Kurta 2023.doc
     _template: HeadOrders
