@@ -4,6 +4,8 @@ components:
   - title: ПОЛІТИЧНА ПАРТІЯ «ПОРЯДОК»
     subtitle: 2025 рік
     order:
+      - title: ' ЗВІТ ВОЛОДИМИРА КУРТИ ЗА 2025 рік'
+        link: /uploads/Kurta 2025.doc
       - title: ЗВІТ ВІКТОРА ХОРОШУНА ЗА 2025 рік
         link: /uploads/Khoroshun 2025 (1).doc
       - title: ' ЗВІТ ТАМАРИ КАРТАШОВОЇ ЗА 2025 рік'
