@@ -2,6 +2,12 @@
 title: POLITICAL-PARTY-“SERVANT-OF-THE-PEOPLE”
 components:
   - title: ПОЛІТИЧНА ПАРТІЯ «СЛУГА НАРОДУ»
+    subtitle: 2025 рік
+    order:
+      - title: ЗВІТ АНДРІЯ КАПЛЕНКА ЗА 2025 рік
+        link: /uploads/Report 2025 KAPLENKO.docx
+    _template: HeadOrders
+  - title: ПОЛІТИЧНА ПАРТІЯ «СЛУГА НАРОДУ»
     subtitle: '2024'
     order:
       - title: ЗВІТ НАТАЛІЇ ЗІНЧЕНКО ЗА 2024 рік
