@@ -2,6 +2,12 @@
 title: Political Party “Poriadok”
 components:
   - title: ПОЛІТИЧНА ПАРТІЯ «ПОРЯДОК»
+    subtitle: 2025 рік
+    order:
+      - title: ' ЗВІТ ТАМАРИ КАРТАШОВОЇ ЗА 2025 рік'
+        link: /uploads/Kartashova 2025.doc
+    _template: HeadOrders
+  - title: ''
     subtitle: 2024 рік
     order:
       - title: ' ЗВІТ ТАМАРИ КАРТАШОВОЇ ЗА 2024 рік'
