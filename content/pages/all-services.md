@@ -7,6 +7,8 @@ components:
         link: social-protection
       - title: Центр надання адміністративних послуг
         link: administrative-services-center
+      - title: Профі-центр. Центр кар'єрного розвитку для молоді
+        link: 'https://shtg.gov.ua/ProfiCenter'
       - title: Первинна правова допомога
         richText: ''
         link: primary-legal-aid
