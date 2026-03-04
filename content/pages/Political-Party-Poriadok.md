@@ -4,6 +4,8 @@ components:
   - title: ПОЛІТИЧНА ПАРТІЯ «ПОРЯДОК»
     subtitle: 2025 рік
     order:
+      - title: ' ЗВІТ ОЛЕКСАНДРА МАЗУРА ЗА 2025 рік'
+        link: /uploads/Mazur 2025.doc
       - title: ЗВІТ ЄЛІЗАВЕТИ МАРИЧ ЗА 2025 рік
         link: /uploads/Marych 2025.doc
       - title: ' ЗВІТ ВОЛОДИМИРА КУРТИ ЗА 2025 рік'
