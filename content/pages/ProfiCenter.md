@@ -7,6 +7,7 @@ components:
     _template: SocialProtection
   - newsSection:
       - category: content/newsCategories/proficenter.md
+        variantNews: '1'
     _template: newsSections
 ---
 
