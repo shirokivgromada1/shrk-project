@@ -35,9 +35,10 @@ components:
       - title: ЗВІТ ОЛЕНИ ПРАВДЮК ЗА 2024 рік
         link: /uploads/REPORT of Deputy Olena Pravdiuk for the year 2024.docx
     _template: HeadOrders
-  - title: ''
+  - title: ЗВІТ ОЛЕНИ ПРАВДЮК ЗА 2023 рік
     subtitle: 2023 рік
     order:
+      - link: /uploads/REPORT Pravdiuk Olena for 2023.docx
       - title: ЗВІТ АННИ КИСЛИНСЬКОЇ ЗА 2022 рік
         link: /uploads/REPORT KYSLYNSKA for 2023.docx
       - title: ' ЗВІТ АНДРІЯ ХИЖНЯКА ЗА 2023 рік'
