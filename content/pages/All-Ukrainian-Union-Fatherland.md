@@ -40,7 +40,7 @@ components:
     order:
       - title: ЗВІТ ОЛЕНИ ПРАВДЮК ЗА 2023 рік
         link: /uploads/REPORT Pravdiuk Olena for 2023.docx
-      - title: ЗВІТ АННИ КИСЛИНСЬКОЇ ЗА 2022 рік
+      - title: ЗВІТ АННИ КИСЛИНСЬКОЇ ЗА 2023 рік
         link: /uploads/REPORT KYSLYNSKA for 2023.docx
       - title: ' ЗВІТ АНДРІЯ ХИЖНЯКА ЗА 2023 рік'
         link: /uploads/REPORT KHYZHNIAK for 2023.docx
