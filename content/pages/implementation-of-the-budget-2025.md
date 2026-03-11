@@ -4,6 +4,7 @@ components:
   - title: 'Виконання бюджету '
     order:
       - title: Рішення виконкому від 05.02.2026  №  41 Про схвал звіту про викон бюдж за 2025 рік
+        link: /uploads/Budget execution 2025_decision №41_05.03.2026.doc
       - title: Рішення від 05.03.2026 № 3 Про затвердження звіту про виконання бюджету за 2025 рік
         link: /uploads/Budget execution 2025_decision №3_05.03.2026.docx
       - title: ЗВІТ про виконання місцевого бюджету за 2025 рік
@@ -11,6 +12,7 @@ components:
       - title: Додатки до звіту про виконання бюджету за 2025 рік
         link: /uploads/Budget execution 2025_appendixes.xlsx
       - title: Інформація про виконання місцевого бюджету за січень 2026 року
+        link: /uploads/Budget execution_january 2026.xlsx
       - title: Інформація про виконання місцевого бюджету за січень-листопад 2025 року
         link: /uploads/Information on the implementation of the local budget for January-November 2025.xlsx
       - title: Інформація про виконання місцевого бюджету за січень-жовтень 2025 року
