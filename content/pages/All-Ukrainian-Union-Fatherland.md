@@ -38,6 +38,8 @@ components:
   - title: ЗВІТ ОЛЕНИ ПРАВДЮК ЗА 2023 рік
     subtitle: 2023 рік
     order:
+      - title: ЗВІТ СЕРГІЯ ПРОКОФ'ЄВА ЗА 2023 рік
+        link: /uploads/REPORT PROKOFIEV for 2023.docx
       - title: ЗВІТ ОЛЕНИ ПРАВДЮК ЗА 2023 рік
         link: /uploads/REPORT Pravdiuk Olena for 2023.docx
       - title: ЗВІТ АННИ КИСЛИНСЬКОЇ ЗА 2023 рік
