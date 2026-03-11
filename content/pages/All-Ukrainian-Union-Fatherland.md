@@ -38,6 +38,8 @@ components:
   - title: ЗВІТ ОЛЕНИ ПРАВДЮК ЗА 2023 рік
     subtitle: 2023 рік
     order:
+      - title: ЗВІТ ГРИГОРІЯ СТОГНІЯ ЗА 2023 рік
+        link: /uploads/REPORT STOHNII for 2023.docx
       - title: ЗВІТ СЕРГІЯ ПРОКОФ'ЄВА ЗА 2023 рік
         link: /uploads/REPORT PROKOFIEV for 2023.docx
       - title: ЗВІТ ОЛЕНИ ПРАВДЮК ЗА 2023 рік
