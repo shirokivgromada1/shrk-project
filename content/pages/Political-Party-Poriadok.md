@@ -15,7 +15,7 @@ components:
       - title: ЗВІТ ВІКТОРА ХОРОШУНА ЗА 2025 рік
         link: /uploads/Khoroshun 2025 (1).doc
       - title: ' ЗВІТ ТАМАРИ КАРТАШОВОЇ ЗА 2025 рік'
-        link: /uploads/Kartashova 2025.doc
+        link: /uploads/Kartashova_report_2025.pdf
     _template: HeadOrders
   - title: ''
     subtitle: 2024 рік
