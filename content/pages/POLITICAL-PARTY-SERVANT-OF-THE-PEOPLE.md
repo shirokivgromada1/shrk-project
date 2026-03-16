@@ -4,6 +4,8 @@ components:
   - title: ПОЛІТИЧНА ПАРТІЯ «СЛУГА НАРОДУ»
     subtitle: 2025 рік
     order:
+      - title: ЗВІТ НАТАЛІЇ ЗІНЧЕНКО ЗА 2025 рік
+        link: /uploads/Звіт Зінченко 2025 рік.docx
       - title: ЗВІТ АНДРІЯ КАПЛЕНКА ЗА 2025 рік
         link: /uploads/Report 2025 KAPLENKO.docx
     _template: HeadOrders
