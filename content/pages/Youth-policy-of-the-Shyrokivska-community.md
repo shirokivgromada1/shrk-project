@@ -3,6 +3,8 @@ title: Youth policy of the Shyrokivska community
 components:
   - title: Молодіжна політика Широківської громади
     order:
+      - title: Про прийняття на роботу методиста по роботі з молоддю до КУ "ЦКДСМСТ" Широківської сільської ради Запорізького району Запорізької області
+        link: '/uploads/On hiring a Youth Work Methodologist to the Municipal Institution “CKDSMST” of the Shyrokivska Village Council of Zaporizhzhia District, Zaporizhzhia Region.pdf'
       - title: Про переведення на 0.5 ставки завідувача центру (молодіжного) КУ "ЦКДСМСТ" Широківської сільської ради Запорізького району Запорізької області.
         link: '/uploads/On transferring the Head of the Youth Center of the Municipal Institution “CKDSMST” of the Shyrokivska Village Council of Zaporizhzhia District, Zaporizhzhia Region to a 0.5 full-time equivalen.pdf'
       - title: Про організацію діяльності молодіжного хабу "Space" на громадських засадах на базі Широківського будинку культури
