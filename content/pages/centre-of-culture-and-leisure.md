@@ -34,13 +34,14 @@ components:
       - name: Написання галузевих грантових заявок/програм
       - name: Написання галузевих грантових заявок/програм
     _template: SilradaDepartmentFunctions
+  - title: ''
+    order:
+      - title: 'Молодіжна політика Широківської громади '
+        url: 'https://shtg.gov.ua/Youth-policy-of-the-Shyrokivska-community'
+    _template: HeadOrders
   - newsSection:
       - category: content/newsCategories/culture.md
         variantNews: '1'
     _template: newsSections
-  - title: ''
-    order:
-      - title: 'Молодіжна політика Широківської громади '
-    _template: HeadOrders
 ---
 
