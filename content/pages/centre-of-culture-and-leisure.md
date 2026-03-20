@@ -38,6 +38,7 @@ components:
     order:
       - title: 'Молодіжна політика Широківської громади '
         url: 'https://shtg.gov.ua/Youth-policy-of-the-Shyrokivska-community'
+        buttonText: Дізнатися більше
     _template: HeadOrders
   - newsSection:
       - category: content/newsCategories/culture.md
