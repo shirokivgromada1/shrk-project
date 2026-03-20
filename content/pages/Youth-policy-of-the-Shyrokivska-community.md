@@ -1,7 +1,7 @@
 ---
 title: Youth policy of the Shyrokivska community
 components:
-  - title: Розпорядження голови
+  - title: Молодіжна політика Широківської громади
     _template: HeadOrders
 ---
 
