@@ -3,6 +3,8 @@ title: Youth policy of the Shyrokivska community
 components:
   - title: Молодіжна політика Широківської громади
     order:
+      - title: Оцінка потреб молоді
+        link: /uploads/Youth needs assessment.pdf
       - title: 'Про прийняття на роботу методиста по роботі з молоддю до КУ "ЦКДСМСТ" Широківської сільської ради Запорізького району Запорізької області '
         link: '/uploads/On hiring a Youth Work Methodologist to the Municipal Institution “CKDSMST” of the Shyrokivska Village Council of Zaporizhzhia District, Zaporizhzhia Region (1).pdf'
       - title: Про прийняття на роботу методиста по роботі з молоддю до КУ "ЦКДСМСТ" Широківської сільської ради Запорізького району Запорізької області
