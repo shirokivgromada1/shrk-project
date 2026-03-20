@@ -38,5 +38,9 @@ components:
       - category: content/newsCategories/culture.md
         variantNews: '1'
     _template: newsSections
+  - title: ''
+    order:
+      - title: 'Молодіжна політика Широківської громади '
+    _template: HeadOrders
 ---
 
