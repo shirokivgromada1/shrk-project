@@ -12,6 +12,7 @@ components:
       - title: Рішення №41 від 05.02.2026 року
         link: /uploads/decision No. 41 of 05.02.2026.docx
       - title: Рішення №42 від 05.02.2026 року
+        link: /uploads/decision No. 42 of 05.02.2026.docx
       - title: Рішення №43 від 05.02.2026 року
       - title: Рішення №44 від 05.02.2026 року
       - title: Рішення №45 від 05.02.2026 року
