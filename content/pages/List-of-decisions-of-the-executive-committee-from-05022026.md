@@ -30,7 +30,9 @@ components:
       - title: Рішення №50 від 05.02.2026 року
         link: /uploads/decision No. 50 of 05.02.2026.docx
       - title: Рішення №51 від 05.02.2026 року
+        link: /uploads/decision No. 51 of 05.02.2026.docx
       - title: Рішення №52 від 05.02.2026 року
+        link: /uploads/decision No. 52 of 05.02.2026.docx
       - title: Рішення №53 від 05.02.2026 року
       - title: Рішення №54 від 05.02.2026 року
       - title: Рішення №55 від 05.02.2026 року
