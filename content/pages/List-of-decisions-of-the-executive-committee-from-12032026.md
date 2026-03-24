@@ -20,6 +20,7 @@ components:
       - title: Рішення №77 від 12.03.2026 року
         link: '/uploads/decision No. 77 of March 12, 2026.docx'
       - title: Рішення №78 від 12.03.2026 року
+        link: '/uploads/decision No. 78 of March 12, 2026.docx'
       - title: Рішення №79 від 12.03.2026 року
       - title: Рішення №80 від 12.03.2026 року
       - title: Рішення №81 від 12.03.2026 року
