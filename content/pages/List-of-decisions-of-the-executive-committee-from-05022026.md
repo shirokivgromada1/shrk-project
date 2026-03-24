@@ -1,7 +1,7 @@
 ---
 title: List-of-decisions-of-the-executive-committee-from-05022026
 components:
-  - title: Розпорядження голови
+  - title: Виконавчий комітет від 05.02.2026 року №06
     order:
       - title: Перелік рішень виконавчого комітету №06 від 05.02.2026 року
         link: /uploads/List of decisions of the executive committee No. 06 dated 05.02.2026.docx
