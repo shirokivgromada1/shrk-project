@@ -21,7 +21,8 @@ components:
     document:
       - title: 'Положення про консультації з громадськістю в Широківській сільській раді  '
         link: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision_2_09092019.docx'
-      - {}
+      - title: Положення про тимчасовий порядок проведення громадських слухань Широківської громади
+        link: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/decision_52_082017.doc'
     _template: Documents
 ---
 
