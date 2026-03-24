@@ -5,7 +5,8 @@ components:
     order:
       - {}
       - {}
-      - {}
+      - title: Протоколи засідань Молодіжної ради Широківської громади — 2025
+        link: /uploads/municipal institution_culture_Minutes of meetings of the Youth Council of the Shyroke Community - 2025.pdf
       - title: 'Посадова інструкція: завідувач центру (молодіжний)'
         link: /uploads/municipal institution_culture_Job description Job description head of the center (youth).pdf
       - title: 'Посадова інструкція: методист по роботі з молоддю'
