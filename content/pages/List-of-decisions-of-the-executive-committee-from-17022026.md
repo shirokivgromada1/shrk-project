@@ -8,6 +8,7 @@ components:
       - title: Рішення №63 від 17.02.2026 року
         link: '/uploads/decision No. 63 of February 17, 2026.docx'
       - title: Рішення №64 від 17.02.2026 року
+        link: '/uploads/decision No. 64 of February 17, 2026.docx'
       - title: Рішення №65 від 17.02.2026 року
       - title: Рішення №66 від 17.02.2026 року
       - title: Рішення №67 від 17.02.2026 року
