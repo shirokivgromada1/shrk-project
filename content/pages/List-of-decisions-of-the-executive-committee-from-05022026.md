@@ -6,6 +6,7 @@ components:
       - title: Перелік рішень виконавчого комітету №06 від 05.02.2026 року
         link: /uploads/List of decisions of the executive committee No. 06 dated 05.02.2026.docx
       - title: Рішення №39 від 05.02.2026 року
+        link: /uploads/decision No. 39 of 05.02.2026.docx
       - title: Рішення №40 від 05.02.2026 року
       - title: Рішення №41 від 05.02.2026 року
       - title: Рішення №42 від 05.02.2026 року
