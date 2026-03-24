@@ -70,6 +70,10 @@ components:
     subtitle: ''
     notMain: true
     order:
+      - {}
+      - {}
+      - {}
+      - {}
       - title: Виконавчий комітет від 20.01.2026 року №04
         url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-20012026'
         buttonText: Перейти
