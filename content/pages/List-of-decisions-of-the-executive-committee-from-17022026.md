@@ -14,7 +14,9 @@ components:
       - title: Рішення №66 від 17.02.2026 року
         link: '/uploads/decision No. 66 of February 17, 2026.docx'
       - title: Рішення №67 від 17.02.2026 року
+        link: '/uploads/decision No. 67 of February 17, 2026.docx'
       - title: Рішення №68 від 17.02.2026 року
+        link: '/uploads/decision No. 68 of February 17, 2026.docx'
     _template: HeadOrders
 ---
 
