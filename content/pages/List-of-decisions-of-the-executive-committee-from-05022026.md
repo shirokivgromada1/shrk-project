@@ -48,6 +48,7 @@ components:
       - title: Рішення №59 від 05.02.2026 року
         link: /uploads/decision No. 59 of 05.02.2026.docx
       - title: Рішення №60 від 05.02.2026 року
+        link: /uploads/decision No. 60 of 05.02.2026.docx
       - title: Рішення №61 від 05.02.2026 року
       - title: Рішення №62 від 05.02.2026 року
     _template: HeadOrders
