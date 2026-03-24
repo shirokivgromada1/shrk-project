@@ -9,6 +9,8 @@ components:
         link: /uploads/making changes to the local budget_№14_05.03.2026.doc
       - title: Додатки до рішення від 05.03.2026  № 14 Про місцевий бюджет на 2026 рік
         link: /uploads/appendixes_making changes to the local budget_№14_05.03.2026.xlsx
+      - title: Актуальний бюджет громади на 2026 рік (з усіма змінами та доповненнями) станом на 03.02.2026 року
+        link: '/uploads/Current community budget for 2026 (with all changes and additions) as of February 3, 2026.doc'
       - title: Рішення від 03.02.2026 № 5 Про внесення змін до місцевого бюджету на 2026 рік (оприлюднено 09.02.2025)
         link: /uploads/decision dated 03.02.2026 No. 5 On amendments to the local budget for 2026_09022026.doc
       - title: Додатки до рішення від 03.02.2026  № 5 Про місцевий бюджет на 2026 рік (оприлюднено 09.02.2025)
