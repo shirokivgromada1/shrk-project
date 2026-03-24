@@ -6,8 +6,10 @@ components:
       - {}
       - {}
       - {}
-      - {}
-      - {}
+      - title: 'Посадова інструкція: завідувач центру (молодіжний)'
+        link: /uploads/municipal institution_culture_Job description Job description head of the center (youth).pdf
+      - title: 'Посадова інструкція: методист по роботі з молоддю'
+        link: /uploads/municipal institution_culture_Job description youth work methodologist.pdf
       - title: 'Реалізація молодіжної політики у Широківській громаді — 2025 '
         link: /uploads/Implementation of youth policy in the Shyrokiv community - 2025.pdf
       - title: Звіт комісії зі зв'язків з владою Молодіжної ради Широківської громади (січень 2024 - грудень 2025)
