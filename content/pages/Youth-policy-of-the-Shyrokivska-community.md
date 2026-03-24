@@ -5,7 +5,7 @@ components:
     order:
       - title: Протокол №2 засідання Молодіжної ради Широківської громади — 2026
         link: /uploads/municipal institution_culture_Minutes No. 2 of the meeting of the Youth Council of the Shyroke community - 2026.pdf
-      - title: Протокол № засідання Молодіжної ради Широківської громади — 2026
+      - title: Протокол №1 засідання Молодіжної ради Широківської громади — 2026
         link: /uploads/municipal institution_culture_Minutes No. 1 of the meeting of the Youth Council of the Shyroke community - 2026.pdf
       - title: Протоколи засідань Молодіжної ради Широківської громади — 2025
         link: /uploads/municipal institution_culture_Minutes of meetings of the Youth Council of the Shyroke Community - 2025.pdf
