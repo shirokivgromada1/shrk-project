@@ -16,6 +16,7 @@ components:
       - title: Рішення №43 від 05.02.2026 року
         link: /uploads/decision No. 43 of 05.02.2026.docx
       - title: Рішення №44 від 05.02.2026 року
+        link: /uploads/decision No. 44 of 05.02.2026.docx
       - title: Рішення №45 від 05.02.2026 року
       - title: Рішення №46 від 05.02.2026 року
       - title: Рішення №47 від 05.02.2026 року
