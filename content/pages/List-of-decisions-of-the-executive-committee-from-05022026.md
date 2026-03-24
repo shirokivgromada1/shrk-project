@@ -8,7 +8,9 @@ components:
       - title: Рішення №39 від 05.02.2026 року
         link: /uploads/decision No. 39 of 05.02.2026.docx
       - title: Рішення №40 від 05.02.2026 року
+        link: /uploads/decision No. 40 of 05.02.2026.docx
       - title: Рішення №41 від 05.02.2026 року
+        link: /uploads/decision No. 41 of 05.02.2026.docx
       - title: Рішення №42 від 05.02.2026 року
       - title: Рішення №43 від 05.02.2026 року
       - title: Рішення №44 від 05.02.2026 року
