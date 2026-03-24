@@ -52,6 +52,7 @@ components:
       - title: Рішення №61 від 05.02.2026 року
         link: /uploads/decision No. 61 of 05.02.2026.docx
       - title: Рішення №62 від 05.02.2026 року
+        link: /uploads/decision No. 62 of 05.02.2026.docx
     _template: HeadOrders
 ---
 
