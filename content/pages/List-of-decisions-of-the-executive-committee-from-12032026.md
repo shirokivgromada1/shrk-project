@@ -34,7 +34,9 @@ components:
       - title: Рішення №84 від 12.03.2026 року
         link: '/uploads/decision No. 84 of March 12, 2026.docx'
       - title: Рішення №85 від 12.03.2026 року
+        link: '/uploads/decision No. 85 of March 12, 2026.docx'
       - title: Рішення №86 від 12.03.2026 року
+        link: '/uploads/decision No. 86 of March 12, 2026.docx'
       - title: Рішення №87 від 12.03.2026 року
       - title: Рішення №88 від 12.03.2026 року
       - title: Рішення №89 від 12.03.2026 року
