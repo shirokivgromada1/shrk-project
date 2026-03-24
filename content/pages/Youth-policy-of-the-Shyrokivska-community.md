@@ -3,6 +3,17 @@ title: Youth policy of the Shyrokivska community
 components:
   - title: Молодіжна політика Широківської громади
     order:
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - title: Звіт іміджевої комісії Молодіжної ради Широківської громади (січень 2024 - грудень 2025)
+        link: /uploads/Report of the Image Commission of the Youth Council of the Shyrokiv Community (January 2024 - December 2025).pdf
+      - title: 'ПРЕЗЕНТАЦІЯ: Координатори з питань молоді в робочих групах із громадської безпеки та відновлення'
+        link: /uploads/municipal institution_culture_youth_PRESENTATION Youth Coordinators.pdf
       - title: Презентація
         link: /uploads/Presentation Широківська.pdf
       - title: Про затвердження Стратегії розвитку молоді Широківської сільської територіальної громади Запорізького району Запорізької області на 2022-2026 роки
