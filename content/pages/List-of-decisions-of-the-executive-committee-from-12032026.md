@@ -1,7 +1,7 @@
 ---
 title: List-of-decisions-of-the-executive-committee-from-12032026
 components:
-  - title: Розпорядження голови
+  - title: Виконавчий комітет від 12.03.2026 року №08
     order:
       - title: Перелік рішень виконавчого комітету №09 від 12.03.2026 року
         link: /uploads/List of decisions of the executive committee No. 09 dated 03122026.docx
