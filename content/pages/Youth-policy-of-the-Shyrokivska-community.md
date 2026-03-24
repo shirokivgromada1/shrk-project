@@ -8,7 +8,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: 'Реалізація молодіжної політики у Широківській громаді — 2025 '
+        link: /uploads/Implementation of youth policy in the Shyrokiv community - 2025.pdf
       - title: Звіт комісії зі зв'язків з владою Молодіжної ради Широківської громади (січень 2024 - грудень 2025)
         link: /uploads/Report of the Commission on Relations with the Authorities of the Youth Council of the Shyroke Community (January 2024 - December 2025).pdf
       - title: Звіт іміджевої комісії Молодіжної ради Широківської громади (січень 2024 - грудень 2025)
