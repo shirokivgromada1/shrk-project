@@ -10,6 +10,7 @@ components:
       - title: Рішення №72 від 12.03.2026 року
         link: '/uploads/decision No. 72 of March 12, 2026.docx'
       - title: Рішення №73 від 12.03.2026 року
+        link: '/uploads/decision No. 73 of March 12, 2026.docx'
       - title: Рішення №74 від 12.03.2026 року
       - title: Рішення №75 від 12.03.2026 року
       - title: Рішення №76 від 12.03.2026 року
