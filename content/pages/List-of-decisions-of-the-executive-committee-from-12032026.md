@@ -54,6 +54,7 @@ components:
       - title: Рішення №94 від 12.03.2026 року
         link: '/uploads/decision No. 94 of March 12, 2026.docx'
       - title: Рішення №95 від 12.03.2026 року
+        link: '/uploads/decision No. 95 of March 12, 2026.docx'
     _template: HeadOrders
 ---
 
