@@ -4,6 +4,7 @@ components:
   - title: Розпорядження голови
     order:
       - title: Перелік рішень виконавчого комітету №09 від 12.03.2026 року
+        link: /uploads/List of decisions of the executive committee No. 09 dated 03122026.docx
       - title: Рішення №71 від 12.03.2026 року
       - title: Рішення №72 від 12.03.2026 року
       - title: Рішення №73 від 12.03.2026 року
