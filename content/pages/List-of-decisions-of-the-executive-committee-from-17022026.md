@@ -1,7 +1,7 @@
 ---
 title: List-of-decisions-of-the-executive-committee-from-17022026
 components:
-  - title: Розпорядження голови
+  - title: Виконавчий комітет від 17.02.2026 року №07
     order:
       - title: Перелік рішень виконавчого комітету №07 від 17.02.2026 року
         link: /uploads/List of decisions of the executive committee No. 07 dated 02172026.docx
