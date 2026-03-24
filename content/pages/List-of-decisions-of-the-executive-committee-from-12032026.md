@@ -40,6 +40,7 @@ components:
       - title: Рішення №87 від 12.03.2026 року
         link: '/uploads/decision No. 87 of March 12, 2026.docx'
       - title: Рішення №88 від 12.03.2026 року
+        link: '/uploads/decision No. 88 of March 12, 2026.docx'
       - title: Рішення №89 від 12.03.2026 року
       - title: Рішення №90 від 12.03.2026 року
       - title: Рішення №91 від 12.03.2026 року
