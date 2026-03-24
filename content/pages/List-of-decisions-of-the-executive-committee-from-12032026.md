@@ -26,7 +26,9 @@ components:
       - title: Рішення №80 від 12.03.2026 року
         link: '/uploads/decision No. 80 of March 12, 2026.docx'
       - title: Рішення №81 від 12.03.2026 року
+        link: '/uploads/decision No. 81 of March 12, 2026.docx'
       - title: Рішення №82 від 12.03.2026 року
+        link: '/uploads/decision No. 82 of March 12, 2026.docx'
       - title: Рішення №83 від 12.03.2026 року
       - title: Рішення №84 від 12.03.2026 року
       - title: Рішення №85 від 12.03.2026 року
