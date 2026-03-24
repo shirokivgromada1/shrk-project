@@ -9,7 +9,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Звіт комісії зі зв'язків з владою Молодіжної ради Широківської громади (січень 2024 - грудень 2025)
+        link: /uploads/Report of the Commission on Relations with the Authorities of the Youth Council of the Shyroke Community (January 2024 - December 2025).pdf
       - title: Звіт іміджевої комісії Молодіжної ради Широківської громади (січень 2024 - грудень 2025)
         link: /uploads/Report of the Image Commission of the Youth Council of the Shyrokiv Community (January 2024 - December 2025).pdf
       - title: 'ПРЕЗЕНТАЦІЯ: Координатори з питань молоді в робочих групах із громадської безпеки та відновлення'
