@@ -6,6 +6,7 @@ components:
       - title: Перелік рішень виконавчого комітету №07 від 17.02.2026 року
         link: /uploads/List of decisions of the executive committee No. 07 dated 02172026.docx
       - title: Рішення №63 від 17.02.2026 року
+        link: '/uploads/decision No. 63 of February 17, 2026.docx'
       - title: Рішення №64 від 17.02.2026 року
       - title: Рішення №65 від 17.02.2026 року
       - title: Рішення №66 від 17.02.2026 року
