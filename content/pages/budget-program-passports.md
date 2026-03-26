@@ -3,6 +3,9 @@ title: budget-program-passports
 components:
   - title: ' Паспорти бюджетних програм'
     order:
+      - {}
+      - title: Розпорядження №55 від 16.03.2026 Про затвердження та внесення змін до паспортів бюджетних програм на 2026 рік
+        link: '/uploads/Order No. 55 of March 16, 2026 passports of budget programs.docx'
       - title: Паспорт бюджетної програми на 2026 рік КПКВК 0118420 - зміни 03.02.2026
         link: /uploads/Passport of the budget program for 2026 KPKVK 0118420 - changes 03.02.2026.xlsx
       - title: Паспорт бюджетної програми на 2026 рік КПКВК 0118130 - зміни 03.02.2026
