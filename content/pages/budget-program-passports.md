@@ -17,7 +17,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Паспорт бюджетної програми на 2026 рік КПКВК 0116030 - зміни 05.03.2026
+        link: /uploads/Passport of the budget program for 2026 KPKVK 0116030 - changes 05.03.2026.xlsx
       - title: 'Паспорти бюджетної програми на 2026 рік КПКВК 1610160, 1616030 - зміни 05.03.2026'
         link: '/uploads/Passports of the budget program for 2026 KPKVK 1610160, 1616030 - changes 05.03.2026.xlsx'
       - title: Наказ №10 від 16.03.2026 Про затвердження та внесення змін  до паспортів бюджетних програм на 2026 рік
