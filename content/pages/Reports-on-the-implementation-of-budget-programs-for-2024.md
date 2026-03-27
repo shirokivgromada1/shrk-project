@@ -5,7 +5,8 @@ components:
     order:
       - title: Звіт про виконання паспорта бюджетної програми КПК 8420 на 2024 рік
         link: /uploads/Report on the implementation of the passport of the budget program KPC 8420 for 2024.xlsx
-      - {}
+      - title: Звіт про виконання паспорта бюджетної програми КПК 8312 на 2024 рік
+        link: /uploads/Report on the implementation of the passport of the budget program KPC 8312 for 2024.xlsx
       - {}
       - {}
       - {}
