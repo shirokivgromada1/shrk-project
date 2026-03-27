@@ -1,7 +1,64 @@
 ---
 title: Reports on the implementation of budget programs for 2024
 components:
-  - title: Розпорядження голови
+  - title: Звіти про виконання бюджетних програм за 2024 рік
+    order:
+      - title: Звіт про виконання паспорта бюджетної програми КПК 8420 на 2024 рік
+        link: /uploads/Report on the implementation of the passport of the budget program KPC 8420 for 2024.xlsx
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
     _template: HeadOrders
 ---
 
