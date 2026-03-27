@@ -11,6 +11,8 @@ components:
       - name: ' Паспорти бюджетних програм'
         nameEng: Budget Program Passports
         link: 'https://shtg.gov.ua/budget-program-passports'
+      - name: Звіти про виконання паспортів бюджетних програм
+        nameEng: Reports on the implementation of budget program passports
       - name: Проєкти рішень
         nameEng: Draft Resolutions
         link: 'https://shtg.gov.ua/draft-resolutions'
