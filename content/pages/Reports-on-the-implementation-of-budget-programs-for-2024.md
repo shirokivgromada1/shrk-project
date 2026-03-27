@@ -13,7 +13,8 @@ components:
         link: /uploads/Report on the implementation of the passport of the budget program KPC 8130 for 2024.xlsx
       - title: Звіт про виконання паспорта бюджетної програми КПК 8110 на 2024 рік
         link: /uploads/Report on the implementation of the passport of the budget program KPC 8110 for 2024.xlsx
-      - {}
+      - title: Звіт про виконання паспорта бюджетної програми КПК 7693 на 2024 рік
+        link: /uploads/Report on the implementation of the passport of the budget program of the CPK 7693 for 2024.xlsx
       - {}
       - {}
       - {}
