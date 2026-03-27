@@ -37,7 +37,8 @@ components:
         link: /uploads/Report on the implementation of the passport of the budget program KPC 6030 for 2024.xlsx
       - title: Звіт про виконання паспорта бюджетної програми КПК 6020 на 2024 рік
         link: /uploads/Report on the implementation of the passport of the budget program KPC 6020 for 2024.xlsx
-      - {}
+      - title: Звіт про виконання паспорта бюджетної програми КПК 6011 на 2024 рік
+        link: /uploads/Report on the implementation of the passport of the budget program KPC 6011 for 2024.xlsx
       - {}
       - {}
       - {}
