@@ -1,6 +1,10 @@
 ---
 title: Reports on the implementation of budget program passports
 components:
-  - _template: CommunityHeadCards
+  - cards:
+      - name: Звіти про виконання бюджетних програм за 2024 рік
+        nameEng: Reports on the implementation of budget programs for 2024
+        link: 'https://shtg.gov.ua/Reports-on-the-implementation-of-budget-programs-for-2024'
+    _template: CommunityHeadCards
 ---
 
