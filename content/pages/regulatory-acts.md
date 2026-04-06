@@ -11,6 +11,7 @@ components:
       - title: Про затвердження Правил устримання домашніх тварин
       - title: Про затвердення Порядку розміщення та демонтажу об’єктів зовнішньої реклами
         url: 'https://shtg.gov.ua/regulatory-act-for-the-placement-and-dismantling-of-outdoor-advertising'
+        buttonText: Перейти
     _template: HeadOrders
 ---
 
