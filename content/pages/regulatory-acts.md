@@ -10,6 +10,7 @@ components:
       - title: 'Про затвердження Правил благоустрою території '
       - title: Про затвердження Правил утримання домашніх тварин
         url: 'https://shtg.gov.ua/regulatory-act-animal-keeping-rules'
+        buttonText: Перейти
       - title: Про затвердення Порядку розміщення та демонтажу об’єктів зовнішньої реклами
         url: 'https://shtg.gov.ua/regulatory-act-for-the-placement-and-dismantling-of-outdoor-advertising'
         buttonText: Перейти
