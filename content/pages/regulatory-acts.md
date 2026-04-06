@@ -7,6 +7,7 @@ components:
       - title: Про затвердження Порядку надання орендарю згоди на здійснення невід’ємних поліпшень орендованого комунального майна
       - title: 'Про затвердження ставок єдиного податку для суб’єктів господарювання, які застосовують спрощену систему оподаткування, обліку, звітностей та віднесені до першої і другої груп платників єдиного податку '
         url: 'https://shtg.gov.ua/regulatory-actOn-approval-of-single-tax-rates-for-business-entities'
+        buttonText: Перейти
       - title: Про встановлення ставок і пільг із сплати земельного податку
         url: 'https://shtg.gov.ua/regulatory-actestablishment-of-rates-and-benefits-for-payment-of-land-tax'
         buttonText: Перейти
