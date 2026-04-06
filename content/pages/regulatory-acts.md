@@ -5,6 +5,7 @@ components:
     order:
       - title: 'Про впорядкування відносин залучення, розрахунку розміру і використання коштів пайової участі у створенні і розвитку інженерно-транспортної та соціальної інфраструктури  '
         url: 'https://shtg.gov.ua/regulatory-actregulation-of-attraction-relations-calculation-of-the-amount-and-use-of-equity-participation-funds'
+        buttonText: Перейти
       - title: Про затвердження Порядку надання орендарю згоди на здійснення невід’ємних поліпшень орендованого комунального майна
         url: 'https://shtg.gov.ua/regulatory-actProcedure-for-granting-tenant-consent-to-make-non-destructive-improvements'
         buttonText: Перейти
