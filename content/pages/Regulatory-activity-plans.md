@@ -17,7 +17,8 @@ components:
         link: /uploads/regulatory acts changes to the activity plan for 2021_14052021.docx
       - title: Рішення №1 від 23.09.2021 Про внесення змін до Плану діяльності Широківської сільської  ради Запорізького району Запорізької області з підготовки проектів регуляторних актів на 2021 рік
         link: /uploads/regulatory acts changes to the activity plan for 2021_23092021.docx
-      - {}
+      - title: Рішення №2 від 15.12.2022 Про звіт щодо здійснення державної регуляторної політики виконавчим комітетом Широківської сільської  ради Запорізького району Запорізької області  в 2022 році
+        link: /uploads/regulatory acts report activity plan for 2022_15122022.docx
       - {}
       - {}
       - {}
