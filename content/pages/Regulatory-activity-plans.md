@@ -15,7 +15,8 @@ components:
         link: /uploads/regulatory acts changes to the activity plan for 2022_18032022.docx
       - title: Рішення №5 від 14.05.2021 Про внесення змін до Плану діяльності Широківської сільської  ради Запорізького району Запорізької області з підготовки проектів регуляторних актів на 2021 рік
         link: /uploads/regulatory acts changes to the activity plan for 2021_14052021.docx
-      - {}
+      - title: Рішення №1 від 23.09.2021 Про внесення змін до Плану діяльності Широківської сільської  ради Запорізького району Запорізької області з підготовки проектів регуляторних актів на 2021 рік
+        link: /uploads/regulatory acts changes to the activity plan for 2021_23092021.docx
       - {}
       - {}
       - {}
