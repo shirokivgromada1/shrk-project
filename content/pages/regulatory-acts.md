@@ -1,7 +1,13 @@
 ---
 title: regulatory-acts
 components:
+  - title: ''
+    document:
+      - title: Плани регуляторної діяльності (зі звітами)
+        link: 'https://shtg.gov.ua/admin/Regulatory-activity-plans'
+    _template: Documents
   - title: Регуляторні акти
+    notMain: false
     order:
       - title: Про затвердження Правил утримання домашніх тварин
         url: 'https://shtg.gov.ua/regulatory-act-animal-keeping-rules'
