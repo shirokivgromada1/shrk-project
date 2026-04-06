@@ -1,11 +1,6 @@
 ---
 title: regulatory-acts
 components:
-  - title: ''
-    document:
-      - title: Плани регуляторної діяльності (зі звітами)
-        link: 'https://shtg.gov.ua/admin/Regulatory-activity-plans'
-    _template: Documents
   - title: Регуляторні акти
     notMain: false
     order:
@@ -31,5 +26,10 @@ components:
         url: 'https://shtg.gov.ua/regulatory-actregulation-of-attraction-relations-calculation-of-the-amount-and-use-of-equity-participation-funds'
         buttonText: Перейти
     _template: HeadOrders
+  - title: ''
+    document:
+      - title: Плани регуляторної діяльності (зі звітами)
+        link: 'https://shtg.gov.ua/admin/Regulatory-activity-plans'
+    _template: Documents
 ---
 
