@@ -8,6 +8,7 @@ components:
       - title: 'Про затвердження ставок єдиного податку для суб’єктів господарювання, які застосовують спрощену систему оподаткування, обліку, звітностей та віднесені до першої і другої груп платників єдиного податку '
       - title: Про встановлення ставок і пільг із сплати земельного податку
         url: 'https://shtg.gov.ua/regulatory-actestablishment-of-rates-and-benefits-for-payment-of-land-tax'
+        buttonText: Перейти
       - title: 'Про затвердження Правил благоустрою території '
         url: 'https://shtg.gov.ua/regulatory-actlandscape-development-rules'
         buttonText: Перейти
