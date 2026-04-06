@@ -7,7 +7,8 @@ components:
         link: /uploads/regulatory acts activity plan for 2019_12122018.docx
       - title: Рішення №3 від 04.11.2019 Про внесення змін до Плану  діяльності Широківської сільської  ради з підготовки проектів  регуляторних актів на  2019 рік
         link: /uploads/regulatory acts changes to the activity plan for 2019_04112019.docx
-      - {}
+      - title: Рішення №1 від 05.12.2019 Про затвердження Плану діяльності Широківської сільської Запорізького району Запорізької області ради з підготовки проектів регуляторних актів на 2020 рік
+        link: /uploads/regulatory acts activity plan for 2020_05122019.docx
       - {}
       - {}
       - {}
