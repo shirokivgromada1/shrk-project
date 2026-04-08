@@ -4,6 +4,9 @@ components:
   - title: Сесійні засідання Широківської сільської ради
     notMain: false
     order:
+      - title: 69 сесія Широківської сільської ради VIII скликання
+        url: 'https://youtu.be/nShVATYcOf0'
+        buttonText: Дивитись
       - title: 68 сесія Широківської сільської ради  VIII скликання
         url: 'https://youtu.be/EMuG_cv8etk'
         buttonText: Дивитись
