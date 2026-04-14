@@ -4,7 +4,8 @@ components:
   - title: Діючі програми Широківської громади
     program:
       - {}
-      - {}
+      - name: Додаток №1 до ПРограми «Назустріч людям»
+        link: /uploads/Appendix No. 1 to the “Meeting People” Program.xlsx
       - name: Про внесення змін та доповнень до Програми висвітлення діяльності Широківської сільської ради Запорізького району Запорізької області та її виконавчих органів друкованими засобами масової інформації на 2025-2029 роки
         date: Рішення №2 від 2 квітня 2026 року
         link: /uploads/changes to the program covering the activities of the Shyrokiv Village Council.docx
