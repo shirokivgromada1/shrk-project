@@ -6,6 +6,7 @@ components:
       - title: Перелік рішень виконавчого комітету №10 від 02.04.2026 року
         link: /uploads/List of decisions of the executive committee No. 10 dated 02.04.2026.docx
       - title: Рішення №96 від 02.04.2026 року
+        link: /uploads/decision No. 96 of 02.04.2026.docx
       - title: Рішення №97 від 02.04.2026 року
       - title: Рішення №98 від 02.04.2026 року
       - title: Рішення №99 від 02.04.2026 року
