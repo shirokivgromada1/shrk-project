@@ -70,6 +70,8 @@ components:
     subtitle: ''
     notMain: true
     order:
+      - title: Виконавчий комітет від 02.04.2026 року №10
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-02042026'
       - title: Виконавчий комітет від 12.03.2026 року №09
         url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-12032026'
         buttonText: Перейти
