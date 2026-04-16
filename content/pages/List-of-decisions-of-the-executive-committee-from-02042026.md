@@ -40,7 +40,9 @@ components:
       - title: Рішення №112 від 02.04.2026 року
         link: /uploads/decision No. 112 of 02.04.2026.docx
       - title: Рішення №113 від 02.04.2026 року
+        link: /uploads/decision No. 113 of 02.04.2026.docx
       - title: Рішення №114 від 02.04.2026 року
+        link: /uploads/decision No. 114 of 02.04.2026.docx
     _template: HeadOrders
 ---
 
