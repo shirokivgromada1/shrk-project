@@ -18,7 +18,9 @@ components:
       - title: Рішення №101 від 02.04.2026 року
         link: /uploads/decision No. 101 of 02.04.2026.docx
       - title: Рішення №102 від 02.04.2026 року
+        link: /uploads/decision No. 102 of 02.04.2026.docx
       - title: Рішення №103 від 02.04.2026 року
+        link: /uploads/decision No. 103 of 02.04.2026.docx
       - title: Рішення №104 від 02.04.2026 року
       - title: Рішення №105 від 02.04.2026 року
       - title: Рішення №106 від 02.04.2026 року
