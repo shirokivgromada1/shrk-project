@@ -36,7 +36,9 @@ components:
       - title: Рішення №110 від 02.04.2026 року
         link: /uploads/decision No. 110 of 02.04.2026.docx
       - title: Рішення №111 від 02.04.2026 року
+        link: /uploads/decision No. 111 of 02.04.2026.docx
       - title: Рішення №112 від 02.04.2026 року
+        link: /uploads/decision No. 112 of 02.04.2026.docx
       - title: Рішення №113 від 02.04.2026 року
       - title: Рішення №114 від 02.04.2026 року
     _template: HeadOrders
