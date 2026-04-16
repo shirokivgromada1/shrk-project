@@ -32,7 +32,9 @@ components:
       - title: Рішення №108 від 02.04.2026 року
         link: /uploads/decision No. 108 of 02.04.2026.docx
       - title: Рішення №109 від 02.04.2026 року
+        link: /uploads/decision No. 109 of 02.04.2026.docx
       - title: Рішення №110 від 02.04.2026 року
+        link: /uploads/decision No. 110 of 02.04.2026.docx
       - title: Рішення №111 від 02.04.2026 року
       - title: Рішення №112 від 02.04.2026 року
       - title: Рішення №113 від 02.04.2026 року
