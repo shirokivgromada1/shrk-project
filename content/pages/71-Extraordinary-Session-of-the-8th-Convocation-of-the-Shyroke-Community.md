@@ -25,6 +25,12 @@ components:
         link: /uploads/71 projects taken on balance.docx
       - title: Про затвердження Програми розвитку  освіти Широківської сільської ради  Запорізького району Запорізької області  на 2026-2029 роки
         link: /uploads/71_education_development_project.docx
+      - title: Про затвердження звіту про виконання бюджету Широківської  сільської територіальної громади  за 1 квартал 2026 року
+        link: /uploads/71 budget execution projects.docx
+      - {}
+      - {}
+      - {}
+      - {}
       - {}
     _template: HeadOrders
 ---
