@@ -27,8 +27,10 @@ components:
         link: /uploads/71_education_development_project.docx
       - title: Про затвердження звіту про виконання бюджету Широківської  сільської територіальної громади  за 1 квартал 2026 року
         link: /uploads/71 budget execution projects.docx
-      - {}
-      - {}
+      - title: Про надання матеріальної допомоги на лікування мешканцям Широківської сільської ради Запорізького району Запорізької області
+        link: /uploads/71_project_treatment assistance.docx
+      - title: Про внесення змін до Положення про конкурс на посаду керівника закладу загальної середньої освіти комунальної власності Широківської сільської ради Запорізького району Запорізької області
+        link: /uploads/71 project competition for the position of manager.docx
       - {}
       - {}
       - {}
