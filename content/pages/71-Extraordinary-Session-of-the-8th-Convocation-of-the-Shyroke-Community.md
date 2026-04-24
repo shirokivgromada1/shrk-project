@@ -23,7 +23,8 @@ components:
         link: /uploads/71_career_guidance_project.docx
       - title: Про взяття на баланс об’єктів інфраструктури до комунальної власності територіальної громади Широківської сільської ради Запорізького району Запорізької області
         link: /uploads/71 projects taken on balance.docx
-      - {}
+      - title: Про затвердження Програми розвитку  освіти Широківської сільської ради  Запорізького району Запорізької області  на 2026-2029 роки
+        link: /uploads/71_education_development_project.docx
       - {}
     _template: HeadOrders
 ---
