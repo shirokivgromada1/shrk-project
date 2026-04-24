@@ -15,7 +15,8 @@ components:
         link: /uploads/71_land_allocation_project_2.doc
       - title: Про затвердження технічної документації та передачу у власність земельної ділянки гр. Ханікіній О.С.
         link: /uploads/71_land_allocation_project_3.doc
-      - {}
+      - title: Про затвердження матеріалів нормативної грошової оцінки земельних ділянок несільськогосподарського призначення
+        link: /uploads/71_project_monetary assessment.doc
       - {}
       - {}
       - {}
