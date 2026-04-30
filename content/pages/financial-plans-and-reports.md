@@ -4,7 +4,8 @@ components:
   - title: Фінансові плани КП та звіти
     order:
       - {}
-      - {}
+      - title: Звiт про виконання фінансового плану КП Аптека за 2025 рік
+        link: /uploads/Report on the implementation of the financial plan of the Apteka KP for 2025.xls
       - title: Звiт про виконання фінансового плану  КНП Клініка за 2025 рік
         link: /uploads/Report on the implementation of the financial plan of the KNP Clinic for 2025.xls
       - title: Звіт про виконання фінплану КП БВС за 2025 рік
