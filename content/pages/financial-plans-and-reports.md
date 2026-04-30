@@ -3,6 +3,11 @@ title: financial-plans-and-reports
 components:
   - title: Фінансові плани КП та звіти
     order:
+      - {}
+      - {}
+      - {}
+      - title: Звіт про виконання фінплану КП БВС за 2025 рік
+        link: /uploads/Report on the implementation of the financial plan of the Municipal Enterprise Blagvodservice for 2025.xls
       - title: Фінансовий план СКП ОЖКП та РС на 2026 рік
         link: /uploads/Фінансовий план комунального підприємтсва ОЖКП та РС на 2026 рік 28012026.xlsx
       - title: Фінансовий план КСП Широке  на 2026 рік
