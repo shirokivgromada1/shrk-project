@@ -3,7 +3,8 @@ title: budget-program-passports
 components:
   - title: ' Паспорти бюджетних програм'
     order:
-      - {}
+      - title: 'Паспорти бюджетних програм на 2026 рік КПКВК 1610160, 1616030 - зміни 02.04.2026'
+        link: '/uploads/Passports of budget programs for 2026 KPKVK 1610160, 1616030 - changes 04022026.xlsx'
       - title: Наказ від 09.04.2026 № 11
         link: /uploads/passports of budget programs order dated 09.04.2026 No. 11.docx
       - title: 'Розпорядження №73 від 08.04.2026 '
