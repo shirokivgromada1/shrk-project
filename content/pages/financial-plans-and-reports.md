@@ -3,7 +3,8 @@ title: financial-plans-and-reports
 components:
   - title: Фінансові плани КП та звіти
     order:
-      - {}
+      - title: Звіт про виконання фінансового плану СКП ОЖКП та РС за  2025 рік
+        link: /uploads/Report on the implementation of the financial plan of the UPC of the OZHKP and RS for 2025.xlsx
       - title: Звiт про виконання фінансового плану КП Аптека за 2025 рік
         link: /uploads/Report on the implementation of the financial plan of the Apteka KP for 2025.xls
       - title: Звiт про виконання фінансового плану  КНП Клініка за 2025 рік
