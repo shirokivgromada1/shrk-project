@@ -4,6 +4,8 @@ components:
   - title: ' Паспорти бюджетних програм'
     order:
       - {}
+      - title: Наказ від 09.04.2026 № 11
+        link: /uploads/passports of budget programs order dated 09.04.2026 No. 11.docx
       - title: 'Розпорядження №73 від 08.04.2026 '
         link: /uploads/passports of budget programs_ Order No. 73 of 08.04.2026.docx
       - title: Паспорт бюджетної програми на 2026 рік КПКВК 0110150 - зміни 05.03.2026
