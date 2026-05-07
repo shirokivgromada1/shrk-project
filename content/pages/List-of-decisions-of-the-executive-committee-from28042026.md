@@ -10,7 +10,9 @@ components:
       - title: Рішення № 117 від 28.04.2026 року
         link: /uploads/decision No. 117 of 28.04.2026.docx
       - title: Рішення № 118 від 28.04.2026 року
+        link: /uploads/decision No. 118 of 28.04.2026.docx
       - title: Рішення № 119 від 28.04.2026 року
+        link: /uploads/decision No. 119 of 28.04.2026.docx
     _template: HeadOrders
 ---
 
