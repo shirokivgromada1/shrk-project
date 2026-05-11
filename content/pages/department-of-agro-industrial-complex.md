@@ -40,6 +40,7 @@ components:
     _template: SilradaDepartmentFunctions
   - newsSection:
       - category: content/newsCategories/land_relations_department.md
+        variantNews: '4'
     _template: newsSections
   - title: Документи
     notMain: true
