@@ -36,6 +36,8 @@ components:
     _template: SilradaDepartmentFunctions
   - title: ''
     order:
+      - title: Гуртки у Широківській громаді
+        link: /uploads/studies_2026.docx
       - title: 'Молодіжна політика Широківської громади '
         url: 'https://shtg.gov.ua/Youth-policy-of-the-Shyrokivska-community'
         buttonText: Дізнатися більше
