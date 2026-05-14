@@ -3,6 +3,10 @@ title: 71-Extraordinary-Session-of-the-8th-Convocation-of-the-Shyroke-Community
 components:
   - title: ПРОЄКТ. 71 позачергова сесія VIII скликання Широківської сільської ради
     order:
+      - title: Порядок денний 71 позачергової сесії VIII скликання
+        link: /uploads/Аgenda of the 71st extraordinary session of the 8th convocation_04052026.docx
+      - title: Розпорядження про скликання сімдесят першої позачергової сесії восьмого скликання Широківської сільської ради Запорізького району Запорізької області
+        link: /uploads/Order No. 71 on convening the 71st extraordinary session_04052026.docx
       - title: Рішення №1 Про затвердження звіту про виконання бюджету Широківської  сільської територіальної громади  за 1 квартал 2026 року
         link: /uploads/session_decision№1_05052026.docx
       - title: Доповнення до Рішення №1
@@ -13,7 +17,8 @@ components:
         link: /uploads/session_decision№2_appendix_05052026.docx
       - title: Рішення №3 Про внесення змін і доповнень до Програми розвитку та підтримки комунального некомерційного підприємства «Клініка «Сімейний лікар» Широківської сільської ради Запорізького району Запорізької області на 2022-2026 роки
         link: /uploads/session_decision№3_05052026.doc
-      - title: Рішення №4
+      - title: Рішення №4 Про внесення змін та доповнень до Програми підтримки та розвитку комунального підприємства «Комунальне сільськогосподарське підприємство «Широке» Широківської сільської ради Запорізького району Запорізької області на 2024 – 2026 роки
+        link: /uploads/session_decision№4_05052026.doc
       - title: Рішення №5
       - title: Рішення №6
       - title: Рішення №7
@@ -31,10 +36,19 @@ components:
       - title: Рішення №18
       - title: Рішення №19
       - title: Рішення №20
-      - title: Порядок денний 71 позачергової сесії VIII скликання
-        link: /uploads/Аgenda of the 71st extraordinary session of the 8th convocation_04052026.docx
-      - title: Розпорядження про скликання сімдесят першої позачергової сесії восьмого скликання Широківської сільської ради Запорізького району Запорізької області
-        link: /uploads/Order No. 71 on convening the 71st extraordinary session_04052026.docx
+      - title: Рішення №21
+      - title: Рішення №22
+      - title: Рішення №23
+      - title: Рішення №24
+      - title: Рішення №25
+      - title: Рішення №26
+      - title: Рішення №27
+      - title: Рішення №28
+      - title: Рішення №29
+      - title: Рішення №30
+      - title: Рішення №31
+      - title: Рішення №32
+      - title: Рішення №33
     _template: HeadOrders
 ---
 
