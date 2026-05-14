@@ -1,7 +1,7 @@
 ---
 title: 71-Extraordinary-Session-of-the-8th-Convocation-of-the-Shyroke-Community
 components:
-  - title: ПРОЄКТ. 71 позачергова сесія VIII скликання Широківської сільської ради
+  - title: 71 позачергова сесія VIII скликання Широківської сільської ради
     order:
       - title: Порядок денний 71 позачергової сесії VIII скликання
         link: /uploads/Аgenda of the 71st extraordinary session of the 8th convocation_04052026.docx
