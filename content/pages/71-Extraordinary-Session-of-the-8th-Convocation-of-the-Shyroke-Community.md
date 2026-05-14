@@ -5,7 +5,8 @@ components:
     order:
       - title: Рішення №1 Про затвердження звіту про виконання бюджету Широківської  сільської територіальної громади  за 1 квартал 2026 року
         link: /uploads/session_decision№1_05052026.docx
-      - {}
+      - title: Доповнення до Рішення №1
+        link: /uploads/session_decision№1_appendix_05052026.xlsx
       - {}
       - {}
       - {}
