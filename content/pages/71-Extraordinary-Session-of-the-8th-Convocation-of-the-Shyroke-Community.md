@@ -58,7 +58,8 @@ components:
         link: /uploads/session_decision№22_05052026.doc
       - title: Рішення №23 Про прийняття гуманітарної допомоги
         link: /uploads/session_decision№23_05052026.docx
-      - title: Рішення №24
+      - title: Рішення №24 Про прийняття гуманітарної допомоги
+        link: /uploads/session_decision№24_05052026.docx
       - title: Рішення №25
       - title: Рішення №26
       - title: Рішення №27
