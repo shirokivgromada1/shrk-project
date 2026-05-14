@@ -60,7 +60,8 @@ components:
         link: /uploads/session_decision№23_05052026.docx
       - title: Рішення №24 Про прийняття гуманітарної допомоги
         link: /uploads/session_decision№24_05052026.docx
-      - title: Рішення №25
+      - title: Рішення №25 Про затвердження меморандумів про співпрацю (співробітництво) з громадською організацією «АСОЦІАЦІЯ ГРЕПЛІНГУ ЗАПОРІЗЬКОЇ ОБЛАСТІ»
+        link: /uploads/session_decision№25_05052026.docx
       - title: Рішення №26
       - title: Рішення №27
       - title: Рішення №28
