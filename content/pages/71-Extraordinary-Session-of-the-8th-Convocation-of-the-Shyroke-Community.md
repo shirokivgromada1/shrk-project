@@ -37,7 +37,8 @@ components:
         link: /uploads/session_decision№12_05052026.docx
       - title: Доповнення до Рішення №12
         link: /uploads/session_decision№12_appendix_05052026.xls
-      - title: Рішення №13
+      - title: Рішення №13 Про взяття на баланс об’єктів інфраструктури до комунальної власності територіальної громади Широківської сільської ради Запорізького району Запорізької області
+        link: /uploads/session_decision№13_05052026.docx
       - title: Рішення №14
       - title: Рішення №15
       - title: Рішення №16
