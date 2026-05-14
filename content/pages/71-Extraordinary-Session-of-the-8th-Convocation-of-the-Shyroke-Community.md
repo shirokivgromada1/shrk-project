@@ -68,7 +68,8 @@ components:
         link: /uploads/session_decision№27_05052026.docx
       - title: Рішення №28 Про затвердження меморандуму про співпрацю
         link: /uploads/session_decision№28_05052026.docx
-      - title: Рішення №29
+      - title: Рішення №29 Про прийняття гуманітарної допомоги від Представництва Міжнародного Медичного Корпусу в Україні
+        link: /uploads/session_decision№29_05052026.docx
       - title: Рішення №30
       - title: Рішення №31
       - title: Рішення №32
