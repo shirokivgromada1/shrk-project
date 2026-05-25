@@ -7,6 +7,7 @@ components:
         link: 'https://shtg.gov.ua/71-Extraordinary-Session-of-the-8th-Convocation-of-the-Shyroke-Community'
       - title: 70 сесія VIII скликання Широківської сільської ради
       - title: 69 сесія VIII скликання Широківської сільської ради
+        link: 'https://shtg.gov.ua/69-Extraordinary-Session-of-the-8th-Convocation-of-the-Shyroke-Communitymd'
       - title: 68 сесія VIII скликання Широківської сільської ради
         link: 'https://shtg.gov.ua/68-Extraordinary-Session-of-the-8th-Convocation-of-the-Shyroke-Communitymd'
       - title: 67 позачергова сесія VIII скликання Широківської сільської ради
