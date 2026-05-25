@@ -7,6 +7,8 @@ components:
         link: /uploads/Аgenda of the 71st extraordinary session of the 8th convocation_04052026.docx
       - title: Розпорядження про скликання сімдесят першої позачергової сесії восьмого скликання Широківської сільської ради Запорізького району Запорізької області
         link: /uploads/Order No. 71 on convening the 71st extraordinary session_04052026.docx
+      - title: Протокол сумісного засідання від 05.05.2026
+        link: /uploads/Minutes of the joint meeting of 05.05.2026.docx
       - title: Рішення №1 Про затвердження звіту про виконання бюджету Широківської  сільської територіальної громади  за 1 квартал 2026 року
         link: /uploads/session_decision№1_05052026.docx
       - title: Доповнення до Рішення №1
