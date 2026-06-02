@@ -1,0 +1,7 @@
+---
+title: 72-Session-of-the-8th-Convocation-of-the-Shyroke-Community
+components:
+  - title: Розпорядження голови
+    _template: HeadOrders
+---
+
