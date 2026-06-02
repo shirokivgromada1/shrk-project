@@ -6,6 +6,7 @@ components:
       - title: Перелік рішень виконавчого комітету №12 від 07.05.20206 року
         link: /uploads/List of decisions of the executive committee No. 12 dated 050720206.docx
       - title: Рішення №120 від 07.05.2026 року
+        link: /uploads/decision No. 120 of 07.05.2026.docx
       - title: Рішення №121 від 07.05.2026 року
       - title: Рішення №122 від 07.05.2026 року
       - title: Рішення №123 від 07.05.2026 року
