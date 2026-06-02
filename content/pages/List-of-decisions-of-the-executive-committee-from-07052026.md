@@ -12,6 +12,7 @@ components:
       - title: Рішення №122 від 07.05.2026 року
         link: /uploads/decision No. 122 of 07.05.2026.docx
       - title: Рішення №123 від 07.05.2026 року
+        link: /uploads/decision No. 123 of 07.05.2026.docx
       - title: Рішення №124 від 07.05.2026 року
       - title: Рішення №125 від 07.05.2026 року
       - title: Рішення №126 від 07.05.2026 року
