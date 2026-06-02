@@ -70,6 +70,7 @@ components:
     subtitle: ''
     notMain: true
     order:
+      - url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-18052026'
       - title: Виконавчий комітет від 07.05.2026 року №12
         url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-07052026'
         buttonText: Перейти
