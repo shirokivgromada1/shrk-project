@@ -66,7 +66,9 @@ components:
       - title: Рішення №149 від 07.05.2026 року
         link: /uploads/decision No. 149 of 07.05.2026.docx
       - title: Рішення №150 від 07.05.2026 року
+        link: /uploads/decision No. 150 of 07.05.2026.docx
       - title: Рішення №151 від 07.05.2026 року
+        link: /uploads/decision No. 151 of 07.05.2026.docx
       - title: Рішення №152 від 07.05.2026 року
       - title: Рішення №153 від 07.05.2026 року
     _template: HeadOrders
