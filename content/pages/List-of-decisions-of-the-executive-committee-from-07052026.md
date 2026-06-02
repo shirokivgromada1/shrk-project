@@ -32,7 +32,9 @@ components:
       - title: Рішення №132 від 07.05.2026 року
         link: /uploads/decision No. 132 of 07.05.2026.docx
       - title: Рішення №133 від 07.05.2026 року
+        link: /uploads/decision No. 133 of 07.05.2026.docx
       - title: Рішення №134 від 07.05.2026 року
+        link: /uploads/decision No. 134 of 07.05.2026.docx
       - title: Рішення №135 від 07.05.2026 року
       - title: Рішення №136 від 07.05.2026 року
       - title: Рішення №137 від 07.05.2026 року
