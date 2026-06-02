@@ -22,6 +22,7 @@ components:
       - title: Рішення №127 від 07.05.2026 року
         link: /uploads/decision No. 127 of 07.05.2026.docx
       - title: Рішення №128 від 07.05.2026 року
+        link: /uploads/decision No. 128 of 07.05.2026.docx
       - title: Рішення №129 від 07.05.2026 року
       - title: Рішення №130 від 07.05.2026 року
       - title: Рішення №131 від 07.05.2026 року
