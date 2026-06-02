@@ -60,6 +60,7 @@ components:
       - title: Рішення №146 від 07.05.2026 року
         link: /uploads/decision No. 146 of 07.05.2026.docx
       - title: Рішення №147 від 07.05.2026 року
+        link: /uploads/decision No. 147 of 07.05.2026.docx
       - title: Рішення №148 від 07.05.2026 року
       - title: Рішення №149 від 07.05.2026 року
       - title: Рішення №150 від 07.05.2026 року
