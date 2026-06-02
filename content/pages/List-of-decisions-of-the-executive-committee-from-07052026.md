@@ -40,7 +40,9 @@ components:
       - title: Рішення №136 від 07.05.2026 року
         link: /uploads/decision No. 136 of 07.05.2026.docx
       - title: Рішення №137 від 07.05.2026 року
+        link: /uploads/decision No. 137 of 07.05.2026.docx
       - title: Рішення №138 від 07.05.2026 року
+        link: /uploads/decision No. 138 of 07.05.2026.docx
       - title: Рішення №139 від 07.05.2026 року
       - title: Рішення №140 від 07.05.2026 року
       - title: Рішення №141 від 07.05.2026 року
