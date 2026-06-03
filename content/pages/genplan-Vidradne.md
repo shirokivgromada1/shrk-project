@@ -12,6 +12,7 @@ components:
       - title: План зонування території
         link: /uploads/Zoning plan of the Vidradne.pdf
       - title: ' Пояснювальна записка до генерального плану'
+        link: /uploads/Explanatory note to the general plan of Vidradne.pdf
       - title: Основні положення до генерального плану
       - title: Пояснювальна записка до плану зонування
         link: /uploads/Explanatory note to the zoning plan of Vidradne.pdf
