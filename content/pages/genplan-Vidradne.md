@@ -4,6 +4,7 @@ components:
   - title: ГЕНЕРАЛЬНИЙ ПЛАН СЕЛИЩА ВІДРАДНЕ
     order:
       - title: Схема розташування населеного пункту
+        link: /uploads/Location map of the settlement Vidradne.jpg
       - title: План існуючого використання території
         link: /uploads/Plan of the existing use of the territory of Vidradne.pdf
       - title: Генеральний план основне креслення
