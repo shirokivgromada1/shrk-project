@@ -14,6 +14,8 @@ components:
       - title: ' Схема інженерної підготовки та захисту території'
       - title: ' Схема проєктних планувальних обмежень'
         link: /uploads/Scheme of project planning restrictions Vidradne.pdf
+      - title: Схема існуючих планувальних обмежень
+        link: /uploads/Scheme of existing planning restrictions Vidradne.pdf
       - title: План зонування території
         link: /uploads/Zoning plan of the Vidradne.pdf
       - title: ' Пояснювальна записка до генерального плану'
