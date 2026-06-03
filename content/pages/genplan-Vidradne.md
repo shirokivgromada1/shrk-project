@@ -21,6 +21,8 @@ components:
         link: /uploads/Scheme of existing planning restrictions Vidradne.pdf
       - title: План зонування території
         link: /uploads/Zoning plan of the Vidradne.pdf
+      - title: Модель перспективного розвитку
+        link: /uploads/Model of promising development Vidradne.jpg
       - title: ' Пояснювальна записка до генерального плану'
         link: /uploads/Explanatory note to the general plan of Vidradne.pdf
       - title: Основні положення до генерального плану
