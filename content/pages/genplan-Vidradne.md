@@ -14,6 +14,7 @@ components:
       - title: Схема інженерного обладнання території
         link: /uploads/Scheme of engineering equipment of the territory Vidradne.jpg
       - title: ' Схема інженерної підготовки та захисту території'
+        link: /uploads/Scheme of engineering preparation and protection of the territory Vidradne.jpg
       - title: ' Схема проєктних планувальних обмежень'
         link: /uploads/Scheme of project planning restrictions Vidradne.pdf
       - title: Схема існуючих планувальних обмежень
