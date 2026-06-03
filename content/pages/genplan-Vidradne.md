@@ -6,7 +6,7 @@ components:
       - title: Схема розташування населеного пункту
       - title: План існуючого використання території
         link: /uploads/Plan of the existing use of the territory of Vidradne.pdf
-      - title: Схема розташування населеного пункту
+      - title: Генеральний план основне креслення
       - title: 'Схема вулично-дорожньої мережі, міського (сільського) та зовнішнього транспорту'
         link: /uploads/Scheme of the street and road network of Vidradne.pdf
       - title: Схема інженерного обладнання території
