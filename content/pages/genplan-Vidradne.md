@@ -11,6 +11,8 @@ components:
         link: /uploads/Scheme of the street and road network of Vidradne.pdf
       - title: Схема інженерного обладнання території
       - title: ' Схема інженерної підготовки та захисту території'
+      - title: ' Схема проєктних планувальних обмежень'
+        link: /uploads/Scheme of project planning restrictions Vidradne.pdf
       - title: План зонування території
         link: /uploads/Zoning plan of the Vidradne.pdf
       - title: ' Пояснювальна записка до генерального плану'
