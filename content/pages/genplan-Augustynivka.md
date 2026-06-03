@@ -15,7 +15,8 @@ components:
         link: /uploads/Engineering equipment diagram of the territory_Avgustynivka.pdf
       - title: Схема інженерної підготовки та захисту території
         link: /uploads/Scheme of engineering preparation and protection of the territory_Avgustynivka.pdf
-      - {}
+      - title: План зонування території
+        link: /uploads/Zoning plan of the territory of Avgustynivka.pdf
       - {}
       - {}
       - {}
