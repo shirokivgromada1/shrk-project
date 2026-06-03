@@ -14,6 +14,7 @@ components:
       - title: ' Пояснювальна записка до генерального плану'
       - title: Основні положення до генерального плану
       - title: Пояснювальна записка до плану зонування
+        link: /uploads/Explanatory note to the zoning plan of Vidradne.pdf
     _template: HeadOrders
 ---
 
