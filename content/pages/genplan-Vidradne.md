@@ -12,6 +12,7 @@ components:
       - title: 'Схема вулично-дорожньої мережі, міського (сільського) та зовнішнього транспорту'
         link: /uploads/Scheme of the street and road network of Vidradne.pdf
       - title: Схема інженерного обладнання території
+        link: /uploads/Scheme of engineering equipment of the territory Vidradne.jpg
       - title: ' Схема інженерної підготовки та захисту території'
       - title: ' Схема проєктних планувальних обмежень'
         link: /uploads/Scheme of project planning restrictions Vidradne.pdf
