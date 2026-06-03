@@ -8,6 +8,7 @@ components:
         link: /uploads/Plan of the existing use of the territory of Vidradne.pdf
       - title: Схема розташування населеного пункту
       - title: 'Схема вулично-дорожньої мережі, міського (сільського) та зовнішнього транспорту'
+        link: /uploads/Scheme of the street and road network of Vidradne.pdf
       - title: Схема інженерного обладнання території
       - title: ' Схема інженерної підготовки та захисту території'
       - title: План зонування території
