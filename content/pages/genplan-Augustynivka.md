@@ -13,7 +13,8 @@ components:
         link: /uploads/Street and road network diagram_Avgustynivka.pdf
       - title: Схема інженерного обладнання території
         link: /uploads/Engineering equipment diagram of the territory_Avgustynivka.pdf
-      - {}
+      - title: Схема інженерної підготовки та захисту території
+        link: /uploads/Scheme of engineering preparation and protection of the territory_Avgustynivka.pdf
       - {}
       - {}
       - {}
