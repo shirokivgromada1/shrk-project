@@ -11,7 +11,8 @@ components:
         link: /uploads/Location map of the settlement_Avgustynivka.pdf
       - title: 'Схема вулично-дорожньої мережі, міського (сільського) та зовнішнього транспорту'
         link: /uploads/Street and road network diagram_Avgustynivka.pdf
-      - {}
+      - title: Схема інженерного обладнання території
+        link: /uploads/Engineering equipment diagram of the territory_Avgustynivka.pdf
       - {}
       - {}
       - {}
