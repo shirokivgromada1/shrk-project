@@ -17,7 +17,8 @@ components:
         link: /uploads/Scheme of engineering preparation and protection of the territory_Avgustynivka.pdf
       - title: План зонування території
         link: /uploads/Zoning plan of the territory of Avgustynivka.pdf
-      - {}
+      - title: Пояснювальна записка до генерального плану
+        link: /uploads/Explanatory note to the general plan of Avgustynivka.pdf
       - {}
       - {}
       - {}
