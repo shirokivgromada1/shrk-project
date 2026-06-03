@@ -19,7 +19,8 @@ components:
         link: /uploads/Zoning plan of the territory of Avgustynivka.pdf
       - title: Пояснювальна записка до генерального плану
         link: /uploads/Explanatory note to the general plan of Avgustynivka.pdf
-      - {}
+      - title: Основні положення до генерального плану
+        link: /uploads/Main provisions of the general plan of Augustynivka.pdf
       - {}
       - {}
       - {}
