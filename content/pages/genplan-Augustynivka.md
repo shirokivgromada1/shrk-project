@@ -23,9 +23,6 @@ components:
         link: /uploads/Main provisions of the general plan of Augustynivka.pdf
       - title: Пояснювальна записка до плану зонування
         link: /uploads/Explanatory note to the zoning plan of Avgustynivka.pdf
-      - {}
-      - {}
-      - {}
     _template: HeadOrders
 ---
 
