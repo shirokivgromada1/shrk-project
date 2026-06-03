@@ -9,7 +9,8 @@ components:
         link: /uploads/Plan of existing use of the territory of Augustynivka.pdf
       - title: Схема розташування населеного пункту
         link: /uploads/Location map of the settlement_Avgustynivka.pdf
-      - {}
+      - title: 'Схема вулично-дорожньої мережі, міського (сільського) та зовнішнього транспорту'
+        link: /uploads/Street and road network diagram_Avgustynivka.pdf
       - {}
       - {}
       - {}
