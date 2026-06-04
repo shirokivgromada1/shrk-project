@@ -8,7 +8,8 @@ components:
       - title: Звіт про виконання бюджету за 1 квартал 2026 року
         link: /uploads/Budget execution report for the 1st quarter of 2026_01062026.doc
       - {}
-      - {}
+      - title: Рішення від 05.05.2026 № 1 про затвердження звіту про виконання бюджету за 1 квартал 2026 р
+        link: /uploads/Decision dated 05.05.2026 No. 1 on approval of the budget execution report for the 1st quarter of 2026_01062026.docx
       - title: Інформація про виконання місцевого бюджету за січень-лютий 2026 року
         link: /uploads/information on the execution of the local budget for January-February 2026.xlsx
       - title: Рішення виконкому від 05.02.2026  №  41 Про схвал звіту про викон бюдж за 2025 рік
