@@ -9,7 +9,8 @@ components:
         link: /uploads/Plan of existing use of the territory of Lukasheve.pdf
       - title: ' Генеральний план основне креслення'
         link: /uploads/Master plan basic drawing Lukasheve.pdf
-      - {}
+      - title: 'Схема вулично-дорожньої мережі, міського (сільського) та зовнішнього транспорту'
+        link: /uploads/Street and road network diagram of Lukasheve.pdf
       - {}
       - {}
       - {}
