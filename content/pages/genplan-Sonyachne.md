@@ -25,7 +25,8 @@ components:
         link: /uploads/Explanatory note to the Sonyachne master plan.pdf
       - title: ' Основні положення до генерального плану'
         link: /uploads/Main provisions of the Sonyachne general plan.pdf
-      - {}
+      - title: Пояснювальна записка до плану зонування
+        link: /uploads/Explanatory note to the Sonyachne zoning plan.pdf
     _template: HeadOrders
 ---
 
