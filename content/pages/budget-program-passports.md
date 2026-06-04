@@ -3,6 +3,8 @@ title: budget-program-passports
 components:
   - title: ' Паспорти бюджетних програм'
     order:
+      - title: Розпорядження № 95 від 18.05.2026 сільська рада
+        link: /uploads/Resolution No. 95 of 18.05.2026 Village Council.docx
       - title: Наказ  № 13 од  від 12.05.2026 КПК 16
         link: /uploads/Order No. 13 of 12.05.2026 CPC 16.docx
       - title: Наказ № 7 від 11.05.2026  КПК 37
