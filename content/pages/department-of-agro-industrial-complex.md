@@ -50,6 +50,7 @@ components:
         buttonText: Детально
       - title: Генеральний план села Малишівка
         url: 'https://shtg.gov.ua/genplan-Malyshivka'
+        buttonText: Детально
       - title: Генеральний план села Лукашеве
         url: 'https://shtg.gov.ua/genplan-Lukasheve'
         buttonText: Детально
