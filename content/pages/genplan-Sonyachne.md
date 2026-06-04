@@ -17,7 +17,8 @@ components:
         link: /uploads/Scheme of the street and road network of Sonyachne.pdf
       - title: Схема інженерного обладнання території
         link: /uploads/Scheme of engineering equipment of the Sonyachne territory.pdf
-      - {}
+      - title: ' Схема інженерної підготовки та захисту території'
+        link: /uploads/Scheme of engineering preparation and protection of the Sonyachne territory.pdf
       - {}
       - {}
       - {}
