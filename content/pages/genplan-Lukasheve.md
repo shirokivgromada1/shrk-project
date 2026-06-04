@@ -21,7 +21,8 @@ components:
         link: /uploads/Explanatory note to the Lukashevo master plan.pdf
       - title: Основні положення до генерального плану
         link: /uploads/Main provisions of the Lukashevo master plan.pdf
-      - {}
+      - title: Пояснювальна записка до плану зонування
+        link: /uploads/Explanatory note to the Lukasheve zoning plan.pdf
     _template: HeadOrders
 ---
 
