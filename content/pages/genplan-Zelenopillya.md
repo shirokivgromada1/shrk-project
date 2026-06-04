@@ -7,7 +7,8 @@ components:
         link: /uploads/Scheme of existing planning restrictions_Zelenopillya.pdf
       - title: Схема проєктних планувальних обмежень
         link: /uploads/Scheme of project planning restrictions_Zelenopillya.pdf
-      - {}
+      - title: ' Схема вулично-дорожньої мережі, міського (сільського) та зовнішнього транспорту'
+        link: /uploads/Street and road network diagram_Zelenopillya.pdf
       - {}
       - {}
       - {}
