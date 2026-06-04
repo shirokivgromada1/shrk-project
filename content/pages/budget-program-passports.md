@@ -3,6 +3,27 @@ title: budget-program-passports
 components:
   - title: ' Паспорти бюджетних програм'
     order:
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - title: Паспорт бюджетної програми на 2026 рік КПКВК 3710160 - зміни 05.05.2026
+        link: /uploads/Passport of the budget program for 2026 KPKVK 3710160 - changes 05.05.2026.xlsx
       - title: Розпорядження № 95 від 18.05.2026 сільська рада
         link: /uploads/Resolution No. 95 of 18.05.2026 Village Council.docx
       - title: Наказ  № 13 од  від 12.05.2026 КПК 16
