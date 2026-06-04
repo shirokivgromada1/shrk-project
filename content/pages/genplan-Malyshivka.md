@@ -9,7 +9,8 @@ components:
         link: /uploads/Plan of existing use of the Malyshivka territory.pdf
       - title: ' Генеральний план основне креслення'
         link: /uploads/General plan basic drawing Malyshivka.pdf
-      - {}
+      - title: ' Схема вулично-дорожньої мережі, міського (сільського) та зовнішнього транспорту'
+        link: /uploads/Scheme of the street and road network of Malyshivka.pdf
       - {}
       - {}
       - {}
