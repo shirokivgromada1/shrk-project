@@ -9,7 +9,8 @@ components:
         link: /uploads/Plan of the existing use of the Sonyachne territory.pdf
       - title: ' Схема існуючих планувальних обмежень'
         link: /uploads/Scheme of existing planning restrictions Sonyachne.pdf
-      - {}
+      - title: ' Генеральний план основне креслення'
+        link: /uploads/Master plan main drawing Sonyachne.pdf
       - {}
       - {}
       - {}
