@@ -9,7 +9,8 @@ components:
         link: /uploads/Scheme of project planning restrictions_Zelenopillya.pdf
       - title: ' Схема вулично-дорожньої мережі, міського (сільського) та зовнішнього транспорту'
         link: /uploads/Street and road network diagram_Zelenopillya.pdf
-      - {}
+      - title: ' Схема інженерного обладнання території'
+        link: /uploads/Engineering equipment scheme of the territory_Zelenopillya.pdf
       - {}
       - {}
       - {}
