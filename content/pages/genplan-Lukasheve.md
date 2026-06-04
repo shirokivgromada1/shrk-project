@@ -11,7 +11,8 @@ components:
         link: /uploads/Master plan basic drawing Lukasheve.pdf
       - title: 'Схема вулично-дорожньої мережі, міського (сільського) та зовнішнього транспорту'
         link: /uploads/Street and road network diagram of Lukasheve.pdf
-      - {}
+      - title: Схема інженерного обладнання території
+        link: /uploads/Scheme of engineering equipment of the Lukashevo territory.pdf
       - {}
       - {}
       - {}
