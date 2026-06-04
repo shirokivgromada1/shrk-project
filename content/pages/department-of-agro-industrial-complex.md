@@ -45,6 +45,9 @@ components:
   - title: Документи
     notMain: true
     order:
+      - title: Генеральний план села Широке
+        url: 'https://shtg.gov.ua/genplan-Shyroke'
+        buttonText: Детально
       - title: Генеральний план селища Сонячне
         url: 'https://shtg.gov.ua/genplan-Sonyachne'
         buttonText: Детально
