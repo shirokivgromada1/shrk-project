@@ -5,7 +5,8 @@ components:
     order:
       - title: Схема існуючих планувальних обмежень
         link: /uploads/Scheme of existing planning restrictions_Zelenopillya.pdf
-      - {}
+      - title: Схема проєктних планувальних обмежень
+        link: /uploads/Scheme of project planning restrictions_Zelenopillya.pdf
       - {}
       - {}
       - {}
