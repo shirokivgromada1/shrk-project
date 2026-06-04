@@ -19,7 +19,8 @@ components:
         link: /uploads/Zoning plan of the Lukasheve territory.pdf
       - title: ' Пояснювальна записка до генерального плану'
         link: /uploads/Explanatory note to the Lukashevo master plan.pdf
-      - {}
+      - title: Основні положення до генерального плану
+        link: /uploads/Main provisions of the Lukashevo master plan.pdf
       - {}
     _template: HeadOrders
 ---
