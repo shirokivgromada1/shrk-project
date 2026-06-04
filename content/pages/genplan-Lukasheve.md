@@ -17,7 +17,8 @@ components:
         link: /uploads/Scheme of engineering preparation and protection of the Lukasheve territory.pdf
       - title: ' План зонування території'
         link: /uploads/Zoning plan of the Lukasheve territory.pdf
-      - {}
+      - title: ' Пояснювальна записка до генерального плану'
+        link: /uploads/Explanatory note to the Lukashevo master plan.pdf
       - {}
       - {}
     _template: HeadOrders
