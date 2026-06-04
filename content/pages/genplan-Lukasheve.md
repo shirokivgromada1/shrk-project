@@ -15,7 +15,8 @@ components:
         link: /uploads/Scheme of engineering equipment of the Lukashevo territory.pdf
       - title: Схема інженерної підготовки та захисту території
         link: /uploads/Scheme of engineering preparation and protection of the Lukasheve territory.pdf
-      - {}
+      - title: ' План зонування території'
+        link: /uploads/Zoning plan of the Lukasheve territory.pdf
       - {}
       - {}
       - {}
