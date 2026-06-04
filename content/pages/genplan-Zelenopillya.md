@@ -19,7 +19,8 @@ components:
         link: /uploads/Explanatory note to the master plan_Zelenopillya.pdf
       - title: Основні положення до генерального плану
         link: /uploads/Main provisions of the general plan_Zelenopillya.pdf
-      - {}
+      - title: ' Пояснювальна записка до плану зонування'
+        link: /uploads/Explanatory note to the zoning plan_Zelenopillya.pdf
     _template: HeadOrders
 ---
 
