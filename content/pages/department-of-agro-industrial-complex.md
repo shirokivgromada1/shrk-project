@@ -45,6 +45,9 @@ components:
   - title: Документи
     notMain: true
     order:
+      - title: Генеральний план села Зеленопілля
+        url: 'https://shtg.gov.ua/genplan-Zelenopillya'
+        buttonText: Детально
       - title: Генеральний план селища Відрадне
         url: 'https://shtg.gov.ua/genplan-Vidradne'
       - title: Генеральний план села Августинівка
