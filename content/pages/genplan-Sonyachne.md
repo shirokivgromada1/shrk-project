@@ -7,7 +7,8 @@ components:
         link: /uploads/Location map of the settlement of Sonyachne.pdf
       - title: ' План існуючого використання території'
         link: /uploads/Plan of the existing use of the Sonyachne territory.pdf
-      - {}
+      - title: ' Схема існуючих планувальних обмежень'
+        link: /uploads/Scheme of existing planning restrictions Sonyachne.pdf
       - {}
       - {}
       - {}
