@@ -3,8 +3,12 @@ title: implementation of the budget 2025
 components:
   - title: 'Виконання бюджету '
     order:
-      - title: інформація про виконання місцевого бюджету за січень-квітень 2026 року
+      - title: Інформація про виконання місцевого бюджету за січень-травень 2026 року
+        link: /uploads/Information on the execution of the local budget for January-May 2026_01062026.xlsx
+      - title: Інформація про виконання місцевого бюджету за січень-квітень 2026 року
         link: /uploads/information on the execution of the local budget for January-April 2026 01062026.xlsx
+      - title: Додатки до інформації про виконання бюджету за 1 кв 2026 року
+        link: /uploads/annexes to the information on budget execution for Q1 2026.xlsx
       - title: Звіт про виконання бюджету за 1 квартал 2026 року
         link: /uploads/Budget execution report for the 1st quarter of 2026_01062026.doc
       - title: Рішення виконкому від 02.04.2026 № 97 Про розгляд  звіту про виконання бюджету за 1 квартал 2026 р
