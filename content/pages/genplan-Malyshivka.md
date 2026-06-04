@@ -15,7 +15,8 @@ components:
         link: /uploads/Scheme of engineering equipment of the Malyshivka territory.pdf
       - title: ' Схема інженерної підготовки та захисту території'
         link: /uploads/Scheme of engineering preparation and protection of the Malyshivka territory.pdf
-      - {}
+      - title: План зонування території
+        link: /uploads/Zoning plan of the Malyshivka territory.pdf
       - {}
     _template: HeadOrders
 ---
