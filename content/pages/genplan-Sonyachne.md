@@ -13,7 +13,8 @@ components:
         link: /uploads/Master plan main drawing Sonyachne.pdf
       - title: Схема проєктних планувальних обмежень
         link: /uploads/Scheme of project planning restrictions Sonyachne.pdf
-      - {}
+      - title: 'Схема вулично-дорожньої мережі, міського (сільського) та зовнішнього транспорту'
+        link: /uploads/Scheme of the street and road network of Sonyachne.pdf
       - {}
       - {}
       - {}
