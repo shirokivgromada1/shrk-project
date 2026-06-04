@@ -5,7 +5,8 @@ components:
     order:
       - title: інформація про виконання місцевого бюджету за січень-квітень 2026 року
         link: /uploads/information on the execution of the local budget for January-April 2026 01062026.xlsx
-      - {}
+      - title: Звіт про виконання бюджету за 1 квартал 2026 року
+        link: /uploads/Budget execution report for the 1st quarter of 2026_01062026.doc
       - {}
       - {}
       - title: Інформація про виконання місцевого бюджету за січень-лютий 2026 року
