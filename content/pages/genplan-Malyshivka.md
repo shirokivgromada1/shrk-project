@@ -17,7 +17,8 @@ components:
         link: /uploads/Scheme of engineering preparation and protection of the Malyshivka territory.pdf
       - title: План зонування території
         link: /uploads/Zoning plan of the Malyshivka territory.pdf
-      - {}
+      - title: Пояснювальна записка до генерального плану
+        link: /uploads/Explanatory note to the Malyshivka master plan.doc
     _template: HeadOrders
 ---
 
