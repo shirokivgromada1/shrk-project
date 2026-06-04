@@ -11,8 +11,10 @@ components:
         link: /uploads/Master plan basic drawing Shyroke.pdf
       - title: 'Схема вулично-дорожньої мережі, міського (сільського) та зовнішнього транспорту'
         link: /uploads/Street and road network diagram_Shyroke.pdf
-      - {}
-      - {}
+      - title: Схема інженерного обладнання території
+        link: /uploads/Scheme of engineering equipment of the territory_Shyroke.pdf
+      - title: ' Схема інженерної підготовки та захисту території'
+        link: /uploads/Scheme of engineering preparation and protection of the territory_Shyroke.pdf
       - {}
       - {}
       - {}
