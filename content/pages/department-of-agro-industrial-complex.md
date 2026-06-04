@@ -50,6 +50,7 @@ components:
         buttonText: Детально
       - title: Генеральний план селища Відрадне
         url: 'https://shtg.gov.ua/genplan-Vidradne'
+        buttonText: Детально
       - title: Генеральний план села Августинівка
         url: 'https://shtg.gov.ua/genplan-Augustynivka'
       - title: Рішення №45 Про розгляд та затвердження проєкту містобудівної документації «Генеральний план села Придніпровське Запорізького району Запорізької області»
