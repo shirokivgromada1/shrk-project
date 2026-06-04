@@ -3,6 +3,8 @@ title: budget-program-passports
 components:
   - title: ' Паспорти бюджетних програм'
     order:
+      - title: Наказ  № 13 од  від 12.05.2026 КПК 16
+        link: /uploads/Order No. 13 of 12.05.2026 CPC 16.docx
       - title: Наказ № 7 від 11.05.2026  КПК 37
         link: /uploads/Order No. 7 of 11.05.2026 CPC 37.docx
       - title: Паспорт бюджетної програми на 2026 рік КПКВК 0112151 -  зміни 02.04.2026
