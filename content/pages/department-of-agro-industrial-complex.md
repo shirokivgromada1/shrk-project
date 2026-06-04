@@ -45,6 +45,9 @@ components:
   - title: Документи
     notMain: true
     order:
+      - title: Генеральний план села Лукашеве
+        url: 'https://shtg.gov.ua/genplan-Lukasheve'
+        buttonText: Детально
       - title: Генеральний план села Зеленопілля
         url: 'https://shtg.gov.ua/genplan-Zelenopillya'
         buttonText: Детально
