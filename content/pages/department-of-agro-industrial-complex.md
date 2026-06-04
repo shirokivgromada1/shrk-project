@@ -45,7 +45,9 @@ components:
   - title: Документи
     notMain: true
     order:
-      - url: 'https://shtg.gov.ua/genplan-Sonyachne'
+      - title: Генеральний план селища Сонячне
+        url: 'https://shtg.gov.ua/genplan-Sonyachne'
+        buttonText: Детально
       - title: Генеральний план села Малишівка
         url: 'https://shtg.gov.ua/genplan-Malyshivka'
       - title: Генеральний план села Лукашеве
