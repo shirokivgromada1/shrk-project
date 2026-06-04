@@ -19,7 +19,8 @@ components:
         link: /uploads/Zoning plan of the territory_Shyroke.pdf
       - title: Пояснювальна записка до генерального плану
         link: /uploads/Explanatory note to the master plan_Shyroke.pdf
-      - {}
+      - title: Основні положення до генерального плану
+        link: /uploads/Main provisions of the master plan_Shyroke.pdf
       - {}
     _template: HeadOrders
 ---
