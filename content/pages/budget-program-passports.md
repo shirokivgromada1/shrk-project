@@ -3,6 +3,8 @@ title: budget-program-passports
 components:
   - title: ' Паспорти бюджетних програм'
     order:
+      - title: Наказ № 7 від 11.05.2026  КПК 37
+        link: /uploads/Order No. 7 of 11.05.2026 CPC 37.docx
       - title: Паспорт бюджетної програми на 2026 рік КПКВК 0112151 -  зміни 02.04.2026
         link: /uploads/Passport of the budget program for 2026 KPKVK 0112151 - changes 02.04.2026.xlsx
       - title: Паспорт бюджетної програми на 2026 рік КПКВК 0111021 -  зміни 02.04.2026
