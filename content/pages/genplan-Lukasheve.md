@@ -13,7 +13,8 @@ components:
         link: /uploads/Street and road network diagram of Lukasheve.pdf
       - title: Схема інженерного обладнання території
         link: /uploads/Scheme of engineering equipment of the Lukashevo territory.pdf
-      - {}
+      - title: Схема інженерної підготовки та захисту території
+        link: /uploads/Scheme of engineering preparation and protection of the Lukasheve territory.pdf
       - {}
       - {}
       - {}
