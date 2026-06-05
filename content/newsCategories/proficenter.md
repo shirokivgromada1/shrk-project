@@ -1,4 +1,4 @@
 ---
-category: proficenter
+category: Профі-центр
 ---
 
