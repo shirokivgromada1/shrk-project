@@ -17,6 +17,9 @@ components:
       - serviceTitle: Твоя думка важлива!
         serviceTitleEng: Your opinion matters!
         serviceLink: 'https://docs.google.com/forms/d/e/1FAIpQLSduVk8RtbhNY_F_xjGJL49l2y_4j8PrEFbuN-2OAdT6NQ4KnQ/viewform'
+      - serviceTitle: Профорієнтаційне Опитування
+        serviceTitleEng: Career Guidance Survey
+        serviceLink: 'https://docs.google.com/forms/d/e/1FAIpQLSd9WgUJ5uKCpHJDSATEahmSq5SdlFV4JS5ltOY2OLYq9KHAQQ/viewform?usp=header'
     _template: services
 ---
 
