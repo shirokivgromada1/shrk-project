@@ -14,6 +14,9 @@ components:
       - serviceTitle: 'Вхідне анкетне опитування для молоді '
         serviceTitleEng: Initial Survey for Youth
         serviceLink: 'https://docs.google.com/forms/d/e/1FAIpQLScaCO43nlYpKSPok3xtiC7f2uy5JmYxpjKVkhZVjA7TDXR_tg/viewform '
+      - serviceTitle: Твоя думка важлива!
+        serviceTitleEng: Your opinion matters!
+        serviceLink: 'https://docs.google.com/forms/d/e/1FAIpQLSduVk8RtbhNY_F_xjGJL49l2y_4j8PrEFbuN-2OAdT6NQ4KnQ/viewform'
     _template: services
 ---
 
