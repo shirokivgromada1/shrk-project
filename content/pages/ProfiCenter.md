@@ -9,5 +9,11 @@ components:
       - category: content/newsCategories/proficenter.md
         variantNews: '1'
     _template: newsSections
+  - title: ''
+    service:
+      - serviceTitle: 'Вхідне анкетне опитування для молоді '
+        serviceTitleEng: Initial Survey for Youth
+        serviceLink: 'https://docs.google.com/forms/d/e/1FAIpQLScaCO43nlYpKSPok3xtiC7f2uy5JmYxpjKVkhZVjA7TDXR_tg/viewform '
+    _template: services
 ---
 
