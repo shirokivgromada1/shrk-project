@@ -13,6 +13,14 @@ components:
     employment:
       title: Кар'єрний радник
       titleEng: Career Counselor
+    contacts:
+      title: Номер телефону
+      titleEng: Phone number
+      phone1: '+380669479204'
+      phone1Eng: '+380669479204'
+      place: с. Петропіль
+      placeEng: Petropil village
+      facebook: 'https://www.facebook.com/alena.volkova.3382'
     _template: CouncilSecretaryDesc
   - newsSection:
       - category: content/newsCategories/proficenter.md
