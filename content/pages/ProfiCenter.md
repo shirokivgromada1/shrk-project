@@ -5,6 +5,15 @@ components:
     desc: |
       Профі-центр  – це ваш сучасний простір для визначення професійного спрямування та успішного входження на ринок праці. Доступні кар’єрні, психологічні, юридичні консультації, практичні тренінги та воркшопи, які допоможуть зрозуміти куди рухатися далі.
     _template: SocialProtection
+  - title: Кар'єрний радник
+    titleEng: Career Counselor
+    image: /uploads/Дерябіна.png
+    fullname: Альона Дєрябіна
+    fullnameEng: Alyona Deryabina
+    employment:
+      title: Кар'єрний радник
+      titleEng: Career Counselor
+    _template: CouncilSecretaryDesc
   - newsSection:
       - category: content/newsCategories/proficenter.md
         variantNews: '1'
