@@ -12,7 +12,7 @@ components:
     fullnameEng: Alyona Deryabina
     employment:
       title: ''
-      titleEng: Career Counselor
+      titleEng: ''
       item:
         - desc: 'Кар''єрна радниця профі-центру допомагає молоді визначитися з майбутньою професією, оцінити свої здібності та інтереси, скласти кар''єрний план і підготуватися до виходу на ринок праці. Він проводить профорієнтаційні консультації, тренінги та майстер-класи, допомагає створювати резюме, готуватися до співбесід, розвивати необхідні навички та знайомить молодих людей з можливостями навчання, стажування й працевлаштування. Також кар''єрний радник співпрацює з роботодавцями та освітніми закладами, допомагаючи молоді знаходити свій професійний шлях і впевнено будувати кар''єру.'
           descEng: 'A career advisor at a Pro Center helps young people determine their future profession, assess their abilities and interests, develop a career plan, and prepare for entering the labor market. They provide career guidance consultations, trainings, and workshops, help create resumes, prepare for job interviews, develop essential skills, and introduce young people to opportunities for education, internships, and employment. The career advisor also cooperates with employers and educational institutions, helping youth find their professional path and confidently build their careers.'
