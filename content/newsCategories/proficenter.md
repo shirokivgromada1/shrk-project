@@ -1,4 +1,4 @@
 ---
-category: Профі-центр Широківської громади
+category: proficenter
 ---
 
