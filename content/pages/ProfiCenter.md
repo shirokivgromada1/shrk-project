@@ -20,6 +20,9 @@ components:
       - serviceTitle: Профорієнтаційне Опитування
         serviceTitleEng: Career Guidance Survey
         serviceLink: 'https://docs.google.com/forms/d/e/1FAIpQLSd9WgUJ5uKCpHJDSATEahmSq5SdlFV4JS5ltOY2OLYq9KHAQQ/viewform?usp=header'
+      - serviceTitle: вій кар'єрний путівник гайд у доросле життя
+        serviceTitleEng: Your Career Guide to Adult Life
+        serviceLink: 'https://storymaps.arcgis.com/stories/e1068059998943f0939e5e5a5c77d769'
     _template: services
 ---
 
