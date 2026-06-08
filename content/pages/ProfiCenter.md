@@ -44,6 +44,13 @@ components:
         link: /uploads/Digital Face Case Study.pdf
         buttonText: 'Хочу знати! '
     _template: HeadOrders
+  - title: Дізнайся більше про свою цифрову грамотність
+    order:
+      - title: 'Крипта, дропи та безпека: як не злити всі гроші в мережі'
+        link: '/uploads/Крипта,_дропи_як_не_злити_всі_гроші_в_мережу.pdf'
+        buttonText: 'Хочу знати! '
+      - {}
+    _template: HeadOrders
   - newsSection:
       - category: content/newsCategories/proficenter.md
         variantNews: '1'
