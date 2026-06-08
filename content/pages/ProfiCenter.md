@@ -63,7 +63,10 @@ components:
       - category: content/newsCategories/proficenter.md
         variantNews: '1'
     _template: newsSections
-  - title: ''
+  - title: Потрібна ваша допомога!
+    image: /uploads/Gemini_Generated_Image_8x921l8x921l8x92.png
+    _template: Investment
+  - title: Важливе!
     service:
       - serviceTitle: 'Вхідне анкетне опитування для молоді '
         serviceTitleEng: Initial Survey for Youth
