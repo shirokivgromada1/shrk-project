@@ -25,6 +25,13 @@ components:
       placeEng: Petropil village
       facebook: 'https://www.facebook.com/alena.volkova.3382'
     _template: CouncilSecretaryDesc
+  - title: Твій кар'єрний путівник-гайд у доросле життя
+    image: /uploads/Gemini_Generated_Image_fq322afq322afq32.png
+    desc: |
+      Ти зараз на порозі великих змін: вибір професії, перша робота, самостійне життя чи просто бажання навчитися чогось нового — це завжди трохи страшно, але захопливо і надзвичайно важливо. Тут ти знайдеш інформацію, інструменти та можливості, які можуть стати корисними для тебе саме зараз.
+    url: 'https://storymaps.arcgis.com/stories/e1068059998943f0939e5e5a5c77d769'
+    buttonText: Перейти до кар'єрного путівника-гайду у доросле життя
+    _template: ServiceQualitySurvey
   - newsSection:
       - category: content/newsCategories/proficenter.md
         variantNews: '1'
