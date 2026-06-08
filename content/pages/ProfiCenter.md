@@ -37,6 +37,9 @@ components:
       - title: 'Deepfake-детектив: як не дати ШІ себе обманути'
         link: /uploads/Діпфейк.pdf
         buttonText: Дізнатися більше!
+      - title: Використання безкоштовних онлайн-ресурсів для розвитку м'яких та професійних навичок
+        link: /uploads/Використання_безкоштовних_онлайн_ресурсів_для_розвитку_м’яких_і.pdf
+        buttonText: Дізнатися більше!
     _template: HeadOrders
   - newsSection:
       - category: content/newsCategories/proficenter.md
