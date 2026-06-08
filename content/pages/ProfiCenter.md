@@ -40,6 +40,9 @@ components:
       - title: Використання безкоштовних онлайн-ресурсів для розвитку м'яких та професійних навичок
         link: /uploads/Використання_безкоштовних_онлайн_ресурсів_для_розвитку_м’яких_і.pdf
         buttonText: Дізнатися більше!
+      - title: 'Digitlal Face. Як почистити свій цифровий слід до того, як його знайде рекрутер.'
+        link: /uploads/Digital Face Case Study.pdf
+        buttonText: 'Дізнатися більше! '
     _template: HeadOrders
   - newsSection:
       - category: content/newsCategories/proficenter.md
