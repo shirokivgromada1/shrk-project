@@ -42,7 +42,7 @@ components:
         buttonText: Дізнатися більше!
       - title: 'Digitlal Face. Як почистити свій цифровий слід до того, як його знайде рекрутер.'
         link: /uploads/Digital Face Case Study.pdf
-        buttonText: 'Дізнатися більше! '
+        buttonText: 'Хочу знати! '
     _template: HeadOrders
   - newsSection:
       - category: content/newsCategories/proficenter.md
