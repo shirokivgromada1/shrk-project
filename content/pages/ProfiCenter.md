@@ -53,6 +53,12 @@ components:
         link: /uploads/Співбесіда21236546.pdf
         buttonText: Хочу знати!
     _template: HeadOrders
+  - title: Інструменти для створення резюме
+    order:
+      - title: Як створити резюме
+        link: /uploads/Створення резюме.pdf
+        buttonText: Хочу дізнатися!
+    _template: HeadOrders
   - newsSection:
       - category: content/newsCategories/proficenter.md
         variantNews: '1'
