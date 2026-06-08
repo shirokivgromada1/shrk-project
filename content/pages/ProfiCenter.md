@@ -32,6 +32,12 @@ components:
     url: 'https://storymaps.arcgis.com/stories/e1068059998943f0939e5e5a5c77d769'
     buttonText: Перейти до кар'єрного путівника-гайду у доросле життя
     _template: ServiceQualitySurvey
+  - title: Інструменти для самонавчання
+    order:
+      - title: 'Deepfake-детектив: як не дати ШІ себе обманути'
+        link: /uploads/Діпфейк.pdf
+        buttonText: Дізнатися більше!
+    _template: HeadOrders
   - newsSection:
       - category: content/newsCategories/proficenter.md
         variantNews: '1'
