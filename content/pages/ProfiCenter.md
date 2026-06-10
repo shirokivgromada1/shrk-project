@@ -14,7 +14,7 @@ components:
       title: ''
       titleEng: ''
       item:
-        - desc: 'Кар''єрна радниця профі-центру допомагає молоді визначитися з майбутньою професією, оцінити свої здібності та інтереси, скласти кар''єрний план і підготуватися до виходу на ринок праці. Він проводить профорієнтаційні консультації, тренінги та майстер-класи, допомагає створювати резюме, готуватися до співбесід, розвивати необхідні навички та знайомить молодих людей з можливостями навчання, стажування й працевлаштування. Також кар''єрний радник співпрацює з роботодавцями та освітніми закладами, допомагаючи молоді знаходити свій професійний шлях і впевнено будувати кар''єру.'
+        - desc: 'Я можу допомогти тобі визначитися з майбутньою професією, оцінити свої здібності та інтереси, скласти кар''єрний план і підготуватися до виходу на ринок праці. Приходь на мої профорієнтаційні консультації, тренінги та майстер-класи, допоможу створити резюме, підготуватися до співбесіди, розвити необхідні навички та відкрию секретні можливості навчання, стажування й працевлаштування. Також я маю контакт з роботодавцями та освітніми закладами, разом ми зможемо знайти твій професійний шлях і ти впевнено почнеш будувати свою кар''єру.'
           descEng: 'A career advisor at a Pro Center helps young people determine their future profession, assess their abilities and interests, develop a career plan, and prepare for entering the labor market. They provide career guidance consultations, trainings, and workshops, help create resumes, prepare for job interviews, develop essential skills, and introduce young people to opportunities for education, internships, and employment. The career advisor also cooperates with employers and educational institutions, helping youth find their professional path and confidently build their careers.'
     contacts:
       title: Номер телефону
@@ -65,6 +65,10 @@ components:
     _template: newsSections
   - title: Потрібна ваша допомога!
     image: /uploads/Gemini_Generated_Image_8x921l8x921l8x92.png
+    firstText: ''
+    firstTextEng: ''
+    secondText: ''
+    secondTextEng: ''
     _template: Investment
   - title: Важливе!
     service:
