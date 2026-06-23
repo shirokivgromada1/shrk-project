@@ -35,6 +35,8 @@ components:
     order:
       - title: 'Форма звіту опікунів '
         link: /uploads/Звіт опікуна (піклувальника).docx
+      - title: Повідомлення  про належне виконання обов’язків опікуна (піклувальника)
+        link: /uploads/Повідомлення про належне виконання обов'язків.docx
       - title: Визнання особи недієздатною
         link: ''
         url: 'https://shtg.gov.ua/news/134acfe25c906cfcf05c03bb5f44fccd68c9aae9'
