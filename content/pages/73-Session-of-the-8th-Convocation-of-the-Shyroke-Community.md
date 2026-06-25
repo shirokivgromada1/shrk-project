@@ -13,8 +13,10 @@ components:
         link: /uploads/Draft decision on the development of a detailed plan of the territory for a separate territory outside the settlement of the village of Shyroke_73session.docx
       - title: Проєкт рішення про стан виконання у 2025 році «Програми соціального захисту населення Широківської сільської територіальної громади «Назустріч людям» на 2023 – 2025 роки»
         link: /uploads/Towards People for 2023-2025_73session.docx
-      - {}
-      - {}
+      - title: Проєкт рішення про внесення змін до Статуту
+        link: /uploads/Draft decision on amendments to the Statute_73session.docx
+      - title: Проєкт рішення про внесення змін до штатних розписів  закладів освіти Широківської сільської  ради
+        link: /uploads/Draft decision on amendments to the staffing lists of educational institutions of the Shyroke Village Council_73project.docx
       - {}
       - {}
       - {}
