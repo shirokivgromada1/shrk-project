@@ -23,7 +23,8 @@ components:
         link: /uploads/Draft decision on the termination of the legal entity - Lukashiv Gymnasium Mriya_73project.docx
       - title: Проєкт рішення про надання дозволу на списання  основних засобів з балансу закладів освіти
         link: /uploads/Draft decision on granting permission to write off fixed assets from the balance sheet of educational institutions_73project.docx
-      - {}
+      - title: Проєкт рішення про утворення філії
+        link: /uploads/Draft decision on the establishment of a branch_Lukasheve_73project.docx
       - {}
       - {}
       - {}
