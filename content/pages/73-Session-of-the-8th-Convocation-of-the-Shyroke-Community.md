@@ -30,6 +30,7 @@ components:
       - title: Проєкт рішення про припинення юридичної особи – Широківської гімназії
         link: /uploads/On the termination of the legal entity - Shyroke Gymnasium_73project.docx
       - title: Проєкт рішення про надання дозволу на списання основних засобів з балансу закладів освіти Широківської сільської ради
+        link: /uploads/Draft decision on granting permission to write off fixed assets from the balance sheet of educational institutions_73project (2).docx
       - {}
       - {}
       - {}
