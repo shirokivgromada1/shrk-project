@@ -9,8 +9,10 @@ components:
         link: /uploads/Draft decision on consideration of the petition of the citizen Kalashnik V.M. regarding the division of a land plot according to its intended purpose_73project.docx
       - title: Проєкт рішення про взяття на баланс об’єктів інфраструктури до комунальної власності територіальної громади Широківської сільської ради Запорізького району Запорізької області
         link: /uploads/Draft decision on taking objects into the balance sheet_73session.docx
-      - {}
-      - {}
+      - title: Проєкт рішення про розроблення детального плану території на окрему територію за межами населеного пункту с. Широке Запорізького району Запорізької області
+        link: /uploads/Draft decision on the development of a detailed plan of the territory for a separate territory outside the settlement of the village of Shyroke_73session.docx
+      - title: Проєкт рішення про стан виконання у 2025 році «Програми соціального захисту населення Широківської сільської територіальної громади «Назустріч людям» на 2023 – 2025 роки»
+        link: /uploads/Towards People for 2023-2025_73session.docx
       - {}
       - {}
       - {}
