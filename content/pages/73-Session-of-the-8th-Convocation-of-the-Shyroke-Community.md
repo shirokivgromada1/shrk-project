@@ -33,9 +33,12 @@ components:
         link: /uploads/Draft decision on granting permission to write off fixed assets from the balance sheet of educational institutions_73project (2).docx
       - title: Проєкт рішення про затвердження технічної документації та передачу у власність земельної ділянки гр. Бородавці В.А.
         link: /uploads/Draft decision on approval of technical documentation and transfer of ownership of the land plot of the town of Borodavtsi to V.A._73project.doc
-      - {}
-      - {}
-      - {}
+      - title: 'Проєкт рішення про передачу у власність земельної ділянки для будівництва і обслуговування житлового будинку, господарських будівель і споруд (присадибна ділянка) гр. Косіку В.М.'
+        link: '/uploads/Draft decision on the transfer of ownership of a land plot for the construction and maintenance of a residential building, outbuildings and structures (homestead plot) to the village of Kosik V.M._73project.doc'
+      - title: Проєкт рішення про затвердження матеріалів нормативної грошової оцінки земельних ділянок несільськогосподарського призначення
+        link: /uploads/On approval of materials for the normative monetary valuation of non-agricultural land plots_73project.doc
+      - title: Проєкт рішення про затвердження проекту землеустрою щодо відведення земельних ділянки в оренду товариству з обмеженою відповідальністю «ОРИС-НИВА ШИРОКЕ»
+        link: /uploads/Draft decision on approval of the land management project for the lease of land plots to the limited liability company ORIS-NYVA SHYROKE_73project.doc
       - {}
       - {}
     _template: HeadOrders
