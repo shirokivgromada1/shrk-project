@@ -19,8 +19,10 @@ components:
         link: /uploads/Draft decision on amendments to the staffing lists of educational institutions of the Shyroke Village Council_73project.docx
       - title: Проєкт рішення про затвердження  меморандуму про співпрацю
         link: /uploads/Draft decision on approval of the memorandum of cooperation_73project.docx
-      - {}
-      - {}
+      - title: Проєкт рішення про припинення юридичної особи – Лукашівської гімназії «Мрія»
+        link: /uploads/Draft decision on the termination of the legal entity - Lukashiv Gymnasium Mriya_73project.docx
+      - title: Проєкт рішення про надання дозволу на списання  основних засобів з балансу закладів освіти
+        link: /uploads/Draft decision on granting permission to write off fixed assets from the balance sheet of educational institutions_73project.docx
       - {}
       - {}
       - {}
