@@ -17,7 +17,8 @@ components:
         link: /uploads/Draft decision on amendments to the Statute_73session.docx
       - title: Проєкт рішення про внесення змін до штатних розписів  закладів освіти Широківської сільської  ради
         link: /uploads/Draft decision on amendments to the staffing lists of educational institutions of the Shyroke Village Council_73project.docx
-      - {}
+      - title: Проєкт рішення про затвердження  меморандуму про співпрацю
+        link: /uploads/Draft decision on approval of the memorandum of cooperation_73project.docx
       - {}
       - {}
       - {}
