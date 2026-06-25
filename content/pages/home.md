@@ -45,7 +45,7 @@ components:
         serviceLink: social-protection
     _template: services
   - newsSection:
-      - category: content/newsCategories/important.md
+      - category: content/newsCategories/community_news.md
         variantNews: '1'
     _template: newsSections
   - title: 'Сплачуй податки за хвилини: Широківська громада + QR-код від ПриватБанку'
