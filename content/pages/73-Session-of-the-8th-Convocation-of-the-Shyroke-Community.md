@@ -39,8 +39,10 @@ components:
         link: /uploads/On approval of materials for the normative monetary valuation of non-agricultural land plots_73project.doc
       - title: Проєкт рішення про затвердження проекту землеустрою щодо відведення земельних ділянки в оренду товариству з обмеженою відповідальністю «ОРИС-НИВА ШИРОКЕ»
         link: /uploads/Draft decision on approval of the land management project for the lease of land plots to the limited liability company ORIS-NYVA SHYROKE_73project.doc
-      - {}
-      - {}
+      - title: Проєкт рішення про надання дозволу на розроблення проекту землеустрою щодо відведення земельної ділянки в оренду для городництва гр. Панової С.В
+        link: /uploads/Draft decision on granting permission to develop a land management project for the lease of a land plot for gardening in the town of Panova S.V._73project.doc
+      - title: 'Проєкт рішення про внесення змін до рішення сесії Широківської сільської ради Запорізького району Запорізької області від 04.12.2025 року № 24 «Про затвердження структури та загальної чисельності працівників апарату Широківської сільської ради та її виконавчого комітету, інших виконавчих органів Широківської сільської ради на 2026 рік»'
+        link: /uploads/Draft decision on amendments to the decision of the session of the Shyroke village council of the Zaporizhia district of the Zaporizhia region dated 04.12.2025 No. 24_73project.docx
     _template: HeadOrders
 ---
 
