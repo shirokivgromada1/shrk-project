@@ -25,8 +25,10 @@ components:
         link: /uploads/Draft decision on granting permission to write off fixed assets from the balance sheet of educational institutions_73project.docx
       - title: Проєкт рішення про утворення філії
         link: /uploads/Draft decision on the establishment of a branch_Lukasheve_73project.docx
-      - {}
-      - {}
+      - title: Проєкт рішення про утворення філії
+        link: /uploads/Draft decision on the establishment of a branch_Shyroke_73project.docx
+      - title: Про припинення юридичної особи – Широківської гімназії
+        link: /uploads/On the termination of the legal entity - Shyroke Gymnasium_73project.docx
       - {}
       - {}
       - {}
