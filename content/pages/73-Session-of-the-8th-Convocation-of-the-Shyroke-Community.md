@@ -31,7 +31,8 @@ components:
         link: /uploads/On the termination of the legal entity - Shyroke Gymnasium_73project.docx
       - title: Проєкт рішення про надання дозволу на списання основних засобів з балансу закладів освіти Широківської сільської ради
         link: /uploads/Draft decision on granting permission to write off fixed assets from the balance sheet of educational institutions_73project (2).docx
-      - {}
+      - title: Проєкт рішення про затвердження технічної документації та передачу у власність земельної ділянки гр. Бородавці В.А.
+        link: /uploads/Draft decision on approval of technical documentation and transfer of ownership of the land plot of the town of Borodavtsi to V.A._73project.doc
       - {}
       - {}
       - {}
