@@ -3,36 +3,23 @@ title: about-the-heroes-of-the-Shyrokivska-community
 components:
   - title: Герої Широківської громади
     image: /uploads/Вічна пам’ять та слава героям.png
-    desc: >
-      # На цій сторінці ми зібрали всіх жителів громади, які віддали своє життя,
-      боронячи Україну від російської агресії
+    desc: |
+      # На цій сторінці ми зібрали всіх жителів громади, які віддали своє життя, боронячи Україну від російської агресії
 
+      Через глибоку особисту чутливість теми втрати рідних на російсько-українській війні, ми з повагою ставимося до рішення кожної родини — ділитися чи не ділитися історією свого Героя.
 
-      Через глибоку особисту чутливість теми втрати рідних на
-      російсько-українській війні, ми з повагою ставимося до рішення кожної
-      родини — ділитися чи не ділитися історією свого Героя.
+      Ми завжди відкриті до того, щоб зберегти пам’ять про військових Широківської громади, які віддали своє життя, боронячи суверенітет та цілісність України.
 
-
-      Ми завжди відкриті до того, щоб зберегти пам’ять про військових
-      Широківської громади, які віддали своє життя, боронячи суверенітет та
-      цілісність України.
-
-
-      Якщо ви відчуваєте внутрішню потребу розповісти про свого рідного, який
-      загинув у цій війні, ми з вдячністю допоможемо опублікувати його історію
-      на нашому сайті.
-
+      Якщо ви відчуваєте внутрішню потребу розповісти про свого рідного, який загинув у цій війні, ми з вдячністю допоможемо опублікувати його історію на нашому сайті.
 
       Зв'яжіться з нами:
 
+      електронна пошта: [shyroke.inform@gmail.com](mailto:shyroke.inform@gmail.com);
 
-      електронна пошта:
-      [shyroke.inform@gmail.com](mailto:shyroke.inform@gmail.com);
-
-
-      гаряча лінія Широківської громади: +38 (067) 612-66-06 (Viber); графік
-      роботи: пн.-пт. з 8:00 до 16:30
+      гаряча лінія Широківської громади: +38 (067) 612-66-06 (Viber); графік роботи: пн.-пт. з 8:00 до 16:30
     links:
+      - title: 'Володимир Москалець, Відрадне'
+        url: 'https://shtg.gov.ua/news/7772cb6b81607ced58939ba6260fa6805c2dd47c'
       - title: 'Олег Кучкін, Лукашеве'
         url: 'https://shtg.gov.ua/news/b56ab14bc9fa56b65d66b70f37a5107e507f6bd5'
       - title: 'Дмитро Дуйловський, Веселе'
@@ -52,17 +39,13 @@ components:
       - title: Сергій Дементьєв
         url: 'https://shtg.gov.ua/news/91f2a21dfa1a37f5e4d886bc742a2eed2a103033'
       - title: 'Олександр Пишньов, Петропіль '
-        url: >-
-          https://shtg.gov.ua/admin/index.html#/~/news/9a8d2e14a57f7128287433ccbd92b15d816993ca
+        url: 'https://shtg.gov.ua/admin/index.html#/~/news/9a8d2e14a57f7128287433ccbd92b15d816993ca'
       - title: 'Степан Мазур, Петропіль'
-        url: >-
-          https://shtg.gov.ua/admin/index.html#/~/news/2076471adc3df3ed4cfd8590fcd06363db26a184
+        url: 'https://shtg.gov.ua/admin/index.html#/~/news/2076471adc3df3ed4cfd8590fcd06363db26a184'
       - title: 'Роман Мельниченко, Новопетрівка '
-        url: >-
-          https://shtg.gov.ua/admin/index.html#/~/news/e8549575a94b24944a62e945fc256f2da6ad6b77
+        url: 'https://shtg.gov.ua/admin/index.html#/~/news/e8549575a94b24944a62e945fc256f2da6ad6b77'
       - title: 'Станіслав Нестерук, Новопетрівка '
-        url: >-
-          https://shtg.gov.ua/admin/index.html#/~/news/dc0f191758dcf04c96543d7c3049a1ffed16c36e
+        url: 'https://shtg.gov.ua/admin/index.html#/~/news/dc0f191758dcf04c96543d7c3049a1ffed16c36e'
       - title: 'Олександр Деденко, Миколай-Поле'
         url: 'https://shtg.gov.ua/news/3d8d49c57e7f6187ee87974ee1dbae4276a93148'
       - title: 'Юрій Буря, Лукашеве '
@@ -96,8 +79,7 @@ components:
       - title: 'Сергій Лозенко, Петропіль '
         url: 'https://shtg.gov.ua/news/364e808a383d2ce03a0582a1825c78b1bde1ea00'
       - title: 'Євгеній Івахненко, Відрадне '
-        url: >-
-          https://shtg.gov.ua/admin/index.html#/~/news/e0b5bcf05590b8a3984c0dfd6b3de6c5387aa890
+        url: 'https://shtg.gov.ua/admin/index.html#/~/news/e0b5bcf05590b8a3984c0dfd6b3de6c5387aa890'
       - title: 'Сергій Діденко, Широке'
         url: 'https://shtg.gov.ua/news/ad8ad91fdacb75bd1d4732cc63ec00574a1db067'
       - title: 'Володимир Піхотенко, Новопетрівка'
@@ -133,13 +115,11 @@ components:
       - title: 'Віктор Кравченко, Широке '
         url: 'https://shtg.gov.ua/news/91aba7c8686b94d2c423afc548ff67c6694eddb1'
       - title: 'Євген Пащенко, Малишівка'
-        url: >-
-          https://shtg.gov.ua/news/a157e1c4d9469727876ed2cf3400b40c0ede7f7Pashenko
+        url: 'https://shtg.gov.ua/news/a157e1c4d9469727876ed2cf3400b40c0ede7f7Pashenko'
       - title: 'Михайло Гремячкін, Широке'
         url: 'https://shtg.gov.ua/news/9790c0d23f5cc9bea07f0e0f9c901d473cd0593a'
       - title: 'Андрій Вовк, Долинівка'
-        url: >-
-          https://shtg.gov.ua/news/9935aed91a0e6ef592960a039c8d15a9cc5a9a69?category=
+        url: 'https://shtg.gov.ua/news/9935aed91a0e6ef592960a039c8d15a9cc5a9a69?category='
       - title: 'Віталій Мосієнко, Миколай-Поле'
         url: 'https://shtg.gov.ua/news/5466e09f413690002f499aeb8fa8ca050c8eb2f5'
       - title: 'Олександр Нестерук , Відрадне '
