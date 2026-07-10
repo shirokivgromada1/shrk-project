@@ -3,6 +3,8 @@ title: Community-budget-2026
 components:
   - title: БЮДЖЕТ ШИРОКІВСЬКОЇ ГРОМАДИ - 2026
     order:
+      - title: Додатки до рішення від 09.06.2026  № 8  Про місцевий бюджет на 2026 рік
+        link: /uploads/Appendices to the decision dated 09.06.2026 No. 8 On the local budget for 2026_budget.xlsx
       - title: Рішення від 09.06.2026 № 8 Про внесення змін до місцевого бюджету на 2026 рік
         link: /uploads/Decision of 09.06.2026 No. 8 On Amendments to the Local Budget for 2026_budget.doc
       - title: Додатки до рішення від 05.05.2026  № 7  Про місцевий бюджет на 2026 рік (дата оприлюднення 08.05.2026)
