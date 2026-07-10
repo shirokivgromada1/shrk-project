@@ -5,7 +5,8 @@ components:
     order:
       - title: Актуальний бюджет громади на 2026 рік (з усіма змінами та доповненнями) станом на 02.07.2026 року (дата оприлюднення 09.07.2026)
         link: '/uploads/Current community budget for 2026 (with all changes and additions) as of July 2, 2026_budget.doc'
-      - {}
+      - title: Додатки до рішення від 02.07.2026  № 2 Про місцевий бюджет на 2026 рік (дата оприлюднення 09.07.2026)
+        link: /uploads/Appendices to the decision dated 02.07.2026 No. 2 On the local budget for 2026_budget.xlsx
       - title: Рішення від 02.07.2026 № 2 Про внесення змін до місцевого бюджету на 2026 рік (дата оприлюднення 09.07.2026)
         link: /uploads/Decision of 02.07.2026 No. 2 On Amendments to the Local Budget for 2026_budget.doc
       - title: Актуальний бюджет громади на 2026 рік (з усіма змінами та доповненнями) станом на 09.06.2026 року (дата оприлюднення 12.06.2026)
