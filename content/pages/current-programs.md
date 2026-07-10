@@ -47,7 +47,8 @@ components:
       - name: Програма підтримки самозабезпечення Широківської сільської територіальної громади харчовими продуктами «Сади Перемоги» на 2026-2028 роки
         date: Рішення №4 від 03 лютого 2026 року
         link: /uploads/PROGRAMS Victory Gardens for 2026-2028 - decision of 03.02.2026 No. 4_Program.docx
-      - {}
+      - name: Додатки до Програми «Сади Перемоги»
+        link: /uploads/Supplements to the “Victory Gardens” Program.doc
       - name: Програма фінансової підтримки комунального підприємства «Благводсервіс Широківської громади» на 2026 рік
         date: Рішення №3 від 03 лютого 2026 року
         link: /uploads/decision dated 03.02.2026 No. 3 Financial support program for Blagvodservice for 2026_Programme.rtf
