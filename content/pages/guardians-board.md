@@ -33,6 +33,10 @@ components:
   - title: Документи
     notMain: true
     order:
+      - title: 'ФОРМА: Заява на призначення опікуна за рішенням виконавчого комітету'
+        link: /uploads/Zayava-na-pryznachennya-opikuna-za-rishennyam-vykonavchogo-komitetu (1).docx
+      - {}
+      - {}
       - title: 'Форма звіту опікунів '
         link: /uploads/Звіт опікуна (піклувальника).docx
       - title: Повідомлення  про належне виконання обов’язків опікуна (піклувальника)
