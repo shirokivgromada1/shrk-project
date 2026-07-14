@@ -3,8 +3,10 @@ title: budget-program-passports
 components:
   - title: ' Паспорти бюджетних програм'
     order:
-      - {}
-      - {}
+      - title: 'Паспорт бюджетної програми на 202 рік КПКВК 1610160, 1616030 - зміни 09.06.2026'
+        link: '/uploads/Passport of the budget program for 2026 KPKVK 1610160, 1616030 - changes 09.06.2026.xlsx'
+      - title: Паспорт бюджетної програми на 2026 рік КПКВК 0910160 - зміни 09.06.2026
+        link: /uploads/Passport of the budget program for 2026 KPKVK 0910160 - changes 09.06.2026.xlsx
       - title: Паспорт бюджетної програми на 2026 рік КПКВК 0118240 - зміни 09.06.2026
         link: /uploads/Passport of the budget program for 2026 KPKVK 0118240 - changes 09.06.2026.xlsx
       - title: Паспорт бюджетної програми на 2026 рік КПКВК 0118130 - зміни 09.06.2026
