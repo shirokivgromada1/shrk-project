@@ -3,6 +3,9 @@ title: budget-program-passports
 components:
   - title: ' Паспорти бюджетних програм'
     order:
+      - {}
+      - title: Наказ №16 од від 15.06.2026  Про затвердження та внесення змін  до паспортів бюджетних програм на 2026 рік
+        link: /uploads/passports of budget programs_Order No. 16 of 06152026.docx
       - title: Паспорт бюджетної програми на 2026 рік КПКВК 0111021 -  зміни 05.05.2026
         link: /uploads/Passport of the budget program for 2026 KPKVK 0111021 - changes 05.05.2026.xlsx
       - title: Паспорт бюджетної програми на 2026 рік КПКВК 0110150 -  зміни 05.05.2026
