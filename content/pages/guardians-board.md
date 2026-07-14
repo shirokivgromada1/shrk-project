@@ -37,7 +37,8 @@ components:
         link: /uploads/Zayava-na-pryznachennya-opikuna-za-rishennyam-vykonavchogo-komitetu (1).docx
       - title: 'ФОРМА: Заява на призначення опікуна за рішенням суду'
         link: /uploads/Zayava-pro-pryznachennya-opikuna-za-rishennyam-sudu (1).doc
-      - {}
+      - title: 'ПЕРЕЛІК ДОКУМЕНТІВ  для розгляду питання про призначення опікуна (для суду та виконавчого комітету Широківської сільської ради Запорізького району) '
+        link: /uploads/Board of Trustees_ list of documents for consideration.docx
       - title: 'Форма звіту опікунів '
         link: /uploads/Звіт опікуна (піклувальника).docx
       - title: Повідомлення  про належне виконання обов’язків опікуна (піклувальника)
