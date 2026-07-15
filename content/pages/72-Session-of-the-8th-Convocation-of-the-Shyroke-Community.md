@@ -84,6 +84,7 @@ components:
       - title: Рішення №34
         link: /uploads/decision №34_session72_09062026.docx
       - title: Рішення №35
+        link: /uploads/decision №35_session72_09062026.docx
       - title: Рішення №36
       - {}
       - {}
