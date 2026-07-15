@@ -86,7 +86,8 @@ components:
       - title: Рішення №35
         link: /uploads/decision №35_session72_09062026.docx
       - title: Рішення №36
-      - {}
+        link: /uploads/decision №36_session72_09062026.docx
+      - title: Додатки до рішення № 8
       - {}
     _template: HeadOrders
 ---
