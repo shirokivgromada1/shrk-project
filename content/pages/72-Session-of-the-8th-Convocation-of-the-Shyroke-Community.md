@@ -15,42 +15,43 @@ components:
         link: /uploads/Minutes of the 72nd session of the VIII convocation_session72_02042026.doc
       - title: Поіменне голосування 72 сесії VIII скликання
         link: /uploads/Roll call vote of the 72nd session of the VIII convocation_session72_02042026.docx
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
+      - title: Рішення №1
+        link: /uploads/decision №1_session72_09062026.doc
+      - title: Рішення №2
+      - title: Рішення №3
+      - title: Рішення №4
+      - title: Рішення №5
+      - title: Рішення №6
+      - title: Рішення №7
+      - title: Рішення №8
+      - title: Рішення №9
+      - title: Рішення №10
+      - title: Рішення №11
+      - title: Рішення №12
+      - title: Рішення №13
+      - title: Рішення №14
+      - title: Рішення №15
+      - title: Рішення №16
+      - title: Рішення №17
+      - title: Рішення №18
+      - title: Рішення №19
+      - title: Рішення №20
+      - title: Рішення №21
+      - title: Рішення №22
+      - title: Рішення №23
+      - title: Рішення №24
+      - title: Рішення №25
+      - title: Рішення №26
+      - title: Рішення №27
+      - title: Рішення №28
+      - title: Рішення №29
+      - title: Рішення №30
+      - title: Рішення №31
+      - title: Рішення №32
+      - title: Рішення №33
+      - title: Рішення №34
+      - title: Рішення №35
+      - title: Рішення №36
       - {}
       - {}
     _template: HeadOrders
