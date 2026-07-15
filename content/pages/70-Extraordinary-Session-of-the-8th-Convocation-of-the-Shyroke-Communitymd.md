@@ -34,6 +34,7 @@ components:
       - title: Рішення №9
         link: /uploads/decision №9_session70_02042026.docx
       - title: Рішення №10
+        link: /uploads/decision №10_session70_02042026.docx
       - title: Рішення №11
       - title: Рішення №12
       - title: Рішення №13
