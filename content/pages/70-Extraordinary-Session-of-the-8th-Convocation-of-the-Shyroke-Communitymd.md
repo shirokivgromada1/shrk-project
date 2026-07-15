@@ -50,6 +50,7 @@ components:
       - title: Рішення №17
         link: /uploads/decision №17_session70_02042026.doc
       - title: Рішення №18
+        link: /uploads/decision №18_session70_02042026.docx
       - title: Рішення №19
       - title: Рішення №20
       - title: Рішення №21
