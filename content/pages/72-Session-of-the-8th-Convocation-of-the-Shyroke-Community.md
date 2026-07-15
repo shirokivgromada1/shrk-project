@@ -31,6 +31,8 @@ components:
         link: /uploads/decision №7_session72_09062026.docx
       - title: Рішення №8
         link: /uploads/decision №8_session72_09062026.doc
+      - title: Додатки до рішення № 8
+        link: /uploads/Appendices to Decision No. 8_session72_02042026.xlsx
       - title: Рішення №9
         link: /uploads/decision №9_session72_09062026.docx
       - title: Рішення №10
@@ -87,9 +89,8 @@ components:
         link: /uploads/decision №35_session72_09062026.docx
       - title: Рішення №36
         link: /uploads/decision №36_session72_09062026.docx
-      - title: Додатки до рішення № 8
-        link: /uploads/Appendices to Decision No. 8_session72_02042026.xlsx
-      - {}
+      - title: Додаток до рішення № 20
+        link: /uploads/Appendix to Decision No. 20_session72_09062026.docx
     _template: HeadOrders
 ---
 
