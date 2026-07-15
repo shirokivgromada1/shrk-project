@@ -5,7 +5,8 @@ components:
     order:
       - title: 'Декларація про перелік товарів, що визнані гум. допомогою'
         link: /uploads/Declaration on the list of goods recognized as rubber aid_session70_02042026.pdf
-      - {}
+      - title: Договір дарування від 10.03.2026
+        link: /uploads/Donation agreement dated 10.03.2026_session70_02042026.pdf
       - title: Протокол сумісного засідання від 02.04.2026
         link: /uploads/Minutes of the joint meeting of 02.04.2026.docx
       - title: Порядок денний 70 позачергової сесії VIII скликання
