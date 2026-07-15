@@ -88,6 +88,7 @@ components:
       - title: Рішення №36
         link: /uploads/decision №36_session72_09062026.docx
       - title: Додатки до рішення № 8
+        link: /uploads/Appendices to Decision No. 8_session72_02042026.xlsx
       - {}
     _template: HeadOrders
 ---
