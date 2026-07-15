@@ -64,7 +64,7 @@ components:
         link: /uploads/decision №24_session70_02042026.docx
       - title: Рішення №25 Про передачу майна комунальної власності
         link: /uploads/decision №25_session70_02042026.docx
-      - title: Рішення №26
+      - title: Рішення №26 Про прийняття гуманітарної допомоги
         link: /uploads/decision №26_session70_02042026.docx
       - title: Рішення №27
         link: /uploads/decision №27_session70_02042026.docx
