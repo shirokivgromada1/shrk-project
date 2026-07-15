@@ -41,7 +41,7 @@ components:
         link: /uploads/decision №12_session70_02042026.docx
       - title: Рішення №13 Про затвердження меморандуму про наміри щодо співпраці й партнерства
         link: /uploads/decision №13_session70_02042026.docx
-      - title: Рішення №14
+      - title: Рішення №14 Про затвердження матеріалів нормативної грошової оцінки земельних ділянок несільськогосподарського призначення
         link: /uploads/decision №14_session70_02042026.doc
       - title: Рішення №15
         link: /uploads/decision №15_session70_02042026.doc
