@@ -72,9 +72,13 @@ components:
       - title: Рішення №28
         link: /uploads/decision №28_session72_09062026.docx
       - title: Рішення №29
+        link: /uploads/decision №29_session72_09062026.docx
       - title: Рішення №30
+        link: /uploads/decision №30_session72_09062026.docx
       - title: Рішення №31
+        link: /uploads/decision №31_session72_09062026.docx
       - title: Рішення №32
+        link: /uploads/decision №32_session72_09062026.docx
       - title: Рішення №33
       - title: Рішення №34
       - title: Рішення №35
