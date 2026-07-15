@@ -32,6 +32,7 @@ components:
       - title: Рішення №8
         link: /uploads/decision №8_session70_02042026.docx
       - title: Рішення №9
+        link: /uploads/decision №9_session70_02042026.docx
       - title: Рішення №10
       - title: Рішення №11
       - title: Рішення №12
