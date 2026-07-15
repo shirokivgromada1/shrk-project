@@ -60,8 +60,11 @@ components:
       - title: Рішення №22
         link: /uploads/decision №22_session72_09062026.doc
       - title: Рішення №23
+        link: /uploads/decision №23_session72_09062026.doc
       - title: Рішення №24
+        link: /uploads/decision №24_session72_09062026.doc
       - title: Рішення №25
+        link: /uploads/decision №25_session72_09062026.doc
       - title: Рішення №26
       - title: Рішення №27
       - title: Рішення №28
