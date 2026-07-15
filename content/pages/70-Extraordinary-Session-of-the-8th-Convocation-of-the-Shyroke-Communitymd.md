@@ -31,7 +31,7 @@ components:
         link: /uploads/decision №7_session70_02042026.docx
       - title: Рішення №8 Про встановлення права узуфрукта комунального майна Петропільському ліцею Широківської сільської ради Запорізького району Запорізької області
         link: /uploads/decision №8_session70_02042026.docx
-      - title: Рішення №9
+      - title: Рішення №9 Про прийняття гуманітарної допомоги
         link: /uploads/decision №9_session70_02042026.docx
       - title: Рішення №10
         link: /uploads/decision №10_session70_02042026.docx
