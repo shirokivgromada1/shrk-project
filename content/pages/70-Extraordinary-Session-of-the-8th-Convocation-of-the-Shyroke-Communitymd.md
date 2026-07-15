@@ -3,7 +3,8 @@ title: 70-Extraordinary-Session-of-the-8th-Convocation-of-the-Shyroke-Community.
 components:
   - title: 70 сесія VIII скликання Широківської сільської ради
     order:
-      - {}
+      - title: 'Декларація про перелік товарів, що визнані гум. допомогою'
+        link: /uploads/Declaration on the list of goods recognized as rubber aid_session70_02042026.pdf
       - {}
       - title: Протокол сумісного засідання від 02.04.2026
         link: /uploads/Minutes of the joint meeting of 02.04.2026.docx
