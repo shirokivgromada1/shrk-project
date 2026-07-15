@@ -3,10 +3,6 @@ title: 70-Extraordinary-Session-of-the-8th-Convocation-of-the-Shyroke-Community.
 components:
   - title: 70 сесія VIII скликання Широківської сільської ради
     order:
-      - title: 'Декларація про перелік товарів, що визнані гум. допомогою'
-        link: /uploads/Declaration on the list of goods recognized as rubber aid_session70_02042026.pdf
-      - title: Договір дарування від 10.03.2026
-        link: /uploads/Donation agreement dated 10.03.2026_session70_02042026.pdf
       - title: Протокол сумісного засідання від 02.04.2026
         link: /uploads/Minutes of the joint meeting of 02.04.2026.docx
       - title: Порядок денний 70 позачергової сесії VIII скликання
@@ -82,6 +78,10 @@ components:
         link: /uploads/decision №31_session70_02042026.rtf
       - title: Рішення №32 Про встановлення права узуфрукта комунального майна комунальному підприємству «Комунальне сільськогосподарське підприємство «Широке» Широківської сільської ради Запорізького району Запорізької області
         link: /uploads/decision №32_session70_02042026.docx
+      - title: 'Декларація про перелік товарів, що визнані гум. допомогою'
+        link: /uploads/Declaration on the list of goods recognized as rubber aid_session70_02042026.pdf
+      - title: Договір дарування від 10.03.2026
+        link: /uploads/Donation agreement dated 10.03.2026_session70_02042026.pdf
     _template: HeadOrders
 ---
 
