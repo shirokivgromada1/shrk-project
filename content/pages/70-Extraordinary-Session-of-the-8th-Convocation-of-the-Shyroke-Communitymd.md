@@ -63,6 +63,7 @@ components:
       - title: Рішення №24
         link: /uploads/decision №24_session70_02042026.docx
       - title: Рішення №25
+        link: /uploads/decision №25_session70_02042026.docx
       - title: Рішення №26
       - title: Рішення №27
       - title: Рішення №28
