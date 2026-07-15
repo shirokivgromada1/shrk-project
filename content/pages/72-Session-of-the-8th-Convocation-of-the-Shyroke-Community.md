@@ -18,6 +18,7 @@ components:
       - title: Рішення №1
         link: /uploads/decision №1_session72_09062026.doc
       - title: Рішення №2
+        link: /uploads/decision №2_session72_09062026.doc
       - title: Рішення №3
       - title: Рішення №4
       - title: Рішення №5
