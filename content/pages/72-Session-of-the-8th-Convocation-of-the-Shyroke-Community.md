@@ -66,6 +66,7 @@ components:
       - title: Рішення №25
         link: /uploads/decision №25_session72_09062026.doc
       - title: Рішення №26
+        link: /uploads/decision №26_session72_09062026.doc
       - title: Рішення №27
       - title: Рішення №28
       - title: Рішення №29
