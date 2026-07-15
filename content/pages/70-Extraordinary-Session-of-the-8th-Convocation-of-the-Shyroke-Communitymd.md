@@ -22,6 +22,7 @@ components:
       - title: Рішення №3
         link: /uploads/decision №3_session70_02042026.doc
       - title: Рішення №4
+        link: /uploads/decision №4_session70_02042026.docx
       - title: Рішення №5
       - title: Рішення №6
       - title: Рішення №7
