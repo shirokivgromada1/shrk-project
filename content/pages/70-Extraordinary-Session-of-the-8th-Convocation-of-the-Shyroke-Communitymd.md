@@ -39,7 +39,7 @@ components:
         link: /uploads/decision №11_session70_02042026.docx
       - title: Рішення №12 Про затвердження меморандуму про співпрацю
         link: /uploads/decision №12_session70_02042026.docx
-      - title: Рішення №13
+      - title: Рішення №13 Про затвердження меморандуму про наміри щодо співпраці й партнерства
         link: /uploads/decision №13_session70_02042026.docx
       - title: Рішення №14
         link: /uploads/decision №14_session70_02042026.doc
