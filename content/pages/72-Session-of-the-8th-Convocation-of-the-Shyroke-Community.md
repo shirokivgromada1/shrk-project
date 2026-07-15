@@ -24,8 +24,11 @@ components:
       - title: Рішення №4
         link: /uploads/decision №4_session72_09062026.doc
       - title: Рішення №5
+        link: /uploads/decision №5_session72_09062026.doc
       - title: Рішення №6
+        link: /uploads/decision №6_session72_09062026.doc
       - title: Рішення №7
+        link: /uploads/decision №7_session72_09062026.docx
       - title: Рішення №8
       - title: Рішення №9
       - title: Рішення №10
