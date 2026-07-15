@@ -69,9 +69,13 @@ components:
       - title: Рішення №27
         link: /uploads/decision №27_session70_02042026.docx
       - title: Рішення №28
+        link: /uploads/decision №28_session70_02042026.docx
       - title: Рішення №29
+        link: /uploads/decision №29_session70_02042026.docx
       - title: Рішення №30
+        link: /uploads/decision №30_session70_02042026.docx
       - title: Рішення №31
+        link: /uploads/decision №31_session70_02042026.rtf
       - title: Рішення №32
     _template: HeadOrders
 ---
