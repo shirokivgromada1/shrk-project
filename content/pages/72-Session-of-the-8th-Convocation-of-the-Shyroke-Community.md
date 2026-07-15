@@ -36,6 +36,7 @@ components:
       - title: Рішення №10
         link: /uploads/decision №10_session72_09062026.docx
       - title: Рішення №11
+        link: /uploads/decision №11_session72_09062026.docx
       - title: Рішення №12
       - title: Рішення №13
       - title: Рішення №14
