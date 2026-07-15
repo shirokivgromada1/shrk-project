@@ -35,7 +35,7 @@ components:
         link: /uploads/decision №9_session70_02042026.docx
       - title: Рішення №10 Про надання дозволу на списання майна
         link: /uploads/decision №10_session70_02042026.docx
-      - title: Рішення №11
+      - title: Рішення №11 Про затвердження меморандуму  з Благодійною організацією  «Благодійний фонд «Архангел 2014»
         link: /uploads/decision №11_session70_02042026.docx
       - title: Рішення №12
         link: /uploads/decision №12_session70_02042026.docx
