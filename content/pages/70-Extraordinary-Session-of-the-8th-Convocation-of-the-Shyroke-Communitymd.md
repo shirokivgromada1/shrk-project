@@ -19,7 +19,7 @@ components:
         link: /uploads/decision №1_session70_02042026.docx
       - title: Рішення №2 Про внесення змін та доповнень до Програми висвітлення діяльності Широківської сільської ради Запорізького району Запорізької області та її виконавчих органів друкованими засобами масової інформації на 2025-2029 роки
         link: /uploads/decision №2_session70_02042026.docx
-      - title: Рішення №3
+      - title: Рішення №3 Про внесення змін і доповнень до рішення сільської ради від 04.12.2025 року      № 23 «Про бюджет Широківської сільської територіальної громади на 2026 рік» (зі змінами та доповненнями)
         link: /uploads/decision №3_session70_02042026.doc
       - title: Рішення №4
         link: /uploads/decision №4_session70_02042026.docx
@@ -77,6 +77,7 @@ components:
       - title: Рішення №31
         link: /uploads/decision №31_session70_02042026.rtf
       - title: Рішення №32
+        link: /uploads/decision №32_session70_02042026.docx
     _template: HeadOrders
 ---
 
