@@ -35,7 +35,7 @@ components:
         link: /uploads/Appendices to Decision No. 8_session72_02042026.xlsx
       - title: 'Рішення №9 Про надання дозволу на списання кредиторської заборгованості, строк позовної давності якої минув'
         link: /uploads/decision №9_session72_09062026.docx
-      - title: Рішення №10
+      - title: Рішення №10 Про передачу вартості проведеної реконструкції закладам освіти Запорізького району Запорізької області
         link: /uploads/decision №10_session72_09062026.docx
       - title: Рішення №11
         link: /uploads/decision №11_session72_09062026.docx
