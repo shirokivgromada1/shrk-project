@@ -54,8 +54,11 @@ components:
       - title: Рішення №19
         link: /uploads/decision №19_session70_02042026.docx
       - title: Рішення №20
+        link: /uploads/decision №20_session70_02042026.doc
       - title: Рішення №21
+        link: /uploads/decision №21_session70_02042026.doc
       - title: Рішення №22
+        link: /uploads/decision №22_session70_02042026.doc
       - title: Рішення №23
       - title: Рішення №24
       - title: Рішення №25
