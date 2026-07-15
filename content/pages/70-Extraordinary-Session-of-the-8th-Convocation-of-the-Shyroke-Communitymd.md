@@ -47,7 +47,7 @@ components:
         link: /uploads/decision №15_session70_02042026.doc
       - title: Рішення №16 Про затвердження технічної документації та передачу у власність земельної ділянки гр. Дмитренко І.О.
         link: /uploads/decision №16_session70_02042026.doc
-      - title: Рішення №17
+      - title: Рішення №17 Про затвердження технічної документації та передачу у власність земельної ділянки гр. Піхотенко А.Ю.
         link: /uploads/decision №17_session70_02042026.doc
       - title: Рішення №18
         link: /uploads/decision №18_session70_02042026.docx
