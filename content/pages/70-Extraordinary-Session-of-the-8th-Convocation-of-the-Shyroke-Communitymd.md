@@ -62,7 +62,7 @@ components:
       - title: Рішення №23
       - title: Рішення №24
         link: /uploads/decision №24_session70_02042026.docx
-      - title: Рішення №25
+      - title: Рішення №25 Про передачу майна комунальної власності
         link: /uploads/decision №25_session70_02042026.docx
       - title: Рішення №26
         link: /uploads/decision №26_session70_02042026.docx
