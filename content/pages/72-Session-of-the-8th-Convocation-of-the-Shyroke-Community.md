@@ -33,7 +33,7 @@ components:
         link: /uploads/decision №8_session72_09062026.doc
       - title: Додатки до рішення № 8
         link: /uploads/Appendices to Decision No. 8_session72_02042026.xlsx
-      - title: Рішення №9
+      - title: 'Рішення №9 Про надання дозволу на списання кредиторської заборгованості, строк позовної давності якої минув'
         link: /uploads/decision №9_session72_09062026.docx
       - title: Рішення №10
         link: /uploads/decision №10_session72_09062026.docx
