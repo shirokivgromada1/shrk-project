@@ -30,7 +30,9 @@ components:
       - title: Рішення №7
         link: /uploads/decision №7_session72_09062026.docx
       - title: Рішення №8
+        link: /uploads/decision №8_session72_09062026.doc
       - title: Рішення №9
+        link: /uploads/decision №9_session72_09062026.docx
       - title: Рішення №10
       - title: Рішення №11
       - title: Рішення №12
