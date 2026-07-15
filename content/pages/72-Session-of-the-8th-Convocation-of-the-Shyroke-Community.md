@@ -13,7 +13,8 @@ components:
         link: /uploads/72nd session Minutes of the joint meeting of 09.06.2026_session72_02042026.docx
       - title: Протокол 72 сесії VIII скликання
         link: /uploads/Minutes of the 72nd session of the VIII convocation_session72_02042026.doc
-      - {}
+      - title: Поіменне голосування 72 сесії VIII скликання
+        link: /uploads/Roll call vote of the 72nd session of the VIII convocation_session72_02042026.docx
       - {}
       - {}
       - {}
