@@ -15,7 +15,7 @@ components:
         link: /uploads/Minutes of the 72nd session of the VIII convocation_session72_02042026.doc
       - title: Поіменне голосування 72 сесії VIII скликання
         link: /uploads/Roll call vote of the 72nd session of the VIII convocation_session72_02042026.docx
-      - title: Рішення №1
+      - title: Рішення №1 Про затвердження звіту про виконання фінансового плану комунального некомерційного підприємства «Клініка «Сімейний лікар» Широківської сільської ради Запорізького району Запорізької області за І квартал 2026 року
         link: /uploads/decision №1_session72_09062026.doc
       - title: Рішення №2
         link: /uploads/decision №2_session72_09062026.doc
@@ -57,6 +57,8 @@ components:
         link: /uploads/decision №19_session72_09062026.docx
       - title: Рішення №20
         link: /uploads/decision №20_session72_09062026.docx
+      - title: Додаток до рішення № 20
+        link: /uploads/Appendix to Decision No. 20_session72_09062026.docx
       - title: Рішення №21
         link: /uploads/decision №21_session72_09062026.docx
       - title: Рішення №22
@@ -89,8 +91,6 @@ components:
         link: /uploads/decision №35_session72_09062026.docx
       - title: Рішення №36
         link: /uploads/decision №36_session72_09062026.docx
-      - title: Додаток до рішення № 20
-        link: /uploads/Appendix to Decision No. 20_session72_09062026.docx
     _template: HeadOrders
 ---
 
