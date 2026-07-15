@@ -80,7 +80,9 @@ components:
       - title: Рішення №32
         link: /uploads/decision №32_session72_09062026.docx
       - title: Рішення №33
+        link: /uploads/decision №33_session72_09062026.docx
       - title: Рішення №34
+        link: /uploads/decision №34_session72_09062026.docx
       - title: Рішення №35
       - title: Рішення №36
       - {}
