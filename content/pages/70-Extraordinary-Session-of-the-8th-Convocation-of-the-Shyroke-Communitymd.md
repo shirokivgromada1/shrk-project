@@ -42,6 +42,7 @@ components:
       - title: Рішення №13
         link: /uploads/decision №13_session70_02042026.docx
       - title: Рішення №14
+        link: /uploads/decision №14_session70_02042026.doc
       - title: Рішення №15
       - title: Рішення №16
       - title: Рішення №17
