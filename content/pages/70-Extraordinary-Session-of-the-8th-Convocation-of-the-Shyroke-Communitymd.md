@@ -66,7 +66,7 @@ components:
         link: /uploads/decision №25_session70_02042026.docx
       - title: Рішення №26 Про прийняття гуманітарної допомоги
         link: /uploads/decision №26_session70_02042026.docx
-      - title: Рішення №27
+      - title: Рішення №27 Про впорядкування оренди комунального майна
         link: /uploads/decision №27_session70_02042026.docx
       - title: Рішення №28
         link: /uploads/decision №28_session70_02042026.docx
