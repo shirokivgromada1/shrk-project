@@ -42,7 +42,9 @@ components:
       - title: Рішення №13
         link: /uploads/decision №13_session72_09062026.docx
       - title: Рішення №14
+        link: /uploads/decision №14_session72_09062026.docx
       - title: Рішення №15
+        link: /uploads/decision №15_session72_09062026.docx
       - title: Рішення №16
       - title: Рішення №17
       - title: Рішення №18
