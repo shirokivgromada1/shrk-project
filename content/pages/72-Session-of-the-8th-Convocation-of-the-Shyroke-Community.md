@@ -52,6 +52,7 @@ components:
       - title: Рішення №18
         link: /uploads/decision №18_session72_09062026.docx
       - title: Рішення №19
+        link: /uploads/decision №19_session72_09062026.docx
       - title: Рішення №20
       - title: Рішення №21
       - title: Рішення №22
