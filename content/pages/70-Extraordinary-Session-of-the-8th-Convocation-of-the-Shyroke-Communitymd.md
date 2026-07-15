@@ -24,6 +24,7 @@ components:
       - title: Рішення №4
         link: /uploads/decision №4_session70_02042026.docx
       - title: Рішення №5
+        link: /uploads/decision №5_session70_02042026.docx
       - title: Рішення №6
       - title: Рішення №7
       - title: Рішення №8
