@@ -33,7 +33,7 @@ components:
         link: /uploads/decision №8_session70_02042026.docx
       - title: Рішення №9 Про прийняття гуманітарної допомоги
         link: /uploads/decision №9_session70_02042026.docx
-      - title: Рішення №10
+      - title: Рішення №10 Про надання дозволу на списання майна
         link: /uploads/decision №10_session70_02042026.docx
       - title: Рішення №11
         link: /uploads/decision №11_session70_02042026.docx
