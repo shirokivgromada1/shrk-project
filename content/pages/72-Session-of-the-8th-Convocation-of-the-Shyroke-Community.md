@@ -55,7 +55,7 @@ components:
         link: /uploads/decision №18_session72_09062026.docx
       - title: Рішення №19 Про затвердження меморандуму про співпрацю
         link: /uploads/decision №19_session72_09062026.docx
-      - title: Рішення №20
+      - title: Рішення №20 Про затвердження меморандуму про співробітництво та партнерство
         link: /uploads/decision №20_session72_09062026.docx
       - title: Додаток до рішення № 20
         link: /uploads/Appendix to Decision No. 20_session72_09062026.docx
