@@ -1,7 +1,7 @@
 ---
 title: List-of-decisions-of-the-executive-committee-from-02072026
 components:
-  - title: Виконавчий комітет від 02.07.2026 року №16
+  - title: Виконавчий комітет від 02.07.2026 року №1
     order:
       - title: Перелік рішень засідання виконавчого комітету №16 від 02.07.2026 року
         link: /uploads/List of decisions of the executive committee meeting No. 16 of 02.07.2026.docx
@@ -50,7 +50,9 @@ components:
       - title: Рішення №206
         link: /uploads/decision №206 out of 02.07.2026.docx
       - title: Рішення №207
+        link: /uploads/decision №207 out of 02.07.2026.docx
       - title: Рішення №208
+        link: /uploads/decision №208 out of 02.07.2026.docx
     _template: HeadOrders
 ---
 
