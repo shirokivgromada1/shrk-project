@@ -79,7 +79,7 @@ components:
         link: /uploads/decision №29_session72_09062026.docx
       - title: Рішення №30 Про розподіл благодійної допомоги
         link: /uploads/decision №30_session72_09062026.docx
-      - title: Рішення №31
+      - title: Рішення №31 Про прийняття гуманітарної допомоги
         link: /uploads/decision №31_session72_09062026.docx
       - title: Рішення №32
         link: /uploads/decision №32_session72_09062026.docx
