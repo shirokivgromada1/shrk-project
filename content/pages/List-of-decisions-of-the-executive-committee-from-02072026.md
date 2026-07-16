@@ -42,9 +42,13 @@ components:
       - title: Рішення №202
         link: /uploads/decision №202 out of 02.07.2026.docx
       - title: Рішення №203
+        link: /uploads/decision №203 out of 02.07.2026.docx
       - title: Рішення №204
+        link: /uploads/decision №204 out of 02.07.2026.docx
       - title: Рішення №205
+        link: /uploads/decision №205 out of 02.07.2026.docx
       - title: Рішення №206
+        link: /uploads/decision №206 out of 02.07.2026.docx
       - title: Рішення №207
       - title: Рішення №208
     _template: HeadOrders
