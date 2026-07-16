@@ -27,9 +27,13 @@ components:
       - title: Рішення №166
         link: /uploads/decision №166 out of 04.06.2026.docx
       - title: Рішення №167
+        link: /uploads/decision №167 out of 04.06.2026.docx
       - title: Рішення №168
+        link: /uploads/decision №168 out of 04.06.2026.docx
       - title: Рішення №169
+        link: /uploads/decision №169 out of 04.06.2026.docx
       - title: Рішення №170
+        link: /uploads/decision №170 out of 04.06.2026.docx
       - title: Рішення №171
       - title: Рішення №172
     _template: HeadOrders
