@@ -24,6 +24,7 @@ components:
       - title: Рішення №181
         link: /uploads/decision №181 out of 15.06.2026.docx
       - title: Рішення №182
+        link: /uploads/decision №182 out of 15.06.2026.docx
       - title: Рішення №183
     _template: HeadOrders
 ---
