@@ -40,6 +40,7 @@ components:
       - title: Рішення №201
         link: /uploads/decision №201 out of 02.07.2026.docx
       - title: Рішення №202
+        link: /uploads/decision №202 out of 02.07.2026.docx
       - title: Рішення №203
       - title: Рішення №204
       - title: Рішення №205
