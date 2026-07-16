@@ -6,6 +6,7 @@ components:
       - title: Перелік рішень виконавчого комітету №15 від 15.06.2026 року
         link: /uploads/List of decisions of the executive committee No. 15 of 06152026.docx
       - title: Рішення №173
+        link: /uploads/decision №173 out of 15.06.2026.docx
       - title: Рішення №174
       - title: Рішення №175
       - title: Рішення №176
