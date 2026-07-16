@@ -20,6 +20,7 @@ components:
       - title: Рішення №191
         link: /uploads/decision №191 out of 02.07.2026.docx
       - title: Рішення №192
+        link: /uploads/decision №192 out of 02.07.2026.docx
       - title: Рішення №193
       - title: Рішення №194
       - title: Рішення №195
