@@ -35,6 +35,7 @@ components:
       - title: Рішення №170
         link: /uploads/decision №170 out of 04.06.2026.docx
       - title: Рішення №171
+        link: /uploads/decision №171 out of 04.06.2026.docx
       - title: Рішення №172
     _template: HeadOrders
 ---
