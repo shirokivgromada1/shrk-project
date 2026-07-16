@@ -59,7 +59,7 @@ components:
         link: /uploads/decision №20_session72_09062026.docx
       - title: Додаток до рішення № 20
         link: /uploads/Appendix to Decision No. 20_session72_09062026.docx
-      - title: Рішення №21
+      - title: Рішення №21 Про затвердження меморандумів про співпрацю (співробітництво) з БЛАГОДІЙНОЮ ОРГАНІЗАЦІЄЮ «БЛАГОДІЙНИЙ ФОНД» «ВІРА В УКРАЇНУ
         link: /uploads/decision №21_session72_09062026.docx
       - title: Рішення №22
         link: /uploads/decision №22_session72_09062026.doc
