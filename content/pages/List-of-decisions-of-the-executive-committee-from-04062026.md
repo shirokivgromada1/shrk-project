@@ -7,8 +7,11 @@ components:
       - title: Рішення №156
         link: /uploads/decision №156 out of 04.06.2026.docx
       - title: Рішення №157
+        link: /uploads/decision №157 out of 04.06.2026.docx
       - title: Рішення №158
+        link: /uploads/decision №158 out of 04.06.2026.docx
       - title: Рішення №159
+        link: /uploads/decision №159 out of 04.06.2026.docx
       - title: Рішення №160
       - title: Рішення №161
       - title: Рішення №162
