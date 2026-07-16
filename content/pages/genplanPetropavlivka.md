@@ -15,8 +15,10 @@ components:
         link: /uploads/General plan_Petropavlivka_Scheme of engineering equipment of the territory.pdf
       - title: Схема інженерної підготовки та захисту території
         link: /uploads/General Plan_Petropavlivka_Scheme of Engineering Preparation and Territory Protection.pdf
-      - {}
-      - {}
+      - title: План зонування території
+        link: /uploads/General plan_Petropavlivka_Zoning plan of the territory.pdf
+      - title: Пояснювальна записка до генерального плану с.Петропавлівка
+        link: /uploads/General Plan of Petropavlivka Explanatory note to the general plan of the village of Petropavlivka.pdf
       - {}
     _template: HeadOrders
 ---
