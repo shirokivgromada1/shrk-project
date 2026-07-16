@@ -17,8 +17,11 @@ components:
       - title: Рішення №161
         link: /uploads/decision №161 out of 04.06.2026.docx
       - title: Рішення №162
+        link: /uploads/decision №162 out of 04.06.2026.docx
       - title: Рішення №163
+        link: /uploads/decision №163 out of 04.06.2026.docx
       - title: Рішення №164
+        link: /uploads/decision №164 out of 04.06.2026.docx
       - title: Рішення №165
       - title: Рішення №166
       - title: Рішення №167
