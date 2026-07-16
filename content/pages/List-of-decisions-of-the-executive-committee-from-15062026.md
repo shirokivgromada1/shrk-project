@@ -14,13 +14,15 @@ components:
       - title: Рішення №176
         link: /uploads/decision №176 out of 15.06.2026.docx
       - title: Рішення №177
-        link: /uploads/decision №180 out of 15.06.2026.docx
+        link: /uploads/decision №177 out of 15.06.2026.docx
       - title: Рішення №178
         link: /uploads/decision №178 out of 15.06.2026.docx
       - title: Рішення №179
         link: /uploads/decision №179 out of 15.06.2026.docx
       - title: Рішення №180
+        link: /uploads/decision №180 out of 15.06.2026.docx
       - title: Рішення №181
+        link: /uploads/decision №181 out of 15.06.2026.docx
       - title: Рішення №182
       - title: Рішення №183
     _template: HeadOrders
