@@ -4,6 +4,7 @@ components:
   - title: Виконавчий комітет від 02.07.2026 року №16
     order:
       - title: Перелік рішень засідання виконавчого комітету №16 від 02.07.2026 року
+        link: /uploads/List of decisions of the executive committee meeting No. 16 of 02.07.2026.docx
       - title: Рішення №185
       - title: Рішення №186
       - title: Рішення №187
