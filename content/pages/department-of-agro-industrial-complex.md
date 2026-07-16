@@ -45,6 +45,8 @@ components:
   - title: Документи
     notMain: true
     order:
+      - title: Генеральний план села Петропавлівка
+        url: 'https://shtg.gov.ua/genplanPetropavlivka'
       - title: Генеральний план села Широке
         url: 'https://shtg.gov.ua/genplan-Shyroke'
         buttonText: Детально
