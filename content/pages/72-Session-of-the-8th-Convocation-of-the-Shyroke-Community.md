@@ -47,7 +47,7 @@ components:
         link: /uploads/decision №14_session72_09062026.docx
       - title: Рішення №15 Про внесення змін до  Державного реєстру речових прав  на нерухоме майно
         link: /uploads/decision №15_session72_09062026.docx
-      - title: Рішення №16
+      - title: Рішення №16 Про організацію проєкту «Про співпрацю в рамках консорціуму з реалізації проекту «Берегінія» щодо захисту об’єднаної лінії фронту»
         link: /uploads/decision №16_session72_09062026.docx
       - title: Рішення №17
         link: /uploads/decision №17_session72_09062026.docx
