@@ -53,7 +53,7 @@ components:
         link: /uploads/decision №17_session72_09062026.docx
       - title: Рішення №18 Про надання матеріальної допомоги на лікування мешканцям Широківської сільської ради Запорізького району Запорізької області
         link: /uploads/decision №18_session72_09062026.docx
-      - title: Рішення №19
+      - title: Рішення №19 Про затвердження меморандуму про співпрацю
         link: /uploads/decision №19_session72_09062026.docx
       - title: Рішення №20
         link: /uploads/decision №20_session72_09062026.docx
