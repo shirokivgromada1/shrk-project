@@ -11,7 +11,8 @@ components:
         link: /uploads/General Plan_Petropavlivka_Scheme of existing planning restrictions.pdf
       - title: 'Схема вулично-дорожньої мережі, міського (сільського) та зовнішнього транспорту'
         link: /uploads/General plan_Petropavlivka_Scheme of the street and road network.pdf
-      - {}
+      - title: Схема інженерного обладнання території
+        link: /uploads/General plan_Petropavlivka_Scheme of engineering equipment of the territory.pdf
       - {}
       - {}
       - {}
