@@ -10,7 +10,9 @@ components:
       - title: Рішення №174
         link: /uploads/decision №174 out of 15.06.2026.docx
       - title: Рішення №175
+        link: /uploads/decision №175 out of 15.06.2026.docx
       - title: Рішення №176
+        link: /uploads/decision №176 out of 15.06.2026.docx
       - title: Рішення №177
       - title: Рішення №178
       - title: Рішення №179
