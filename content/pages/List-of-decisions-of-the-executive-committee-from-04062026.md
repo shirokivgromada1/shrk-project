@@ -5,6 +5,7 @@ components:
     order:
       - title: Перелік рішень виконавчого комітету №14 від 04.06.2026 року
       - title: Рішення №156
+        link: /uploads/decision №156 out of 04.06.2026.docx
       - title: Рішення №157
       - title: Рішення №158
       - title: Рішення №159
