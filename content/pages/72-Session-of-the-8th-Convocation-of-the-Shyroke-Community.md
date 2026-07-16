@@ -81,7 +81,7 @@ components:
         link: /uploads/decision №30_session72_09062026.docx
       - title: Рішення №31 Про прийняття гуманітарної допомоги
         link: /uploads/decision №31_session72_09062026.docx
-      - title: Рішення №32
+      - title: Рішення №32 Про прийняття у комунальну власність благодійної допомоги (іншого майна)
         link: /uploads/decision №32_session72_09062026.docx
       - title: Рішення №33
         link: /uploads/decision №33_session72_09062026.docx
