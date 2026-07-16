@@ -24,7 +24,9 @@ components:
       - title: Рішення №193
         link: /uploads/decision №193 out of 02.07.2026.docx
       - title: Рішення №194
+        link: /uploads/decision №194 out of 02.07.2026.docx
       - title: Рішення №195
+        link: /uploads/decision №195 out of 02.07.2026.docx
       - title: Рішення №196
       - title: Рішення №197
       - title: Рішення №198
