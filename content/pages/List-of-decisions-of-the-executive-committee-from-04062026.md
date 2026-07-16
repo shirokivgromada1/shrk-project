@@ -1,7 +1,26 @@
 ---
 title: List-of-decisions-of-the-executive-committee-from-04062026
 components:
-  - title: Розпорядження голови
+  - title: ВИКОНАВЧИЙ КОМІТЕТ №13 від 04.06.2026
+    order:
+      - title: Перелік рішень виконавчого комітету №14 від 04.06.2026 року
+      - title: Рішення №156
+      - title: Рішення №157
+      - title: Рішення №158
+      - title: Рішення №159
+      - title: Рішення №160
+      - title: Рішення №161
+      - title: Рішення №162
+      - title: Рішення №163
+      - title: Рішення №164
+      - title: Рішення №165
+      - title: Рішення №166
+      - title: Рішення №167
+      - title: Рішення №168
+      - title: Рішення №169
+      - title: Рішення №170
+      - title: Рішення №171
+      - title: Рішення №172
     _template: HeadOrders
 ---
 
