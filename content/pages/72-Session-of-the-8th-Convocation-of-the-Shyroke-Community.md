@@ -65,7 +65,7 @@ components:
         link: /uploads/decision №22_session72_09062026.doc
       - title: Рішення №23 Про затвердження документації із землеустрою щодо інвентаризації земельних ділянок комунальної власності
         link: /uploads/decision №23_session72_09062026.doc
-      - title: Рішення №24
+      - title: Рішення №24 Про затвердження технічної документації та передачу у власність земельної ділянки гр. Ємелʹянцевій Л.І.
         link: /uploads/decision №24_session72_09062026.doc
       - title: Рішення №25
         link: /uploads/decision №25_session72_09062026.doc
