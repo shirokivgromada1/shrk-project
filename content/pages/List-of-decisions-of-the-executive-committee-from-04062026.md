@@ -1,7 +1,7 @@
 ---
 title: List-of-decisions-of-the-executive-committee-from-04062026
 components:
-  - title: ВИКОНАВЧИЙ КОМІТЕТ №13 від 04.06.2026
+  - title: ВИКОНАВЧИЙ КОМІТЕТ №14 від 04.06.2026
     order:
       - title: Перелік рішень виконавчого комітету №14 від 04.06.2026 року
       - title: Рішення №156
