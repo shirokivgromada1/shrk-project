@@ -61,7 +61,7 @@ components:
         link: /uploads/Appendix to Decision No. 20_session72_09062026.docx
       - title: Рішення №21 Про затвердження меморандумів про співпрацю (співробітництво) з БЛАГОДІЙНОЮ ОРГАНІЗАЦІЄЮ «БЛАГОДІЙНИЙ ФОНД» «ВІРА В УКРАЇНУ
         link: /uploads/decision №21_session72_09062026.docx
-      - title: Рішення №22
+      - title: Рішення №22 Про затвердження матеріалів нормативної грошової оцінки земельних ділянок несільськогосподарського призначення
         link: /uploads/decision №22_session72_09062026.doc
       - title: Рішення №23
         link: /uploads/decision №23_session72_09062026.doc
