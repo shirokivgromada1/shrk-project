@@ -75,7 +75,7 @@ components:
         link: /uploads/decision №27_session72_09062026.doc
       - title: 'Рішення №28 Про перерахування чистого прибутку, отриманого від реалізації проекту за договором державно-приватного партнерства'
         link: /uploads/decision №28_session72_09062026.docx
-      - title: Рішення №29
+      - title: Рішення №29 Про надання згоди на здійснення поточного ремонту за рахунок Федорівського центру професійної освіти
         link: /uploads/decision №29_session72_09062026.docx
       - title: Рішення №30
         link: /uploads/decision №30_session72_09062026.docx
