@@ -67,7 +67,7 @@ components:
         link: /uploads/decision №23_session72_09062026.doc
       - title: Рішення №24 Про затвердження технічної документації та передачу у власність земельної ділянки гр. Ємелʹянцевій Л.І.
         link: /uploads/decision №24_session72_09062026.doc
-      - title: Рішення №25
+      - title: Рішення №25 Про затвердження технічної документації та передачу у власність земельної ділянки гр. Єремєєвій О.В.
         link: /uploads/decision №25_session72_09062026.doc
       - title: Рішення №26
         link: /uploads/decision №26_session72_09062026.doc
