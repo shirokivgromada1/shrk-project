@@ -63,7 +63,7 @@ components:
         link: /uploads/decision №21_session72_09062026.docx
       - title: Рішення №22 Про затвердження матеріалів нормативної грошової оцінки земельних ділянок несільськогосподарського призначення
         link: /uploads/decision №22_session72_09062026.doc
-      - title: Рішення №23
+      - title: Рішення №23 Про затвердження документації із землеустрою щодо інвентаризації земельних ділянок комунальної власності
         link: /uploads/decision №23_session72_09062026.doc
       - title: Рішення №24
         link: /uploads/decision №24_session72_09062026.doc
