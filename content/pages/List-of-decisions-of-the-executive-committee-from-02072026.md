@@ -12,7 +12,9 @@ components:
       - title: Рішення №187
         link: /uploads/decision №187 out of 02.07.2026.docx
       - title: Рішення №188
+        link: /uploads/decision №188 out of 02.07.2026.docx
       - title: Рішення №189
+        link: /uploads/decision №189 out of 02.07.2026.docx
       - title: Рішення №190
       - title: Рішення №191
       - title: Рішення №192
