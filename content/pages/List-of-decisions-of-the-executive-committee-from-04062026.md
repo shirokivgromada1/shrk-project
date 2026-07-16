@@ -13,7 +13,9 @@ components:
       - title: Рішення №159
         link: /uploads/decision №159 out of 04.06.2026.docx
       - title: Рішення №160
+        link: /uploads/decision №160 out of 04.06.2026.docx
       - title: Рішення №161
+        link: /uploads/decision №161 out of 04.06.2026.docx
       - title: Рішення №162
       - title: Рішення №163
       - title: Рішення №164
