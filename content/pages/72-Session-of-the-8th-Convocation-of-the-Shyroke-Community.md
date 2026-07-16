@@ -77,7 +77,7 @@ components:
         link: /uploads/decision №28_session72_09062026.docx
       - title: Рішення №29 Про надання згоди на здійснення поточного ремонту за рахунок Федорівського центру професійної освіти
         link: /uploads/decision №29_session72_09062026.docx
-      - title: Рішення №30
+      - title: Рішення №30 Про розподіл благодійної допомоги
         link: /uploads/decision №30_session72_09062026.docx
       - title: Рішення №31
         link: /uploads/decision №31_session72_09062026.docx
