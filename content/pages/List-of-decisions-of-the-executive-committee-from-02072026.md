@@ -36,7 +36,9 @@ components:
       - title: Рішення №199
         link: /uploads/decision №199 out of 02.07.2026.docx
       - title: Рішення №200
+        link: /uploads/decision №200 out of 02.07.2026.docx
       - title: Рішення №201
+        link: /uploads/decision №201 out of 02.07.2026.docx
       - title: Рішення №202
       - title: Рішення №203
       - title: Рішення №204
