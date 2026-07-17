@@ -90,6 +90,7 @@ components:
       - title: Звіт про виконання паспорту бюджетної програми по КПК 0117693 за 2025 рік
         link: /uploads/Report on the implementation of the budget program passport under the KPK 0117693 for 2025.xlsx
       - title: Звіт про виконання паспорту бюджетної програми по КПК 0118110 за 2025 рік
+        link: /uploads/Report on the implementation of the budget program passport under the KPK 0118110 for 2025.xlsx
       - title: Звіт про виконання паспорту бюджетної програми по КПК 0118130 за 2025 рік
       - title: Звіт про виконання паспорту бюджетної програми по КПК 0118240 за 2025 рік
       - title: Звіт про виконання паспорту бюджетної програми по КПК 0118312 за 2025 рік
