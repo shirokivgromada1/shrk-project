@@ -12,8 +12,10 @@ components:
       - {}
       - {}
       - {}
-      - {}
-      - {}
+      - title: Паспорт бюджетної програми на 2026 рік КПКВК 0112152 - зміни 02.07.2026
+        link: /uploads/Passport of the budget program for 2026 KPKVK 0112152 - changes 02.07.2026.xlsx
+      - title: Паспорт бюджетної програми на 2026 рік КПКВК 0112010 - зміни 02.07.2026
+        link: /uploads/Passport of the budget program for 2026 KPKVK 0112010 - changes 02.07.2026.xlsx
       - title: Паспорт бюджетної програми на 2026 рік КПКВК 0110150 - зміни 02.07.2026
         link: /uploads/Passport of the budget program for 2026 KPKVK 0110150 - changes 02.07.2026.xlsx
       - title: 'Розпорядження №137 від 14.07.2026 '
