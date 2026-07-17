@@ -3,6 +3,9 @@ title: budget-program-passports
 components:
   - title: ' Паспорти бюджетних програм'
     order:
+      - title: 'Розпорядження №137 від 14.07.2026 '
+      - title: Наказ № 19 од від 11.07.2026 КПК 16
+        link: /uploads/Order No. 19 of 11.07.2026 CPC 16.docx
       - title: 'Паспорт бюджетної програми на 2026 рік КПКВК 1610160, 1616030 - зміни 09.06.2026'
         link: '/uploads/Passport of the budget program for 2026 KPKVK 1610160, 1616030 - changes 09.06.2026.xlsx'
       - title: Паспорт бюджетної програми на 2026 рік КПКВК 0910160 - зміни 09.06.2026
