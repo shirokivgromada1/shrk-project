@@ -1,7 +1,7 @@
 ---
 title: Accessibility
 components:
-  - title: Безбар'єрність
+  - title: Офіційно
     official:
       - title: Додаток_Інформаційна_довідка_щодо_методичних_рекомендацій
         link: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/appendix_methdological_recomendations_05022026.docx'
