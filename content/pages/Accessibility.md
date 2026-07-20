@@ -32,6 +32,10 @@ components:
       - name: участь у розробленні місцевих програм і заходів із забезпечення доступності;
       - name: проведення інформаційно-роз'яснювальної роботи та консультацій.
     _template: SilradaDepartmentFunctions
+  - newsSection:
+      - category: content/newsCategories/barrier_free.md
+        variantNews: '1'
+    _template: newsSections
   - title: Офіційно
     official:
       - title: Додаток_Інформаційна_довідка_щодо_методичних_рекомендацій
