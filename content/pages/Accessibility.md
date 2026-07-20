@@ -1,6 +1,37 @@
 ---
 title: Accessibility
 components:
+  - title: Уповноважена особа з питань безбар'єрності широкіської громади
+    image: /uploads/уповноважена з питань безбар'єрності.png
+    fullname: 'Ольга Ставицька '
+    fullnameEng: Olha Stavytska
+    employment:
+      title: 'Уповноважена особа з питань безбар''єрності забезпечує реалізацію державної політики зі створення безбар''єрного простору в Широківській громаді. Її діяльність спрямована на виявлення та усунення фізичних, інформаційних, цифрових, суспільних і організаційних бар''єрів, які можуть обмежувати права та можливості жителів громади.  Мета роботи уповноваженої особи — створення у Широківській громаді середовища, у якому кожен мешканець, незалежно від віку, стану здоров''я чи інших життєвих обставин, матиме рівний доступ до послуг, інфраструктури та можливостей громади.'
+      titleEng: 'The Barrier-Free Environment Officer ensures the implementation of the national policy on creating an accessible and barrier-free environment in the Shyrokivska Community. Their work focuses on identifying and eliminating physical, informational, digital, social, and organizational barriers that may limit the rights and opportunities of community residents.'
+    schedule:
+      title: Четвер
+      titleEng: 'Thursday '
+      time: 'З 14:00 до 16:00'
+      timeEng: ' 14:00 to 16:00'
+    contacts:
+      title: ''
+      titleEng: ''
+      phone1: +38 (050) 733-18-78
+      phone1Eng: +38 (050) 733-18-78
+      place: 'м. Запоріжжя, вул. Розенталь, 7'
+      placeEng: '7 Rozental Street, Zaporizhzhia, Ukraine'
+      email: soczahyst.shyroke@gmail.com
+      emailEng: soczahyst.shyroke@gmail.com
+    _template: CouncilSecretaryDesc
+  - title: Основні завдання уповноваженої особи з питань безбар'єрності
+    function:
+      - name: координація заходів із впровадження безбар'єрності в громаді;
+      - name: моніторинг доступності об'єктів та послуг;
+      - name: розгляд звернень громадян щодо питань безбар'єрності;
+      - name: 'взаємодія зі структурними підрозділами, установами та організаціями;'
+      - name: участь у розробленні місцевих програм і заходів із забезпечення доступності;
+      - name: проведення інформаційно-роз'яснювальної роботи та консультацій.
+    _template: SilradaDepartmentFunctions
   - title: Офіційно
     official:
       - title: Додаток_Інформаційна_довідка_щодо_методичних_рекомендацій
