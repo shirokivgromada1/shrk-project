@@ -36,6 +36,9 @@ components:
     _template: SilradaDepartmentFunctions
   - title: ''
     order:
+      - title: 'Молодіжне вікно. Підтримка молодих мам у пошуку роботи, навчанні та професійному розвитку.'
+        url: 'https://molodviknoshtg.carrd.co/'
+        buttonText: Дізнатися більше
       - title: Гуртки у Широківській громаді
         link: /uploads/studies_2026.docx
       - title: 'Молодіжна політика Широківської громади '
