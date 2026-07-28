@@ -13,7 +13,8 @@ components:
         link: /uploads/project_74 session_Draft decision on approval of the Target Program.doc
       - title: 'Проєкт рішення про затвердження меморандумів '
         link: /uploads/project_74 session_Draft decision on approval of memoranda.docx
-      - title: 'Проєкт рішення про '
+      - title: Проєкт рішення про затвердження рішення виконавчого комітету Широківської сільської ради Запорізького району Запорізької області від 17.07.2026 № 212 «Про прийняття у комунальну власність Широківської сільської територіальної громади Запорізького району Запорізької області гуманітарної допомоги»
+        link: /uploads/project_74 session_Draft decision on approval of the decision of the executive committee.docx
       - title: 'Проєкт рішення про '
       - title: 'Проєкт рішення про '
       - title: 'Проєкт рішення про '
