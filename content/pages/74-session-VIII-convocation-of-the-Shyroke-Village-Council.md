@@ -31,7 +31,8 @@ components:
         link: /uploads/project_74 session Draft decision on accepting humanitarian aid.docx
       - title: Проєкт рішення про безоплатне прийняття у комунальну власність Широківської сільської територіальної громади Запорізького району Запорізької області міжнародної технічної допомоги
         link: /uploads/project_74 session Draft decision on the free acceptance of international technical assistance into the communal property of the Shyrokiv rural territorial community of Zaporizhia district of Zapori.docx
-      - title: 'Проєкт рішення про '
+      - title: Проєкт рішення про розподіл благодійної допомоги
+        link: /uploads/project_74 session Draft decision on the distribution of charitable assistance.docx
       - title: 'Проєкт рішення про '
     _template: HeadOrders
 ---
