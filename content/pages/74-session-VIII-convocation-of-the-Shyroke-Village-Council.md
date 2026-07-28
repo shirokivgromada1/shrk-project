@@ -25,11 +25,12 @@ components:
         link: /uploads/project_74 session_Draft decision on granting permission to develop a land management project regarding the allocation of a land plot for rent for gardening in the town of Protsishyn M.M..doc
       - title: Проєкт рішення про надання дозволу на розроблення проекту землеустрою щодо відведення земельної ділянки в оренду для городництва гр. Процішиній А.О.
         link: /uploads/project_74 session_Draft decision on granting permission to develop a land management project regarding the allocation of a land plot for rent for gardening in the town of Protsishiny A.O..doc
-      - title: 'Проєкт рішення про '
-      - title: 'Проєкт рішення про '
-      - title: 'Проєкт рішення про '
-      - title: 'Проєкт рішення про '
-      - title: 'Проєкт рішення про '
+      - title: Проєкт рішення про прийняття гуманітарної допомоги від Посольства Швейцарії в Україні
+        link: /uploads/project_74 session_Draft decision on accepting humanitarian aid from the Embassy of Switzerland in Ukraine.docx
+      - title: Проєкт рішення про прийняття гуманітарної допомоги
+        link: /uploads/project_74 session Draft decision on accepting humanitarian aid.docx
+      - title: Проєкт рішення про безоплатне прийняття у комунальну власність Широківської сільської територіальної громади Запорізького району Запорізької області міжнародної технічної допомоги
+        link: /uploads/project_74 session Draft decision on the free acceptance of international technical assistance into the communal property of the Shyrokiv rural territorial community of Zaporizhia district of Zapori.docx
       - title: 'Проєкт рішення про '
       - title: 'Проєкт рішення про '
     _template: HeadOrders
