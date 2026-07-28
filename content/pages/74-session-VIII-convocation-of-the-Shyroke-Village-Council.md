@@ -11,7 +11,8 @@ components:
         link: /uploads/project_74 session_Draft decision on providing material assistance.docx
       - title: Проєкт рішення про затвердження Цільової програми забезпечення членства Широківської сільської ради Запорізького району Запорізької області в Асоціаціях на 2027 - 2029 роки
         link: /uploads/project_74 session_Draft decision on approval of the Target Program.doc
-      - title: 'Проєкт рішення про '
+      - title: 'Проєкт рішення про затвердження меморандумів '
+        link: /uploads/project_74 session_Draft decision on approval of memoranda.docx
       - title: 'Проєкт рішення про '
       - title: 'Проєкт рішення про '
       - title: 'Проєкт рішення про '
