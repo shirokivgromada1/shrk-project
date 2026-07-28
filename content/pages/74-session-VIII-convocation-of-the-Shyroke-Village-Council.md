@@ -19,7 +19,8 @@ components:
         link: /uploads/project_74 session_Draft decision on approval of land management documentation regarding the inventory of land plots of communal property.doc
       - title: Проєкт рішення про затвердження технічної документації та передачу у власність земельної ділянки гр. Коневич К.А.
         link: /uploads/project_74 session_Draft decision on approval of technical documentation and transfer of ownership of the land plot to the town of Konevich K.A..doc
-      - title: 'Проєкт рішення про '
+      - title: Проєкт рішення про надання дозволу на розроблення проекту землеустрою щодо відведення земельної ділянки в оренду для городництва гр. Грищенку О.О.
+        link: /uploads/project_74 session_Draft decision on granting permission to develop a land management project regarding the allocation of a land plot for rent for gardening to the city of Grishchenko O.O..doc
       - title: 'Проєкт рішення про '
       - title: 'Проєкт рішення про '
       - title: 'Проєкт рішення про '
