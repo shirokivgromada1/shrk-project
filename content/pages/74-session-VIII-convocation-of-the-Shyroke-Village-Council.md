@@ -3,6 +3,7 @@ title: 74-session-VIII-convocation-of-the-Shyroke-Village-Council
 components:
   - title: ПРОЄКТ. 74 ПОЗАЧЕРГОВА СЕСІЯ VIII скликання Широківської сільської ради
     order:
+      - {}
       - title: Порядок денний 74 позачергової сесії VIII скликання
         link: /uploads/Agenda of the 74th extraordinary session of the 8th convocation.docx
       - title: Розпорядження № 75 про скликання 74 сесії
@@ -33,7 +34,8 @@ components:
         link: /uploads/project_74 session Draft decision on the free acceptance of international technical assistance into the communal property of the Shyrokiv rural territorial community of Zaporizhia district of Zapori.docx
       - title: Проєкт рішення про розподіл благодійної допомоги
         link: /uploads/project_74 session Draft decision on the distribution of charitable assistance.docx
-      - title: 'Проєкт рішення про '
+      - title: Проєкт рішення про прийняття гуманітарної допомоги
+        link: /uploads/project_74 session Draft decision on accepting humanitarian aid_2.docx
     _template: HeadOrders
 ---
 
