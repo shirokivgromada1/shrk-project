@@ -17,7 +17,8 @@ components:
         link: /uploads/project_74 session_Draft decision on approval of the decision of the executive committee.docx
       - title: 'Проєкт рішення про затвердження документації із землеустрою щодо інвентаризації земельних ділянок комунальної власності '
         link: /uploads/project_74 session_Draft decision on approval of land management documentation regarding the inventory of land plots of communal property.doc
-      - title: 'Проєкт рішення про '
+      - title: Проєкт рішення про затвердження технічної документації та передачу у власність земельної ділянки гр. Коневич К.А.
+        link: /uploads/project_74 session_Draft decision on approval of technical documentation and transfer of ownership of the land plot to the town of Konevich K.A..doc
       - title: 'Проєкт рішення про '
       - title: 'Проєкт рішення про '
       - title: 'Проєкт рішення про '
