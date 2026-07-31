@@ -3,7 +3,7 @@ title: head-of-the-community
 components:
   - title: ГОЛОВА ГРОМАДИ
     titleEng: HEAD OF THE COMMUNITY
-    image: /uploads/silrada/head-of-the-community/image 12.png
+    image: /uploads/QW5A3419.jpg
     fullname: Коротенко Денис Олександрович
     fullnameEng: Denys Oleksandrovych Korotenko
     employment:
