@@ -52,7 +52,7 @@ components:
       - title: Рішення №207
         link: /uploads/decision №207 out of 02.07.2026.docx
       - title: Рішення №208
-        link: /uploads/decision №208 out of 02.07.2026.docx
+        link: /uploads/Decision No. 208 of 02072026.docx
     _template: HeadOrders
 ---
 
