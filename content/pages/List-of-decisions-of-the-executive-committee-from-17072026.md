@@ -8,6 +8,7 @@ components:
       - title: Рішення №209 від 17.07.2026 року
         link: /uploads/Decision No. 209 of 07172026.docx
       - title: Рішення №210 від 17.07.2026 року
+        link: /uploads/Decision No. 210 of 07172026.docx
       - title: Рішення №211 від 17.07.2026 року
       - title: Рішення №212 від 17.07.2026 року
       - title: Рішення №213 від 17.07.2026 року
