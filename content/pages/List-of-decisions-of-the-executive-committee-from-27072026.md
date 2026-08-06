@@ -10,6 +10,7 @@ components:
       - title: Рішення №215 від 27.07.2026 року
         link: /uploads/Decision No. 215 of 07172026.docx
       - title: Рішення №216 від 27.07.2026 року
+        link: /uploads/Decision No. 216 of 07172026.docx
       - title: Рішення №217 від 27.07.2026 року
     _template: HeadOrders
 ---
