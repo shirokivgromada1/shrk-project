@@ -11,7 +11,7 @@ components:
         url: 'https://youtu.be/k-5LgSdsB9k'
         buttonText: Дивитись
       - title: 72 сесія Широківської сільської ради VIII скликання
-        url: 'https://youtu.be/o3jzuC_h7YQ'
+        url: 'https://youtu.be/YKqsh8WzigU'
         buttonText: Дивитись
       - title: 71 позачергова сесія Широківської сільської ради VIII скликання
         url: 'https://youtu.be/tJMBVDgsmkU'
