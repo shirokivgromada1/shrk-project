@@ -38,6 +38,7 @@ components:
       - title: Рішення №233 від 06.08.2026 року
         link: /uploads/Decision No. 233 of 06.08.2026.docx
       - title: Рішення №234 від 06.08.2026 року
+        link: /uploads/Decision No. 234 of 06.08.2026.docx
       - title: Рішення №235 від 06.08.2026 року
       - title: Рішення №236 від 06.08.2026 року
       - title: Рішення №237 від 06.08.2026 року
