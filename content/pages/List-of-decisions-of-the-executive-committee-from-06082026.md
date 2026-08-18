@@ -18,6 +18,7 @@ components:
       - title: Рішення №223 від 06.08.2026 року
         link: /uploads/Decision No. 223 of 06.08.2026.docx
       - title: Рішення №224 від 06.08.2026 року
+        link: /uploads/Decision No. 224 of 06.08.2026.docx
       - title: Рішення №225 від 06.08.2026 року
       - title: Рішення №226 від 06.08.2026 року
       - title: Рішення №227 від 06.08.2026 року
