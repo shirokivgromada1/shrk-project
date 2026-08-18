@@ -6,7 +6,9 @@ components:
       - title: Перелік рішень виконачого комітету №19 від 06.08.2026 року
         link: /uploads/List of decisions of the executive committee No. 19 dated 06.08.2026.docx
       - title: Рішення №218 від 06.08.2026 року
+        link: /uploads/Decision No. 218 of 06.08.2026.docx
       - title: Рішення №219 від 06.08.2026 року
+        link: /uploads/Decision No. 219 of 06.08.2026.docx
       - title: Рішення №220 від 06.08.2026 року
       - title: Рішення №221 від 06.08.2026 року
       - title: Рішення №222 від 06.08.2026 року
