@@ -48,6 +48,7 @@ components:
       - title: Рішення №238 від 06.08.2026 року
         link: /uploads/Decision No. 238 of 06.08.2026.docx
       - title: Рішення №239 від 06.08.2026 року
+        link: /uploads/Decision No. 239 of 06.08.2026.docx
       - title: Рішення №240 від 06.08.2026 року
       - {}
     _template: HeadOrders
