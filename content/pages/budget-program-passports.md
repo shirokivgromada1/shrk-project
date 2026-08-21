@@ -7,7 +7,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Паспорт бюджетної програми на 2026 рік  по КПКВК 0114081зміни на 04.08.2026 рік
+        link: /uploads/Passport of the budget program for 2026 according to the CPKVK 0114081 changes as of 04.08.2026.xlsx
       - title: Паспорт бюджетної програми на 2026 рік по КПКВК 0110150 зміни на 04.08.2026
         link: /uploads/Passport of the budget program for 2026 according to the CPKVK 0110150 changes on 04.08.2026.xlsx
       - title: Паспорт бюджетної програми на 2026 рік по КПКВК 0112152 зміни на 04.08.2026
