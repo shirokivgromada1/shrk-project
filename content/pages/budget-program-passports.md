@@ -15,7 +15,8 @@ components:
       - {}
       - {}
       - {}
-      - {}
+      - title: Паспорт бюджетної програми на 2026 рік по КПКВК 0118240 зміни на 04.08.2026 рік
+        link: /uploads/Passport of the budget program for 2026 according to the CPKVK 0118240 changes as of 04.08.2026.xlsx
       - title: Розпорядження від 06.08.2025 № 151
         link: /uploads/passports of budget programs_ Order dated 06.08.2025 No. 151.docx
       - title: 'Паспорти бюджетної програмина 2026 рік  КПКВК 1610160, 1616030 - зміни 02.07.2026'
