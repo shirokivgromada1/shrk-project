@@ -3,7 +3,8 @@ title: branch-inter-branch-territorial-agreements-collective-agreements
 components:
   - title: 'Галузеві (міжгалузеві), територіальні угоди, колективні договори, зміни і доповнення до них'
     order:
-      - {}
+      - title: Колективний договір між комунальним некомерційним підприємством «Клініка «Сімейний лікар» та профспілковим комітетом медичних працівників Запорізького району
+        link: /uploads/Collective agreement Klinika Simeyniy Likar.pdf
       - title: 'Колективний договір з комунальною установою «Веселівський психоневрологічний інтернат», 2026 рік'
         link: '/uploads/Collective agreement with the municipal institution Veselyovo Psychoneurological Boarding School, 2026.pdf'
       - title: Колективний договір «Відраднівська гімназія» Широківської сільської ради Запорізького району Запорізької області
