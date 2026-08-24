@@ -10,7 +10,7 @@ components:
       - title: Проєкти рішень 72 сесії ШИроківської сільської ради
         url: 'https://shtg.gov.ua/72-Session-of-the-8th-Convocation-of-the-Shyroke-Communityprojects'
       - title: 72 сесія Протокол сумісного засідання від 09.06.2026
-        link: /uploads/72nd session Minutes of the joint meeting of 09.06.2026_session72_02042026.docx
+        link: /uploads/joint meeting_protocol_09062026_session72.docx
       - title: Протокол 72 сесії VIII скликання
         link: /uploads/protocol_09062026_session72.doc
       - title: Поіменне голосування 72 сесії VIII скликання
