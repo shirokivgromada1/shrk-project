@@ -56,6 +56,7 @@ components:
       - title: Рішення №269 від 03.09.2026 року
         link: /uploads/Decision No. 269 of 03.09.2026.docx
       - title: Рішення №270 від 03.09.2026 року
+        link: /uploads/Decision No. 270 of 03.09.2026.docx
       - title: Рішення №271 від 03.09.2026 року
     _template: HeadOrders
 ---
