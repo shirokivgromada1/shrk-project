@@ -3,7 +3,6 @@ title: current-programs
 components:
   - title: Діючі програми Широківської громади
     program:
-      - {}
       - name: Програма підтримки і реалізації стратегічних ініціатив на 2027-2029 роки
         date: Рішення №1 від 4 серпня 2026 року
         link: /uploads/Program for support and implementation of strategic initiatives for 2027-2029.docx
