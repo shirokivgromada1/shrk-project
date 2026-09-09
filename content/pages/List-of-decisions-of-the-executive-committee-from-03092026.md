@@ -6,6 +6,7 @@ components:
       - title: Перелік рішень виконавчого комітету №22 від 03.09.2026 року
         link: /uploads/List of decisions of the executive committee No. 22 dated 03.09.2026.docx
       - title: Рішення №245 від 03.09.2026 року
+        link: /uploads/Decision No. 245 of 03.09.2026.docx
       - title: Рішення №246 від 03.09.2026 року
       - title: Рішення №247 від 03.09.2026 року
       - title: Рішення №248 від 03.09.2026 року
