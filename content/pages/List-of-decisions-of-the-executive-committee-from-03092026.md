@@ -50,6 +50,7 @@ components:
       - title: Рішення №266 від 03.09.2026 року
         link: /uploads/Decision No. 266 of 03.09.2026.docx
       - title: Рішення №267 від 03.09.2026 року
+        link: /uploads/Decision No. 267 of 03.09.2026.docx
       - title: Рішення №268 від 03.09.2026 року
       - title: Рішення №269 від 03.09.2026 року
       - title: Рішення №270 від 03.09.2026 року
