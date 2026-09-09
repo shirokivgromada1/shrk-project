@@ -1,7 +1,7 @@
 ---
 title: List-of-decisions-of-the-executive-committee-from-03092026
 components:
-  - title: 'Виконавчий комітет від 03.09.2026 року №2211:59'
+  - title: Виконавчий комітет від 03.09.2026 року №22
     order:
       - title: Перелік рішень виконавчого комітету №22 від 03.09.2026 року
         link: /uploads/List of decisions of the executive committee No. 22 dated 03.09.2026.docx
