@@ -3,7 +3,6 @@ title: Local budget forecast for 2027-2029
 components:
   - title: Прогноз місцевого бюджету на 2027-2029 роки
     order:
-      - {}
       - title: Прогноз місцевого бюджету на 2027-2029 роки (текстова частина)
         link: /uploads/Local budget forecast for 2027-2029 (text part).docx
       - title: Додатки до Прогнозу місцевого бюджету на 2027-2029 роки
