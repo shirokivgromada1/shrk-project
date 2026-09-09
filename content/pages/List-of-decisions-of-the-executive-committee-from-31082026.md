@@ -8,6 +8,7 @@ components:
       - title: Рішення №243 від 31.08.2026 року
         link: '/uploads/Decision No. 243 of August 31, 2026.docx'
       - title: Рішення №244 від 31.08.2026 року
+        link: '/uploads/Decision No. 244 of August 31, 2026.docx'
     _template: HeadOrders
 ---
 
