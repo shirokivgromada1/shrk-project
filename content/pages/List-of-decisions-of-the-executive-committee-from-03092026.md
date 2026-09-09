@@ -16,6 +16,7 @@ components:
       - title: Рішення №249 від 03.09.2026 року
         link: /uploads/Decision No. 249 of 03.09.2026.docx
       - title: Рішення №250 від 03.09.2026 року
+        link: /uploads/Decision No. 250 of 03.09.2026.docx
       - title: Рішення №251 від 03.09.2026 року
       - title: Рішення №252 від 03.09.2026 року
       - title: Рішення №253 від 03.09.2026 року
