@@ -52,7 +52,9 @@ components:
       - title: Рішення №267 від 03.09.2026 року
         link: /uploads/Decision No. 267 of 03.09.2026.docx
       - title: Рішення №268 від 03.09.2026 року
+        link: /uploads/Decision No. 268 of 03.09.2026.docx
       - title: Рішення №269 від 03.09.2026 року
+        link: /uploads/Decision No. 269 of 03.09.2026.docx
       - title: Рішення №270 від 03.09.2026 року
       - title: Рішення №271 від 03.09.2026 року
     _template: HeadOrders
