@@ -44,8 +44,11 @@ components:
       - title: Рішення №263 від 03.09.2026 року
         link: /uploads/Decision No. 263 of 03.09.2026.docx
       - title: Рішення №264 від 03.09.2026 року
+        link: /uploads/Decision No. 264 of 03.09.2026.docx
       - title: Рішення №265 від 03.09.2026 року
+        link: /uploads/Decision No. 265 of 03.09.2026.docx
       - title: Рішення №266 від 03.09.2026 року
+        link: /uploads/Decision No. 266 of 03.09.2026.docx
       - title: Рішення №267 від 03.09.2026 року
       - title: Рішення №268 від 03.09.2026 року
       - title: Рішення №269 від 03.09.2026 року
