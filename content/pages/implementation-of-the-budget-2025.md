@@ -5,6 +5,7 @@ components:
     order:
       - title: Звіт про виконання бюджету за 1 півріччя 2026 року
       - title: Додатки до інформації про виконання бюджету за 1 півріччя 2026 року
+        link: /uploads/Appendices to the information on budget execution for the first half of 2026.xlsx
       - title: Рішення від 03.09.2026  № 1 Про затвердження звіту про виконання бюджету за 1 півріччя 2026 р
         link: '/uploads/Decision No. 1 dated September 3, 2026, on approving the budget execution report for the first half of 2026..docx'
       - title: Рішення виконкому від 02.07.2026  № 186 Звіт про виконання бюджету за 1 півріччя 2026 р
