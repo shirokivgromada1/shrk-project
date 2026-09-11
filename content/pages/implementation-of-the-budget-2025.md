@@ -6,6 +6,7 @@ components:
       - title: Інформація про виконання місцевого бюджету січень-серпень 2026 року
         link: /uploads/Information on local budget execution January–August 2026.xls
       - title: Інформація про виконання місцевого бюджету січень-липень 2026 року
+        link: /uploads/Information on local budget execution January–July 2026.xls
       - title: Звіт про виконання бюджету за 1 півріччя 2026 року
         link: /uploads/Budget Execution Report for the First Half of 2026.doc
       - title: Додатки до інформації про виконання бюджету за 1 півріччя 2026 року
