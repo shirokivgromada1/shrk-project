@@ -7,6 +7,7 @@ components:
       - title: Додатки до інформації про виконання бюджету за 1 півріччя 2026 року
       - title: Рішення від 03.09.2026  № 1 Про затвердження звіту про виконання бюджету за 1 півріччя 2026 р
       - title: Рішення виконкому від 02.07.2026  № 186 Звіт про виконання бюджету за 1 півріччя 2026 р
+        link: '/uploads/Executive Committee Decision No. 186 dated July 2, 2026 Report on budget execution for the first half of 2026..doc'
       - title: Інформація про виконання місцевого бюджету за січень-травень 2026 року
         link: /uploads/Information on the execution of the local budget for January-May 2026_01062026.xlsx
       - title: Інформація про виконання місцевого бюджету за січень-квітень 2026 року
