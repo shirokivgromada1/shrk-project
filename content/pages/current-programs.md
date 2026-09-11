@@ -3,6 +3,9 @@ title: current-programs
 components:
   - title: Діючі програми Широківської громади
     program:
+      - name: Про внесення змін та доповнень до Програми підтримки розвитку територіального сервісного центру МВС № 2348 регіонального сервісного центру ГСЦ МВС у Дніпропетровській та  Запорізькій областях (філія ГСЦ МВС) на 2026 рік
+        date: Рішення №3 від 3 вересня 2026 року
+        link: '/uploads/On Amendments and Additions to the Program for Supporting the Development of the Territorial Service Center of the Ministry of Internal Affairs — No. 3 of September 3, 2026.docx'
       - name: Програма підтримки і реалізації стратегічних ініціатив на 2027-2029 роки
         date: Рішення №1 від 4 серпня 2026 року
         link: /uploads/Program for support and implementation of strategic initiatives for 2027-2029.docx
