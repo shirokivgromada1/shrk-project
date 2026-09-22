@@ -8,7 +8,7 @@ components:
         additionDownload:
           file: /uploads/regulatory act_establishment of rates and benefits for payment of land tax.doc
       - additionTitle: Звіт
-        additionDescription: Про базове відстеження результативності регуляторного акта –  рішення Широківської сільської ради від 30.06.2021 №6 «Про встановлення ставок та пільг із сплати земельного податку у Широківській сільській раді Запорізького району Запорізької області»
+        additionDescription: Про відстеження результативності регуляторного акта –  рішення Широківської сільської ради від 30.06.2021 №6 «Про встановлення ставок та пільг із сплати земельного податку у Широківській сільській раді Запорізького району Запорізької області»
         additionDownload:
           file: /uploads/performance tracking report_establishment of rates and benefits for payment of land tax.docx
     _template: leadership
