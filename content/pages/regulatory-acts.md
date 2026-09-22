@@ -33,6 +33,8 @@ components:
     document:
       - title: Плани регуляторної діяльності (зі звітами)
         link: 'https://shtg.gov.ua/Regulatory-activity-plans'
+      - title: Проєкти регуляторних актів
+        link: 'https://shtg.gov.ua/Drafts-of-Regulatory-Acts'
     _template: Documents
 ---
 
