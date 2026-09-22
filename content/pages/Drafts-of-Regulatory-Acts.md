@@ -10,7 +10,8 @@ components:
         link: /uploads/regulatory act for the placement and dismantling of outdoor advertising_07032024216.docx
       - title: 'Про затвердження ставок єдиного податку для суб’єктів господарювання, які застосовують спрощену систему оподаткування, обліку, звітностей та віднесені до першої і другої груп платників єдиного податку'
         link: /uploads/regulatory act_On approval of single tax rates for business entities165487974.doc
-      - {}
+      - title: Про встановлення ставок і пільг із сплати земельного податку
+        link: /uploads/regulatory act_establishment of rates and benefits for payment of land tax (1)213458951.doc
     _template: HeadOrders
 ---
 
