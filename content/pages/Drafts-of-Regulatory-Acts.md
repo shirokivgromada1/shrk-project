@@ -1,7 +1,7 @@
 ---
 title: Drafts-of-Regulatory-Acts
 components:
-  - title: Розпорядження голови
+  - title: Проєкти регуляторних актів
     _template: HeadOrders
 ---
 
