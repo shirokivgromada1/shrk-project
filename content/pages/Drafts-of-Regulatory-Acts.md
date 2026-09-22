@@ -12,6 +12,8 @@ components:
         link: /uploads/regulatory act_On approval of single tax rates for business entities165487974.doc
       - title: Про встановлення ставок і пільг із сплати земельного податку
         link: /uploads/regulatory act_establishment of rates and benefits for payment of land tax (1)213458951.doc
+      - title: Про затвердження Правил благоустрою території Широківської сільської ради Запорізького району Запорізької області (в новій редакції)
+        link: /uploads/regulatory act_landscape development rules231458.docx
     _template: HeadOrders
 ---
 
