@@ -14,6 +14,8 @@ components:
         link: /uploads/regulatory act_establishment of rates and benefits for payment of land tax (1)213458951.doc
       - title: Про затвердження Правил благоустрою території Широківської сільської ради Запорізького району Запорізької області (в новій редакції)
         link: /uploads/regulatory act_landscape development rules231458.docx
+      - title: Про затвердження Порядку надання орендарю згоди на здійснення невід’ємних поліпшень орендованого комунального майна
+        link: /uploads/проєкт Рішення № 6.docx
       - title: 'Про впорядкування відносин залучення, розрахунку розміру  і використання коштів пайової  участі у створені і розвитку  інженерно-транспортної  та соціальної інфраструктури '
         link: '/uploads/regulatory act_ Decision No. 11 of May 14, 20181654.docx'
     _template: HeadOrders
