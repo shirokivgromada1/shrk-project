@@ -5,7 +5,8 @@ components:
     order:
       - title: Розпорядження № 77 про скликання 76 сесії
         link: /uploads/Order No. 77 on Convening the 76th Session_10_2026.docx
-      - {}
+      - title: Порядок денний 76 позачергової сесії VIII скликання
+        link: /uploads/Agenda of the 76th Extraordinary Session of the 8th Convocation_102026.docx
       - {}
       - {}
       - {}
