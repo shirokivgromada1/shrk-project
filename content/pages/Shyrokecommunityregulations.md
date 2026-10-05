@@ -11,6 +11,7 @@ components:
   - cards:
       - name: ПОДАТИ ПРОПОЗИЦІЮ ДО ПРОЄКТУ СТАТУТУ
         nameEng: Submit a proposal regarding the draft statute
+        link: 'https://mail.google.com/mail/?view=cm&fs=1&to=shyroke.inform@gmail.com'
       - name: ОЗНАЙОМИТИСЬ З ПРОЄКТОМ СТАТУТУ ШИРОКІВСЬКОЇ ГРОМАДИ
         nameEng: Review the draft statute of the Shyroke community
         link: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Shyroke_community_STATUT_PROJECT.docx'
