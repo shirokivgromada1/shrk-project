@@ -17,7 +17,8 @@ components:
     order:
       - title: Розпорядження від 17.11.2025 № 244 Робоча група з розробки проєкту Статуту Широківської громади
         link: '/uploads/Order_244_November 17, 2025 Working Group on Drafting the Charter of the Shyroke Community.pdf'
-      - {}
+      - title: Розпорядження від 13.04.2026 № 74 Про внесення змін до Положення та Складу РГ
+        link: '/uploads/Order_74_April 13, 2026, on Amending the Regulation and Composition of the Working Group.pdf'
     _template: HeadOrders
 ---
 
