@@ -13,5 +13,11 @@ components:
         nameEng: Review the draft statute of the Shyroke community
         link: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Shyroke_community_STATUT_PROJECT.docx'
     _template: CommunityHeadCards
+  - title: ''
+    order:
+      - title: Розпорядження від 17.11.2025 № 244 Робоча група з розробки проєкту Статуту Широківської громади
+        link: '/uploads/Order_244_November 17, 2025 Working Group on Drafting the Charter of the Shyroke Community.pdf'
+      - {}
+    _template: HeadOrders
 ---
 
