@@ -3,6 +3,8 @@ title: Shyroke_community_regulations
 components:
   - title: Статут Широківської громади
     order:
+      - title: ПРОЄКТ СТАТУТУ ШИРОКІВСЬКОЇ ГРОМАДИ
+        link: /uploads/Shyrokecommunityregulations_PROJECT.docx
       - title: Розпорядження від 17.11.2025 № 244 Робоча група з розробки проєкту Статуту Широківської громади
         link: /uploads/Order of 17.11.2025 No. 244 Working group for the development of the draft Statute of the Shyrokiv Community.pdf
       - title: Розпорядження від 13.04.2026 № 74 Про внесення змін до Положення та Складу РГ
