@@ -8,5 +8,10 @@ components:
         url: 'mailto:shyroke.inform@gmail.com'
         buttonText: ПОДАТИ
     _template: DepartmentSocialProtectionSub
+  - cards:
+      - name: ОЗНАЙОМИТИСЬ З ПРОЄКТОМ СТАТУТУ ШИРОКІВСЬКОЇ ГРОМАДИ
+        nameEng: Review the draft statute of the Shyroke community
+        link: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Shyroke_community_STATUT_PROJECT.docx'
+    _template: CommunityHeadCards
 ---
 
