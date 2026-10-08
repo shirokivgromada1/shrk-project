@@ -12,7 +12,9 @@ components:
       - title: Рішення №274 від 07.09.2026 року
         link: '/uploads/Decision No. 274 dated August 25, 2026.docx'
       - title: Рішення №275 від 07.09.2026 року
+        link: '/uploads/Decision No. 275 dated August 25, 2026.docx'
       - title: Рішення №276 від 07.09.2026 року
+        link: '/uploads/Decision No. 276 dated August 25, 2026.docx'
     _template: HeadOrders
 ---
 
