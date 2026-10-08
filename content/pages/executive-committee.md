@@ -77,6 +77,7 @@ components:
         url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-31082026'
         buttonText: Перейти
       - title: Виконавчий комітет від 25.08.2026 року №20
+        url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-25082026'
       - title: Виконавчий комітет від 06.08.2026 року №19
         url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-06082026'
         buttonText: Перейти
