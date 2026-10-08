@@ -4,7 +4,8 @@ components:
   - title: БЮДЖЕТ ШИРОКІВСЬКОЇ ГРОМАДИ - 2026
     order:
       - {}
-      - {}
+      - title: Додатки до рішення від 01.10.2026  № 1 Про місцевий бюджет на 2026 рік (дата оприлюднення 07.10.2026)
+        link: '/uploads/Annexes to Decision No. 1 dated October 1, 2026, on the Local Budget for 2026.xlsx'
       - title: Рішення від 01.10.2026 № 1 Про внесення змін до місцевого бюджету на 2026 рік (дата оприлюднення 07.10.2026)
         link: '/uploads/Decision No. 1 dated October 1, 2026, on amendments to the local budget for 2026.doc'
       - title: Актуальний бюджет громади на 2026 рік (з усіма змінами та доповненнями) станом на 03.09.2026 року
