@@ -3,6 +3,9 @@ title: current-programs
 components:
   - title: Діючі програми Широківської громади
     program:
+      - name: Про затвердження  Програми організації проведення громадських робіт та інших робіт тимчасового характеру на території Широківської сільської територіальної громади на 2026-2028 роки
+        date: 'Рішення №38 від 1 жовтня 2026 року '
+        link: '/uploads/Programs for Organizing Public Works – Decision No. 38 of October 1, 2026.docx'
       - name: Про внесення змін та доповнень до Програми підтримки розвитку територіального сервісного центру МВС № 2348 регіонального сервісного центру ГСЦ МВС у Дніпропетровській та  Запорізькій областях (філія ГСЦ МВС) на 2026 рік
         date: Рішення №3 від 3 вересня 2026 року
         link: '/uploads/On Amendments and Additions to the Program for Supporting the Development of the Territorial Service Center of the Ministry of Internal Affairs — No. 3 of September 3, 2026.docx'
