@@ -4,6 +4,7 @@ components:
   - title: ' Паспорти бюджетних програм'
     order:
       - title: 'Паспорти бюджетних програм на 2026 рік КПКВК 1610160, 1616030 - зміни 03.09.2026'
+        link: '/uploads/Budget program passports for 2026 (codes 1610160, 1616030) – amendments dated September 3, 2026.xlsx'
       - title: Наказ від 14.09.2026 №26 од КПК 16
         link: '/uploads/Budget program passports_Order No. 26 dated September 14, 2026.docx'
       - title: Паспорт бюджетної програми на 2026 рік  по КПКВК 0114081зміни на 04.08.2026 рік
