@@ -27,6 +27,20 @@ components:
         isHidden: false
       - name: Соціально-психологічна бригада
     _template: SilradaDepartmentFunctions
+  - title: ДОКУМЕНТИ
+    order:
+      - title: 'Дані щодо забезпечення осіб/сімей, які належать до вразливих груп населення або перебувають у складних життєвих обставинах, соціальними послугами (січень-грудень 2025)'
+        url: 'https://shtg.gov.ua/socialreportjanuarydecember2025'
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+    _template: HeadOrders
   - newsSection:
       - category: content/newsCategories/ME_Center_for_Social_Services_of_the_Shyroke_Community.md
         variantNews: '1'
