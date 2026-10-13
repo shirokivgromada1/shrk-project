@@ -45,7 +45,8 @@ components:
         url: 'https://shtg.gov.ua/socialreportjanuaryaugust2026'
       - title: 'Дані щодо забезпечення осіб/сімей, які належать до вразливих груп населення або перебувають у складних життєвих обставинах, соціальними послугами (січень-вересень 2026)'
         url: 'https://shtg.gov.ua/socialreportjanuaryseptember2026'
-      - {}
+      - title: 'Дані щодо забезпечення осіб/сімей, які належать до вразливих груп населення або перебувають у складних життєвих обставинах, соціальними послугами (січень-квітень 2026)'
+        url: 'https://shtg.gov.ua/socialreportjanuaryapril2026'
       - {}
     _template: HeadOrders
   - newsSection:
