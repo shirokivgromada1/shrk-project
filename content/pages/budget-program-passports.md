@@ -4,6 +4,8 @@ components:
   - title: ' Паспорти бюджетних програм'
     order:
       - {}
+      - title: Паспорт бюджетної програми на 2026 рік КПКВК 0116020 - зміни 03.09.2026
+        link: '/uploads/Budget Program Passport for 2026 (Code KPKVK 0116020) – Amendments of September 3, 2026.xlsx'
       - title: 'Розпорядження від 12.10.2026 № 210 '
         link: '/uploads/Budget program passports_Order No. 210 dated October 12, 2026.docx'
       - title: 'Паспорти бюджетних програм на 2026 рік КПКВК 1610160, 1616030 - зміни 03.09.2026'
