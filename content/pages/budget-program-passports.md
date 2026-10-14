@@ -3,6 +3,9 @@ title: budget-program-passports
 components:
   - title: ' Паспорти бюджетних програм'
     order:
+      - {}
+      - title: 'Розпорядження від 12.10.2026 № 210 '
+        link: '/uploads/Budget program passports_Order No. 210 dated October 12, 2026.docx'
       - title: 'Паспорти бюджетних програм на 2026 рік КПКВК 1610160, 1616030 - зміни 03.09.2026'
         link: '/uploads/Budget program passports for 2026 (codes 1610160, 1616030) – amendments dated September 3, 2026.xlsx'
       - title: Наказ від 14.09.2026 №26 од КПК 16
