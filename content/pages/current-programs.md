@@ -31,7 +31,7 @@ components:
         link: /uploads/Resolution of 09.06.2026 No. 7 On Amendments to the Defense Capability Assistance Program for 2025-2027_Program.docx
       - name: Про внесення змін та доповнень до Програми підтримки та розвитку комунального підприємства «Комунальне сільськогосподарське підприємство «Широке» Широківської сільської ради Запорізького району Запорізької області на 2024 – 2026 роки.
         date: Рішення №4 від 5 травня 2026 року
-        link: /uploads/KSPShyroke_developement_№4_05052026.doc
+        link: '/uploads/Decision No. 4 dated May 5, 2026 Program for Municipal Enterprise Shyroke for 2024–2026 — Amendments.doc'
       - name: Про внесення змін і доповнень до Програми розвитку та підтримки комунального некомерційного підприємства «Клініка «Сімейний лікар» Широківської сільської ради Запорізького району Запорізької області  на 2022-2026 роки
         date: Рішення №3 від 5 травня 2026 року
         link: /uploads/Clinic_developement_№3_05052026.doc
