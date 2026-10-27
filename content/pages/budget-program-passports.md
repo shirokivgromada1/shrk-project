@@ -3,6 +3,8 @@ title: budget-program-passports
 components:
   - title: ' Паспорти бюджетних програм'
     order:
+      - title: 'Розпорядження від 19.10.2026 № 214 '
+        link: '/uploads/Budget Program Passports_ Order dated October 19, 2026, No. 214.docx'
       - title: Паспорт бюджетної програми на 2026 рік КПКВК 0114081- зміни 03.09.2026
         link: '/uploads/Budget Program Passport for 2026, Code 0114081 — Amendments of September 3, 2026.xlsx'
       - title: Паспорт бюджетної програми на 2026 рік КПКВК 0113241 - зміни 03.09.2026
