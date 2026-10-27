@@ -28,7 +28,7 @@ components:
         link: /uploads/Targeted program for ensuring membership of the Shyroke Village Council in Associations for 2027 - 2029.doc
       - name: 'Зміни та доповнення до Програми сприяння обороноздатності, територіальній обороні, мобілізаційній підготовці Широківської територіальної громади Запорізького району Запорізької області на 2025-2027 роки'
         date: Рішення №7 від 9 червня 2026 року
-        link: /uploads/Resolution of 09.06.2026 No. 7 On Amendments to the Defense Capability Assistance Program for 2025-2027_Program.docx
+        link: '/uploads/Decision No. 7 dated June 9, 2026, on Amending the Program for Supporting Defense Capability for 2025–2027.docx'
       - name: Про внесення змін та доповнень до Програми підтримки та розвитку комунального підприємства «Комунальне сільськогосподарське підприємство «Широке» Широківської сільської ради Запорізького району Запорізької області на 2024 – 2026 роки.
         date: Рішення №4 від 5 травня 2026 року
         link: '/uploads/Decision No. 4 dated May 5, 2026 Program for Municipal Enterprise Shyroke for 2024–2026 — Amendments.doc'
