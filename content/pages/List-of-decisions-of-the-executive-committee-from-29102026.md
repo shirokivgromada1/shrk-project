@@ -6,6 +6,7 @@ components:
       - title: Перелік рішень виконавчого комітету №27 від 29.10.2026 року
         link: '/uploads/List of Executive Committee Decisions No. 27 dated October 29, 2026.docx'
       - title: ' Рішення №298 від 16.10.2026 року'
+        link: '/uploads/Decision No. 298 dated October 16, 2026.docx'
     _template: HeadOrders
 ---
 
