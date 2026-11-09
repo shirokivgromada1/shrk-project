@@ -12,8 +12,11 @@ components:
       - title: Рішення №306 від 05.11.2026 року
         link: '/uploads/Decision No. 306 dated November 5, 2026.docx'
       - title: Рішення №307 від 05.11.2026 року
+        link: '/uploads/Decision No. 307 dated November 5, 2026.docx'
       - title: Рішення №308 від 05.11.2026 року
+        link: '/uploads/Decision No. 308 dated November 5, 2026.docx'
       - title: Рішення №309 від 05.11.2026 року
+        link: '/uploads/Decision No. 309 dated November 5, 2026.docx'
       - title: Рішення №310 від 05.11.2026 року
       - title: Рішення №311 від 05.11.2026 року
       - title: Рішення №312 від 05.11.2026 року
