@@ -32,6 +32,7 @@ components:
       - title: Рішення №290 від 01.10.2026 року
         link: '/uploads/Decision No. 290 dated October 1, 2026.docx'
       - title: Рішення №291 від 01.10.2026 року
+        link: '/uploads/Decision No. 291 dated October 1, 2026.docx'
       - title: Рішення №292 від 01.10.2026 року
       - title: Рішення №293 від 01.10.2026 року
     _template: HeadOrders
