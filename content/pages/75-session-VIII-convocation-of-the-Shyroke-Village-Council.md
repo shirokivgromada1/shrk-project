@@ -21,7 +21,7 @@ components:
         link: /uploads/Annex to Decision No. 2_75th Session_ 03.09.2026_2.xlsx
       - title: Додаток до рішення №2
         link: /uploads/Annex to Decision No. 2_75th Session_ 03.09.2026_1.docx
-      - title: Рішення №3
+      - title: Рішення №3 Про внесення змін та доповнень до Програми підтримки розвитку територіального сервісного центру МВС № 2348
       - title: Рішення №4
       - title: Рішення №5
       - title: Рішення №6
