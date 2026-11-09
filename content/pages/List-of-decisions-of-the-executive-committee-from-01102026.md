@@ -12,6 +12,7 @@ components:
       - title: Рішення №280 від 01.10.2026 року
         link: '/uploads/Decision No. 280 dated October 1, 2026.docx'
       - title: Рішення №281 від 01.10.2026 року
+        link: '/uploads/Decision No. 281 dated October 1, 2026.docx'
       - title: Рішення №282 від 01.10.2026 року
       - title: Рішення №283 від 01.10.2026 року
       - title: Рішення №284 від 01.10.2026 року
