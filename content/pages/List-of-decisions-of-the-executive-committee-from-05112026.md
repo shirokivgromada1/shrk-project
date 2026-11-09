@@ -38,6 +38,7 @@ components:
       - title: Рішення №319 від 05.11.2026 року
         link: '/uploads/Decision No. 319 dated November 5, 2026.docx'
       - title: Рішення №320 від 05.11.2026 року
+        link: '/uploads/Decision No. 320 dated November 5, 2026.docx'
       - title: Рішення №321 від 05.11.2026 року
       - title: Рішення №322 від 05.11.2026 року
       - title: Рішення №323 від 05.11.2026 року
