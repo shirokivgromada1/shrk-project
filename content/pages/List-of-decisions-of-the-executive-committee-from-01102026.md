@@ -18,6 +18,7 @@ components:
       - title: Рішення №283 від 01.10.2026 року
         link: '/uploads/Decision No. 283 dated October 1, 2026.docx'
       - title: Рішення №284 від 01.10.2026 року
+        link: '/uploads/Decision No. 284 dated October 1, 2026.docx'
       - title: Рішення №285 від 01.10.2026 року
       - title: Рішення №286 від 01.10.2026 року
       - title: Рішення №287 від 01.10.2026 року
