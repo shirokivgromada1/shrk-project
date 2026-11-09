@@ -6,6 +6,7 @@ components:
       - title: ПРОЄКТ. 76 сесія VIII скликання Широківської сільської ради
         link: 'https://shtg.gov.ua/76-session-VIII-convocation-of-the-Shyroke-Village-Council'
       - title: 75 сесія VIII скликання Широківської сільської ради
+        link: 'https://shtg.gov.ua/75-session-VIII-convocation-of-the-Shyroke-Village-Council'
       - title: ПРОЄКТ. 74 сесія VIII скликання Широківської сільської ради
         richText: ''
         link: 'https://shtg.gov.ua/74-session-VIII-convocation-of-the-Shyroke-Village-Council'
