@@ -40,7 +40,9 @@ components:
       - title: Рішення №320 від 05.11.2026 року
         link: '/uploads/Decision No. 320 dated November 5, 2026.docx'
       - title: Рішення №321 від 05.11.2026 року
+        link: '/uploads/Decision No. 321 dated November 5, 2026.docx'
       - title: Рішення №322 від 05.11.2026 року
+        link: '/uploads/Decision No. 322 dated November 5, 2026.docx'
       - title: Рішення №323 від 05.11.2026 року
       - title: Рішення №324 від 05.11.2026 року
     _template: HeadOrders
