@@ -20,12 +20,15 @@ components:
       - title: Додаток до рішення №2
         link: /uploads/Annex to Decision No. 2_75th Session_ 03.09.2026_2.xlsx
       - title: Додаток до рішення №2
+        link: /uploads/Annex to Decision No. 2_75th Session_ 03.09.2026_1.docx
       - title: Рішення №3
       - title: Рішення №4
       - title: Рішення №5
       - title: Рішення №6
       - title: Рішення №7
       - title: Рішення №8
+      - title: Додаток до рішення №8
+        link: /uploads/Annex to Decision No. 8_75th Session_ 03.09.2026.xlsx
       - title: Рішення №9
       - title: Рішення №10
       - title: Рішення №11
@@ -48,7 +51,6 @@ components:
       - title: Рішення №28
       - title: Рішення №29
       - title: Рішення №30
-      - {}
       - {}
       - {}
       - {}
