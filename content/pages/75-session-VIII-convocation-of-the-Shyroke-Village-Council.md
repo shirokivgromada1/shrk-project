@@ -18,6 +18,7 @@ components:
       - title: Рішення №2 Про розгляд прогнозу бюджету Широківської сільської територіальної громади на 2027–2029 роки
         link: /uploads/Decision No. 2_75th Session_ 03.09.2026.doc
       - title: Додаток до рішення №2
+        link: /uploads/Annex to Decision No. 2_75th Session_ 03.09.2026_2.xlsx
       - title: Додаток до рішення №2
       - title: Рішення №3
       - title: Рішення №4
