@@ -10,6 +10,7 @@ components:
       - title: Рішення №295 від 16.10.2026 року
         link: '/uploads/Decision No. 295 dated October 16, 2026.docx'
       - title: Рішення №296 від 16.10.2026 року
+        link: '/uploads/Decision No. 296 dated October 16, 2026.docx'
       - title: Рішення №297 від 16.10.2026 року
     _template: HeadOrders
 ---
