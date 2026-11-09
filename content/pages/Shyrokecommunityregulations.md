@@ -13,6 +13,8 @@ components:
         link: 'https://mail.google.com/mail/?view=cm&fs=1&to=shyroke.inform@gmail.com'
       - name: Запис громадських слухань по тексту проєкту Статуту Широківської громади в селі Новопетрівка.
         link: 'https://youtu.be/h9v7IXD0gKA?si=eZpXzo3rahAJLmDr'
+      - name: ' Запис громадських слухань по тексту Стутуту Широківської громади в селі Петеропіль'
+        link: 'https://www.youtube.com/watch?v=MYcPRgV0SdI'
     _template: CommunityHeadCards
   - title: ''
     order:
