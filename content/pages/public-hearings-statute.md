@@ -3,6 +3,9 @@ title: public hearings statute
 components:
   - title: статут широківської громади
     order:
+      - {}
+      - title: Проєкт рішення «Про затвердження Статуту Широківської сільської територіальної громади Запорізького району Запорізької області»
+        url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Regarding the Approval of the Charter of the Shyroke Village Territorial Community of Zaporizhzhia District, Zaporizhzhia Oblast..docx'
       - title: Протокол засідання робочої групи від 09.11.2026
         url: 'https://assets.tina.io/6c97d0e5-ee25-40cc-b8a4-86f5e434ecde/Протокол засідання робочої групи від 09.11.2026.pdf'
       - title: Протокол громадських слухань від 30.10.2026 № 2
