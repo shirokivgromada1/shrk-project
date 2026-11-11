@@ -18,6 +18,8 @@ components:
     _template: CommunityHeadCards
   - title: ''
     order:
+      - title: Проєкт рішення «Про затвердження Статуту Широківської сільської територіальної громади Запорізького району Запорізької області»
+        link: '/uploads/Regarding the Approval of the Charter of the Shyroke Village Territorial Community of Zaporizhzhia District, Zaporizhzhia Oblast..docx'
       - title: Протокол засідання робочої групи від 09.11.2026
         link: /uploads/Протокол засідання робочої групи від 09.11.2026.pdf
       - title: Протокол громадських слухань від 30.10.2026 № 2
