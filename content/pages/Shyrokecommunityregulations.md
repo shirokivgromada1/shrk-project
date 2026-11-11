@@ -11,7 +11,7 @@ components:
       - name: "ПОДАТИ ПРОПОЗИЦІЮ ДО ПРОЄКТУ СТАТУТУ \_shyroke.inform@gmail.com"
         nameEng: Submit a proposal regarding the draft statute
         link: 'https://mail.google.com/mail/?view=cm&fs=1&to=shyroke.inform@gmail.com'
-      - name: Запис громадських слухань по тексту проєкту Статуту Широківської громади в селі Новопетрівка.
+      - name: Запис громадських слухань по тексту проєкту Статуту Широківської громади в селі Новопетрівка
         link: 'https://youtu.be/h9v7IXD0gKA?si=eZpXzo3rahAJLmDr'
       - name: ' Запис громадських слухань по тексту Статуту Широківської громади в селі Петропіль'
         link: 'https://www.youtube.com/watch?v=MYcPRgV0SdI'
