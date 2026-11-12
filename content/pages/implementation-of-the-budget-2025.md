@@ -3,7 +3,8 @@ title: implementation of the budget 2025
 components:
   - title: 'Виконання бюджету '
     order:
-      - {}
+      - title: Додатки до інформації про виконання бюджету за 9 місяців 2026 року
+        link: /uploads/Appendices to the information on budget execution for the first 9 months of 2026.xlsx
       - title: Звіт про виконання бюджету за 9 місяців 2026 року
         link: /uploads/Report on Budget Execution for the 9 Months of 2026.doc
       - title: Рішення від 05.11.2026  № 1 про затвердження звіту про виконання бюджету за 9 місяців 2026 р
