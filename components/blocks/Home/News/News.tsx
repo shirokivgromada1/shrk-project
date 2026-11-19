@@ -65,7 +65,7 @@ export const News = ({
 				<CustomSwiper
 					positionText={positionText}
 					isLoading={isLoading}
-					data={news}
+					data={news ?? null}
 				/>
 			</div>
 		</div>

@@ -216,9 +216,9 @@ export const NewspapersCarousel = ({
 			})
 			if (papers)
 				if (newspapers) {
-					setNewspapers([...newspapers, ...papers])
+					setNewspapers([...newspapers, ...papers] as any)
 				} else {
-					setNewspapers(papers)
+					setNewspapers(papers as any)
 				}
 		}
 
@@ -239,7 +239,7 @@ export const NewspapersCarousel = ({
 				showSkeleton: true,
 				setPaginationLoading,
 			})
-			if (papers) setNewspapers(papers)
+			if (papers) setNewspapers(papers as any)
 		}
 		getContent()
 	}, [])
@@ -256,7 +256,7 @@ export const NewspapersCarousel = ({
 				showSkeleton: true,
 				setPaginationLoading,
 			})
-			if (papers) setNewspapers(papers)
+			if (papers) setNewspapers(papers as any)
 		}
 		getContent()
 	}, [search, date])

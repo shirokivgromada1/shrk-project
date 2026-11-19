@@ -224,9 +224,9 @@ export const Sections = ({
 			})
 			if (ann)
 				if (announcements) {
-					setAnnouncements([...announcements, ...ann])
+					setAnnouncements([...announcements, ...ann] as any)
 				} else {
-					setAnnouncements(ann)
+					setAnnouncements(ann as any)
 				}
 		}
 
@@ -248,7 +248,7 @@ export const Sections = ({
 				showSkeleton: true,
 				setPaginationLoading,
 			})
-			if (ann) setAnnouncements(ann)
+			if (ann) setAnnouncements(ann as any)
 		}
 		getContent()
 	}, [])
@@ -266,7 +266,7 @@ export const Sections = ({
 				showSkeleton: true,
 				setPaginationLoading,
 			})
-			if (ann) setAnnouncements(ann)
+			if (ann) setAnnouncements(ann as any)
 		}
 		getContent()
 	}, [search, date])

@@ -128,7 +128,7 @@ export const getVacanciesByFilter = async ({
 				const titleMatch = n?.node?.title
 					.toLowerCase()
 					.includes(search.toLowerCase())
-				const descriptionMatch = n?.node?.description.children.some(
+				const descriptionMatch = (n?.node?.description as any)?.children?.some(
 					(child: any) =>
 						child.children.some((c: any) =>
 							c?.text?.toLowerCase().includes(search.toLowerCase())
@@ -206,9 +206,9 @@ export const Sections = ({
 			})
 			if (vac)
 				if (vacancies) {
-					setVacancies([...vacancies, ...vac])
+					setVacancies([...vacancies, ...vac] as any)
 				} else {
-					setVacancies(vac)
+					setVacancies(vac as any)
 				}
 		}
 
@@ -230,7 +230,7 @@ export const Sections = ({
 				showSkeleton: true,
 				setPaginationLoading,
 			})
-			if (vac) setVacancies(vac)
+			if (vac) setVacancies(vac as any)
 		}
 		getContent()
 	}, [])
@@ -248,7 +248,7 @@ export const Sections = ({
 				showSkeleton: true,
 				setPaginationLoading,
 			})
-			if (vac) setVacancies(vac)
+			if (vac) setVacancies(vac as any)
 		}
 		getContent()
 	}, [search, date])

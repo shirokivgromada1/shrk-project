@@ -87,7 +87,7 @@ const NewsSection: FC<INewsSection> = ({
 													<div>
 														{index === 0 &&
 															(hasDescription || matches) &&
-															n?.node?.description.children.map(
+															(n?.node?.description as any)?.children?.map(
 																(paragraph: any, pIdx: number) => {
 																	const remainingChars = 150 - count
 																	let isOver = false

@@ -47,8 +47,8 @@ export const EnterprisesDesc = ({
                 </h4>
               )}
               {isMobile &&
-                desc?.children &&
-                desc?.children.map((annItem: any, annIndex: number) => {
+                (desc as any)?.children &&
+                (desc as any)?.children.map((annItem: any, annIndex: number) => {
                   if (annItem.type.startsWith("h"))
                     return annItem.children.map((text: any) => (
                       <annItem.type
@@ -132,7 +132,7 @@ export const EnterprisesDesc = ({
           {!isMobile && (
             <div className={styles.enterprise__inner_powers}>
               {desc?.children &&
-                desc?.children.map((annItem: any, annIndex: number) => {
+                (desc as any)?.children.map((annItem: any, annIndex: number) => {
                   if (annItem.type.startsWith("h"))
                     return annItem.children.map((text: any) => (
                       <annItem.type

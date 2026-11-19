@@ -130,7 +130,7 @@ export const getNewsByFilter = async ({
         const titleMatch = n?.node?.title
           .toLowerCase()
           .includes(search.toLowerCase());
-        const descriptionMatch = n?.node?.description.children.some(
+        const descriptionMatch = (n?.node?.description as any)?.children?.some(
           (child: any) =>
             child.children.some((c: any) =>
               c?.text?.toLowerCase().includes(search.toLowerCase())

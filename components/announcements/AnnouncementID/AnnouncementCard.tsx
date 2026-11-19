@@ -32,7 +32,7 @@ export const AnnouncementCard: FC<AnnouncementsCardProps> = (props) => {
       setLoading(true);
       const moreAnn = await getMoreContent();
       setSeeMore(
-        moreAnn?.filter((ann) => ann?.node?._sys.filename !== props.filename)
+        moreAnn?.filter((ann) => ann?.node?._sys.filename !== props.filename) ?? null
       );
       setLoading(false);
     };

@@ -151,7 +151,7 @@ export const VacancyCard = ({
             className={styles.vacanciesCard__wrapper_contactsInfo}
             data-tina-field={tinaField(data, "contactsInfo")}
           >
-            {data.contactsInfo.children.map(
+            {data.contactsInfo?.children?.map(
               (descItem: any, descIndex: number) => {
                 if (descItem.type.startsWith("h")) {
                   return descItem.children.map((text: any) => (

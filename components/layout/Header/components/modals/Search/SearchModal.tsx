@@ -32,7 +32,7 @@ const SearchModal: FC<Props> = ({ searchView, setSearchView }) => {
         const titleMatch = d?.node?.title
           .toLowerCase()
           .includes(keyword.toLowerCase());
-        const descriptionMatch = d?.node?.description.children.some(
+        const descriptionMatch = (d?.node?.description as any)?.children?.some(
           (child: any) =>
             child.children.some((c: any) =>
               c?.text?.toLowerCase().includes(keyword.toLowerCase())
@@ -67,7 +67,7 @@ const SearchModal: FC<Props> = ({ searchView, setSearchView }) => {
           const titleMatch = v?.node?.title
             .toLowerCase()
             .includes(keyword.toLowerCase());
-          const descriptionMatch = v?.node?.description.children.some(
+          const descriptionMatch = (v?.node?.description as any)?.children?.some(
             (child: any) =>
               child.children.some((c: any) =>
                 c?.text?.toLowerCase().includes(keyword.toLowerCase())
