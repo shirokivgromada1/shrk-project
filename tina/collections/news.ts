@@ -25,10 +25,10 @@ export const news: FieldCollection = {
 			},
 		},
 	},
-	defaultItem: {
+	defaultItem: () => ({
 		pubDate: new Date(),
 		hideNews: false,
-	},
+	}),
 	fields: [
 		{
 			type: "string",

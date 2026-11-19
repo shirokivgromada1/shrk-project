@@ -22,10 +22,10 @@ export const newspapers: FieldCollection = {
 			},
 		},
 	},
-	defaultItem: {
+	defaultItem: () => ({
 		pubDate: new Date(),
 		hidePaper: false,
-	},
+	}),
 	fields: [
 		{
 			type: "string",

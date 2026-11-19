@@ -25,10 +25,10 @@ export const vacancies: FieldCollection = {
 			},
 		},
 	},
-	defaultItem: {
+	defaultItem: () => ({
 		pubDate: new Date(),
 		hideVac: false,
-	},
+	}),
 	fields: [
 		{
 			type: "string",
