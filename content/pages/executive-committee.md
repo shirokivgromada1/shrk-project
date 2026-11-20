@@ -72,6 +72,7 @@ components:
     order:
       - title: Виконавчий комітет від 16.11.2026 року №29
         url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-16112026'
+        buttonText: Перейти
       - title: Виконавчий комітет від 05.11.2026 року №28
         url: 'https://shtg.gov.ua/List-of-decisions-of-the-executive-committee-from-05112026'
       - title: Виконавчий комітет від 29.10.2026 року №27
