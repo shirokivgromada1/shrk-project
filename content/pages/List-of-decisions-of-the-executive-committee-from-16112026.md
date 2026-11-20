@@ -8,6 +8,7 @@ components:
       - title: Рішення №325 від 16.11.2026 року
         link: '/uploads/Decision-No.-325-dated-November-16,-2026.docx'
       - title: Рішення №326 від 16.11.2026 року
+        link: '/uploads/Decision-No.-326-dated-November-16,-2026.docx'
     _template: HeadOrders
 ---
 
