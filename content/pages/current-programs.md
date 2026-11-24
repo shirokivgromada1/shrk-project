@@ -132,7 +132,7 @@ components:
         link: '/uploads/Program Meeting People 2026-2028 Decision No. 7 of December 4, 2025.docx'
       - name: Про затвердження Програми місцевих стимулів для медичних працівників комунального некомерційного підприємства «Клініка «Сімейний лікар» Широківської сільської ради Запорізького району Запорізької області на 2026- 2028 роки
         date: Рішення №11 від 04 грудня 2025 року
-        link: /uploads/Target Program for Children’s Health Improvement and Recreation for 2025–2027 — Amendments 121242345.docx
+        link: /uploads/support-program_11_04122025_local-incentives.doc
       - name: Про внесення змін та доповнень до Цільової програми з оздоровлення та відпочинку дітей Широківської територіальної громади Запорізького району Запорізької області на 2025-2027 роки
         date: Рішення №8 від 04 грудня 2025 року
         link: /uploads/Target Program for Children’s Health Improvement and Recreation for 2025–2027 — Amendments.docx
