@@ -25,7 +25,7 @@ components:
         link: /uploads/Support Program for Defenders 04082026.docx
       - name: Програма підтримки і реалізації стратегічних ініціатив на 2027-2029 роки
         date: Рішення №1 від 4 серпня 2026 року
-        link: /uploads/program_decision_04.08.2026_1_strategic_realization_27_29.docx
+        link: /uploads/support-program-_11_04122025-strategic-initiatives-2.docx
       - name: Про затвердження Програми підтримки та розвитку комунального некомерційного підприємства «Місцева пожежно-рятувальна служба Широківської громади» Широківської сільської ради Запорізького району Запорізької області на 2027 – 2029 роки
         date: Рішення №4 від 4 серпня 2026 року
         link: /uploads/Support-Program_4_04082026_Fire-Service.DOC
