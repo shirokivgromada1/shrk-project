@@ -28,7 +28,6 @@ components:
         link: /uploads/support-program-_11_04122025-strategic-initiatives-2.docx
       - name: Про затвердження Програми підтримки та розвитку комунального некомерційного підприємства «Місцева пожежно-рятувальна служба Широківської громади» Широківської сільської ради Запорізького району Запорізької області на 2027 – 2029 роки
         date: Рішення №4 від 4 серпня 2026 року
-        link: '/uploads/Support-Program-for-the-Municipal-Non-Profit-Enterprise-Local-Fire-and-Rescue-Service-of-the-Shyrokivska-Community-—-Decision-No.-4-dated-August-4,-2026-(1).DOC'
       - name: Про внесення змін та доповнень до Програми підтримки малого і середнього підприємництва на території Широківської сільської територіальної громади на 2026 – 2028 роки
         date: Рішення №42 від 4 серпня 2026 року
         link: /uploads/Entrepreneurship support program_04082026.docx
