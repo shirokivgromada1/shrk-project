@@ -24,15 +24,11 @@ components:
         link: 'https://shtg.gov.ua/shyroke-session'
       - title: Діючі програми Широківської громади
         link: current-programs
-      - title: >-
-          Інформація для осіб, які потребують гуманітарної підтримки та планують
-          евакуацію 
+      - title: 'Інформація для осіб, які потребують гуманітарної підтримки та планують евакуацію '
         link: 'https://shtg.gov.ua/news/71fb916d6b95c92963a348428ae05d345dea0ef3'
       - title: Безбар'єрність
         link: 'https://shtg.gov.ua/Accessibility'
-      - title: >-
-          Галузеві/міжгалузеві, територіальні угоди, колективні договори, зміни
-          і доповнення до них
+      - title: 'Галузеві/міжгалузеві, територіальні угоди, колективні договори, зміни і доповнення до них'
         link: branch-inter-branch-territorial-agreements-collective-agreements
       - title: Перелік КНП ЗОЗ
         link: list-knp-zoh
@@ -46,6 +42,8 @@ components:
         link: 'https://shtg.gov.ua/prevention-and-counteraction-to-violence'
       - title: Попередня версія сайту
         link: 'https://oldwebsite.shtg.gov.ua'
+      - title: 'Регуляторна дільність '
+        link: 'https://shtg.gov.ua/regulatory-acts'
     _template: Officially
 ---
 
