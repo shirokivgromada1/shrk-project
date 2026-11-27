@@ -1,7 +1,7 @@
 ---
 title: regulatory-acts
 components:
-  - title: Регуляторна діяльність
+  - title: 'Регуляторна діяльність '
     subtitle: ''
     notMain: false
     order:
