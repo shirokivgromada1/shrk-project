@@ -5,7 +5,7 @@ components:
     document:
       - title: Постійні комісії
         link: regular-checks
-      - title: Регуляторні акти
+      - title: 'Регуляторні діяльність '
         link: regulatory-acts
       - title: Розпорядження голови
         link: head-orders
